@@ -1,6 +1,7 @@
 'use client';
 
 import { GameItem } from '@/app/types/item';
+import { iconMappings } from '@/app/utils/iconMappings';
 
 type Props = {
   item: GameItem;
@@ -14,23 +15,12 @@ export default function ItemCard({ item, toggleOwned }: Props) {
     window.open(`https://core-keeper.fandom.com/wiki/${itemName}`, '_blank');
   };
 
-  const iconMappings: { [key: string]: { src: string; alt: string; title: string } } = {
-    seasonal: { src: '/icons/seasonal.png', alt: 'Seasonal Icon', title: 'Seasonal Item' },
-    boss: { src: '/icons/boss.png', alt: 'Boss Icon', title: 'Boss Item' },
-    craftable: { src: '/icons/craft.png', alt: 'Craftable Icon', title: 'Craftable Item' },
-    loot: { src: '/icons/loot.png', alt: 'Loot Icon', title: 'Loot Item' },
-    fishing: { src: '/icons/fish.png', alt: 'Fishing Icon', title: 'Fishing Item' },
-    merchant: { src: '/icons/vendor.png', alt: 'Merchant Icon', title: 'Merchant Item' },
-    dropped: { src: '/icons/drop.png', alt: 'Drop Icon', title: 'Drop Item' },
-    dig: { src: '/icons/dig.png', alt: 'Digspot Icon', title: 'Digspot Item' },
-  };
-
   return (
     <div
       onClick={() => toggleOwned(item.id)}
       className={`relative cursor-pointer border rounded-lg p-2 flex flex-col items-center shadow-sm transition 
         ${item.owned ? 'bg-blue-100 border-green-400' : 'bg-black'}
-        sm:p-3 sm:rounded-xl`} // Adjust padding and border radius for larger screens
+        sm:p-3 sm:rounded-xl`}
     >
       {/* Icons in the top-right corner */}
       <div className="absolute top-2 left-2 flex gap-1">

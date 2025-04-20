@@ -10,6 +10,7 @@ from loot_items import LOOT_ITEMS
 from merchant_items import MERCHANT_ITEMS
 from fishing_items import FISHING_ITEMS
 from digspot_items import DIGSPOT_ITEMS
+from boss_data import boss_data  # Import boss_data for boss processing
 
 # Path to your icons folder
 base_path = "./public/icons"
@@ -83,6 +84,46 @@ def delete_unwanted_folders():
                 shutil.rmtree(folder_path)
             print(f"Deleted folder: {folder_path}")
 
+def process_boss_data():
+    # Load all items from the JSON files
+    def load_json_files(base_path):
+        data = []
+        for root, _, files in os.walk(base_path):
+            for file in files:
+                if file.endswith(".json"):
+                    file_path = os.path.join(root, file)
+                    with open(file_path, "r", encoding="utf-8") as f:
+                        try:
+                            data.extend(json.load(f))  # Assuming each JSON file contains a list of items
+                        except json.JSONDecodeError as e:
+                            print(f"Error decoding JSON in {file_path}: {e}")
+        return data
+
+    all_items = load_json_files(output_path)
+
+    # Create a mapping of item names to their IDs
+    item_name_to_id = {item["name"]: item["id"] for item in all_items if "name" in item and "id" in item}
+
+    # Dictionary to store boss data with item IDs
+    boss_data_with_ids = {}
+
+    # Iterate over all bosses and their items
+    for boss, items in boss_data.items():
+        boss_data_with_ids[boss] = []
+        for item in items:
+            item_id = item_name_to_id.get(item, None)
+            boss_data_with_ids[boss].append({
+                "name": item,
+                "id": item_id if item_id else "ID not found"
+            })
+
+    # Save the updated boss data with item IDs to a JSON file
+    output_file = os.path.join(output_path, "bossdata.json")
+    with open(output_file, "w", encoding="utf-8") as f:
+        json.dump(boss_data_with_ids, f, indent=4, ensure_ascii=False)
+
+    print(f"Boss data with item IDs saved to {output_file}")
+
 def main():
     delete_unwanted_folders()  # Delete unwanted folders first
     for category in os.listdir(base_path):
@@ -90,6 +131,7 @@ def main():
         if os.path.isdir(folder_path):
             print(f"Processing {category}...")
             process_category_folder(category)
+    process_boss_data()  # Process boss data last
     print("All done!")
 
 if __name__ == "__main__":

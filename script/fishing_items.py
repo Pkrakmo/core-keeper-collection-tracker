@@ -9,5 +9,4 @@ FISHING_ITEMS = {
     "Diving Helm",
     "Kelp Mantle",
     "Scuba Fins",
-    
 }

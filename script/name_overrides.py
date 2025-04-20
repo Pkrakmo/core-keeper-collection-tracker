@@ -37,4 +37,5 @@ NAME_OVERRIDES = {
     "Tomeofthe Dark" : "Tome of the Dark",
     "Tomeofthe Deep" : "Tome of the Deep",
     "Tomeofthe Dead": "Tome of the Dead",
+    "Zealots Scimitar": "Zealot's Scimitar",
 }

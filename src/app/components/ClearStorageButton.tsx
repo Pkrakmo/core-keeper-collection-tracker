@@ -1,17 +1,22 @@
 'use client';
 
 export default function ClearStorageButton() {
-  const clearLocalStorage = () => {
-    localStorage.clear();
-    window.location.reload(); // Reload the page to reflect the changes
+  const handleClearStorage = () => {
+    const userConfirmed = confirm('Are you sure you want to clear all saved data?');
+    if (userConfirmed) {
+      localStorage.clear();
+      location.reload();
+    }
   };
 
   return (
     <button
-      onClick={clearLocalStorage}
-      className="mt-6 px-4 py-2 bg-red-500 text-white font-bold rounded hover:bg-red-600 transition"
+      onClick={handleClearStorage}
+      className="fixed bottom-6 left-20 w-10 h-10 bg-red-600 text-white rounded-full shadow-lg hover:bg-red-700 focus:outline-none focus:ring-2 focus:ring-red-500 focus:ring-offset-2 flex items-center justify-center"
+      title="Clear all saved data"
+      aria-label="Clear storage"
     >
-      Clear Local Storage
+      🗑️
     </button>
   );
 }

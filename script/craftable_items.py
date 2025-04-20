@@ -31,4 +31,7 @@ CRAFTABLE_ITEMS = {
     "Galaxite Helm",
     "Galaxite Pants",
     "Flower Crown",
+    "Explorer's Hat",
+    "Explorer's Jacket",
+    "Explorer's Pants",
 }
