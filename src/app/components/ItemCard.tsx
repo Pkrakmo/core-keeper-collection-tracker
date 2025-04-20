@@ -10,6 +10,10 @@ type Props = {
 };
 
 export default function ItemCard({ item, toggleOwned }: Props) {
+  // Define the basePath
+  const isExport = process.env.NEXT_PUBLIC_IS_EXPORT === 'true';
+  const basePath = isExport ? "/core-keeper-collection-tracker" : "";
+
   const openItemLink = (e: React.MouseEvent) => {
     e.stopPropagation();
     const itemName = encodeURIComponent(item.name);
@@ -29,7 +33,7 @@ export default function ItemCard({ item, toggleOwned }: Props) {
           item[key as keyof GameItem] ? (
             <Image
               key={key}
-              src={src}
+              src={`${basePath}${src}`} // Prepend basePath to the src
               alt={alt}
               width={16} // Adjusted size for w-4
               height={16} // Adjusted size for h-4
@@ -51,7 +55,7 @@ export default function ItemCard({ item, toggleOwned }: Props) {
 
       {item.icon ? (
         <Image
-          src={item.icon}
+          src={`${basePath}${item.icon}`} // Prepend basePath to the item icon
           alt={item.name || 'Item image'}
           width={48} // Adjusted size for w-12
           height={48} // Adjusted size for h-12

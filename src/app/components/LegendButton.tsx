@@ -7,6 +7,10 @@ import Image from 'next/image';
 export default function LegendButton() {
   const [isOpen, setIsOpen] = useState(false);
 
+  // Define the basePath
+  const isExport = process.env.NEXT_PUBLIC_IS_EXPORT === 'true';
+  const basePath = isExport ? "/core-keeper-collection-tracker" : "";
+
   return (
     <>
       {/* Legend Button */}
@@ -24,12 +28,24 @@ export default function LegendButton() {
           <div className="bg-white p-6 rounded-lg shadow-lg w-80">
             <h2 className="text-xl font-bold mb-4">Legend</h2>
             <ul className="space-y-2">
-              {Object.entries(iconMappings).map(([key, { src, title }]) => (
-                <li key={key} className="flex items-center space-x-2">
-                  <Image src={src} alt={title} width={24} height={24} className="w-6 h-6" />
-                  <span className="text-gray-600">{title}</span>
-                </li>
-              ))}
+              {Object.entries(iconMappings).map(([key, { src, title }]) => {
+                const fullSrc = `${basePath}${src}`; // Compute the full src
+                console.log(`Debug: Key=${key}, FullSrc=${fullSrc}`); // Debug log
+
+                return (
+                  <li key={key} className="flex items-center space-x-2">
+                    
+                    <Image
+                      src={fullSrc} // Use the computed full src
+                      alt={title}
+                      width={24}
+                      height={24}
+                      className="w-6 h-6"
+                    />
+                    <span className="text-gray-600">{title}</span>
+                  </li>
+                );
+              })}
             </ul>
             <button
               onClick={() => setIsOpen(false)}
