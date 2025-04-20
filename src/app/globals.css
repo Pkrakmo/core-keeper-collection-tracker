@@ -1,8 +1,8 @@
 @import "tailwindcss";
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --background: #001f3f; /* Dark blue */
+  --foreground: #ffffff; /* White text */
 }
 
 @theme inline {
@@ -14,7 +14,7 @@
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --background: #0a0a0a;
+    --background: #001f3f;
     --foreground: #ededed;
   }
 }
@@ -23,4 +23,34 @@ body {
   background: var(--background);
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
+  animation: pulse-bg 20s infinite; /* Add the animation */
+}
+
+/* Pulsating background animation */
+@keyframes pulse-bg {
+  0% {
+    background-color: #001f3f; /* Dark blue */
+  }
+  50% {
+    background-color: #003366; /* Slightly lighter blue */
+  }
+  100% {
+    background-color: #001f3f; /* Back to dark blue */
+  }
+}
+
+@keyframes flash-green {
+  0% {
+    color: #4caf50; /* Light green */
+  }
+  50% {
+    color: #2e7d32; /* Darker green */
+  }
+  100% {
+    color: #4caf50; /* Light green */
+  }
+}
+
+.animate-flash-green {
+  animation: flash-green 2s infinite;
 }

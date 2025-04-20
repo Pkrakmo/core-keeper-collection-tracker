@@ -1,3 +1,23 @@
+## About
+
+This project is still a work in progress project
+
+Feedback is apriciated
+
+Inspiration for this project: https://docs.google.com/spreadsheets/d/1-JP8dCOhp6oVlJAIJcoxaX_M0SfSPAHDL2GCvFz2U9M/edit?gid=0#gid=0
+and https://www.reddit.com/r/CoreKeeperGame/comments/11k476k/collectors_checklist_version_deux/
+
+
+## Item icons
+Are from this project: https://github.com/RussDev7/CoreKeepersWorkshop
+
+## TODO
+
+Clean up the project, there is and will be alot of unused assets
+
+But only the needed assets will be loaded
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
