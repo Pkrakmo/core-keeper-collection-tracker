@@ -22,7 +22,7 @@
         },
         {
             "name": "Oozy Slippery Egg",
-            "id": "ID not found"
+            "id": "1235"
         }
     ],
     "Igneous": [
@@ -52,7 +52,7 @@
         },
         {
             "name": "Scorching Aegis",
-            "id": "ID not found"
+            "id": "8358"
         }
     ],
     "King Slime": [
@@ -110,7 +110,7 @@
     "Haunted Hive Mother": [
         {
             "name": "Haunted Hive Mother Chest",
-            "id": "ID not found"
+            "id": "180"
         },
         {
             "name": "Haunted Hive Mother Figurine",
@@ -182,7 +182,7 @@
         },
         {
             "name": "Crydra's Ring",
-            "id": "ID not found"
+            "id": "18853"
         }
     ],
     "Pyrdra": [
@@ -204,7 +204,7 @@
         },
         {
             "name": "Pyrdra's Necklace",
-            "id": "ID not found"
+            "id": "8844"
         }
     ],
     "Glurch": [
@@ -276,7 +276,7 @@
         },
         {
             "name": "Azeos' Dash Feather",
-            "id": "ID not found"
+            "id": "8341"
         },
         {
             "name": "Azeos Figurine",
@@ -344,11 +344,11 @@
         },
         {
             "name": "Ra-Akar's Necklace",
-            "id": "ID not found"
+            "id": "8831"
         },
         {
             "name": "Ring of Sand",
-            "id": "ID not found"
+            "id": "8889"
         },
         {
             "name": "Scarab Harness",
@@ -356,11 +356,11 @@
         },
         {
             "name": "Scarab Legs",
-            "id": "8526"
+            "id": "8719"
         },
         {
             "name": "Scarab Visor",
-            "id": "8719"
+            "id": "8526"
         },
         {
             "name": "Ra-Akar Automaton",
@@ -446,7 +446,7 @@
         },
         {
             "name": "Druidra's Ring",
-            "id": "ID not found"
+            "id": "18852"
         }
     ]
 }

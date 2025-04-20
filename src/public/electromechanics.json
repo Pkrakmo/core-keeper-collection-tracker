@@ -16,7 +16,7 @@
   {
     "id": "6651",
     "name": "Conveyor Belt",
-    "icon": "/icons/ElectroMechanics/ConveyorBelt,6651,0.png",
+    "icon": "/icons/ElectroMechanics/Conveyor_Belt,6651,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -30,7 +30,7 @@
   {
     "id": "6511",
     "name": "Cross Circuit",
-    "icon": "/icons/ElectroMechanics/CrossCircuit,6511,0.png",
+    "icon": "/icons/ElectroMechanics/Cross_Circuit,6511,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -44,7 +44,7 @@
   {
     "id": "6507",
     "name": "Delay Circuit",
-    "icon": "/icons/ElectroMechanics/DelayCircuit,6507,0.png",
+    "icon": "/icons/ElectroMechanics/Delay_Circuit,6507,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -72,7 +72,7 @@
   {
     "id": "6509",
     "name": "Dynamite Pack",
-    "icon": "/icons/ElectroMechanics/DynamitePack,6509,0.png",
+    "icon": "/icons/ElectroMechanics/Dynamite_Pack,6509,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -85,10 +85,10 @@
   },
   {
     "id": "10016",
-    "name": "Egg Lamp",
-    "icon": "/icons/ElectroMechanics/EggLamp,10016,0.png",
+    "name": "Easter Egg Lamp",
+    "icon": "/icons/ElectroMechanics/Easter_Egg_Lamp,10016,0.png",
     "boss": false,
-    "seasonal": false,
+    "seasonal": true,
     "craftable": false,
     "merchant": false,
     "dropped": false,
@@ -100,7 +100,7 @@
   {
     "id": "6504",
     "name": "Electrical Door",
-    "icon": "/icons/ElectroMechanics/ElectricalDoor,6504,0.png",
+    "icon": "/icons/ElectroMechanics/Electrical_Door,6504,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -114,7 +114,7 @@
   {
     "id": "6501",
     "name": "Electrical Wire",
-    "icon": "/icons/ElectroMechanics/ElectricalWire,6501,0.png",
+    "icon": "/icons/ElectroMechanics/Electrical_Wire,6501,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -128,7 +128,7 @@
   {
     "id": "6508",
     "name": "Electricity Stick",
-    "icon": "/icons/ElectroMechanics/ElectricityStick,6508,0.png",
+    "icon": "/icons/ElectroMechanics/Electricity_Stick,6508,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -142,7 +142,7 @@
   {
     "id": "6609",
     "name": "Galaxite Trap",
-    "icon": "/icons/ElectroMechanics/GalaxiteTrap,6609,0.png",
+    "icon": "/icons/ElectroMechanics/Galaxite_Trap,6609,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -156,7 +156,7 @@
   {
     "id": "6655",
     "name": "Galaxite Turret",
-    "icon": "/icons/ElectroMechanics/GalaxiteTurret,6655,0.png",
+    "icon": "/icons/ElectroMechanics/Galaxite_Turret,6655,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -170,7 +170,7 @@
   {
     "id": "6600",
     "name": "Hive Spike Trap",
-    "icon": "/icons/ElectroMechanics/HiveSpikeTrap,6600,0.png",
+    "icon": "/icons/ElectroMechanics/Hive_Spike_Trap,6600,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -212,7 +212,7 @@
   {
     "id": "6505",
     "name": "Logic Circuit",
-    "icon": "/icons/ElectroMechanics/LogicCircuit,6505,0.png",
+    "icon": "/icons/ElectroMechanics/Logic_Circuit,6505,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -240,7 +240,7 @@
   {
     "id": "3151",
     "name": "Orbital Turret",
-    "icon": "/icons/ElectroMechanics/OrbitalTurret,3151,0.png",
+    "icon": "/icons/ElectroMechanics/Orbital_Turret,3151,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -253,8 +253,8 @@
   },
   {
     "id": "6604",
-    "name": "Poison Trap",
-    "icon": "/icons/ElectroMechanics/PoisonTrap,6604,0.png",
+    "name": "Poison Spike Trap",
+    "icon": "/icons/ElectroMechanics/Poison_Spike_Trap,6604,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -268,7 +268,7 @@
   {
     "id": "6510",
     "name": "Pressure Plate",
-    "icon": "/icons/ElectroMechanics/PressurePlate,6510,0.png",
+    "icon": "/icons/ElectroMechanics/Pressure_Plate,6510,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -282,7 +282,7 @@
   {
     "id": "6506",
     "name": "Pulse Circuit",
-    "icon": "/icons/ElectroMechanics/PulseCircuit,6506,0.png",
+    "icon": "/icons/ElectroMechanics/Pulse_Circuit,6506,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -310,7 +310,7 @@
   {
     "id": "6652",
     "name": "Robot Arm",
-    "icon": "/icons/ElectroMechanics/RobotArm,6652,0.png",
+    "icon": "/icons/ElectroMechanics/Robot_Arm,6652,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -338,7 +338,7 @@
   {
     "id": "6601",
     "name": "Spike Trap",
-    "icon": "/icons/ElectroMechanics/SpikeTrap,6601,0.png",
+    "icon": "/icons/ElectroMechanics/Spike_Trap,6601,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -366,7 +366,7 @@
   {
     "id": "6654",
     "name": "Stone Turret",
-    "icon": "/icons/ElectroMechanics/StoneTurret,6654,0.png",
+    "icon": "/icons/ElectroMechanics/Stone_Turret,6654,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -380,7 +380,7 @@
   {
     "id": "6610",
     "name": "Wooden Spike Trap",
-    "icon": "/icons/ElectroMechanics/WoodenSpikeTrap,6610,0.png",
+    "icon": "/icons/ElectroMechanics/Wooden_Spike_Trap,6610,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,

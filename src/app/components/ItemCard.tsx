@@ -33,10 +33,10 @@ export default function ItemCard({ item, toggleOwned }: Props) {
           item[key as keyof GameItem] ? (
             <Image
               key={key}
-              src={`${basePath}${src}`} // Prepend basePath to the src
+              src={`${basePath}${src}`}
               alt={alt}
-              width={16} // Adjusted size for w-4
-              height={16} // Adjusted size for h-4
+              width={16}
+              height={16} 
               className="w-4 h-4"
               title={title}
             />
@@ -55,10 +55,10 @@ export default function ItemCard({ item, toggleOwned }: Props) {
 
       {item.icon ? (
         <Image
-          src={`${basePath}${item.icon}`} // Prepend basePath to the item icon
+          src={`${basePath}${item.icon}`}
           alt={item.name || 'Item image'}
-          width={48} // Adjusted size for w-12
-          height={48} // Adjusted size for h-12
+          width={48} 
+          height={48} 
           className="w-12 h-12 mb-1"
         />
       ) : (

@@ -2,7 +2,7 @@
   {
     "id": "8253",
     "name": "Admin Key",
-    "icon": "/icons/Accessories/AdminKey,8253,0.png",
+    "icon": "/icons/Accessories/Admin_Key,8253,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -16,7 +16,7 @@
   {
     "id": "8804",
     "name": "Ammonite Necklace",
-    "icon": "/icons/Accessories/AmmoniteNecklace,8804,0.png",
+    "icon": "/icons/Accessories/Ammonite_Necklace,8804,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -30,7 +30,7 @@
   {
     "id": "8816",
     "name": "Ancient Gem Necklace",
-    "icon": "/icons/Accessories/AncientGemNecklace,8816,0.png",
+    "icon": "/icons/Accessories/Ancient_Gem_Necklace,8816,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -44,7 +44,7 @@
   {
     "id": "8868",
     "name": "Ancient Gem Ring",
-    "icon": "/icons/Accessories/AncientGemRing,8868,0.png",
+    "icon": "/icons/Accessories/Ancient_Gem_Ring,8868,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -58,7 +58,7 @@
   {
     "id": "8809",
     "name": "Ancient Guardian Necklace",
-    "icon": "/icons/Accessories/AncientGuardianNecklace,8809,0.png",
+    "icon": "/icons/Accessories/Ancient_Guardian_Necklace,8809,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -72,7 +72,7 @@
   {
     "id": "8876",
     "name": "Ancient Guardian Ring",
-    "icon": "/icons/Accessories/AncientGuardianRing,8876,0.png",
+    "icon": "/icons/Accessories/Ancient_Guardian_Ring,8876,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -86,7 +86,7 @@
   {
     "id": "8841",
     "name": "Atlantean Worm Necklace",
-    "icon": "/icons/Accessories/AtlanteanWormNecklace,8841,0.png",
+    "icon": "/icons/Accessories/Atlantean_Worm_Necklace,8841,0.png",
     "boss": true,
     "seasonal": false,
     "craftable": false,
@@ -100,7 +100,7 @@
   {
     "id": "18850",
     "name": "Atlantean Worm Ring",
-    "icon": "/icons/Accessories/AtlanteanWormRing,18850,0.png",
+    "icon": "/icons/Accessories/Atlantean_Worm_Ring,18850,0.png",
     "boss": true,
     "seasonal": false,
     "craftable": false,
@@ -114,22 +114,8 @@
   {
     "id": "8807",
     "name": "Azeos Beak Necklace",
-    "icon": "/icons/Accessories/AzeosBeakNecklace,8807,0.png",
+    "icon": "/icons/Accessories/Azeos_Beak_Necklace,8807,0.png",
     "boss": true,
-    "seasonal": false,
-    "craftable": false,
-    "merchant": false,
-    "dropped": false,
-    "owned": false,
-    "fishing": false,
-    "loot": false,
-    "dig": false
-  },
-  {
-    "id": "8341",
-    "name": "Azeos Dash Feather",
-    "icon": "/icons/Accessories/AzeosDashFeather,8341,0.png",
-    "boss": false,
     "seasonal": false,
     "craftable": false,
     "merchant": false,
@@ -142,8 +128,22 @@
   {
     "id": "7100",
     "name": "Azeos Feather Fan",
-    "icon": "/icons/Accessories/AzeosFeatherFan,7100,0.png",
+    "icon": "/icons/Accessories/Azeos_Feather_Fan,7100,0.png",
     "boss": false,
+    "seasonal": false,
+    "craftable": false,
+    "merchant": false,
+    "dropped": false,
+    "owned": false,
+    "fishing": false,
+    "loot": false,
+    "dig": false
+  },
+  {
+    "id": "8341",
+    "name": "Azeos' Dash Feather",
+    "icon": "/icons/Accessories/Azeos'_Dash_Feather,8341,0.png",
+    "boss": true,
     "seasonal": false,
     "craftable": false,
     "merchant": false,
@@ -156,7 +156,7 @@
   {
     "id": "8834",
     "name": "Black Necklace",
-    "icon": "/icons/Accessories/BlackNecklace,8834,0.png",
+    "icon": "/icons/Accessories/Black_Necklace,8834,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -170,7 +170,7 @@
   {
     "id": "8892",
     "name": "Black Ring",
-    "icon": "/icons/Accessories/BlackRing,8892,0.png",
+    "icon": "/icons/Accessories/Black_Ring,8892,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -184,7 +184,7 @@
   {
     "id": "8806",
     "name": "Blob Rosary Necklace",
-    "icon": "/icons/Accessories/BlobRosaryNecklace,8806,0.png",
+    "icon": "/icons/Accessories/Blob_Rosary_Necklace,8806,0.png",
     "boss": true,
     "seasonal": false,
     "craftable": false,
@@ -198,7 +198,7 @@
   {
     "id": "8350",
     "name": "Blue Leather Tome",
-    "icon": "/icons/Accessories/BlueLeatherTome,8350,0.png",
+    "icon": "/icons/Accessories/Blue_Leather_Tome,8350,0.png",
     "boss": true,
     "seasonal": false,
     "craftable": false,
@@ -212,7 +212,7 @@
   {
     "id": "8847",
     "name": "Bomb Necklace",
-    "icon": "/icons/Accessories/BombNecklace,8847,0.png",
+    "icon": "/icons/Accessories/Bomb_Necklace,8847,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -226,7 +226,7 @@
   {
     "id": "8894",
     "name": "Bomb Ring",
-    "icon": "/icons/Accessories/BombRing,8894,0.png",
+    "icon": "/icons/Accessories/Bomb_Ring,8894,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -240,7 +240,7 @@
   {
     "id": "8833",
     "name": "Bone Necklace",
-    "icon": "/icons/Accessories/BoneNecklace,8833,0.png",
+    "icon": "/icons/Accessories/Bone_Necklace,8833,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -254,7 +254,7 @@
   {
     "id": "8890",
     "name": "Bone Ring",
-    "icon": "/icons/Accessories/BoneRing,8890,0.png",
+    "icon": "/icons/Accessories/Bone_Ring,8890,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -268,7 +268,7 @@
   {
     "id": "18892",
     "name": "Boundary Ring",
-    "icon": "/icons/Accessories/BoundaryRing,18892,0.png",
+    "icon": "/icons/Accessories/Boundary_Ring,18892,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -282,7 +282,7 @@
   {
     "id": "8812",
     "name": "Bubble Pearl Necklace",
-    "icon": "/icons/Accessories/BubblePearlNecklace,8812,0.png",
+    "icon": "/icons/Accessories/Bubble_Pearl_Necklace,8812,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -296,7 +296,7 @@
   {
     "id": "8811",
     "name": "Cave Guppy Necklace",
-    "icon": "/icons/Accessories/CaveGuppyNecklace,8811,0.png",
+    "icon": "/icons/Accessories/Cave_Guppy_Necklace,8811,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -310,7 +310,7 @@
   {
     "id": "8352",
     "name": "Caveling ID",
-    "icon": "/icons/Accessories/CavelingID,8352,0.png",
+    "icon": "/icons/Accessories/Caveling_ID,8352,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -324,7 +324,7 @@
   {
     "id": "8860",
     "name": "Caveling Mother's Ring",
-    "icon": "/icons/Accessories/CavelingMother'sRing,8860,0.png",
+    "icon": "/icons/Accessories/Caveling_Mother's_Ring,8860,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -338,7 +338,7 @@
   {
     "id": "8850",
     "name": "Clot Ring",
-    "icon": "/icons/Accessories/ClotRing,8850,0.png",
+    "icon": "/icons/Accessories/Clot_Ring,8850,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -352,7 +352,7 @@
   {
     "id": "8827",
     "name": "Conch Shell Necklace",
-    "icon": "/icons/Accessories/ConchShellNecklace,8827,0.png",
+    "icon": "/icons/Accessories/Conch_Shell_Necklace,8827,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -366,7 +366,7 @@
   {
     "id": "8800",
     "name": "Copper Cross Necklace",
-    "icon": "/icons/Accessories/CopperCrossNecklace,8800,0.png",
+    "icon": "/icons/Accessories/Copper_Cross_Necklace,8800,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -380,7 +380,7 @@
   {
     "id": "8823",
     "name": "Coral Amulet",
-    "icon": "/icons/Accessories/CoralAmulet,8823,0.png",
+    "icon": "/icons/Accessories/Coral_Amulet,8823,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -394,7 +394,7 @@
   {
     "id": "8873",
     "name": "Coral Ring",
-    "icon": "/icons/Accessories/CoralRing,8873,0.png",
+    "icon": "/icons/Accessories/Coral_Ring,8873,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -407,8 +407,8 @@
   },
   {
     "id": "8362",
-    "name": "Core Eye",
-    "icon": "/icons/Accessories/CoreEye,8362,0.png",
+    "name": "Core Iris",
+    "icon": "/icons/Accessories/Core_Iris,8362,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -422,7 +422,7 @@
   {
     "id": "8845",
     "name": "Crescent Necklace",
-    "icon": "/icons/Accessories/CrescentNecklace,8845,0.png",
+    "icon": "/icons/Accessories/Crescent_Necklace,8845,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -436,7 +436,7 @@
   {
     "id": "18854",
     "name": "Crescent Ring",
-    "icon": "/icons/Accessories/CrescentRing,18854,0.png",
+    "icon": "/icons/Accessories/Crescent_Ring,18854,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -449,9 +449,9 @@
   },
   {
     "id": "18853",
-    "name": "Crydras Ring",
-    "icon": "/icons/Accessories/CrydrasRing,18853,0.png",
-    "boss": false,
+    "name": "Crydra's Ring",
+    "icon": "/icons/Accessories/Crydra's_Ring,18853,0.png",
+    "boss": true,
     "seasonal": false,
     "craftable": false,
     "merchant": false,
@@ -464,7 +464,7 @@
   {
     "id": "8896",
     "name": "Double Ring",
-    "icon": "/icons/Accessories/DoubleRing,8896,0.png",
+    "icon": "/icons/Accessories/Double_Ring,8896,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -477,9 +477,9 @@
   },
   {
     "id": "18852",
-    "name": "Druidras Ring",
-    "icon": "/icons/Accessories/DruidrasRing,18852,0.png",
-    "boss": false,
+    "name": "Druidra's Ring",
+    "icon": "/icons/Accessories/Druidra's_Ring,18852,0.png",
+    "boss": true,
     "seasonal": false,
     "craftable": false,
     "merchant": false,
@@ -492,7 +492,7 @@
   {
     "id": "8252",
     "name": "Empty Crystal",
-    "icon": "/icons/Accessories/EmptyCrystal,8252,0.png",
+    "icon": "/icons/Accessories/Empty_Crystal,8252,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -506,7 +506,7 @@
   {
     "id": "8818",
     "name": "Eostre Necklace",
-    "icon": "/icons/Accessories/EostreNecklace,8818,0.png",
+    "icon": "/icons/Accessories/Eostre_Necklace,8818,0.png",
     "boss": true,
     "seasonal": false,
     "craftable": false,
@@ -520,7 +520,7 @@
   {
     "id": "8839",
     "name": "Fang Necklace",
-    "icon": "/icons/Accessories/FangNecklace,8839,0.png",
+    "icon": "/icons/Accessories/Fang_Necklace,8839,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -534,7 +534,7 @@
   {
     "id": "8835",
     "name": "Flame Necklace",
-    "icon": "/icons/Accessories/FlameNecklace,8835,0.png",
+    "icon": "/icons/Accessories/Flame_Necklace,8835,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -548,7 +548,7 @@
   {
     "id": "8893",
     "name": "Flame Ring",
-    "icon": "/icons/Accessories/FlameRing,8893,0.png",
+    "icon": "/icons/Accessories/Flame_Ring,8893,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -562,7 +562,7 @@
   {
     "id": "8836",
     "name": "Fusioned Chunk Necklace",
-    "icon": "/icons/Accessories/FusionedChunkNecklace,8836,0.png",
+    "icon": "/icons/Accessories/Fusioned_Chunk_Necklace,8836,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -576,7 +576,7 @@
   {
     "id": "8401",
     "name": "Ghorm's Stomach Bag",
-    "icon": "/icons/Accessories/Ghorm'sStomachBag,8401,0.png",
+    "icon": "/icons/Accessories/Ghorm's_Stomach_Bag,8401,0.png",
     "boss": true,
     "seasonal": false,
     "craftable": false,
@@ -590,7 +590,7 @@
   {
     "id": "8843",
     "name": "Glass Bead Necklace",
-    "icon": "/icons/Accessories/GlassBeadNecklace,8843,0.png",
+    "icon": "/icons/Accessories/Glass_Bead_Necklace,8843,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -604,7 +604,7 @@
   {
     "id": "18851",
     "name": "Glass Bead Ring",
-    "icon": "/icons/Accessories/GlassBeadRing,18851,0.png",
+    "icon": "/icons/Accessories/Glass_Bead_Ring,18851,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -618,7 +618,7 @@
   {
     "id": "8853",
     "name": "Glow Tulip Ring",
-    "icon": "/icons/Accessories/GlowTulipRing,8853,0.png",
+    "icon": "/icons/Accessories/Glow_Tulip_Ring,8853,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -632,7 +632,7 @@
   {
     "id": "8251",
     "name": "Glyph Parchment",
-    "icon": "/icons/Accessories/GlyphParchment,8251,0.png",
+    "icon": "/icons/Accessories/Glyph_Parchment,8251,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -646,7 +646,7 @@
   {
     "id": "8805",
     "name": "Gold Crystal Necklace",
-    "icon": "/icons/Accessories/GoldCrystalNecklace,8805,0.png",
+    "icon": "/icons/Accessories/Gold_Crystal_Necklace,8805,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -660,7 +660,7 @@
   {
     "id": "8857",
     "name": "Gold Crystal Ring",
-    "icon": "/icons/Accessories/GoldCrystalRing,8857,0.png",
+    "icon": "/icons/Accessories/Gold_Crystal_Ring,8857,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -674,7 +674,7 @@
   {
     "id": "8351",
     "name": "Golden Jellyfish",
-    "icon": "/icons/Accessories/GoldenJellyfish,8351,0.png",
+    "icon": "/icons/Accessories/Golden_Jellyfish,8351,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -688,7 +688,7 @@
   {
     "id": "8880",
     "name": "Golden Spike Ring",
-    "icon": "/icons/Accessories/GoldenSpikeRing,8880,0.png",
+    "icon": "/icons/Accessories/Golden_Spike_Ring,8880,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -702,7 +702,7 @@
   {
     "id": "8874",
     "name": "Goldfish Ring",
-    "icon": "/icons/Accessories/GoldfishRing,8874,0.png",
+    "icon": "/icons/Accessories/Goldfish_Ring,8874,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -716,7 +716,7 @@
   {
     "id": "8801",
     "name": "Grub Egg Necklace",
-    "icon": "/icons/Accessories/GrubEggNecklace,8801,0.png",
+    "icon": "/icons/Accessories/Grub_Egg_Necklace,8801,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -730,7 +730,7 @@
   {
     "id": "8803",
     "name": "Heart Berry Necklace",
-    "icon": "/icons/Accessories/HeartBerryNecklace,8803,0.png",
+    "icon": "/icons/Accessories/Heart_Berry_Necklace,8803,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -744,7 +744,7 @@
   {
     "id": "18890",
     "name": "Hourglass Ring",
-    "icon": "/icons/Accessories/HourglassRing,18890,0.png",
+    "icon": "/icons/Accessories/Hourglass_Ring,18890,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -758,7 +758,7 @@
   {
     "id": "8802",
     "name": "Iron Chunk Necklace",
-    "icon": "/icons/Accessories/IronChunkNecklace,8802,0.png",
+    "icon": "/icons/Accessories/Iron_Chunk_Necklace,8802,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -772,7 +772,7 @@
   {
     "id": "8869",
     "name": "Ivy's Ring",
-    "icon": "/icons/Accessories/Ivy'sRing,8869,0.png",
+    "icon": "/icons/Accessories/Ivy's_Ring,8869,0.png",
     "boss": true,
     "seasonal": false,
     "craftable": false,
@@ -800,7 +800,7 @@
   {
     "id": "8461",
     "name": "Large Fish Pouch",
-    "icon": "/icons/Accessories/LargeFishPouch,8461,0.png",
+    "icon": "/icons/Accessories/Large_Fish_Pouch,8461,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -813,8 +813,8 @@
   },
   {
     "id": "8458",
-    "name": "Large Oreand Block Pouch",
-    "icon": "/icons/Accessories/LargeOreandBlockPouch,8458,0.png",
+    "name": "Large Ore and Block Pouch",
+    "icon": "/icons/Accessories/Large_Ore_and_Block_Pouch,8458,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -827,8 +827,8 @@
   },
   {
     "id": "8459",
-    "name": "Large Seedand Crop Pouch",
-    "icon": "/icons/Accessories/LargeSeedandCropPouch,8459,0.png",
+    "name": "Large Seed and Crop Pouch",
+    "icon": "/icons/Accessories/Large_Seed_and_Crop_Pouch,8459,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -842,7 +842,7 @@
   {
     "id": "8460",
     "name": "Large Valuable Pouch",
-    "icon": "/icons/Accessories/LargeValuablePouch,8460,0.png",
+    "icon": "/icons/Accessories/Large_Valuable_Pouch,8460,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -856,21 +856,7 @@
   {
     "id": "8851",
     "name": "Larva Ring",
-    "icon": "/icons/Accessories/LarvaRing,8851,0.png",
-    "boss": false,
-    "seasonal": false,
-    "craftable": false,
-    "merchant": false,
-    "dropped": false,
-    "owned": false,
-    "fishing": false,
-    "loot": false,
-    "dig": false
-  },
-  {
-    "id": "8358",
-    "name": "Lava Shield",
-    "icon": "/icons/Accessories/LavaShield,8358,0.png",
+    "icon": "/icons/Accessories/Larva_Ring,8851,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -898,7 +884,7 @@
   {
     "id": "10606",
     "name": "Lucky Coin",
-    "icon": "/icons/Accessories/LuckyCoin,10606,0,0.png",
+    "icon": "/icons/Accessories/Lucky_Coin,10606,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -912,7 +898,7 @@
   {
     "id": "8875",
     "name": "Lucky Ring",
-    "icon": "/icons/Accessories/LuckyRing,8875,0.png",
+    "icon": "/icons/Accessories/Lucky_Ring,8875,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -926,7 +912,7 @@
   {
     "id": "4038",
     "name": "Magic Mirror",
-    "icon": "/icons/Accessories/MagicMirror,4038,0.png",
+    "icon": "/icons/Accessories/Magic_Mirror,4038,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -940,7 +926,7 @@
   {
     "id": "8879",
     "name": "Magnetic Ring",
-    "icon": "/icons/Accessories/MagneticRing,8879,0.png",
+    "icon": "/icons/Accessories/Magnetic_Ring,8879,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -954,7 +940,7 @@
   {
     "id": "8457",
     "name": "Medium Fish Pouch",
-    "icon": "/icons/Accessories/MediumFishPouch,8457,0.png",
+    "icon": "/icons/Accessories/Medium_Fish_Pouch,8457,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -967,8 +953,8 @@
   },
   {
     "id": "8451",
-    "name": "Medium Oreand Block Pouch",
-    "icon": "/icons/Accessories/MediumOreandBlockPouch,8451,0.png",
+    "name": "Medium Ore and Block Pouch",
+    "icon": "/icons/Accessories/Medium_Ore_and_Block_Pouch,8451,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -981,8 +967,8 @@
   },
   {
     "id": "8453",
-    "name": "Medium Seedand Crop Pouch",
-    "icon": "/icons/Accessories/MediumSeedandCropPouch,8453,0.png",
+    "name": "Medium Seed and Crop Pouch",
+    "icon": "/icons/Accessories/Medium_Seed_and_Crop_Pouch,8453,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -996,7 +982,7 @@
   {
     "id": "8455",
     "name": "Medium Valuable Pouch",
-    "icon": "/icons/Accessories/MediumValuablePouch,8455,0.png",
+    "icon": "/icons/Accessories/Medium_Valuable_Pouch,8455,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1010,7 +996,7 @@
   {
     "id": "8858",
     "name": "Melting Crystal Ring",
-    "icon": "/icons/Accessories/MeltingCrystalRing,8858,0.png",
+    "icon": "/icons/Accessories/Melting_Crystal_Ring,8858,0.png",
     "boss": true,
     "seasonal": false,
     "craftable": false,
@@ -1024,7 +1010,7 @@
   {
     "id": "8330",
     "name": "Minion Detonator",
-    "icon": "/icons/Accessories/MinionDetonator,8330,0.png",
+    "icon": "/icons/Accessories/Minion_Detonator,8330,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1038,7 +1024,7 @@
   {
     "id": "8862",
     "name": "Mold Ring",
-    "icon": "/icons/Accessories/MoldRing,8862,0.png",
+    "icon": "/icons/Accessories/Mold_Ring,8862,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1052,7 +1038,7 @@
   {
     "id": "8810",
     "name": "Mold Vein Necklace",
-    "icon": "/icons/Accessories/MoldVeinNecklace,8810,0.png",
+    "icon": "/icons/Accessories/Mold_Vein_Necklace,8810,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1080,7 +1066,7 @@
   {
     "id": "8405",
     "name": "Morpha's Bubble Bag",
-    "icon": "/icons/Accessories/Morpha'sBubbleBag,8405,0.png",
+    "icon": "/icons/Accessories/Morpha's_Bubble_Bag,8405,0.png",
     "boss": true,
     "seasonal": false,
     "craftable": false,
@@ -1094,7 +1080,7 @@
   {
     "id": "8872",
     "name": "Morpha's Ring",
-    "icon": "/icons/Accessories/Morpha'sRing,8872,0.png",
+    "icon": "/icons/Accessories/Morpha's_Ring,8872,0.png",
     "boss": true,
     "seasonal": false,
     "craftable": false,
@@ -1108,7 +1094,7 @@
   {
     "id": "8819",
     "name": "Neptune Necklace",
-    "icon": "/icons/Accessories/NeptuneNecklace,8819,0.png",
+    "icon": "/icons/Accessories/Neptune_Necklace,8819,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1122,7 +1108,7 @@
   {
     "id": "8895",
     "name": "Noble Ring",
-    "icon": "/icons/Accessories/NobleRing,8895,0.png",
+    "icon": "/icons/Accessories/Noble_Ring,8895,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1136,7 +1122,7 @@
   {
     "id": "8832",
     "name": "Nomad Necklace",
-    "icon": "/icons/Accessories/NomadNecklace,8832,0.png",
+    "icon": "/icons/Accessories/Nomad_Necklace,8832,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1150,7 +1136,7 @@
   {
     "id": "8891",
     "name": "Nomad Ring",
-    "icon": "/icons/Accessories/NomadRing,8891,0.png",
+    "icon": "/icons/Accessories/Nomad_Ring,8891,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1164,7 +1150,7 @@
   {
     "id": "8828",
     "name": "Oceanheart Necklace",
-    "icon": "/icons/Accessories/OceanheartNecklace,8828,0.png",
+    "icon": "/icons/Accessories/Oceanheart_Necklace,8828,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1178,7 +1164,7 @@
   {
     "id": "8404",
     "name": "Octarine Bag",
-    "icon": "/icons/Accessories/OctarineBag,8404,0.png",
+    "icon": "/icons/Accessories/Octarine_Bag,8404,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1192,7 +1178,7 @@
   {
     "id": "8821",
     "name": "Octarine Necklace",
-    "icon": "/icons/Accessories/OctarineNecklace,8821,0.png",
+    "icon": "/icons/Accessories/Octarine_Necklace,8821,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1206,7 +1192,7 @@
   {
     "id": "8878",
     "name": "Octarine Ring",
-    "icon": "/icons/Accessories/OctarineRing,8878,0.png",
+    "icon": "/icons/Accessories/Octarine_Ring,8878,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1220,7 +1206,7 @@
   {
     "id": "8322",
     "name": "Octarine Shield",
-    "icon": "/icons/Accessories/OctarineShield,8322,0.png",
+    "icon": "/icons/Accessories/Octarine_Shield,8322,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1234,7 +1220,7 @@
   {
     "id": "7200",
     "name": "Omoroth Compass",
-    "icon": "/icons/Accessories/OmorothCompass,7200,0.png",
+    "icon": "/icons/Accessories/Omoroth_Compass,7200,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1248,7 +1234,7 @@
   {
     "id": "8354",
     "name": "Omoroth's Beak",
-    "icon": "/icons/Accessories/Omoroth'sBeak,8354,0.png",
+    "icon": "/icons/Accessories/Omoroth's_Beak,8354,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1262,7 +1248,7 @@
   {
     "id": "8820",
     "name": "Omoroth's Necklace",
-    "icon": "/icons/Accessories/Omoroth'sNecklace,8820,0.png",
+    "icon": "/icons/Accessories/Omoroth's_Necklace,8820,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1276,7 +1262,7 @@
   {
     "id": "8877",
     "name": "Omoroth's Ring",
-    "icon": "/icons/Accessories/Omoroth'sRing,8877,0.png",
+    "icon": "/icons/Accessories/Omoroth's_Ring,8877,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1290,7 +1276,7 @@
   {
     "id": "8361",
     "name": "Oracle Deck",
-    "icon": "/icons/Accessories/OracleDeck,8361,0.png",
+    "icon": "/icons/Accessories/Oracle_Deck,8361,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1304,7 +1290,7 @@
   {
     "id": "8301",
     "name": "Orb Lantern",
-    "icon": "/icons/Accessories/OrbLantern,8301,0.png",
+    "icon": "/icons/Accessories/Orb_Lantern,8301,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1318,7 +1304,7 @@
   {
     "id": "8871",
     "name": "Ostara Ring",
-    "icon": "/icons/Accessories/OstaraRing,8871,0.png",
+    "icon": "/icons/Accessories/Ostara_Ring,8871,0.png",
     "boss": true,
     "seasonal": true,
     "craftable": false,
@@ -1332,7 +1318,7 @@
   {
     "id": "8861",
     "name": "Petal Ring",
-    "icon": "/icons/Accessories/PetalRing,8861,0.png",
+    "icon": "/icons/Accessories/Petal_Ring,8861,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1346,7 +1332,7 @@
   {
     "id": "8813",
     "name": "Polished Copper Cross Necklace",
-    "icon": "/icons/Accessories/PolishedCopperCrossNecklace,8813,0.png",
+    "icon": "/icons/Accessories/Polished_Copper_Cross_Necklace,8813,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1360,7 +1346,7 @@
   {
     "id": "8826",
     "name": "Polished Coral Amulet",
-    "icon": "/icons/Accessories/PolishedCoralAmulet,8826,0.png",
+    "icon": "/icons/Accessories/Polished_Coral_Amulet,8826,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1374,7 +1360,7 @@
   {
     "id": "8866",
     "name": "Polished Glow Tulip Ring",
-    "icon": "/icons/Accessories/PolishedGlowTulipRing,8866,0.png",
+    "icon": "/icons/Accessories/Polished_Glow_Tulip_Ring,8866,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1388,7 +1374,7 @@
   {
     "id": "8815",
     "name": "Polished Gold Crystal Necklace",
-    "icon": "/icons/Accessories/PolishedGoldCrystalNecklace,8815,0.png",
+    "icon": "/icons/Accessories/Polished_Gold_Crystal_Necklace,8815,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1402,7 +1388,7 @@
   {
     "id": "8865",
     "name": "Polished Gold Crystal Ring",
-    "icon": "/icons/Accessories/PolishedGoldCrystalRing,8865,0.png",
+    "icon": "/icons/Accessories/Polished_Gold_Crystal_Ring,8865,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1416,7 +1402,7 @@
   {
     "id": "8883",
     "name": "Polished Golden Spike Ring",
-    "icon": "/icons/Accessories/PolishedGoldenSpikeRing,8883,0.png",
+    "icon": "/icons/Accessories/Polished_Golden_Spike_Ring,8883,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1430,7 +1416,7 @@
   {
     "id": "8814",
     "name": "Polished Iron Chunk Necklace",
-    "icon": "/icons/Accessories/PolishedIronChunkNecklace,8814,0.png",
+    "icon": "/icons/Accessories/Polished_Iron_Chunk_Necklace,8814,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1444,7 +1430,7 @@
   {
     "id": "8882",
     "name": "Polished Magnetic Ring",
-    "icon": "/icons/Accessories/PolishedMagneticRing,8882,0.png",
+    "icon": "/icons/Accessories/Polished_Magnetic_Ring,8882,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1458,7 +1444,7 @@
   {
     "id": "8824",
     "name": "Polished Octarine Necklace",
-    "icon": "/icons/Accessories/PolishedOctarineNecklace,8824,0.png",
+    "icon": "/icons/Accessories/Polished_Octarine_Necklace,8824,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1472,7 +1458,7 @@
   {
     "id": "8881",
     "name": "Polished Octarine Ring",
-    "icon": "/icons/Accessories/PolishedOctarineRing,8881,0.png",
+    "icon": "/icons/Accessories/Polished_Octarine_Ring,8881,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1486,7 +1472,7 @@
   {
     "id": "8825",
     "name": "Polished Scarlet Chunk Necklace",
-    "icon": "/icons/Accessories/PolishedScarletChunkNecklace,8825,0.png",
+    "icon": "/icons/Accessories/Polished_Scarlet_Chunk_Necklace,8825,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1500,7 +1486,7 @@
   {
     "id": "8867",
     "name": "Polished Swift Ring",
-    "icon": "/icons/Accessories/PolishedSwiftRing,8867,0.png",
+    "icon": "/icons/Accessories/Polished_Swift_Ring,8867,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1514,7 +1500,7 @@
   {
     "id": "18893",
     "name": "Puppet Ring",
-    "icon": "/icons/Accessories/PuppetRing,18893,0.png",
+    "icon": "/icons/Accessories/Puppet_Ring,18893,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1527,23 +1513,9 @@
   },
   {
     "id": "8844",
-    "name": "Pyrdras Necklace",
-    "icon": "/icons/Accessories/PyrdrasNecklace,8844,0.png",
-    "boss": false,
-    "seasonal": false,
-    "craftable": false,
-    "merchant": false,
-    "dropped": false,
-    "owned": false,
-    "fishing": false,
-    "loot": false,
-    "dig": false
-  },
-  {
-    "id": "8831",
-    "name": "Ra Akar Necklace",
-    "icon": "/icons/Accessories/RaAkarNecklace,8831,0.png",
-    "boss": false,
+    "name": "Pyrdra's Necklace",
+    "icon": "/icons/Accessories/Pyrdra's_Necklace,8844,0.png",
+    "boss": true,
     "seasonal": false,
     "craftable": false,
     "merchant": false,
@@ -1556,7 +1528,21 @@
   {
     "id": "7300",
     "name": "Ra-Akar Automaton",
-    "icon": "/icons/Accessories/Ra-AkarAutomaton,7300,0.png",
+    "icon": "/icons/Accessories/Ra-Akar_Automaton,7300,0.png",
+    "boss": true,
+    "seasonal": false,
+    "craftable": false,
+    "merchant": false,
+    "dropped": false,
+    "owned": false,
+    "fishing": false,
+    "loot": false,
+    "dig": false
+  },
+  {
+    "id": "8831",
+    "name": "Ra-Akar's Necklace",
+    "icon": "/icons/Accessories/Ra-Akar's_Necklace,8831,0.png",
     "boss": true,
     "seasonal": false,
     "craftable": false,
@@ -1570,7 +1556,7 @@
   {
     "id": "8808",
     "name": "Remedaisy Necklace",
-    "icon": "/icons/Accessories/RemedaisyNecklace,8808,0.png",
+    "icon": "/icons/Accessories/Remedaisy_Necklace,8808,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1584,21 +1570,7 @@
   {
     "id": "8368",
     "name": "Rift Lens",
-    "icon": "/icons/Accessories/RiftLens,8368,0.png",
-    "boss": false,
-    "seasonal": false,
-    "craftable": false,
-    "merchant": false,
-    "dropped": false,
-    "owned": false,
-    "fishing": false,
-    "loot": false,
-    "dig": false
-  },
-  {
-    "id": "8889",
-    "name": "Ring Of Sand",
-    "icon": "/icons/Accessories/RingOfSand,8889,0.png",
+    "icon": "/icons/Accessories/Rift_Lens,8368,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1611,8 +1583,8 @@
   },
   {
     "id": "8855",
-    "name": "Ringof Rock",
-    "icon": "/icons/Accessories/RingofRock,8855,0.png",
+    "name": "Ring of Rock",
+    "icon": "/icons/Accessories/Ring_of_Rock,8855,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1624,9 +1596,23 @@
     "dig": false
   },
   {
+    "id": "8889",
+    "name": "Ring of Sand",
+    "icon": "/icons/Accessories/Ring_of_Sand,8889,0.png",
+    "boss": true,
+    "seasonal": false,
+    "craftable": false,
+    "merchant": false,
+    "dropped": false,
+    "owned": false,
+    "fishing": false,
+    "loot": false,
+    "dig": false
+  },
+  {
     "id": "8856",
-    "name": "Ringof Stone",
-    "icon": "/icons/Accessories/RingofStone,8856,0.png",
+    "name": "Ring of Stone",
+    "icon": "/icons/Accessories/Ring_of_Stone,8856,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1640,7 +1626,7 @@
   {
     "id": "6",
     "name": "Roofing Gadget",
-    "icon": "/icons/Accessories/RoofingGadget,6,0.png",
+    "icon": "/icons/Accessories/Roofing_Gadget,6,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1654,7 +1640,7 @@
   {
     "id": "8356",
     "name": "Royal Gel",
-    "icon": "/icons/Accessories/RoyalGel,8356,0.png",
+    "icon": "/icons/Accessories/Royal_Gel,8356,0.png",
     "boss": true,
     "seasonal": false,
     "craftable": false,
@@ -1668,7 +1654,7 @@
   {
     "id": "8250",
     "name": "Rune Parchment",
-    "icon": "/icons/Accessories/RuneParchment,8250,0.png",
+    "icon": "/icons/Accessories/Rune_Parchment,8250,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1682,7 +1668,7 @@
   {
     "id": "8829",
     "name": "Rusted Necklace",
-    "icon": "/icons/Accessories/RustedNecklace,8829,0.png",
+    "icon": "/icons/Accessories/Rusted_Necklace,8829,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1696,7 +1682,7 @@
   {
     "id": "8863",
     "name": "Rusted Ring",
-    "icon": "/icons/Accessories/RustedRing,8863,0.png",
+    "icon": "/icons/Accessories/Rusted_Ring,8863,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1710,7 +1696,7 @@
   {
     "id": "8897",
     "name": "Samhain Curse Ring",
-    "icon": "/icons/Accessories/SamhainCurseRing,8897,0.png",
+    "icon": "/icons/Accessories/Samhain_Curse_Ring,8897,0.png",
     "boss": true,
     "seasonal": false,
     "craftable": false,
@@ -1724,7 +1710,7 @@
   {
     "id": "8837",
     "name": "Samhain Offering Necklace",
-    "icon": "/icons/Accessories/SamhainOfferingNecklace,8837,0.png",
+    "icon": "/icons/Accessories/Samhain_Offering_Necklace,8837,0.png",
     "boss": true,
     "seasonal": false,
     "craftable": false,
@@ -1738,7 +1724,7 @@
   {
     "id": "8822",
     "name": "Scarlet Chunk Necklace",
-    "icon": "/icons/Accessories/ScarletChunkNecklace,8822,0.png",
+    "icon": "/icons/Accessories/Scarlet_Chunk_Necklace,8822,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1752,8 +1738,22 @@
   {
     "id": "8407",
     "name": "Scholar Satchel",
-    "icon": "/icons/Accessories/ScholarSatchel,8407,0.png",
+    "icon": "/icons/Accessories/Scholar_Satchel,8407,0.png",
     "boss": false,
+    "seasonal": false,
+    "craftable": false,
+    "merchant": false,
+    "dropped": false,
+    "owned": false,
+    "fishing": false,
+    "loot": false,
+    "dig": false
+  },
+  {
+    "id": "8358",
+    "name": "Scorching Aegis",
+    "icon": "/icons/Accessories/Scorching_Aegis,8358,0.png",
+    "boss": true,
     "seasonal": false,
     "craftable": false,
     "merchant": false,
@@ -1766,7 +1766,7 @@
   {
     "id": "8864",
     "name": "Sea Foam Ring",
-    "icon": "/icons/Accessories/SeaFoamRing,8864,0.png",
+    "icon": "/icons/Accessories/Sea_Foam_Ring,8864,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1780,7 +1780,7 @@
   {
     "id": "8355",
     "name": "Sentry Shield",
-    "icon": "/icons/Accessories/SentryShield,8355,0.png",
+    "icon": "/icons/Accessories/Sentry_Shield,8355,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1794,7 +1794,7 @@
   {
     "id": "8888",
     "name": "Septum Ring",
-    "icon": "/icons/Accessories/SeptumRing,8888,0.png",
+    "icon": "/icons/Accessories/Septum_Ring,8888,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1808,7 +1808,7 @@
   {
     "id": "8817",
     "name": "Skull Necklace",
-    "icon": "/icons/Accessories/SkullNecklace,8817,0.png",
+    "icon": "/icons/Accessories/Skull_Necklace,8817,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1822,7 +1822,7 @@
   {
     "id": "8870",
     "name": "Skull Ring",
-    "icon": "/icons/Accessories/SkullRing,8870,0.png",
+    "icon": "/icons/Accessories/Skull_Ring,8870,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1836,7 +1836,7 @@
   {
     "id": "8859",
     "name": "Sky Ring",
-    "icon": "/icons/Accessories/SkyRing,8859,0.png",
+    "icon": "/icons/Accessories/Sky_Ring,8859,0.png",
     "boss": true,
     "seasonal": false,
     "craftable": false,
@@ -1850,7 +1850,7 @@
   {
     "id": "8456",
     "name": "Small Fish Pouch",
-    "icon": "/icons/Accessories/SmallFishPouch,8456,0.png",
+    "icon": "/icons/Accessories/Small_Fish_Pouch,8456,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1864,7 +1864,7 @@
   {
     "id": "8302",
     "name": "Small Lantern",
-    "icon": "/icons/Accessories/SmallLantern,8302,0.png",
+    "icon": "/icons/Accessories/Small_Lantern,8302,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1877,8 +1877,8 @@
   },
   {
     "id": "8450",
-    "name": "Small Oreand Block Pouch",
-    "icon": "/icons/Accessories/SmallOreandBlockPouch,8450,0.png",
+    "name": "Small Ore and Block Pouch",
+    "icon": "/icons/Accessories/Small_Ore_and_Block_Pouch,8450,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1891,8 +1891,8 @@
   },
   {
     "id": "8452",
-    "name": "Small Seedand Crop Pouch",
-    "icon": "/icons/Accessories/SmallSeedandCropPouch,8452,0.png",
+    "name": "Small Seed and Crop Pouch",
+    "icon": "/icons/Accessories/Small_Seed_and_Crop_Pouch,8452,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1906,7 +1906,7 @@
   {
     "id": "8454",
     "name": "Small Valuable Pouch",
-    "icon": "/icons/Accessories/SmallValuablePouch,8454,0.png",
+    "icon": "/icons/Accessories/Small_Valuable_Pouch,8454,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1920,7 +1920,7 @@
   {
     "id": "8846",
     "name": "Soul Medallion",
-    "icon": "/icons/Accessories/SoulMedallion,8846,0.png",
+    "icon": "/icons/Accessories/Soul_Medallion,8846,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1934,7 +1934,7 @@
   {
     "id": "8884",
     "name": "Spine Ring",
-    "icon": "/icons/Accessories/SpineRing,8884,0.png",
+    "icon": "/icons/Accessories/Spine_Ring,8884,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1948,7 +1948,7 @@
   {
     "id": "8340",
     "name": "Swift Feather",
-    "icon": "/icons/Accessories/SwiftFeather,8340,0.png",
+    "icon": "/icons/Accessories/Swift_Feather,8340,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1962,7 +1962,7 @@
   {
     "id": "8854",
     "name": "Swift Ring",
-    "icon": "/icons/Accessories/SwiftRing,8854,0.png",
+    "icon": "/icons/Accessories/Swift_Ring,8854,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1975,8 +1975,8 @@
   },
   {
     "id": "8255",
-    "name": "Threadof Fate",
-    "icon": "/icons/Accessories/ThreadofFate,8255,0.png",
+    "name": "Thread of Fate",
+    "icon": "/icons/Accessories/Thread_of_Fate,8255,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1990,7 +1990,7 @@
   {
     "id": "8886",
     "name": "Topaz Ring",
-    "icon": "/icons/Accessories/TopazRing,8886,0.png",
+    "icon": "/icons/Accessories/Topaz_Ring,8886,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -2004,7 +2004,7 @@
   {
     "id": "8830",
     "name": "Torc Necklace",
-    "icon": "/icons/Accessories/TorcNecklace,8830,0.png",
+    "icon": "/icons/Accessories/Torc_Necklace,8830,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -2018,7 +2018,7 @@
   {
     "id": "8842",
     "name": "Tower Shell Necklace",
-    "icon": "/icons/Accessories/TowerShellNecklace,8842,0.png",
+    "icon": "/icons/Accessories/Tower_Shell_Necklace,8842,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -2032,7 +2032,7 @@
   {
     "id": "8321",
     "name": "Toxic Defender",
-    "icon": "/icons/Accessories/ToxicDefender,8321,0.png",
+    "icon": "/icons/Accessories/Toxic_Defender,8321,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -2046,7 +2046,7 @@
   {
     "id": "8353",
     "name": "Turtle Shell",
-    "icon": "/icons/Accessories/TurtleShell,8353,0.png",
+    "icon": "/icons/Accessories/Turtle_Shell,8353,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -2060,7 +2060,7 @@
   {
     "id": "8838",
     "name": "Valentine Necklace",
-    "icon": "/icons/Accessories/ValentineNecklace,8838,0.png",
+    "icon": "/icons/Accessories/Valentine_Necklace,8838,0.png",
     "boss": false,
     "seasonal": true,
     "craftable": false,
@@ -2074,7 +2074,7 @@
   {
     "id": "8898",
     "name": "Valentine Ring",
-    "icon": "/icons/Accessories/ValentineRing,8898,0.png",
+    "icon": "/icons/Accessories/Valentine_Ring,8898,0.png",
     "boss": false,
     "seasonal": true,
     "craftable": false,
@@ -2088,7 +2088,7 @@
   {
     "id": "18891",
     "name": "Vicious Ring",
-    "icon": "/icons/Accessories/ViciousRing,18891,0.png",
+    "icon": "/icons/Accessories/Vicious_Ring,18891,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -2102,7 +2102,7 @@
   {
     "id": "8887",
     "name": "White Glass Ring",
-    "icon": "/icons/Accessories/WhiteGlassRing,8887,0.png",
+    "icon": "/icons/Accessories/White_Glass_Ring,8887,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -2116,7 +2116,7 @@
   {
     "id": "8840",
     "name": "Wildwarden Necklace",
-    "icon": "/icons/Accessories/WildwardenNecklace,8840,0.png",
+    "icon": "/icons/Accessories/Wildwarden_Necklace,8840,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -2130,7 +2130,7 @@
   {
     "id": "8899",
     "name": "Wildwarden Ring",
-    "icon": "/icons/Accessories/WildwardenRing,8899,0.png",
+    "icon": "/icons/Accessories/Wildwarden_Ring,8899,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -2144,7 +2144,7 @@
   {
     "id": "8885",
     "name": "Wooden Ring",
-    "icon": "/icons/Accessories/WoodenRing,8885,0.png",
+    "icon": "/icons/Accessories/Wooden_Ring,8885,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -2158,7 +2158,7 @@
   {
     "id": "8320",
     "name": "Wooden Shield",
-    "icon": "/icons/Accessories/WoodenShield,8320,0.png",
+    "icon": "/icons/Accessories/Wooden_Shield,8320,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -2172,7 +2172,7 @@
   {
     "id": "8852",
     "name": "Wooden Thorn Ring",
-    "icon": "/icons/Accessories/WoodenThornRing,8852,0.png",
+    "icon": "/icons/Accessories/Wooden_Thorn_Ring,8852,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -2186,7 +2186,7 @@
   {
     "id": "5144",
     "name": "Worker Handcuff",
-    "icon": "/icons/Accessories/WorkerHandcuff,5144,0.png",
+    "icon": "/icons/Accessories/Worker_Handcuff,5144,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,

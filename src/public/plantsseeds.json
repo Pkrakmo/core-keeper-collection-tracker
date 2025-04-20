@@ -2,21 +2,7 @@
   {
     "id": "8024",
     "name": "Bloat Oat",
-    "icon": "/icons/PlantsSeeds/BloatOat,8024,0.png",
-    "boss": false,
-    "seasonal": false,
-    "craftable": false,
-    "merchant": false,
-    "dropped": false,
-    "owned": false,
-    "fishing": false,
-    "loot": false,
-    "dig": false
-  },
-  {
-    "id": "8023",
-    "name": "Bloat Oat Plant",
-    "icon": "/icons/PlantsSeeds/BloatOatPlant,8023,0.png",
+    "icon": "/icons/PlantsSeeds/Bloat_Oat,8024,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -30,7 +16,21 @@
   {
     "id": "8022",
     "name": "Bloat Oat Seed",
-    "icon": "/icons/PlantsSeeds/BloatOatSeed,8022,0.png",
+    "icon": "/icons/PlantsSeeds/Bloat_Oat_Seed,8022,0.png",
+    "boss": false,
+    "seasonal": false,
+    "craftable": false,
+    "merchant": false,
+    "dropped": false,
+    "owned": false,
+    "fishing": false,
+    "loot": false,
+    "dig": false
+  },
+  {
+    "id": "8023",
+    "name": "BloatOatPlant",
+    "icon": "/icons/PlantsSeeds/BloatOatPlant,8023,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -44,21 +44,7 @@
   {
     "id": "8009",
     "name": "Bomb Pepper",
-    "icon": "/icons/PlantsSeeds/BombPepper,8009,0.png",
-    "boss": false,
-    "seasonal": false,
-    "craftable": false,
-    "merchant": false,
-    "dropped": false,
-    "owned": false,
-    "fishing": false,
-    "loot": false,
-    "dig": false
-  },
-  {
-    "id": "8008",
-    "name": "Bomb Pepper Plant",
-    "icon": "/icons/PlantsSeeds/BombPepperPlant,8008,0.png",
+    "icon": "/icons/PlantsSeeds/Bomb_Pepper,8009,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -72,7 +58,7 @@
   {
     "id": "8007",
     "name": "Bomb Pepper Seed",
-    "icon": "/icons/PlantsSeeds/BombPepperSeed,8007,0.png",
+    "icon": "/icons/PlantsSeeds/Bomb_Pepper_Seed,8007,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -82,6 +68,20 @@
     "fishing": false,
     "loot": false,
     "dig": true
+  },
+  {
+    "id": "8008",
+    "name": "BombPepperPlant",
+    "icon": "/icons/PlantsSeeds/BombPepperPlant,8008,0.png",
+    "boss": false,
+    "seasonal": false,
+    "craftable": false,
+    "merchant": false,
+    "dropped": false,
+    "owned": false,
+    "fishing": false,
+    "loot": false,
+    "dig": false
   },
   {
     "id": "8012",
@@ -98,8 +98,22 @@
     "dig": false
   },
   {
+    "id": "8010",
+    "name": "Carrock Seed",
+    "icon": "/icons/PlantsSeeds/Carrock_Seed,8010,0.png",
+    "boss": false,
+    "seasonal": false,
+    "craftable": false,
+    "merchant": false,
+    "dropped": false,
+    "owned": false,
+    "fishing": false,
+    "loot": false,
+    "dig": false
+  },
+  {
     "id": "8011",
-    "name": "Carrock Plant",
+    "name": "CarrockPlant",
     "icon": "/icons/PlantsSeeds/CarrockPlant,8011,0.png",
     "boss": false,
     "seasonal": false,
@@ -112,23 +126,9 @@
     "dig": false
   },
   {
-    "id": "8010",
-    "name": "Carrock Seed",
-    "icon": "/icons/PlantsSeeds/CarrockSeed,8010,0.png",
-    "boss": false,
-    "seasonal": false,
-    "craftable": false,
-    "merchant": false,
-    "dropped": false,
-    "owned": false,
-    "fishing": false,
-    "loot": false,
-    "dig": false
-  },
-  {
     "id": "8020",
-    "name": "Coral Seed",
-    "icon": "/icons/PlantsSeeds/CoralSeed,8020,0.png",
+    "name": "Coral Wood Seed",
+    "icon": "/icons/PlantsSeeds/Coral_Wood_Seed,8020,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -141,8 +141,8 @@
   },
   {
     "id": "8021",
-    "name": "Coral Wood Plant",
-    "icon": "/icons/PlantsSeeds/CoralWoodPlant,8021,0.png",
+    "name": "CoralRootPlant",
+    "icon": "/icons/PlantsSeeds/CoralRootPlant,8021,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -155,8 +155,8 @@
   },
   {
     "id": "8041",
-    "name": "Gleam Wood Plant",
-    "icon": "/icons/PlantsSeeds/GleamWoodPlant,8041,0.png",
+    "name": "GleamRootPlant",
+    "icon": "/icons/PlantsSeeds/GleamRootPlant,8041,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -170,21 +170,7 @@
   {
     "id": "8006",
     "name": "Glow Tulip",
-    "icon": "/icons/PlantsSeeds/GlowTulip,8006,0.png",
-    "boss": false,
-    "seasonal": false,
-    "craftable": false,
-    "merchant": false,
-    "dropped": false,
-    "owned": false,
-    "fishing": false,
-    "loot": false,
-    "dig": false
-  },
-  {
-    "id": "8005",
-    "name": "Glow Tulip Plant",
-    "icon": "/icons/PlantsSeeds/GlowTulipPlant,8005,0.png",
+    "icon": "/icons/PlantsSeeds/Glow_Tulip,8006,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -198,7 +184,7 @@
   {
     "id": "8004",
     "name": "Glow Tulip Seed",
-    "icon": "/icons/PlantsSeeds/GlowTulipSeed,8004,0.png",
+    "icon": "/icons/PlantsSeeds/Glow_Tulip_Seed,8004,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -210,9 +196,23 @@
     "dig": true
   },
   {
+    "id": "8005",
+    "name": "GlowingTulipPlant",
+    "icon": "/icons/PlantsSeeds/GlowingTulipPlant,8005,0.png",
+    "boss": false,
+    "seasonal": false,
+    "craftable": false,
+    "merchant": false,
+    "dropped": false,
+    "owned": false,
+    "fishing": false,
+    "loot": false,
+    "dig": false
+  },
+  {
     "id": "8105",
     "name": "Golden Bloat Oat",
-    "icon": "/icons/PlantsSeeds/GoldenBloatOat,8105,0.png",
+    "icon": "/icons/PlantsSeeds/Golden_Bloat_Oat,8105,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -226,7 +226,7 @@
   {
     "id": "8102",
     "name": "Golden Bomb Pepper",
-    "icon": "/icons/PlantsSeeds/GoldenBombPepper,8102,0.png",
+    "icon": "/icons/PlantsSeeds/Golden_Bomb_Pepper,8102,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -240,7 +240,7 @@
   {
     "id": "8103",
     "name": "Golden Carrock",
-    "icon": "/icons/PlantsSeeds/GoldenCarrock,8103,0.png",
+    "icon": "/icons/PlantsSeeds/Golden_Carrock,8103,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -254,7 +254,7 @@
   {
     "id": "8101",
     "name": "Golden Glow Tulip",
-    "icon": "/icons/PlantsSeeds/GoldenGlowTulip,8101,0.png",
+    "icon": "/icons/PlantsSeeds/Golden_Glow_Tulip,8101,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -268,7 +268,7 @@
   {
     "id": "8108",
     "name": "Golden Grumpkin",
-    "icon": "/icons/PlantsSeeds/GoldenGrumpkin,8108,0.png",
+    "icon": "/icons/PlantsSeeds/Golden_Grumpkin,8108,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -282,7 +282,7 @@
   {
     "id": "8100",
     "name": "Golden Heart Berry",
-    "icon": "/icons/PlantsSeeds/GoldenHeartBerry,8100,0.png",
+    "icon": "/icons/PlantsSeeds/Golden_Heart_Berry,8100,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -296,7 +296,7 @@
   {
     "id": "8106",
     "name": "Golden Pewpaya",
-    "icon": "/icons/PlantsSeeds/GoldenPewpaya,8106,0.png",
+    "icon": "/icons/PlantsSeeds/Golden_Pewpaya,8106,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -310,7 +310,7 @@
   {
     "id": "8107",
     "name": "Golden Pinegrapple",
-    "icon": "/icons/PlantsSeeds/GoldenPinegrapple,8107,0.png",
+    "icon": "/icons/PlantsSeeds/Golden_Pinegrapple,8107,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -324,21 +324,7 @@
   {
     "id": "8104",
     "name": "Golden Puffungi",
-    "icon": "/icons/PlantsSeeds/GoldenPuffungi,8104,0.png",
-    "boss": false,
-    "seasonal": false,
-    "craftable": false,
-    "merchant": false,
-    "dropped": false,
-    "owned": false,
-    "fishing": false,
-    "loot": false,
-    "dig": false
-  },
-  {
-    "id": "8019",
-    "name": "Grub Kapok Plant",
-    "icon": "/icons/PlantsSeeds/GrubKapokPlant,8019,0.png",
+    "icon": "/icons/PlantsSeeds/Golden_Puffungi,8104,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -352,7 +338,21 @@
   {
     "id": "8018",
     "name": "Grub Kapok Seed",
-    "icon": "/icons/PlantsSeeds/GrubKapokSeed,8018,0.png",
+    "icon": "/icons/PlantsSeeds/Grub_Kapok_Seed,8018,0.png",
+    "boss": false,
+    "seasonal": false,
+    "craftable": false,
+    "merchant": false,
+    "dropped": false,
+    "owned": false,
+    "fishing": false,
+    "loot": false,
+    "dig": false
+  },
+  {
+    "id": "8019",
+    "name": "GrubKapokPlant",
+    "icon": "/icons/PlantsSeeds/GrubKapokPlant,8019,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -378,8 +378,22 @@
     "dig": false
   },
   {
+    "id": "8031",
+    "name": "Grumpkin Seed",
+    "icon": "/icons/PlantsSeeds/Grumpkin_Seed,8031,0.png",
+    "boss": false,
+    "seasonal": true,
+    "craftable": false,
+    "merchant": false,
+    "dropped": false,
+    "owned": false,
+    "fishing": false,
+    "loot": false,
+    "dig": false
+  },
+  {
     "id": "8032",
-    "name": "Grumpkin Plant",
+    "name": "GrumpkinPlant",
     "icon": "/icons/PlantsSeeds/GrumpkinPlant,8032,0.png",
     "boss": false,
     "seasonal": false,
@@ -392,37 +406,9 @@
     "dig": false
   },
   {
-    "id": "8031",
-    "name": "Grumpkin Seed",
-    "icon": "/icons/PlantsSeeds/GrumpkinSeed,8031,0.png",
-    "boss": false,
-    "seasonal": true,
-    "craftable": false,
-    "merchant": false,
-    "dropped": false,
-    "owned": false,
-    "fishing": false,
-    "loot": false,
-    "dig": false
-  },
-  {
     "id": "8003",
     "name": "Heart Berry",
-    "icon": "/icons/PlantsSeeds/HeartBerry,8003,0.png",
-    "boss": false,
-    "seasonal": false,
-    "craftable": false,
-    "merchant": false,
-    "dropped": false,
-    "owned": false,
-    "fishing": false,
-    "loot": false,
-    "dig": false
-  },
-  {
-    "id": "8002",
-    "name": "Heart Berry Plant",
-    "icon": "/icons/PlantsSeeds/HeartBerryPlant,8002,0.png",
+    "icon": "/icons/PlantsSeeds/Heart_Berry,8003,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -436,7 +422,7 @@
   {
     "id": "8001",
     "name": "Heart Berry Seed",
-    "icon": "/icons/PlantsSeeds/HeartBerrySeed,8001,0.png",
+    "icon": "/icons/PlantsSeeds/Heart_Berry_Seed,8001,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -448,8 +434,22 @@
     "dig": true
   },
   {
+    "id": "8002",
+    "name": "HeartBerryPlant",
+    "icon": "/icons/PlantsSeeds/HeartBerryPlant,8002,0.png",
+    "boss": false,
+    "seasonal": false,
+    "craftable": false,
+    "merchant": false,
+    "dropped": false,
+    "owned": false,
+    "fishing": false,
+    "loot": false,
+    "dig": false
+  },
+  {
     "id": "8038",
-    "name": "Lunacorn Plant",
+    "name": "LunacornPlant",
     "icon": "/icons/PlantsSeeds/LunacornPlant,8038,0.png",
     "boss": false,
     "seasonal": false,
@@ -476,9 +476,9 @@
     "dig": false
   },
   {
-    "id": "8026",
-    "name": "Pewpaya Plant",
-    "icon": "/icons/PlantsSeeds/PewpayaPlant,8026,0.png",
+    "id": "8025",
+    "name": "Pewpaya Seed",
+    "icon": "/icons/PlantsSeeds/Pewpaya_Seed,8025,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -490,9 +490,9 @@
     "dig": false
   },
   {
-    "id": "8025",
-    "name": "Pewpaya Seed",
-    "icon": "/icons/PlantsSeeds/PewpayaSeed,8025,0.png",
+    "id": "8026",
+    "name": "PewpayaPlant",
+    "icon": "/icons/PlantsSeeds/PewpayaPlant,8026,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -518,9 +518,9 @@
     "dig": false
   },
   {
-    "id": "8029",
-    "name": "Pinegrapple Plant",
-    "icon": "/icons/PlantsSeeds/PinegrapplePlant,8029,0.png",
+    "id": "8028",
+    "name": "Pinegrapple Seed",
+    "icon": "/icons/PlantsSeeds/Pinegrapple_Seed,8028,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -532,9 +532,9 @@
     "dig": false
   },
   {
-    "id": "8028",
-    "name": "Pinegrapple Seed",
-    "icon": "/icons/PlantsSeeds/PinegrappleSeed,8028,0.png",
+    "id": "8029",
+    "name": "PinegrapplePlant",
+    "icon": "/icons/PlantsSeeds/PinegrapplePlant,8029,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -560,23 +560,9 @@
     "dig": false
   },
   {
-    "id": "8014",
-    "name": "Puffungi Plant",
-    "icon": "/icons/PlantsSeeds/PuffungiPlant,8014,0.png",
-    "boss": false,
-    "seasonal": false,
-    "craftable": false,
-    "merchant": false,
-    "dropped": false,
-    "owned": false,
-    "fishing": false,
-    "loot": false,
-    "dig": false
-  },
-  {
     "id": "8013",
     "name": "Puffungi Seed",
-    "icon": "/icons/PlantsSeeds/PuffungiSeed,8013,0.png",
+    "icon": "/icons/PlantsSeeds/Puffungi_Seed,8013,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -588,9 +574,9 @@
     "dig": false
   },
   {
-    "id": "8017",
-    "name": "Root Plant",
-    "icon": "/icons/PlantsSeeds/RootPlant,8017,0.png",
+    "id": "8014",
+    "name": "PuffungiPlant",
+    "icon": "/icons/PlantsSeeds/PuffungiPlant,8014,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -604,7 +590,7 @@
   {
     "id": "8016",
     "name": "Root Seed",
-    "icon": "/icons/PlantsSeeds/RootSeed,8016,0.png",
+    "icon": "/icons/PlantsSeeds/Root_Seed,8016,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -616,8 +602,22 @@
     "dig": true
   },
   {
+    "id": "8017",
+    "name": "RootPlant",
+    "icon": "/icons/PlantsSeeds/RootPlant,8017,0.png",
+    "boss": false,
+    "seasonal": false,
+    "craftable": false,
+    "merchant": false,
+    "dropped": false,
+    "owned": false,
+    "fishing": false,
+    "loot": false,
+    "dig": false
+  },
+  {
     "id": "8035",
-    "name": "Sunrice Plant",
+    "name": "SunricePlant",
     "icon": "/icons/PlantsSeeds/SunricePlant,8035,0.png",
     "boss": false,
     "seasonal": false,
