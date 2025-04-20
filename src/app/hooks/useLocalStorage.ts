@@ -6,8 +6,8 @@ export function useLocalStorage<T>(key: string, initialValue: T) {
     try {
       const item = window.localStorage.getItem(key);
       return item ? JSON.parse(item) : initialValue;
-    } catch (error) {
-      return initialValue;
+    } catch {
+      return initialValue; // Removed the unused '_error' variable
     }
   });
 

@@ -2,6 +2,7 @@
 
 import { GameItem } from '@/app/types/item';
 import { iconMappings } from '@/app/utils/iconMappings';
+import Image from 'next/image';
 
 type Props = {
   item: GameItem;
@@ -26,7 +27,15 @@ export default function ItemCard({ item, toggleOwned }: Props) {
       <div className="absolute top-2 left-2 flex gap-1">
         {Object.entries(iconMappings).map(([key, { src, alt, title }]) =>
           item[key as keyof GameItem] ? (
-            <img key={key} src={src} alt={alt} className="w-4 h-4" title={title} />
+            <Image
+              key={key}
+              src={src}
+              alt={alt}
+              width={16} // Adjusted size for w-4
+              height={16} // Adjusted size for h-4
+              className="w-4 h-4"
+              title={title}
+            />
           ) : null
         )}
       </div>
@@ -41,9 +50,11 @@ export default function ItemCard({ item, toggleOwned }: Props) {
       </button>
 
       {item.icon ? (
-        <img
+        <Image
           src={item.icon}
           alt={item.name || 'Item image'}
+          width={48} // Adjusted size for w-12
+          height={48} // Adjusted size for h-12
           className="w-12 h-12 mb-1"
         />
       ) : (

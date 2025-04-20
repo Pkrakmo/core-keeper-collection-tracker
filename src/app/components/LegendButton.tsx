@@ -2,6 +2,7 @@
 
 import { useState } from 'react';
 import { iconMappings } from '@/app/utils/iconMappings';
+import Image from 'next/image';
 
 export default function LegendButton() {
   const [isOpen, setIsOpen] = useState(false);
@@ -25,7 +26,7 @@ export default function LegendButton() {
             <ul className="space-y-2">
               {Object.entries(iconMappings).map(([key, { src, title }]) => (
                 <li key={key} className="flex items-center space-x-2">
-                  <img src={src} alt={title} className="w-6 h-6" />
+                  <Image src={src} alt={title} width={24} height={24} className="w-6 h-6" />
                   <span className="text-gray-600">{title}</span>
                 </li>
               ))}
