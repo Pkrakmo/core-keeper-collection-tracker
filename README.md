@@ -1,21 +1,27 @@
 ## About
 
-This project is still a work in progress project
+This project is a work in progress, and I'm actively developing it.  
+Feedback is very welcome — feel free to share ideas, suggestions, or bugs!
 
-Feedback is apriciated
+### Inspiration  
+- [Collectors Checklist Spreadsheet](https://docs.google.com/spreadsheets/d/1-JP8dCOhp6oVlJAIJcoxaX_M0SfSPAHDL2GCvFz2U9M/edit?gid=0#gid=0)  
+- [Reddit Post on r/CoreKeeperGame](https://www.reddit.com/r/CoreKeeperGame/comments/11k476k/collectors_checklist_version_deux/)
 
-Inspiration for this project: https://docs.google.com/spreadsheets/d/1-JP8dCOhp6oVlJAIJcoxaX_M0SfSPAHDL2GCvFz2U9M/edit?gid=0#gid=0
-and https://www.reddit.com/r/CoreKeeperGame/comments/11k476k/collectors_checklist_version_deux/
+---
 
+## Item Icons
 
-## Item icons
-Are from this project: https://github.com/RussDev7/CoreKeepersWorkshop
+Icons are sourced from [CoreKeepersWorkshop by RussDev7](https://github.com/RussDev7/CoreKeepersWorkshop).  
+All credit goes to the original creator.
+
+---
 
 ## TODO
 
-Clean up the project, there is and will be alot of unused assets
+- Clean up the project structure  
+- Remove unused assets (there are — and will be — a lot 😅)  
+- Note: Only the required assets are loaded, even if extras are present
 
-But only the needed assets will be loaded
 
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
