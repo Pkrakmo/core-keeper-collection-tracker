@@ -2,7 +2,7 @@
   {
     "id": "4008",
     "name": "Alchemist's Table",
-    "icon": "/icons/Tools/Alchemist'sTable,4008,0.png",
+    "icon": "/icons/Tools/Alchemist's_Table,4008,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -16,7 +16,7 @@
   {
     "id": "4001",
     "name": "Ancient Fountain",
-    "icon": "/icons/Tools/AncientFountain,4001,0.png",
+    "icon": "/icons/Tools/Ancient_Fountain,4001,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -30,7 +30,7 @@
   {
     "id": "2",
     "name": "Ancient Pickaxe",
-    "icon": "/icons/Tools/AncientPickaxe,2,0.png",
+    "icon": "/icons/Tools/Ancient_Pickaxe,2,0.png",
     "boss": true,
     "seasonal": false,
     "craftable": false,
@@ -44,7 +44,7 @@
   {
     "id": "6514",
     "name": "Ancient Waypoint",
-    "icon": "/icons/Tools/AncientWaypoint,6514,0.png",
+    "icon": "/icons/Tools/Ancient_Waypoint,6514,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -58,7 +58,7 @@
   {
     "id": "6837",
     "name": "Anteverse Portal",
-    "icon": "/icons/Tools/AnteversePortal,6837,0.png",
+    "icon": "/icons/Tools/Anteverse_Portal,6837,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -72,7 +72,7 @@
   {
     "id": "4022",
     "name": "Automation Table",
-    "icon": "/icons/Tools/AutomationTable,4022,0.png",
+    "icon": "/icons/Tools/Automation_Table,4022,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -86,7 +86,7 @@
   {
     "id": "4028",
     "name": "Bait Workbench",
-    "icon": "/icons/Tools/BaitWorkbench,4028,0.png",
+    "icon": "/icons/Tools/Bait_Workbench,4028,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -100,7 +100,7 @@
   {
     "id": "4003",
     "name": "Basic Workbench",
-    "icon": "/icons/Tools/BasicWorkbench,4003,0.png",
+    "icon": "/icons/Tools/Basic_Workbench,4003,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -114,7 +114,7 @@
   {
     "id": "77",
     "name": "Black Paint Brush",
-    "icon": "/icons/Tools/BlackPaintBrush,77,0.png",
+    "icon": "/icons/Tools/Black_Paint_Brush,77,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -128,7 +128,7 @@
   {
     "id": "74",
     "name": "Blue Paint Brush",
-    "icon": "/icons/Tools/BluePaintBrush,74,0.png",
+    "icon": "/icons/Tools/Blue_Paint_Brush,74,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -142,7 +142,7 @@
   {
     "id": "4031",
     "name": "Boat Workbench",
-    "icon": "/icons/Tools/BoatWorkbench,4031,0.png",
+    "icon": "/icons/Tools/Boat_Workbench,4031,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -156,7 +156,7 @@
   {
     "id": "75",
     "name": "Brown Paint Brush",
-    "icon": "/icons/Tools/BrownPaintBrush,75,0.png",
+    "icon": "/icons/Tools/Brown_Paint_Brush,75,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -184,7 +184,7 @@
   {
     "id": "18",
     "name": "Bug Net",
-    "icon": "/icons/Tools/BugNet,18,0.png",
+    "icon": "/icons/Tools/Bug_Net,18,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -198,7 +198,7 @@
   {
     "id": "4007",
     "name": "Carpenter's Table",
-    "icon": "/icons/Tools/Carpenter'sTable,4007,0.png",
+    "icon": "/icons/Tools/Carpenter's_Table,4007,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -212,7 +212,7 @@
   {
     "id": "4023",
     "name": "Cartography Table",
-    "icon": "/icons/Tools/CartographyTable,4023,0.png",
+    "icon": "/icons/Tools/Cartography_Table,4023,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -240,7 +240,7 @@
   {
     "id": "8254",
     "name": "Cipher Parchment",
-    "icon": "/icons/Tools/CipherParchment,8254,0.png",
+    "icon": "/icons/Tools/Cipher_Parchment,8254,0.png",
     "boss": true,
     "seasonal": false,
     "craftable": false,
@@ -254,7 +254,7 @@
   {
     "id": "4013",
     "name": "Cooking Pot",
-    "icon": "/icons/Tools/CookingPot,4013,0.png",
+    "icon": "/icons/Tools/Cooking_Pot,4013,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -268,7 +268,7 @@
   {
     "id": "4011",
     "name": "Copper Anvil",
-    "icon": "/icons/Tools/CopperAnvil,4011,0.png",
+    "icon": "/icons/Tools/Copper_Anvil,4011,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -282,7 +282,7 @@
   {
     "id": "12",
     "name": "Copper Hoe",
-    "icon": "/icons/Tools/CopperHoe,12,0.png",
+    "icon": "/icons/Tools/Copper_Hoe,12,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -296,7 +296,7 @@
   {
     "id": "3",
     "name": "Copper Pickaxe",
-    "icon": "/icons/Tools/CopperPickaxe,3,0.png",
+    "icon": "/icons/Tools/Copper_Pickaxe,3,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -310,7 +310,7 @@
   {
     "id": "1",
     "name": "Copper Shovel",
-    "icon": "/icons/Tools/CopperShovel,1,0.png",
+    "icon": "/icons/Tools/Copper_Shovel,1,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -323,8 +323,8 @@
   },
   {
     "id": "60",
-    "name": "Copper Sledge",
-    "icon": "/icons/Tools/CopperSledge,60,0.png",
+    "name": "Copper Sledge Hammer",
+    "icon": "/icons/Tools/Copper_Sledge_Hammer,60,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -338,7 +338,7 @@
   {
     "id": "4043",
     "name": "Copper Workbench",
-    "icon": "/icons/Tools/CopperWorkbench,4043,0.png",
+    "icon": "/icons/Tools/Copper_Workbench,4043,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -352,7 +352,7 @@
   {
     "id": "6656",
     "name": "Crude Drill",
-    "icon": "/icons/Tools/CrudeDrill,6656,0.png",
+    "icon": "/icons/Tools/Crude_Drill,6656,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -366,7 +366,7 @@
   {
     "id": "79",
     "name": "Cyan Paint Brush",
-    "icon": "/icons/Tools/CyanPaintBrush,79,0.png",
+    "icon": "/icons/Tools/Cyan_Paint_Brush,79,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -380,7 +380,7 @@
   {
     "id": "4026",
     "name": "Distillery Table",
-    "icon": "/icons/Tools/DistilleryTable,4026,0.png",
+    "icon": "/icons/Tools/Distillery_Table,4026,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -408,7 +408,7 @@
   {
     "id": "4100",
     "name": "Electricity Generator",
-    "icon": "/icons/Tools/ElectricityGenerator,4100,0.png",
+    "icon": "/icons/Tools/Electricity_Generator,4100,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -422,7 +422,7 @@
   {
     "id": "4005",
     "name": "Electronics Table",
-    "icon": "/icons/Tools/ElectronicsTable,4005,0.png",
+    "icon": "/icons/Tools/Electronics_Table,4005,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -464,7 +464,7 @@
   {
     "id": "4032",
     "name": "Fury Forge",
-    "icon": "/icons/Tools/FuryForge,4032,0.png",
+    "icon": "/icons/Tools/Fury_Forge,4032,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -478,7 +478,7 @@
   {
     "id": "4034",
     "name": "Galaxite Anvil",
-    "icon": "/icons/Tools/GalaxiteAnvil,4034,0.png",
+    "icon": "/icons/Tools/Galaxite_Anvil,4034,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -492,7 +492,7 @@
   {
     "id": "55",
     "name": "Galaxite Fishing Rod",
-    "icon": "/icons/Tools/GalaxiteFishingRod,55,0.png",
+    "icon": "/icons/Tools/Galaxite_Fishing_Rod,55,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -505,8 +505,8 @@
   },
   {
     "id": "37",
-    "name": "Galaxite Mining Pick",
-    "icon": "/icons/Tools/GalaxiteMiningPick,37,0.png",
+    "name": "Galaxite Pickaxe",
+    "icon": "/icons/Tools/Galaxite_Pickaxe,37,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -520,7 +520,7 @@
   {
     "id": "38",
     "name": "Galaxite Shovel",
-    "icon": "/icons/Tools/GalaxiteShovel,38,0.png",
+    "icon": "/icons/Tools/Galaxite_Shovel,38,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -533,8 +533,8 @@
   },
   {
     "id": "65",
-    "name": "Galaxite Sledge",
-    "icon": "/icons/Tools/GalaxiteSledge,65,0.png",
+    "name": "Galaxite Sledge Hammer",
+    "icon": "/icons/Tools/Galaxite_Sledge_Hammer,65,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -548,7 +548,7 @@
   {
     "id": "4033",
     "name": "Galaxite Workbench",
-    "icon": "/icons/Tools/GalaxiteWorkbench,4033,0.png",
+    "icon": "/icons/Tools/Galaxite_Workbench,4033,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -562,7 +562,7 @@
   {
     "id": "23",
     "name": "Garden Trowel",
-    "icon": "/icons/Tools/GardenTrowel,23,0.png",
+    "icon": "/icons/Tools/Garden_Trowel,23,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -576,7 +576,7 @@
   {
     "id": "4044",
     "name": "Glass Smelter",
-    "icon": "/icons/Tools/GlassSmelter,4044,0.png",
+    "icon": "/icons/Tools/Glass_Smelter,4044,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -590,7 +590,7 @@
   {
     "id": "4045",
     "name": "Glass Workbench",
-    "icon": "/icons/Tools/GlassWorkbench,4045,0.png",
+    "icon": "/icons/Tools/Glass_Workbench,4045,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -603,8 +603,8 @@
   },
   {
     "id": "4036",
-    "name": "Go Kart Workbench",
-    "icon": "/icons/Tools/GoKartWorkbench,4036,0.png",
+    "name": "Go-Kart Workbench",
+    "icon": "/icons/Tools/Go-Kart_Workbench,4036,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -618,7 +618,7 @@
   {
     "id": "72",
     "name": "Green Paint Brush",
-    "icon": "/icons/Tools/GreenPaintBrush,72,0.png",
+    "icon": "/icons/Tools/Green_Paint_Brush,72,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -632,7 +632,7 @@
   {
     "id": "81",
     "name": "Grey Paint Brush",
-    "icon": "/icons/Tools/GreyPaintBrush,81,0.png",
+    "icon": "/icons/Tools/Grey_Paint_Brush,81,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -646,7 +646,7 @@
   {
     "id": "6803",
     "name": "Grimy Table",
-    "icon": "/icons/Tools/GrimyTable,6803,0.png",
+    "icon": "/icons/Tools/Grimy_Table,6803,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -660,7 +660,7 @@
   {
     "id": "90",
     "name": "Hand Drill",
-    "icon": "/icons/Tools/HandDrill,90,0.png",
+    "icon": "/icons/Tools/Hand_Drill,90,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -688,7 +688,7 @@
   {
     "id": "4051",
     "name": "Hydra Altar",
-    "icon": "/icons/Tools/HydraAltar,4051,0.png",
+    "icon": "/icons/Tools/Hydra_Altar,4051,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -702,7 +702,7 @@
   {
     "id": "4014",
     "name": "Iron Anvil",
-    "icon": "/icons/Tools/IronAnvil,4014,0.png",
+    "icon": "/icons/Tools/Iron_Anvil,4014,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -716,7 +716,7 @@
   {
     "id": "52",
     "name": "Iron Fishing Rod",
-    "icon": "/icons/Tools/IronFishingRod,52,0.png",
+    "icon": "/icons/Tools/Iron_Fishing_Rod,52,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -730,7 +730,7 @@
   {
     "id": "22",
     "name": "Iron Hoe",
-    "icon": "/icons/Tools/IronHoe,22,0.png",
+    "icon": "/icons/Tools/Iron_Hoe,22,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -744,7 +744,7 @@
   {
     "id": "20",
     "name": "Iron Pickaxe",
-    "icon": "/icons/Tools/IronPickaxe,20,0.png",
+    "icon": "/icons/Tools/Iron_Pickaxe,20,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -758,7 +758,7 @@
   {
     "id": "21",
     "name": "Iron Shovel",
-    "icon": "/icons/Tools/IronShovel,21,0.png",
+    "icon": "/icons/Tools/Iron_Shovel,21,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -771,8 +771,8 @@
   },
   {
     "id": "62",
-    "name": "Iron Sledge",
-    "icon": "/icons/Tools/IronSledge,62,0.png",
+    "name": "Iron Sledge Hammer",
+    "icon": "/icons/Tools/Iron_Sledge_Hammer,62,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -786,7 +786,7 @@
   {
     "id": "4010",
     "name": "Iron Workbench",
-    "icon": "/icons/Tools/IronWorkbench,4010,0.png",
+    "icon": "/icons/Tools/Iron_Workbench,4010,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -800,7 +800,7 @@
   {
     "id": "4012",
     "name": "Jewelry Workbench",
-    "icon": "/icons/Tools/JewelryWorkbench,4012,0.png",
+    "icon": "/icons/Tools/Jewelry_Workbench,4012,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -814,7 +814,7 @@
   {
     "id": "4035",
     "name": "Key Casting Table",
-    "icon": "/icons/Tools/KeyCastingTable,4035,0.png",
+    "icon": "/icons/Tools/Key_Casting_Table,4035,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -828,7 +828,7 @@
   {
     "id": "5",
     "name": "Large Watering Can",
-    "icon": "/icons/Tools/LargeWateringCan,5,0.png",
+    "icon": "/icons/Tools/Large_Watering_Can,5,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -841,8 +841,8 @@
   },
   {
     "id": "8959",
-    "name": "Lava Axe",
-    "icon": "/icons/Tools/LavaAxe,8959,0.png",
+    "name": "Lava Battle Axe",
+    "icon": "/icons/Tools/Lava_Battle_Axe,8959,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -856,7 +856,7 @@
   {
     "id": "4048",
     "name": "Livestock Workbench",
-    "icon": "/icons/Tools/LivestockWorkbench,4048,0.png",
+    "icon": "/icons/Tools/Livestock_Workbench,4048,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -884,7 +884,7 @@
   {
     "id": "4042",
     "name": "Music Workbench",
-    "icon": "/icons/Tools/MusicWorkbench,4042,0.png",
+    "icon": "/icons/Tools/Music_Workbench,4042,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -898,7 +898,7 @@
   {
     "id": "4024",
     "name": "Octarine Anvil",
-    "icon": "/icons/Tools/OctarineAnvil,4024,0.png",
+    "icon": "/icons/Tools/Octarine_Anvil,4024,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -912,7 +912,7 @@
   {
     "id": "54",
     "name": "Octarine Fishing Rod",
-    "icon": "/icons/Tools/OctarineFishingRod,54,0.png",
+    "icon": "/icons/Tools/Octarine_Fishing_Rod,54,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -926,7 +926,7 @@
   {
     "id": "34",
     "name": "Octarine Garden Trowel",
-    "icon": "/icons/Tools/OctarineGardenTrowel,34,0.png",
+    "icon": "/icons/Tools/Octarine_Garden_Trowel,34,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -940,7 +940,7 @@
   {
     "id": "35",
     "name": "Octarine Pickaxe",
-    "icon": "/icons/Tools/OctarinePickaxe,35,0.png",
+    "icon": "/icons/Tools/Octarine_Pickaxe,35,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -954,7 +954,7 @@
   {
     "id": "36",
     "name": "Octarine Shovel",
-    "icon": "/icons/Tools/OctarineShovel,36,0.png",
+    "icon": "/icons/Tools/Octarine_Shovel,36,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -967,8 +967,8 @@
   },
   {
     "id": "64",
-    "name": "Octarine Sledge",
-    "icon": "/icons/Tools/OctarineSledge,64,0.png",
+    "name": "Octarine Sledge Hammer",
+    "icon": "/icons/Tools/Octarine_Sledge_Hammer,64,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -982,7 +982,7 @@
   {
     "id": "4027",
     "name": "Octarine Workbench",
-    "icon": "/icons/Tools/OctarineWorkbench,4027,0.png",
+    "icon": "/icons/Tools/Octarine_Workbench,4027,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -996,7 +996,7 @@
   {
     "id": "78",
     "name": "Orange Paint Brush",
-    "icon": "/icons/Tools/OrangePaintBrush,78,0.png",
+    "icon": "/icons/Tools/Orange_Paint_Brush,78,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1010,7 +1010,7 @@
   {
     "id": "4018",
     "name": "Painter's Table",
-    "icon": "/icons/Tools/Painter'sTable,4018,0.png",
+    "icon": "/icons/Tools/Painter's_Table,4018,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1024,7 +1024,7 @@
   {
     "id": "82",
     "name": "Peach Paint Brush",
-    "icon": "/icons/Tools/PeachPaintBrush,82,0.png",
+    "icon": "/icons/Tools/Peach_Paint_Brush,82,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1038,7 +1038,7 @@
   {
     "id": "5148",
     "name": "Pickaxe Head",
-    "icon": "/icons/Tools/PickaxeHead,5148,0.png",
+    "icon": "/icons/Tools/Pickaxe_Head,5148,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1052,7 +1052,7 @@
   {
     "id": "80",
     "name": "Pink Paint Brush",
-    "icon": "/icons/Tools/PinkPaintBrush,80,0.png",
+    "icon": "/icons/Tools/Pink_Paint_Brush,80,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1080,7 +1080,7 @@
   {
     "id": "4030",
     "name": "Proficient Jewelry Workbench",
-    "icon": "/icons/Tools/ProficientJewelryWorkbench,4030,0.png",
+    "icon": "/icons/Tools/Proficient_Jewelry_Workbench,4030,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1094,7 +1094,7 @@
   {
     "id": "73",
     "name": "Purple Paint Brush",
-    "icon": "/icons/Tools/PurplePaintBrush,73,0.png",
+    "icon": "/icons/Tools/Purple_Paint_Brush,73,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1108,7 +1108,7 @@
   {
     "id": "4017",
     "name": "Railway Forge",
-    "icon": "/icons/Tools/RailwayForge,4017,0.png",
+    "icon": "/icons/Tools/Railway_Forge,4017,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1122,7 +1122,7 @@
   {
     "id": "70",
     "name": "Red Paint Brush",
-    "icon": "/icons/Tools/RedPaintBrush,70,0.png",
+    "icon": "/icons/Tools/Red_Paint_Brush,70,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1135,8 +1135,8 @@
   },
   {
     "id": "4025",
-    "name": "Salvageand Repair Station",
-    "icon": "/icons/Tools/SalvageandRepairStation,4025,0.png",
+    "name": "Salvage and Repair Station",
+    "icon": "/icons/Tools/Salvage_and_Repair_Station,4025,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1150,7 +1150,7 @@
   {
     "id": "4050",
     "name": "Samhain Workbench",
-    "icon": "/icons/Tools/SamhainWorkbench,4050,0.png",
+    "icon": "/icons/Tools/Samhain_Workbench,4050,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1164,7 +1164,7 @@
   {
     "id": "4021",
     "name": "Scarlet Anvil",
-    "icon": "/icons/Tools/ScarletAnvil,4021,0.png",
+    "icon": "/icons/Tools/Scarlet_Anvil,4021,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1178,7 +1178,7 @@
   {
     "id": "53",
     "name": "Scarlet Fishing Rod",
-    "icon": "/icons/Tools/ScarletFishingRod,53,0.png",
+    "icon": "/icons/Tools/Scarlet_Fishing_Rod,53,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1192,7 +1192,7 @@
   {
     "id": "92",
     "name": "Scarlet Hand Drill",
-    "icon": "/icons/Tools/ScarletHandDrill,92,0.png",
+    "icon": "/icons/Tools/Scarlet_Hand_Drill,92,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1206,7 +1206,7 @@
   {
     "id": "31",
     "name": "Scarlet Hoe",
-    "icon": "/icons/Tools/ScarletHoe,31,0.png",
+    "icon": "/icons/Tools/Scarlet_Hoe,31,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1220,7 +1220,7 @@
   {
     "id": "30",
     "name": "Scarlet Pickaxe",
-    "icon": "/icons/Tools/ScarletPickaxe,30,0.png",
+    "icon": "/icons/Tools/Scarlet_Pickaxe,30,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1234,7 +1234,7 @@
   {
     "id": "32",
     "name": "Scarlet Shovel",
-    "icon": "/icons/Tools/ScarletShovel,32,0.png",
+    "icon": "/icons/Tools/Scarlet_Shovel,32,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1247,8 +1247,8 @@
   },
   {
     "id": "63",
-    "name": "Scarlet Sledge",
-    "icon": "/icons/Tools/ScarletSledge,63,0.png",
+    "name": "Scarlet Sledge Hammer",
+    "icon": "/icons/Tools/Scarlet_Sledge_Hammer,63,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1262,7 +1262,7 @@
   {
     "id": "4016",
     "name": "Scarlet Workbench",
-    "icon": "/icons/Tools/ScarletWorkbench,4016,0.png",
+    "icon": "/icons/Tools/Scarlet_Workbench,4016,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1276,7 +1276,7 @@
   {
     "id": "4015",
     "name": "Smelter Kiln",
-    "icon": "/icons/Tools/SmelterKiln,4015,0.png",
+    "icon": "/icons/Tools/Smelter_Kiln,4015,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1290,7 +1290,7 @@
   {
     "id": "4047",
     "name": "Solarite Anvil",
-    "icon": "/icons/Tools/SolariteAnvil,4047,0.png",
+    "icon": "/icons/Tools/Solarite_Anvil,4047,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1304,7 +1304,7 @@
   {
     "id": "56",
     "name": "Solarite Fishing Rod",
-    "icon": "/icons/Tools/SolariteFishingRod,56,0.png",
+    "icon": "/icons/Tools/Solarite_Fishing_Rod,56,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1318,7 +1318,7 @@
   {
     "id": "41",
     "name": "Solarite Pickaxe",
-    "icon": "/icons/Tools/SolaritePickaxe,41,0.png",
+    "icon": "/icons/Tools/Solarite_Pickaxe,41,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1332,7 +1332,7 @@
   {
     "id": "45",
     "name": "Soul Seeker",
-    "icon": "/icons/Tools/SoulSeeker,45,0.png",
+    "icon": "/icons/Tools/Soul_Seeker,45,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1346,7 +1346,7 @@
   {
     "id": "4009",
     "name": "Table Saw",
-    "icon": "/icons/Tools/TableSaw,4009,0.png",
+    "icon": "/icons/Tools/Table_Saw,4009,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1360,7 +1360,7 @@
   {
     "id": "83",
     "name": "Teal Paint Brush",
-    "icon": "/icons/Tools/TealPaintBrush,83,0.png",
+    "icon": "/icons/Tools/Teal_Paint_Brush,83,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1388,7 +1388,7 @@
   {
     "id": "4020",
     "name": "Tin Anvil",
-    "icon": "/icons/Tools/TinAnvil,4020,0.png",
+    "icon": "/icons/Tools/Tin_Anvil,4020,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1402,7 +1402,7 @@
   {
     "id": "51",
     "name": "Tin Fishing Rod",
-    "icon": "/icons/Tools/TinFishingRod,51,0.png",
+    "icon": "/icons/Tools/Tin_Fishing_Rod,51,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1416,7 +1416,7 @@
   {
     "id": "17",
     "name": "Tin Hoe",
-    "icon": "/icons/Tools/TinHoe,17,0.png",
+    "icon": "/icons/Tools/Tin_Hoe,17,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1430,7 +1430,7 @@
   {
     "id": "15",
     "name": "Tin Pickaxe",
-    "icon": "/icons/Tools/TinPickaxe,15,0.png",
+    "icon": "/icons/Tools/Tin_Pickaxe,15,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1444,7 +1444,7 @@
   {
     "id": "16",
     "name": "Tin Shovel",
-    "icon": "/icons/Tools/TinShovel,16,0.png",
+    "icon": "/icons/Tools/Tin_Shovel,16,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1457,8 +1457,8 @@
   },
   {
     "id": "61",
-    "name": "Tin Sledge",
-    "icon": "/icons/Tools/TinSledge,61,0.png",
+    "name": "Tin Sledge Hammer",
+    "icon": "/icons/Tools/Tin_Sledge_Hammer,61,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1472,7 +1472,7 @@
   {
     "id": "4019",
     "name": "Tin Workbench",
-    "icon": "/icons/Tools/TinWorkbench,4019,0.png",
+    "icon": "/icons/Tools/Tin_Workbench,4019,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1486,7 +1486,7 @@
   {
     "id": "4046",
     "name": "Upgrade Station",
-    "icon": "/icons/Tools/UpgradeStation,4046,0.png",
+    "icon": "/icons/Tools/Upgrade_Station,4046,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1500,7 +1500,7 @@
   {
     "id": "4040",
     "name": "Valentine Crafting Table",
-    "icon": "/icons/Tools/ValentineCraftingTable,4040,0.png",
+    "icon": "/icons/Tools/Valentine_Crafting_Table,4040,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1514,7 +1514,7 @@
   {
     "id": "4",
     "name": "Watering Can",
-    "icon": "/icons/Tools/WateringCan,4,0.png",
+    "icon": "/icons/Tools/Watering_Can,4,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1528,7 +1528,7 @@
   {
     "id": "76",
     "name": "White Paint Brush",
-    "icon": "/icons/Tools/WhitePaintBrush,76,0.png",
+    "icon": "/icons/Tools/White_Paint_Brush,76,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1542,21 +1542,7 @@
   {
     "id": "50",
     "name": "Wood Fishing Rod",
-    "icon": "/icons/Tools/WoodFishingRod,50,0.png",
-    "boss": false,
-    "seasonal": false,
-    "craftable": false,
-    "merchant": false,
-    "dropped": false,
-    "owned": false,
-    "fishing": false,
-    "loot": false,
-    "dig": false
-  },
-  {
-    "id": "13",
-    "name": "Wood Hoe",
-    "icon": "/icons/Tools/WoodHoe,13,0.png",
+    "icon": "/icons/Tools/Wood_Fishing_Rod,50,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1570,7 +1556,7 @@
   {
     "id": "10",
     "name": "Wood Pickaxe",
-    "icon": "/icons/Tools/WoodPickaxe,10,0.png",
+    "icon": "/icons/Tools/Wood_Pickaxe,10,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1584,7 +1570,21 @@
   {
     "id": "11",
     "name": "Wood Shovel",
-    "icon": "/icons/Tools/WoodShovel,11,0.png",
+    "icon": "/icons/Tools/Wood_Shovel,11,0.png",
+    "boss": false,
+    "seasonal": false,
+    "craftable": false,
+    "merchant": false,
+    "dropped": false,
+    "owned": false,
+    "fishing": false,
+    "loot": false,
+    "dig": false
+  },
+  {
+    "id": "13",
+    "name": "Wooden Hoe",
+    "icon": "/icons/Tools/Wooden_Hoe,13,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1597,8 +1597,8 @@
   },
   {
     "id": "8909",
-    "name": "Wood Sword",
-    "icon": "/icons/Tools/WoodSword,8909,0.png",
+    "name": "Wooden Sword",
+    "icon": "/icons/Tools/Wooden_Sword,8909,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1612,7 +1612,7 @@
   {
     "id": "71",
     "name": "Yellow Paint Brush",
-    "icon": "/icons/Tools/YellowPaintBrush,71,0.png",
+    "icon": "/icons/Tools/Yellow_Paint_Brush,71,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,

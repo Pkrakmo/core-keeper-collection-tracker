@@ -2,7 +2,7 @@
   {
     "id": "5091",
     "name": "Acid Larva Figurine",
-    "icon": "/icons/Treasures/AcidLarvaFigurine,5091,0.png",
+    "icon": "/icons/Treasures/Acid_Larva_Figurine,5091,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -16,7 +16,7 @@
   {
     "id": "5046",
     "name": "Adder Stone",
-    "icon": "/icons/Treasures/AdderStone,5046,0.png",
+    "icon": "/icons/Treasures/Adder_Stone,5046,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -30,7 +30,7 @@
   {
     "id": "5033",
     "name": "Amber Chunk",
-    "icon": "/icons/Treasures/AmberChunk,5033,0.png",
+    "icon": "/icons/Treasures/Amber_Chunk,5033,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -44,7 +44,7 @@
   {
     "id": "5044",
     "name": "Amber Fish Egg",
-    "icon": "/icons/Treasures/AmberFishEgg,5044,0.png",
+    "icon": "/icons/Treasures/Amber_Fish_Egg,5044,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -72,7 +72,7 @@
   {
     "id": "5170",
     "name": "Ancient Fishing Hook",
-    "icon": "/icons/Treasures/AncientFishingHook,5170,0.png",
+    "icon": "/icons/Treasures/Ancient_Fishing_Hook,5170,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -86,7 +86,7 @@
   {
     "id": "5076",
     "name": "Ancient Gem Plate",
-    "icon": "/icons/Treasures/AncientGemPlate,5076,0.png",
+    "icon": "/icons/Treasures/Ancient_Gem_Plate,5076,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -100,7 +100,7 @@
   {
     "id": "5152",
     "name": "Ancient Golden Coin",
-    "icon": "/icons/Treasures/AncientGoldenCoin,5152,0.png",
+    "icon": "/icons/Treasures/Ancient_Golden_Coin,5152,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -114,7 +114,7 @@
   {
     "id": "5154",
     "name": "Ancient Makeup Set",
-    "icon": "/icons/Treasures/AncientMakeupSet,5154,0.png",
+    "icon": "/icons/Treasures/Ancient_Makeup_Set,5154,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -128,7 +128,7 @@
   {
     "id": "5077",
     "name": "Antique Board Game",
-    "icon": "/icons/Treasures/AntiqueBoardGame,5077,0.png",
+    "icon": "/icons/Treasures/Antique_Board_Game,5077,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -142,7 +142,7 @@
   {
     "id": "5210",
     "name": "Atlantean Worm Figurine",
-    "icon": "/icons/Treasures/AtlanteanWormFigurine,5210,0.png",
+    "icon": "/icons/Treasures/Atlantean_Worm_Figurine,5210,0.png",
     "boss": true,
     "seasonal": false,
     "craftable": false,
@@ -156,7 +156,7 @@
   {
     "id": "5110",
     "name": "Awakened Azeos Figurine",
-    "icon": "/icons/Treasures/AwakenedAzeosFigurine,5110,0.png",
+    "icon": "/icons/Treasures/Awakened_Azeos_Figurine,5110,0.png",
     "boss": true,
     "seasonal": true,
     "craftable": false,
@@ -170,7 +170,7 @@
   {
     "id": "5102",
     "name": "Azeos Figurine",
-    "icon": "/icons/Treasures/AzeosFigurine,5102,0.png",
+    "icon": "/icons/Treasures/Azeos_Figurine,5102,0.png",
     "boss": true,
     "seasonal": false,
     "craftable": false,
@@ -184,7 +184,7 @@
   {
     "id": "5902",
     "name": "Azeos Urn",
-    "icon": "/icons/Treasures/AzeosUrn,5902,0.png",
+    "icon": "/icons/Treasures/Azeos_Urn,5902,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -197,8 +197,8 @@
   },
   {
     "id": "5151",
-    "name": "Bag Of Marbles",
-    "icon": "/icons/Treasures/BagOfMarbles,5151,0.png",
+    "name": "Bag of Marbles",
+    "icon": "/icons/Treasures/Bag_of_Marbles,5151,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -210,9 +210,23 @@
     "dig": false
   },
   {
+    "id": "5189",
+    "name": "Bakery Brute Figurine",
+    "icon": "/icons/Treasures/Bakery_Brute_Figurine,5189,0.png",
+    "boss": false,
+    "seasonal": true,
+    "craftable": false,
+    "merchant": false,
+    "dropped": false,
+    "owned": false,
+    "fishing": false,
+    "loot": false,
+    "dig": false
+  },
+  {
     "id": "5026",
     "name": "Balloon Spore",
-    "icon": "/icons/Treasures/BalloonSpore,5026,0.png",
+    "icon": "/icons/Treasures/Balloon_Spore,5026,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -226,7 +240,7 @@
   {
     "id": "5119",
     "name": "Bent Fork",
-    "icon": "/icons/Treasures/BentFork,5119,0.png",
+    "icon": "/icons/Treasures/Bent_Fork,5119,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -240,7 +254,7 @@
   {
     "id": "5179",
     "name": "Big Dracularva Figurine",
-    "icon": "/icons/Treasures/BigDracularvaFigurine,5179,0.png",
+    "icon": "/icons/Treasures/Big_Dracularva_Figurine,5179,0.png",
     "boss": false,
     "seasonal": true,
     "craftable": false,
@@ -254,7 +268,7 @@
   {
     "id": "5095",
     "name": "Big Hive Larva Figurine",
-    "icon": "/icons/Treasures/BigHiveLarvaFigurine,5095,0.png",
+    "icon": "/icons/Treasures/Big_Hive_Larva_Figurine,5095,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -268,7 +282,7 @@
   {
     "id": "5093",
     "name": "Big Larva Figurine",
-    "icon": "/icons/Treasures/BigLarvaFigurine,5093,0.png",
+    "icon": "/icons/Treasures/Big_Larva_Figurine,5093,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -282,7 +296,7 @@
   {
     "id": "5062",
     "name": "Black Bubble Pearl",
-    "icon": "/icons/Treasures/BlackBubblePearl,5062,0.png",
+    "icon": "/icons/Treasures/Black_Bubble_Pearl,5062,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -296,7 +310,7 @@
   {
     "id": "5150",
     "name": "Black Desert Diamond",
-    "icon": "/icons/Treasures/BlackDesertDiamond,5150,0.png",
+    "icon": "/icons/Treasures/Black_Desert_Diamond,5150,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -310,7 +324,7 @@
   {
     "id": "5021",
     "name": "Blood Skull",
-    "icon": "/icons/Treasures/BloodSkull,5021,0.png",
+    "icon": "/icons/Treasures/Blood_Skull,5021,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -324,7 +338,7 @@
   {
     "id": "5141",
     "name": "Blue Glass Shard",
-    "icon": "/icons/Treasures/BlueGlassShard,5141,0.png",
+    "icon": "/icons/Treasures/Blue_Glass_Shard,5141,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -338,7 +352,7 @@
   {
     "id": "5135",
     "name": "Blue Kelp",
-    "icon": "/icons/Treasures/BlueKelp,5135,0.png",
+    "icon": "/icons/Treasures/Blue_Kelp,5135,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -352,7 +366,7 @@
   {
     "id": "5107",
     "name": "Blue Slime Figurine",
-    "icon": "/icons/Treasures/BlueSlimeFigurine,5107,0.png",
+    "icon": "/icons/Treasures/Blue_Slime_Figurine,5107,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -366,7 +380,7 @@
   {
     "id": "5162",
     "name": "Bomb Scarab Figurine",
-    "icon": "/icons/Treasures/BombScarabFigurine,5162,0.png",
+    "icon": "/icons/Treasures/Bomb_Scarab_Figurine,5162,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -380,7 +394,7 @@
   {
     "id": "5018",
     "name": "Bone Creole",
-    "icon": "/icons/Treasures/BoneCreole,5018,0.png",
+    "icon": "/icons/Treasures/Bone_Creole,5018,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -394,7 +408,7 @@
   {
     "id": "3906",
     "name": "Brave Merchant",
-    "icon": "/icons/Treasures/BraveMerchant,3906,0.png",
+    "icon": "/icons/Treasures/Brave_Merchant,3906,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -408,7 +422,7 @@
   {
     "id": "5014",
     "name": "Broken Core Idol",
-    "icon": "/icons/Treasures/BrokenCoreIdol,5014,0.png",
+    "icon": "/icons/Treasures/Broken_Core_Idol,5014,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -422,7 +436,7 @@
   {
     "id": "5166",
     "name": "Broken Gourd",
-    "icon": "/icons/Treasures/BrokenGourd,5166,0.png",
+    "icon": "/icons/Treasures/Broken_Gourd,5166,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -436,7 +450,7 @@
   {
     "id": "5168",
     "name": "Broken Toy Ship",
-    "icon": "/icons/Treasures/BrokenToyShip,5168,0.png",
+    "icon": "/icons/Treasures/Broken_Toy_Ship,5168,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -450,7 +464,7 @@
   {
     "id": "5128",
     "name": "Bubble Crab Figurine",
-    "icon": "/icons/Treasures/BubbleCrabFigurine,5128,0.png",
+    "icon": "/icons/Treasures/Bubble_Crab_Figurine,5128,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -464,7 +478,7 @@
   {
     "id": "5061",
     "name": "Bubble Pearl",
-    "icon": "/icons/Treasures/BubblePearl,5061,0.png",
+    "icon": "/icons/Treasures/Bubble_Pearl,5061,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -476,9 +490,23 @@
     "dig": true
   },
   {
+    "id": "5188",
+    "name": "Carrot Slime Figurine",
+    "icon": "/icons/Treasures/Carrot_Slime_Figurine,5188,0.png",
+    "boss": false,
+    "seasonal": true,
+    "craftable": false,
+    "merchant": false,
+    "dropped": false,
+    "owned": false,
+    "fishing": false,
+    "loot": false,
+    "dig": false
+  },
+  {
     "id": "5164",
     "name": "Caveling Assassin Figurine",
-    "icon": "/icons/Treasures/CavelingAssassinFigurine,5164,0.png",
+    "icon": "/icons/Treasures/Caveling_Assassin_Figurine,5164,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -492,7 +520,7 @@
   {
     "id": "5101",
     "name": "Caveling Brute Figurine",
-    "icon": "/icons/Treasures/CavelingBruteFigurine,5101,0.png",
+    "icon": "/icons/Treasures/Caveling_Brute_Figurine,5101,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -506,7 +534,7 @@
   {
     "id": "5120",
     "name": "Caveling Cup",
-    "icon": "/icons/Treasures/CavelingCup,5120,0.png",
+    "icon": "/icons/Treasures/Caveling_Cup,5120,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -520,7 +548,7 @@
   {
     "id": "5027",
     "name": "Caveling Doll",
-    "icon": "/icons/Treasures/CavelingDoll,5027,0.png",
+    "icon": "/icons/Treasures/Caveling_Doll,5027,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -534,7 +562,7 @@
   {
     "id": "5112",
     "name": "Caveling Effigy",
-    "icon": "/icons/Treasures/CavelingEffigy,5112,0.png",
+    "icon": "/icons/Treasures/Caveling_Effigy,5112,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -548,7 +576,7 @@
   {
     "id": "5096",
     "name": "Caveling Figurine",
-    "icon": "/icons/Treasures/CavelingFigurine,5096,0.png",
+    "icon": "/icons/Treasures/Caveling_Figurine,5096,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -562,7 +590,7 @@
   {
     "id": "5097",
     "name": "Caveling Gardener Figurine",
-    "icon": "/icons/Treasures/CavelingGardenerFigurine,5097,0.png",
+    "icon": "/icons/Treasures/Caveling_Gardener_Figurine,5097,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -576,7 +604,7 @@
   {
     "id": "5098",
     "name": "Caveling Hunter Figurine",
-    "icon": "/icons/Treasures/CavelingHunterFigurine,5098,0.png",
+    "icon": "/icons/Treasures/Caveling_Hunter_Figurine,5098,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -590,7 +618,7 @@
   {
     "id": "5059",
     "name": "Caveling Medal",
-    "icon": "/icons/Treasures/CavelingMedal,5059,0.png",
+    "icon": "/icons/Treasures/Caveling_Medal,5059,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -604,7 +632,7 @@
   {
     "id": "5224",
     "name": "Caveling Mummy Figurine",
-    "icon": "/icons/Treasures/CavelingMummyFigurine,5224,0.png",
+    "icon": "/icons/Treasures/Caveling_Mummy_Figurine,5224,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -618,7 +646,7 @@
   {
     "id": "5047",
     "name": "Caveling Perfume",
-    "icon": "/icons/Treasures/CavelingPerfume,5047,0.png",
+    "icon": "/icons/Treasures/Caveling_Perfume,5047,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -632,7 +660,7 @@
   {
     "id": "5155",
     "name": "Caveling Prophet Mask",
-    "icon": "/icons/Treasures/CavelingProphetMask,5155,0.png",
+    "icon": "/icons/Treasures/Caveling_Prophet_Mask,5155,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -646,7 +674,7 @@
   {
     "id": "5143",
     "name": "Caveling Sandal",
-    "icon": "/icons/Treasures/CavelingSandal,5143,0.png",
+    "icon": "/icons/Treasures/Caveling_Sandal,5143,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -660,7 +688,7 @@
   {
     "id": "5130",
     "name": "Caveling Scholar Figurine",
-    "icon": "/icons/Treasures/CavelingScholarFigurine,5130,0.png",
+    "icon": "/icons/Treasures/Caveling_Scholar_Figurine,5130,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -674,7 +702,7 @@
   {
     "id": "5099",
     "name": "Caveling Shaman Figurine",
-    "icon": "/icons/Treasures/CavelingShamanFigurine,5099,0.png",
+    "icon": "/icons/Treasures/Caveling_Shaman_Figurine,5099,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -688,7 +716,7 @@
   {
     "id": "5180",
     "name": "Caveling Skirmisher Figurine",
-    "icon": "/icons/Treasures/CavelingSkirmisherFigurine,5180,0.png",
+    "icon": "/icons/Treasures/Caveling_Skirmisher_Figurine,5180,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -702,7 +730,7 @@
   {
     "id": "5010",
     "name": "Caveling Skull",
-    "icon": "/icons/Treasures/CavelingSkull,5010,0.png",
+    "icon": "/icons/Treasures/Caveling_Skull,5010,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -716,7 +744,7 @@
   {
     "id": "5181",
     "name": "Caveling Spearman Figurine",
-    "icon": "/icons/Treasures/CavelingSpearmanFigurine,5181,0.png",
+    "icon": "/icons/Treasures/Caveling_Spearman_Figurine,5181,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -730,7 +758,7 @@
   {
     "id": "5055",
     "name": "Ceremonial Flute",
-    "icon": "/icons/Treasures/CeremonialFlute,5055,0.png",
+    "icon": "/icons/Treasures/Ceremonial_Flute,5055,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -744,7 +772,7 @@
   {
     "id": "5142",
     "name": "Charred Caveling Skull",
-    "icon": "/icons/Treasures/CharredCavelingSkull,5142,0.png",
+    "icon": "/icons/Treasures/Charred_Caveling_Skull,5142,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -758,91 +786,7 @@
   {
     "id": "5038",
     "name": "Chipped Plate",
-    "icon": "/icons/Treasures/ChippedPlate,5038,0.png",
-    "boss": false,
-    "seasonal": false,
-    "craftable": false,
-    "merchant": false,
-    "dropped": false,
-    "owned": false,
-    "fishing": false,
-    "loot": false,
-    "dig": false
-  },
-  {
-    "id": "5189",
-    "name": "Christmas Brute Figurine",
-    "icon": "/icons/Treasures/ChristmasBruteFigurine,5189,0.png",
-    "boss": false,
-    "seasonal": false,
-    "craftable": false,
-    "merchant": false,
-    "dropped": false,
-    "owned": false,
-    "fishing": false,
-    "loot": false,
-    "dig": false
-  },
-  {
-    "id": "5190",
-    "name": "Christmas Caveling Figurine",
-    "icon": "/icons/Treasures/ChristmasCavelingFigurine,5190,0.png",
-    "boss": false,
-    "seasonal": false,
-    "craftable": false,
-    "merchant": false,
-    "dropped": false,
-    "owned": false,
-    "fishing": false,
-    "loot": false,
-    "dig": false
-  },
-  {
-    "id": "5186",
-    "name": "Christmas Shaman Figurine",
-    "icon": "/icons/Treasures/ChristmasShamanFigurine,5186,0.png",
-    "boss": false,
-    "seasonal": false,
-    "craftable": false,
-    "merchant": false,
-    "dropped": false,
-    "owned": false,
-    "fishing": false,
-    "loot": false,
-    "dig": false
-  },
-  {
-    "id": "5191",
-    "name": "Christmas Shrooman Figurine",
-    "icon": "/icons/Treasures/ChristmasShroomanFigurine,5191,0.png",
-    "boss": false,
-    "seasonal": false,
-    "craftable": false,
-    "merchant": false,
-    "dropped": false,
-    "owned": false,
-    "fishing": false,
-    "loot": false,
-    "dig": false
-  },
-  {
-    "id": "5187",
-    "name": "Christmas Slime Figurine",
-    "icon": "/icons/Treasures/ChristmasSlimeFigurine,5187,0.png",
-    "boss": false,
-    "seasonal": false,
-    "craftable": false,
-    "merchant": false,
-    "dropped": false,
-    "owned": false,
-    "fishing": false,
-    "loot": false,
-    "dig": false
-  },
-  {
-    "id": "5188",
-    "name": "Christmas Spiked Slime Figurine",
-    "icon": "/icons/Treasures/ChristmasSpikedSlimeFigurine,5188,0.png",
+    "icon": "/icons/Treasures/Chipped_Plate,5038,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -856,7 +800,7 @@
   {
     "id": "5227",
     "name": "Cicada Nymph Figurine",
-    "icon": "/icons/Treasures/CicadaNymphFigurine,5227,0.png",
+    "icon": "/icons/Treasures/Cicada_Nymph_Figurine,5227,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -870,7 +814,7 @@
   {
     "id": "5215",
     "name": "Clay Burrower Figurine",
-    "icon": "/icons/Treasures/ClayBurrowerFigurine,5215,0.png",
+    "icon": "/icons/Treasures/Clay_Burrower_Figurine,5215,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -884,7 +828,7 @@
   {
     "id": "5126",
     "name": "Cocoon Figurine",
-    "icon": "/icons/Treasures/CocoonFigurine,5126,0.png",
+    "icon": "/icons/Treasures/Cocoon_Figurine,5126,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -898,7 +842,7 @@
   {
     "id": "5221",
     "name": "Colossal Amoeba Figurine",
-    "icon": "/icons/Treasures/ColossalAmoebaFigurine,5221,0.png",
+    "icon": "/icons/Treasures/Colossal_Amoeba_Figurine,5221,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -912,7 +856,7 @@
   {
     "id": "5219",
     "name": "Core Commander Figurine",
-    "icon": "/icons/Treasures/CoreCommanderFigurine,5219,0.png",
+    "icon": "/icons/Treasures/Core_Commander_Figurine,5219,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -926,7 +870,7 @@
   {
     "id": "5124",
     "name": "Core Figurine",
-    "icon": "/icons/Treasures/CoreFigurine,5124,0.png",
+    "icon": "/icons/Treasures/Core_Figurine,5124,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -940,7 +884,7 @@
   {
     "id": "5129",
     "name": "Core Sentry Figurine",
-    "icon": "/icons/Treasures/CoreSentryFigurine,5129,0.png",
+    "icon": "/icons/Treasures/Core_Sentry_Figurine,5129,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -954,7 +898,7 @@
   {
     "id": "5218",
     "name": "Crydra Figurine",
-    "icon": "/icons/Treasures/CrydraFigurine,5218,0.png",
+    "icon": "/icons/Treasures/Crydra_Figurine,5218,0.png",
     "boss": true,
     "seasonal": false,
     "craftable": false,
@@ -968,7 +912,7 @@
   {
     "id": "5145",
     "name": "Crystal Spearhead",
-    "icon": "/icons/Treasures/CrystalSpearhead,5145,0.png",
+    "icon": "/icons/Treasures/Crystal_Spearhead,5145,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -982,7 +926,7 @@
   {
     "id": "5113",
     "name": "Crystal Sphere",
-    "icon": "/icons/Treasures/CrystalSphere,5113,0.png",
+    "icon": "/icons/Treasures/Crystal_Sphere,5113,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -996,7 +940,7 @@
   {
     "id": "5182",
     "name": "Crystal Star",
-    "icon": "/icons/Treasures/CrystalStar,5182,0.png",
+    "icon": "/icons/Treasures/Crystal_Star,5182,0.png",
     "boss": false,
     "seasonal": true,
     "craftable": false,
@@ -1010,7 +954,7 @@
   {
     "id": "5173",
     "name": "Dark Blue Kelp",
-    "icon": "/icons/Treasures/DarkBlueKelp,5173,0.png",
+    "icon": "/icons/Treasures/Dark_Blue_Kelp,5173,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1024,7 +968,7 @@
   {
     "id": "5056",
     "name": "Data Slate",
-    "icon": "/icons/Treasures/DataSlate,5056,0.png",
+    "icon": "/icons/Treasures/Data_Slate,5056,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1038,7 +982,7 @@
   {
     "id": "5149",
     "name": "Desert Diamond",
-    "icon": "/icons/Treasures/DesertDiamond,5149,0.png",
+    "icon": "/icons/Treasures/Desert_Diamond,5149,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1052,7 +996,7 @@
   {
     "id": "5216",
     "name": "Druidra Figurine",
-    "icon": "/icons/Treasures/DruidraFigurine,5216,0.png",
+    "icon": "/icons/Treasures/Druidra_Figurine,5216,0.png",
     "boss": true,
     "seasonal": false,
     "craftable": false,
@@ -1066,7 +1010,7 @@
   {
     "id": "5031",
     "name": "Dry Butterfly",
-    "icon": "/icons/Treasures/DryButterfly,5031,0.png",
+    "icon": "/icons/Treasures/Dry_Butterfly,5031,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1080,7 +1024,7 @@
   {
     "id": "5017",
     "name": "Ear Plate",
-    "icon": "/icons/Treasures/EarPlate,5017,0.png",
+    "icon": "/icons/Treasures/Ear_Plate,5017,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1094,7 +1038,7 @@
   {
     "id": "5074",
     "name": "Early Human Skull",
-    "icon": "/icons/Treasures/EarlyHumanSkull,5074,0.png",
+    "icon": "/icons/Treasures/Early_Human_Skull,5074,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1107,8 +1051,8 @@
   },
   {
     "id": "6840",
-    "name": "Electro Pest Figurine",
-    "icon": "/icons/Treasures/ElectroPestFigurine,6840,0.png",
+    "name": "Electro-Pest Figurine",
+    "icon": "/icons/Treasures/Electro-Pest_Figurine,6840,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1122,7 +1066,7 @@
   {
     "id": "5048",
     "name": "Enhydro Crystal",
-    "icon": "/icons/Treasures/EnhydroCrystal,5048,0.png",
+    "icon": "/icons/Treasures/Enhydro_Crystal,5048,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1136,7 +1080,7 @@
   {
     "id": "5058",
     "name": "Feather Fish Scale",
-    "icon": "/icons/Treasures/FeatherFishScale,5058,0.png",
+    "icon": "/icons/Treasures/Feather_Fish_Scale,5058,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1150,7 +1094,7 @@
   {
     "id": "5068",
     "name": "Fish Fossil",
-    "icon": "/icons/Treasures/FishFossil,5068,0.png",
+    "icon": "/icons/Treasures/Fish_Fossil,5068,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1164,7 +1108,7 @@
   {
     "id": "5069",
     "name": "Fizzy Crystal",
-    "icon": "/icons/Treasures/FizzyCrystal,5069,0.png",
+    "icon": "/icons/Treasures/Fizzy_Crystal,5069,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1178,7 +1122,7 @@
   {
     "id": "5169",
     "name": "Flesh Kelp",
-    "icon": "/icons/Treasures/FleshKelp,5169,0.png",
+    "icon": "/icons/Treasures/Flesh_Kelp,5169,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1192,7 +1136,7 @@
   {
     "id": "5228",
     "name": "Floracada Figurine",
-    "icon": "/icons/Treasures/FloracadaFigurine,5228,0.png",
+    "icon": "/icons/Treasures/Floracada_Figurine,5228,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1206,7 +1150,7 @@
   {
     "id": "5065",
     "name": "Forked Coral",
-    "icon": "/icons/Treasures/ForkedCoral,5065,0.png",
+    "icon": "/icons/Treasures/Forked_Coral,5065,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1220,7 +1164,7 @@
   {
     "id": "5176",
     "name": "Frankenbrute Figurine",
-    "icon": "/icons/Treasures/FrankenbruteFigurine,5176,0.png",
+    "icon": "/icons/Treasures/Frankenbrute_Figurine,5176,0.png",
     "boss": false,
     "seasonal": true,
     "craftable": false,
@@ -1234,7 +1178,7 @@
   {
     "id": "5156",
     "name": "Frozen Flame",
-    "icon": "/icons/Treasures/FrozenFlame,5156,0.png",
+    "icon": "/icons/Treasures/Frozen_Flame,5156,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1248,7 +1192,7 @@
   {
     "id": "5036",
     "name": "Fungal Bone",
-    "icon": "/icons/Treasures/FungalBone,5036,0.png",
+    "icon": "/icons/Treasures/Fungal_Bone,5036,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1276,7 +1220,7 @@
   {
     "id": "5086",
     "name": "Ghorm Figurine",
-    "icon": "/icons/Treasures/GhormFigurine,5086,0.png",
+    "icon": "/icons/Treasures/Ghorm_Figurine,5086,0.png",
     "boss": true,
     "seasonal": false,
     "craftable": false,
@@ -1290,7 +1234,7 @@
   {
     "id": "5053",
     "name": "Giant Germ",
-    "icon": "/icons/Treasures/GiantGerm,5053,0.png",
+    "icon": "/icons/Treasures/Giant_Germ,5053,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1304,7 +1248,7 @@
   {
     "id": "5040",
     "name": "Giant Mite",
-    "icon": "/icons/Treasures/GiantMite,5040,0.png",
+    "icon": "/icons/Treasures/Giant_Mite,5040,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1318,7 +1262,7 @@
   {
     "id": "5131",
     "name": "Giant Squid Eye",
-    "icon": "/icons/Treasures/GiantSquidEye,5131,0.png",
+    "icon": "/icons/Treasures/Giant_Squid_Eye,5131,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1330,9 +1274,23 @@
     "dig": false
   },
   {
+    "id": "5190",
+    "name": "Gingerbreadling Figurine",
+    "icon": "/icons/Treasures/Gingerbreadling_Figurine,5190,0.png",
+    "boss": false,
+    "seasonal": true,
+    "craftable": false,
+    "merchant": false,
+    "dropped": false,
+    "owned": false,
+    "fishing": false,
+    "loot": false,
+    "dig": false
+  },
+  {
     "id": "5084",
     "name": "Glurch Figurine",
-    "icon": "/icons/Treasures/GlurchFigurine,5084,0.png",
+    "icon": "/icons/Treasures/Glurch_Figurine,5084,0.png",
     "boss": true,
     "seasonal": false,
     "craftable": false,
@@ -1346,7 +1304,7 @@
   {
     "id": "5226",
     "name": "Gold Scarab Figurine",
-    "icon": "/icons/Treasures/GoldScarabFigurine,5226,0.png",
+    "icon": "/icons/Treasures/Gold_Scarab_Figurine,5226,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1360,7 +1318,7 @@
   {
     "id": "5075",
     "name": "Golden Caveling Mask",
-    "icon": "/icons/Treasures/GoldenCavelingMask,5075,0.png",
+    "icon": "/icons/Treasures/Golden_Caveling_Mask,5075,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1374,7 +1332,7 @@
   {
     "id": "5051",
     "name": "Golden Cocoon",
-    "icon": "/icons/Treasures/GoldenCocoon,5051,0.png",
+    "icon": "/icons/Treasures/Golden_Cocoon,5051,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1388,7 +1346,7 @@
   {
     "id": "5029",
     "name": "Golden Feather",
-    "icon": "/icons/Treasures/GoldenFeather,5029,0.png",
+    "icon": "/icons/Treasures/Golden_Feather,5029,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1402,7 +1360,7 @@
   {
     "id": "5132",
     "name": "Golden Needle",
-    "icon": "/icons/Treasures/GoldenNeedle,5132,0.png",
+    "icon": "/icons/Treasures/Golden_Needle,5132,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1416,7 +1374,7 @@
   {
     "id": "5043",
     "name": "Golden Starfish",
-    "icon": "/icons/Treasures/GoldenStarfish,5043,0.png",
+    "icon": "/icons/Treasures/Golden_Starfish,5043,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1430,7 +1388,7 @@
   {
     "id": "5118",
     "name": "Golden Whistle",
-    "icon": "/icons/Treasures/GoldenWhistle,5118,0.png",
+    "icon": "/icons/Treasures/Golden_Whistle,5118,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1444,7 +1402,7 @@
   {
     "id": "5042",
     "name": "Green Kelp",
-    "icon": "/icons/Treasures/GreenKelp,5042,0.png",
+    "icon": "/icons/Treasures/Green_Kelp,5042,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1458,7 +1416,7 @@
   {
     "id": "5070",
     "name": "Grey Kelp",
-    "icon": "/icons/Treasures/GreyKelp,5070,0.png",
+    "icon": "/icons/Treasures/Grey_Kelp,5070,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1472,7 +1430,7 @@
   {
     "id": "5022",
     "name": "Grub Knot",
-    "icon": "/icons/Treasures/GrubKnot,5022,0.png",
+    "icon": "/icons/Treasures/Grub_Knot,5022,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1486,7 +1444,7 @@
   {
     "id": "5052",
     "name": "Grub Pearl",
-    "icon": "/icons/Treasures/GrubPearl,5052,0.png",
+    "icon": "/icons/Treasures/Grub_Pearl,5052,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1500,7 +1458,7 @@
   {
     "id": "5025",
     "name": "Hard Thorn",
-    "icon": "/icons/Treasures/HardThorn,5025,0.png",
+    "icon": "/icons/Treasures/Hard_Thorn,5025,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1514,7 +1472,7 @@
   {
     "id": "5175",
     "name": "Haunted Hive Mother Figurine",
-    "icon": "/icons/Treasures/HauntedHiveMotherFigurine,5175,0.png",
+    "icon": "/icons/Treasures/Haunted_Hive_Mother_Figurine,5175,0.png",
     "boss": true,
     "seasonal": false,
     "craftable": false,
@@ -1528,7 +1486,7 @@
   {
     "id": "5094",
     "name": "Hive Larva Figurine",
-    "icon": "/icons/Treasures/HiveLarvaFigurine,5094,0.png",
+    "icon": "/icons/Treasures/Hive_Larva_Figurine,5094,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1542,7 +1500,7 @@
   {
     "id": "5087",
     "name": "Hive Mother Figurine",
-    "icon": "/icons/Treasures/HiveMotherFigurine,5087,0.png",
+    "icon": "/icons/Treasures/Hive_Mother_Figurine,5087,0.png",
     "boss": true,
     "seasonal": false,
     "craftable": false,
@@ -1556,7 +1514,7 @@
   {
     "id": "5160",
     "name": "Igneous Figurine",
-    "icon": "/icons/Treasures/IgneousFigurine,5160,0.png",
+    "icon": "/icons/Treasures/Igneous_Figurine,5160,0.png",
     "boss": true,
     "seasonal": false,
     "craftable": false,
@@ -1570,7 +1528,7 @@
   {
     "id": "5153",
     "name": "Incense Bowl",
-    "icon": "/icons/Treasures/IncenseBowl,5153,0.png",
+    "icon": "/icons/Treasures/Incense_Bowl,5153,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1584,7 +1542,7 @@
   {
     "id": "5100",
     "name": "Infected Caveling Figurine",
-    "icon": "/icons/Treasures/InfectedCavelingFigurine,5100,0.png",
+    "icon": "/icons/Treasures/Infected_Caveling_Figurine,5100,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1598,7 +1556,7 @@
   {
     "id": "5085",
     "name": "Ivy Figurine",
-    "icon": "/icons/Treasures/IvyFigurine,5085,0.png",
+    "icon": "/icons/Treasures/Ivy_Figurine,5085,0.png",
     "boss": true,
     "seasonal": false,
     "craftable": false,
@@ -1612,7 +1570,7 @@
   {
     "id": "5137",
     "name": "King Slime Figurine",
-    "icon": "/icons/Treasures/KingSlimeFigurine,5137,0.png",
+    "icon": "/icons/Treasures/King_Slime_Figurine,5137,0.png",
     "boss": true,
     "seasonal": false,
     "craftable": false,
@@ -1626,7 +1584,7 @@
   {
     "id": "5167",
     "name": "Kingfish Scale",
-    "icon": "/icons/Treasures/KingfishScale,5167,0.png",
+    "icon": "/icons/Treasures/Kingfish_Scale,5167,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1640,7 +1598,7 @@
   {
     "id": "5092",
     "name": "Larva Figurine",
-    "icon": "/icons/Treasures/LarvaFigurine,5092,0.png",
+    "icon": "/icons/Treasures/Larva_Figurine,5092,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1654,7 +1612,7 @@
   {
     "id": "5163",
     "name": "Lava Butterfly Figurine",
-    "icon": "/icons/Treasures/LavaButterflyFigurine,5163,0.png",
+    "icon": "/icons/Treasures/Lava_Butterfly_Figurine,5163,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1668,7 +1626,7 @@
   {
     "id": "5165",
     "name": "Lava Slime Figurine",
-    "icon": "/icons/Treasures/LavaSlimeFigurine,5165,0.png",
+    "icon": "/icons/Treasures/Lava_Slime_Figurine,5165,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1682,7 +1640,7 @@
   {
     "id": "5011",
     "name": "Leaf Fossil",
-    "icon": "/icons/Treasures/LeafFossil,5011,0.png",
+    "icon": "/icons/Treasures/Leaf_Fossil,5011,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1696,7 +1654,7 @@
   {
     "id": "5057",
     "name": "Lost Paddle",
-    "icon": "/icons/Treasures/LostPaddle,5057,0.png",
+    "icon": "/icons/Treasures/Lost_Paddle,5057,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1709,10 +1667,10 @@
   },
   {
     "id": "5192",
-    "name": "Lump Of Coal",
-    "icon": "/icons/Treasures/LumpOfCoal,5192,0.png",
+    "name": "Lump of Coal",
+    "icon": "/icons/Treasures/Lump_of_Coal,5192,0.png",
     "boss": false,
-    "seasonal": false,
+    "seasonal": true,
     "craftable": false,
     "merchant": false,
     "dropped": false,
@@ -1724,7 +1682,7 @@
   {
     "id": "5114",
     "name": "Luxurious Handmirror",
-    "icon": "/icons/Treasures/LuxuriousHandmirror,5114,0.png",
+    "icon": "/icons/Treasures/Luxurious_Handmirror,5114,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1738,7 +1696,7 @@
   {
     "id": "5103",
     "name": "Malugaz Figurine",
-    "icon": "/icons/Treasures/MalugazFigurine,5103,0.png",
+    "icon": "/icons/Treasures/Malugaz_Figurine,5103,0.png",
     "boss": true,
     "seasonal": false,
     "craftable": false,
@@ -1752,7 +1710,21 @@
   {
     "id": "5030",
     "name": "Mechanical Arm",
-    "icon": "/icons/Treasures/MechanicalArm,5030,0.png",
+    "icon": "/icons/Treasures/Mechanical_Arm,5030,0.png",
+    "boss": false,
+    "seasonal": false,
+    "craftable": false,
+    "merchant": false,
+    "dropped": false,
+    "owned": false,
+    "fishing": false,
+    "loot": false,
+    "dig": false
+  },
+  {
+    "id": "5146",
+    "name": "Melting Lava Wing",
+    "icon": "/icons/Treasures/Melting_Lava_Wing,5146,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1766,7 +1738,7 @@
   {
     "id": "5037",
     "name": "Mildew Leaf",
-    "icon": "/icons/Treasures/MildewLeaf,5037,0.png",
+    "icon": "/icons/Treasures/Mildew_Leaf,5037,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1780,7 +1752,7 @@
   {
     "id": "5212",
     "name": "Mimite Figurine",
-    "icon": "/icons/Treasures/MimiteFigurine,5212,0.png",
+    "icon": "/icons/Treasures/Mimite_Figurine,5212,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1794,7 +1766,7 @@
   {
     "id": "5035",
     "name": "Mold Dew",
-    "icon": "/icons/Treasures/MoldDew,5035,0.png",
+    "icon": "/icons/Treasures/Mold_Dew,5035,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1808,7 +1780,7 @@
   {
     "id": "5054",
     "name": "Mold Shell",
-    "icon": "/icons/Treasures/MoldShell,5054,0.png",
+    "icon": "/icons/Treasures/Mold_Shell,5054,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1822,21 +1794,7 @@
   {
     "id": "5105",
     "name": "Mold Tentacle Figurine",
-    "icon": "/icons/Treasures/MoldTentacleFigurine,5105,0.png",
-    "boss": false,
-    "seasonal": false,
-    "craftable": false,
-    "merchant": false,
-    "dropped": false,
-    "owned": false,
-    "fishing": false,
-    "loot": false,
-    "dig": false
-  },
-  {
-    "id": "5146",
-    "name": "Molten Butterfly Wing",
-    "icon": "/icons/Treasures/MoltenButterflyWing,5146,0.png",
+    "icon": "/icons/Treasures/Mold_Tentacle_Figurine,5105,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1850,7 +1808,7 @@
   {
     "id": "5125",
     "name": "Morpha Figurine",
-    "icon": "/icons/Treasures/MorphaFigurine,5125,0.png",
+    "icon": "/icons/Treasures/Morpha_Figurine,5125,0.png",
     "boss": true,
     "seasonal": false,
     "craftable": false,
@@ -1864,7 +1822,7 @@
   {
     "id": "5049",
     "name": "Mucus Amoeba",
-    "icon": "/icons/Treasures/MucusAmoeba,5049,0.png",
+    "icon": "/icons/Treasures/Mucus_Amoeba,5049,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1878,7 +1836,7 @@
   {
     "id": "5078",
     "name": "Music Bowl",
-    "icon": "/icons/Treasures/MusicBowl,5078,0.png",
+    "icon": "/icons/Treasures/Music_Bowl,5078,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1906,7 +1864,7 @@
   {
     "id": "5214",
     "name": "Nilipede Figurine",
-    "icon": "/icons/Treasures/NilipedeFigurine,5214,0.png",
+    "icon": "/icons/Treasures/Nilipede_Figurine,5214,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1920,7 +1878,7 @@
   {
     "id": "5229",
     "name": "Nimruza Figurine",
-    "icon": "/icons/Treasures/NimruzaFigurine,5229,0.png",
+    "icon": "/icons/Treasures/Nimruza_Figurine,5229,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1934,7 +1892,7 @@
   {
     "id": "3935",
     "name": "Nuclear Battery",
-    "icon": "/icons/Treasures/NuclearBattery,3935,0.png",
+    "icon": "/icons/Treasures/Nuclear_Battery,3935,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1962,7 +1920,7 @@
   {
     "id": "5016",
     "name": "Old Amulet",
-    "icon": "/icons/Treasures/OldAmulet,5016,0.png",
+    "icon": "/icons/Treasures/Old_Amulet,5016,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1976,7 +1934,7 @@
   {
     "id": "5080",
     "name": "Old Journal",
-    "icon": "/icons/Treasures/OldJournal,5080,0.png",
+    "icon": "/icons/Treasures/Old_Journal,5080,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -1990,7 +1948,7 @@
   {
     "id": "5024",
     "name": "Old Spore Mask",
-    "icon": "/icons/Treasures/OldSporeMask,5024,0.png",
+    "icon": "/icons/Treasures/Old_Spore_Mask,5024,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -2004,7 +1962,7 @@
   {
     "id": "5127",
     "name": "Omoroth Figurine",
-    "icon": "/icons/Treasures/OmorothFigurine,5127,0.png",
+    "icon": "/icons/Treasures/Omoroth_Figurine,5127,0.png",
     "boss": true,
     "seasonal": false,
     "craftable": false,
@@ -2018,7 +1976,7 @@
   {
     "id": "5904",
     "name": "Omoroth Urn",
-    "icon": "/icons/Treasures/OmorothUrn,5904,0.png",
+    "icon": "/icons/Treasures/Omoroth_Urn,5904,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -2032,7 +1990,7 @@
   {
     "id": "5134",
     "name": "Opabinia Fossil",
-    "icon": "/icons/Treasures/OpabiniaFossil,5134,0.png",
+    "icon": "/icons/Treasures/Opabinia_Fossil,5134,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -2046,7 +2004,7 @@
   {
     "id": "5108",
     "name": "Oracle Card Aura",
-    "icon": "/icons/Treasures/OracleCardAura,5108,0.png",
+    "icon": "/icons/Treasures/Oracle_Card_Aura,5108,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -2060,7 +2018,7 @@
   {
     "id": "5109",
     "name": "Oracle Card Brilliance",
-    "icon": "/icons/Treasures/OracleCardBrilliance,5109,0.png",
+    "icon": "/icons/Treasures/Oracle_Card_Brilliance,5109,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -2074,7 +2032,7 @@
   {
     "id": "5140",
     "name": "Oracle Card Endurance",
-    "icon": "/icons/Treasures/OracleCardEndurance,5140,0.png",
+    "icon": "/icons/Treasures/Oracle_Card_Endurance,5140,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -2088,7 +2046,7 @@
   {
     "id": "5083",
     "name": "Oracle Card Entity",
-    "icon": "/icons/Treasures/OracleCardEntity,5083,0.png",
+    "icon": "/icons/Treasures/Oracle_Card_Entity,5083,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -2102,7 +2060,7 @@
   {
     "id": "5123",
     "name": "Oracle Card Inspiration",
-    "icon": "/icons/Treasures/OracleCardInspiration,5123,0.png",
+    "icon": "/icons/Treasures/Oracle_Card_Inspiration,5123,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -2116,7 +2074,7 @@
   {
     "id": "5122",
     "name": "Oracle Card Metropolis",
-    "icon": "/icons/Treasures/OracleCardMetropolis,5122,0.png",
+    "icon": "/icons/Treasures/Oracle_Card_Metropolis,5122,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -2130,7 +2088,7 @@
   {
     "id": "5138",
     "name": "Oracle Card Radiance",
-    "icon": "/icons/Treasures/OracleCardRadiance,5138,0.png",
+    "icon": "/icons/Treasures/Oracle_Card_Radiance,5138,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -2144,7 +2102,7 @@
   {
     "id": "5139",
     "name": "Oracle Card Temperance",
-    "icon": "/icons/Treasures/OracleCardTemperance,5139,0.png",
+    "icon": "/icons/Treasures/Oracle_Card_Temperance,5139,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -2158,7 +2116,7 @@
   {
     "id": "5121",
     "name": "Oracle Card Wisdom",
-    "icon": "/icons/Treasures/OracleCardWisdom,5121,0.png",
+    "icon": "/icons/Treasures/Oracle_Card_Wisdom,5121,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -2172,7 +2130,7 @@
   {
     "id": "5213",
     "name": "Orbital Turret Figurine",
-    "icon": "/icons/Treasures/OrbitalTurretFigurine,5213,0.png",
+    "icon": "/icons/Treasures/Orbital_Turret_Figurine,5213,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -2186,7 +2144,7 @@
   {
     "id": "5072",
     "name": "Pale Kelp",
-    "icon": "/icons/Treasures/PaleKelp,5072,0.png",
+    "icon": "/icons/Treasures/Pale_Kelp,5072,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -2200,7 +2158,7 @@
   {
     "id": "5050",
     "name": "Parasite Fossil",
-    "icon": "/icons/Treasures/ParasiteFossil,5050,0.png",
+    "icon": "/icons/Treasures/Parasite_Fossil,5050,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -2214,7 +2172,7 @@
   {
     "id": "5034",
     "name": "Petrified Coral",
-    "icon": "/icons/Treasures/PetrifiedCoral,5034,0.png",
+    "icon": "/icons/Treasures/Petrified_Coral,5034,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -2228,7 +2186,7 @@
   {
     "id": "5023",
     "name": "Petrified Egg",
-    "icon": "/icons/Treasures/PetrifiedEgg,5023,0.png",
+    "icon": "/icons/Treasures/Petrified_Egg,5023,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -2242,7 +2200,7 @@
   {
     "id": "5066",
     "name": "Petrified Trilobite",
-    "icon": "/icons/Treasures/PetrifiedTrilobite,5066,0.png",
+    "icon": "/icons/Treasures/Petrified_Trilobite,5066,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -2256,7 +2214,7 @@
   {
     "id": "5117",
     "name": "Playing Dice",
-    "icon": "/icons/Treasures/PlayingDice,5117,0.png",
+    "icon": "/icons/Treasures/Playing_Dice,5117,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -2270,7 +2228,7 @@
   {
     "id": "5147",
     "name": "Plume Ball",
-    "icon": "/icons/Treasures/PlumeBall,5147,0.png",
+    "icon": "/icons/Treasures/Plume_Ball,5147,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -2284,7 +2242,7 @@
   {
     "id": "5133",
     "name": "Polished Shell",
-    "icon": "/icons/Treasures/PolishedShell,5133,0.png",
+    "icon": "/icons/Treasures/Polished_Shell,5133,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -2298,7 +2256,7 @@
   {
     "id": "5032",
     "name": "Precious Urn",
-    "icon": "/icons/Treasures/PreciousUrn,5032,0.png",
+    "icon": "/icons/Treasures/Precious_Urn,5032,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -2312,7 +2270,7 @@
   {
     "id": "5115",
     "name": "Processor Chip",
-    "icon": "/icons/Treasures/ProcessorChip,5115,0.png",
+    "icon": "/icons/Treasures/Processor_Chip,5115,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -2326,7 +2284,7 @@
   {
     "id": "5177",
     "name": "Pumpking Caveling Figurine",
-    "icon": "/icons/Treasures/PumpkingCavelingFigurine,5177,0.png",
+    "icon": "/icons/Treasures/Pumpking_Caveling_Figurine,5177,0.png",
     "boss": false,
     "seasonal": true,
     "craftable": false,
@@ -2340,7 +2298,7 @@
   {
     "id": "5089",
     "name": "Purple Slime Figurine",
-    "icon": "/icons/Treasures/PurpleSlimeFigurine,5089,0.png",
+    "icon": "/icons/Treasures/Purple_Slime_Figurine,5089,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -2354,7 +2312,7 @@
   {
     "id": "5217",
     "name": "Pyrdra Figurine",
-    "icon": "/icons/Treasures/PyrdraFigurine,5217,0.png",
+    "icon": "/icons/Treasures/Pyrdra_Figurine,5217,0.png",
     "boss": true,
     "seasonal": false,
     "craftable": false,
@@ -2368,7 +2326,7 @@
   {
     "id": "5161",
     "name": "Ra-Akar Figurine",
-    "icon": "/icons/Treasures/Ra-AkarFigurine,5161,0.png",
+    "icon": "/icons/Treasures/Ra-Akar_Figurine,5161,0.png",
     "boss": true,
     "seasonal": false,
     "craftable": false,
@@ -2382,7 +2340,7 @@
   {
     "id": "5903",
     "name": "Ra-Akar Urn",
-    "icon": "/icons/Treasures/Ra-AkarUrn,5903,0.png",
+    "icon": "/icons/Treasures/Ra-Akar_Urn,5903,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -2396,7 +2354,7 @@
   {
     "id": "5060",
     "name": "Rainbow Kelp",
-    "icon": "/icons/Treasures/RainbowKelp,5060,0.png",
+    "icon": "/icons/Treasures/Rainbow_Kelp,5060,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -2410,7 +2368,7 @@
   {
     "id": "5073",
     "name": "Red Kelp",
-    "icon": "/icons/Treasures/RedKelp,5073,0.png",
+    "icon": "/icons/Treasures/Red_Kelp,5073,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -2424,7 +2382,7 @@
   {
     "id": "5090",
     "name": "Red Slime Figurine",
-    "icon": "/icons/Treasures/RedSlimeFigurine,5090,0.png",
+    "icon": "/icons/Treasures/Red_Slime_Figurine,5090,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -2438,7 +2396,7 @@
   {
     "id": "5082",
     "name": "Ritual Goblet",
-    "icon": "/icons/Treasures/RitualGoblet,5082,0.png",
+    "icon": "/icons/Treasures/Ritual_Goblet,5082,0.png",
     "boss": true,
     "seasonal": false,
     "craftable": false,
@@ -2452,7 +2410,7 @@
   {
     "id": "5067",
     "name": "Rusty Fishing Hook",
-    "icon": "/icons/Treasures/RustyFishingHook,5067,0.png",
+    "icon": "/icons/Treasures/Rusty_Fishing_Hook,5067,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -2466,7 +2424,7 @@
   {
     "id": "5041",
     "name": "Rusty Spoon",
-    "icon": "/icons/Treasures/RustySpoon,5041,0.png",
+    "icon": "/icons/Treasures/Rusty_Spoon,5041,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -2478,9 +2436,23 @@
     "dig": false
   },
   {
+    "id": "5191",
+    "name": "Santa Shrooman Figurine",
+    "icon": "/icons/Treasures/Santa_Shrooman_Figurine,5191,0.png",
+    "boss": false,
+    "seasonal": true,
+    "craftable": false,
+    "merchant": false,
+    "dropped": false,
+    "owned": false,
+    "fishing": false,
+    "loot": false,
+    "dig": false
+  },
+  {
     "id": "5878",
     "name": "Scarab Wingcover",
-    "icon": "/icons/Treasures/ScarabWingcover,5878,0.png",
+    "icon": "/icons/Treasures/Scarab_Wingcover,5878,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -2494,7 +2466,7 @@
   {
     "id": "5111",
     "name": "Screen Device",
-    "icon": "/icons/Treasures/ScreenDevice,5111,0.png",
+    "icon": "/icons/Treasures/Screen_Device,5111,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -2508,7 +2480,7 @@
   {
     "id": "5063",
     "name": "Sealed Beverage",
-    "icon": "/icons/Treasures/SealedBeverage,5063,0.png",
+    "icon": "/icons/Treasures/Sealed_Beverage,5063,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -2522,7 +2494,7 @@
   {
     "id": "5079",
     "name": "Seismic Clock",
-    "icon": "/icons/Treasures/SeismicClock,5079,0.png",
+    "icon": "/icons/Treasures/Seismic_Clock,5079,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -2536,7 +2508,7 @@
   {
     "id": "5184",
     "name": "Sentry Nutcracker",
-    "icon": "/icons/Treasures/SentryNutcracker,5184,0.png",
+    "icon": "/icons/Treasures/Sentry_Nutcracker,5184,0.png",
     "boss": false,
     "seasonal": true,
     "craftable": false,
@@ -2550,7 +2522,7 @@
   {
     "id": "5064",
     "name": "Shark Tooth",
-    "icon": "/icons/Treasures/SharkTooth,5064,0.png",
+    "icon": "/icons/Treasures/Shark_Tooth,5064,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -2564,7 +2536,7 @@
   {
     "id": "5225",
     "name": "Shrooman Brute Figurine",
-    "icon": "/icons/Treasures/ShroomanBruteFigurine,5225,0.png",
+    "icon": "/icons/Treasures/Shrooman_Brute_Figurine,5225,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -2578,7 +2550,7 @@
   {
     "id": "5136",
     "name": "Shrooman Figurine",
-    "icon": "/icons/Treasures/ShroomanFigurine,5136,0.png",
+    "icon": "/icons/Treasures/Shrooman_Figurine,5136,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -2592,7 +2564,7 @@
   {
     "id": "5088",
     "name": "Slime Figurine",
-    "icon": "/icons/Treasures/SlimeFigurine,5088,0.png",
+    "icon": "/icons/Treasures/Slime_Figurine,5088,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -2606,7 +2578,7 @@
   {
     "id": "5028",
     "name": "Small Caveling Skull",
-    "icon": "/icons/Treasures/SmallCavelingSkull,5028,0.png",
+    "icon": "/icons/Treasures/Small_Caveling_Skull,5028,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -2620,7 +2592,7 @@
   {
     "id": "5106",
     "name": "Snare Plant Figurine",
-    "icon": "/icons/Treasures/SnarePlantFigurine,5106,0.png",
+    "icon": "/icons/Treasures/Snare_Plant_Figurine,5106,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -2634,7 +2606,21 @@
   {
     "id": "5183",
     "name": "Snow Globe",
-    "icon": "/icons/Treasures/SnowGlobe,5183,0.png",
+    "icon": "/icons/Treasures/Snow_Globe,5183,0.png",
+    "boss": false,
+    "seasonal": true,
+    "craftable": false,
+    "merchant": false,
+    "dropped": false,
+    "owned": false,
+    "fishing": false,
+    "loot": false,
+    "dig": false
+  },
+  {
+    "id": "5187",
+    "name": "Snowhead Slime Figurine",
+    "icon": "/icons/Treasures/Snowhead_Slime_Figurine,5187,0.png",
     "boss": false,
     "seasonal": true,
     "craftable": false,
@@ -2648,7 +2634,7 @@
   {
     "id": "5045",
     "name": "Soft Sponge",
-    "icon": "/icons/Treasures/SoftSponge,5045,0.png",
+    "icon": "/icons/Treasures/Soft_Sponge,5045,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -2662,7 +2648,7 @@
   {
     "id": "5178",
     "name": "Spookaveling Figurine",
-    "icon": "/icons/Treasures/SpookavelingFigurine,5178,0.png",
+    "icon": "/icons/Treasures/Spookaveling_Figurine,5178,0.png",
     "boss": false,
     "seasonal": true,
     "craftable": false,
@@ -2676,7 +2662,7 @@
   {
     "id": "5172",
     "name": "Starlight Shards",
-    "icon": "/icons/Treasures/StarlightShards,5172,0.png",
+    "icon": "/icons/Treasures/Starlight_Shards,5172,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -2688,9 +2674,23 @@
     "dig": false
   },
   {
+    "id": "5186",
+    "name": "Starwand Shaman Figurine",
+    "icon": "/icons/Treasures/Starwand_Shaman_Figurine,5186,0.png",
+    "boss": false,
+    "seasonal": true,
+    "craftable": false,
+    "merchant": false,
+    "dropped": false,
+    "owned": false,
+    "fishing": false,
+    "loot": false,
+    "dig": false
+  },
+  {
     "id": "5039",
     "name": "Stone Cap",
-    "icon": "/icons/Treasures/StoneCap,5039,0.png",
+    "icon": "/icons/Treasures/Stone_Cap,5039,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -2704,7 +2704,7 @@
   {
     "id": "5222",
     "name": "Sulfur Worm Figurine",
-    "icon": "/icons/Treasures/SulfurWormFigurine,5222,0.png",
+    "icon": "/icons/Treasures/Sulfur_Worm_Figurine,5222,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -2718,7 +2718,7 @@
   {
     "id": "5104",
     "name": "Tentacle Figurine",
-    "icon": "/icons/Treasures/TentacleFigurine,5104,0.png",
+    "icon": "/icons/Treasures/Tentacle_Figurine,5104,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -2732,7 +2732,7 @@
   {
     "id": "5116",
     "name": "Timeless Hourglass",
-    "icon": "/icons/Treasures/TimelessHourglass,5116,0.png",
+    "icon": "/icons/Treasures/Timeless_Hourglass,5116,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -2746,7 +2746,7 @@
   {
     "id": "5019",
     "name": "Triangle Trinket",
-    "icon": "/icons/Treasures/TriangleTrinket,5019,0.png",
+    "icon": "/icons/Treasures/Triangle_Trinket,5019,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -2760,7 +2760,7 @@
   {
     "id": "5020",
     "name": "Twisted Agate",
-    "icon": "/icons/Treasures/TwistedAgate,5020,0.png",
+    "icon": "/icons/Treasures/Twisted_Agate,5020,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -2774,7 +2774,7 @@
   {
     "id": "5220",
     "name": "Unleashed Core Commander Figurine",
-    "icon": "/icons/Treasures/UnleashedCoreCommanderFigurine,5220,0.png",
+    "icon": "/icons/Treasures/Unleashed_Core_Commander_Figurine,5220,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -2788,7 +2788,7 @@
   {
     "id": "5223",
     "name": "Urschleim Figurine",
-    "icon": "/icons/Treasures/UrschleimFigurine,5223,0.png",
+    "icon": "/icons/Treasures/Urschleim_Figurine,5223,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -2802,7 +2802,7 @@
   {
     "id": "2514",
     "name": "Void Neuron",
-    "icon": "/icons/Treasures/VoidNeuron,2514,0.png",
+    "icon": "/icons/Treasures/Void_Neuron,2514,0.png",
     "boss": true,
     "seasonal": false,
     "craftable": false,
@@ -2816,7 +2816,7 @@
   {
     "id": "5174",
     "name": "White Whistle",
-    "icon": "/icons/Treasures/WhiteWhistle,5174,0.png",
+    "icon": "/icons/Treasures/White_Whistle,5174,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,
@@ -2830,7 +2830,7 @@
   {
     "id": "5185",
     "name": "Winter Bell",
-    "icon": "/icons/Treasures/WinterBell,5185,0.png",
+    "icon": "/icons/Treasures/Winter_Bell,5185,0.png",
     "boss": false,
     "seasonal": true,
     "craftable": false,
@@ -2844,7 +2844,7 @@
   {
     "id": "5071",
     "name": "Yellow Kelp",
-    "icon": "/icons/Treasures/YellowKelp,5071,0.png",
+    "icon": "/icons/Treasures/Yellow_Kelp,5071,0.png",
     "boss": false,
     "seasonal": false,
     "craftable": false,

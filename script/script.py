@@ -2,7 +2,6 @@ import os
 import json
 import re
 from seasonal_items import SEASONAL_ITEMS
-from name_overrides import NAME_OVERRIDES
 from boss_items import BOSS_ITEMS
 from craftable_items import CRAFTABLE_ITEMS
 from drop_items import DROP_ITEMS
@@ -20,8 +19,7 @@ output_path = os.path.join("src", "public")
 os.makedirs(output_path, exist_ok=True)
 
 def clean_name(name):
-    # Add space before capital letters (except first char), but avoid splitting patterns like "ID"
-    return re.sub(r'(?<=[a-z])(?=[A-Z])', ' ', name).strip()
+    return name.replace("_", " ").strip()
 
 def parse_filename(filename, category):
     try:
@@ -29,24 +27,21 @@ def parse_filename(filename, category):
         raw_name, item_id, _ = name_id_part.split(',', 2)
         cleaned_name = clean_name(raw_name)
 
-        # Apply override if available
-        final_name = NAME_OVERRIDES.get(cleaned_name, cleaned_name)
-
         return {
             "id": item_id,
-            "name": final_name,
+            "name": cleaned_name,
             "icon": f"/icons/{category}/{filename}",
-            "boss": final_name in BOSS_ITEMS,
-            "seasonal": final_name in SEASONAL_ITEMS,
-            "craftable": final_name in CRAFTABLE_ITEMS,
-            "merchant": final_name in MERCHANT_ITEMS,
-            "dropped": final_name in DROP_ITEMS,
+            "boss": cleaned_name in BOSS_ITEMS,
+            "seasonal": cleaned_name in SEASONAL_ITEMS,
+            "craftable": cleaned_name in CRAFTABLE_ITEMS,
+            "merchant": cleaned_name in MERCHANT_ITEMS,
+            "dropped": cleaned_name in DROP_ITEMS,
             "owned": False,
-            "fishing": final_name in FISHING_ITEMS,
-            "loot": final_name in LOOT_ITEMS,
-            "dig": final_name in DIGSPOT_ITEMS,
+            "fishing": cleaned_name in FISHING_ITEMS,
+            "loot": cleaned_name in LOOT_ITEMS,
+            "dig": cleaned_name in DIGSPOT_ITEMS,
         }
-    
+
     except ValueError:
         print(f"Skipping malformed filename: {filename}")
         return None
