@@ -30,8 +30,8 @@ export default function CategorySection({
       }`}
       onClick={toggleVisibility}
     >
-      <h1 className="text-3xl font-bold flex-1">{name}</h1>
-      <span className="text-sm text-blue-500 ml-4">
+      <h1 className='text-3xl font-bold flex-1'>{name}</h1>
+      <span className='text-sm text-blue-500 ml-4'>
         Owned: {totalOwned} / {totalItems}
       </span>
     </div>
@@ -43,7 +43,7 @@ export default function CategorySection({
         isVisible ? 'opacity-100' : 'max-h-0 opacity-0'
       }`}
     >
-      <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-4">
+      <div className='grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-4'>
         {visibleItems.map((item) => (
           <ItemCard
             key={item.id}

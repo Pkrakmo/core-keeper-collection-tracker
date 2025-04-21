@@ -1,6 +1,7 @@
 import { GameItem } from '@/app/types/item';
 
-export const countOwned = (items: GameItem[]) => items.filter((item) => item.owned).length;
+export const countOwned = (items: GameItem[]) =>
+  items.filter((item) => item.owned).length;
 
 export const toggleOwned = (
   id: string,

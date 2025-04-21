@@ -137,4 +137,12 @@ boss_data = {
         "Hydra Bone Shins",
         "Druidra's Ring"
     ]
+    ,
+    "Core Commaneder": [
+        "Core Tech Chest",
+        "Void Gun",
+        "Core Commander Helm",
+        "Core Commander Brigandine",
+        "Core Commander Greaves"
+    ]
 }

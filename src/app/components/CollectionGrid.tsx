@@ -10,13 +10,19 @@ import weaponData from '@/public/weapons.json';
 import treasuresData from '@/public/treasures.json';
 import accessoriesData from '@/public/accessories.json';
 
-export default function CollectionGrid() {
-  const [armorItems, setArmorItems] = useLocalStorage<GameItem[]>('corekeeper-armor-items', armorData);
+export default function CollectionGrid({ hideOwned }: { hideOwned: boolean }) {
+  const [armorItems, setArmorItems] = useLocalStorage<GameItem[]>(
+    'corekeeper-armor-items',
+    armorData
+  );
   const [weaponItems, setWeaponItems] = useLocalStorage<GameItem[]>(
     'corekeeper-weapon-items',
     weaponData.filter((item) => !item.name.toLowerCase().includes('minion'))
   );
-  const [accessoriesItems, setAccessoriesItems] = useLocalStorage<GameItem[]>('corekeeper-accessories-items', accessoriesData);
+  const [accessoriesItems, setAccessoriesItems] = useLocalStorage<GameItem[]>(
+    'corekeeper-accessories-items',
+    accessoriesData
+  );
   const [figurineItems, setFigurineItems] = useLocalStorage<GameItem[]>(
     'corekeeper-figurine-items',
     treasuresData.filter((item) => item.name.toLowerCase().includes('figurine'))
@@ -31,7 +37,6 @@ export default function CollectionGrid() {
       }))
   );
 
-  const [hideOwned, setHideOwned] = useLocalStorage<boolean>('corekeeper-hide-owned', false);
   const [isHydrated, setIsHydrated] = useState(false);
   const [categoryVisibility, setCategoryVisibility] = useState({
     Armors: true,
@@ -42,7 +47,10 @@ export default function CollectionGrid() {
   });
 
   useEffect(() => {
-    const savedVisibility = typeof window !== 'undefined' ? localStorage.getItem('categoryVisibility') : null;
+    const savedVisibility =
+      typeof window !== 'undefined'
+        ? localStorage.getItem('categoryVisibility')
+        : null;
     if (savedVisibility) {
       setCategoryVisibility(JSON.parse(savedVisibility));
     }
@@ -51,16 +59,27 @@ export default function CollectionGrid() {
 
   useEffect(() => {
     if (isHydrated) {
-      localStorage.setItem('categoryVisibility', JSON.stringify(categoryVisibility));
+      localStorage.setItem(
+        'categoryVisibility',
+        JSON.stringify(categoryVisibility)
+      );
     }
   }, [categoryVisibility, isHydrated]);
 
   const categories = [
-    { name: "Armors", items: armorItems, setItems: setArmorItems },
-    { name: "Accessories", items: accessoriesItems, setItems: setAccessoriesItems },
-    { name: "Weapons", items: weaponItems, setItems: setWeaponItems },
-    { name: "Figurines", items: figurineItems, setItems: setFigurineItems },
-    { name: "Oracle Cards", items: oracleCardItems, setItems: setOracleCardItems },
+    { name: 'Armors', items: armorItems, setItems: setArmorItems },
+    {
+      name: 'Accessories',
+      items: accessoriesItems,
+      setItems: setAccessoriesItems,
+    },
+    { name: 'Weapons', items: weaponItems, setItems: setWeaponItems },
+    { name: 'Figurines', items: figurineItems, setItems: setFigurineItems },
+    {
+      name: 'Oracle Cards',
+      items: oracleCardItems,
+      setItems: setOracleCardItems,
+    },
   ].sort((a, b) => a.name.localeCompare(b.name));
 
   const setAllCategoriesVisibility = (visibility: boolean) => {
@@ -76,28 +95,18 @@ export default function CollectionGrid() {
   if (!isHydrated) return <div>Loading...</div>;
 
   return (
-    <div className="flex flex-col gap-8 mt-6">
-      {/* Global Hide Owned Checkbox */}
-      <div className="mb-2 flex justify-between items-center">
-        <label className="inline-flex items-center space-x-2">
-          <input
-            type="checkbox"
-            checked={hideOwned}
-            onChange={(e) => setHideOwned(e.target.checked)}
-            className="form-checkbox h-5 w-5 text-blue-600"
-          />
-          <span className="text-sm">Hide owned items</span>
-        </label>
-        <div className="flex space-x-2">
+    <div className='flex flex-col gap-8 mt-6'>
+      <div className='mb-2 flex justify-between items-center'>
+        <div className='flex space-x-2'>
           <button
             onClick={() => setAllCategoriesVisibility(false)}
-            className="px-2 py-1 bg-red-600 text-white text-sm rounded hover:bg-red-700"
+            className='px-2 py-1 bg-red-600 text-white text-sm rounded hover:bg-red-700'
           >
             Minimize All
           </button>
           <button
             onClick={() => setAllCategoriesVisibility(true)}
-            className="px-2 py-1 bg-green-600 text-white text-sm rounded hover:bg-green-700"
+            className='px-2 py-1 bg-green-600 text-white text-sm rounded hover:bg-green-700'
           >
             Maximize All
           </button>
@@ -110,11 +119,14 @@ export default function CollectionGrid() {
           key={category.name}
           category={category}
           hideOwned={hideOwned}
-          isVisible={categoryVisibility[category.name as keyof typeof categoryVisibility]}
+          isVisible={
+            categoryVisibility[category.name as keyof typeof categoryVisibility]
+          }
           toggleVisibility={() =>
             setCategoryVisibility((prev) => ({
               ...prev,
-              [category.name]: !prev[category.name as keyof typeof categoryVisibility],
+              [category.name]:
+                !prev[category.name as keyof typeof categoryVisibility],
             }))
           }
         />

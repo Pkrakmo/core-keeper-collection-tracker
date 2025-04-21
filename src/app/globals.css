@@ -1,4 +1,4 @@
-@import "tailwindcss";
+@import 'tailwindcss';
 
 :root {
   --background: #001f3f; /* Dark blue */
@@ -53,4 +53,18 @@ body {
 
 .animate-flash-green {
   animation: flash-green 2s infinite;
+}
+
+@keyframes nudge-up {
+  0%,
+  100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-2px);
+  }
+}
+
+.animate-nudge-up {
+  animation: nudge-up 1.5s infinite;
 }

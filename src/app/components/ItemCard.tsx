@@ -12,7 +12,7 @@ type Props = {
 export default function ItemCard({ item, toggleOwned }: Props) {
   // Define the basePath
   const isExport = process.env.NEXT_PUBLIC_IS_EXPORT === 'true';
-  const basePath = isExport ? "/core-keeper-collection-tracker" : "";
+  const basePath = isExport ? '/core-keeper-collection-tracker' : '';
 
   const openItemLink = (e: React.MouseEvent) => {
     e.stopPropagation();
@@ -28,7 +28,7 @@ export default function ItemCard({ item, toggleOwned }: Props) {
         sm:p-3 sm:rounded-xl`}
     >
       {/* Icons in the top-right corner */}
-      <div className="absolute top-2 left-2 flex gap-1">
+      <div className='absolute top-2 left-2 flex gap-1'>
         {Object.entries(iconMappings).map(([key, { src, alt, title }]) =>
           item[key as keyof GameItem] ? (
             <Image
@@ -36,8 +36,8 @@ export default function ItemCard({ item, toggleOwned }: Props) {
               src={`${basePath}${src}`}
               alt={alt}
               width={16}
-              height={16} 
-              className="w-4 h-4"
+              height={16}
+              className='w-4 h-4'
               title={title}
             />
           ) : null
@@ -47,8 +47,8 @@ export default function ItemCard({ item, toggleOwned }: Props) {
       {/* Button in the top-right corner */}
       <button
         onClick={openItemLink}
-        className="absolute top-2 right-8 text-blue-500"
-        title="View item details on wiki"
+        className='absolute top-2 right-8 text-blue-500'
+        title='View item details on wiki'
       >
         ?
       </button>
@@ -57,16 +57,16 @@ export default function ItemCard({ item, toggleOwned }: Props) {
         <Image
           src={`${basePath}${item.icon}`}
           alt={item.name || 'Item image'}
-          width={48} 
-          height={48} 
-          className="w-12 h-12 mb-1"
+          width={48}
+          height={48}
+          className='w-12 h-12 mb-1'
         />
       ) : (
-        <div className="w-12 h-12 mb-1 bg-gray-200 flex items-center justify-center">
-          <span className="text-gray-500 text-sm">No Image</span>
+        <div className='w-12 h-12 mb-1 bg-gray-200 flex items-center justify-center'>
+          <span className='text-gray-500 text-sm'>No Image</span>
         </div>
       )}
-      <div className="flex items-center gap-1">
+      <div className='flex items-center gap-1'>
         <p
           className={`text-center font-medium text-sm transition ${
             item.owned ? 'text-green-800' : 'text-white'
