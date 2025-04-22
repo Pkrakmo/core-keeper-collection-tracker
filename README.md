@@ -21,26 +21,28 @@ Favicon is from the [Core Keper wiki](https://static.wikia.nocookie.net/core-kee
 
 ---
 
+
 ## TODO
 
 - Clean up the project structure
 - Remove unused assets (there are — and will be — a lot 😅)
 - Note: Only the required assets are loaded, even if extras are present
-- When an asset is added you will need to clear the data, I want to avoid that and and the new data
+- When an asset is added, you will need to clear the data. I want to avoid that and add the new data seamlessly.
 - Boss collections based on boss
 - Fish collection based on location
-- Convert images from PNG to WEBP ?
+- Convert images from PNG to WEBP
 - Improve the UI
-- Search
-- Filter
-- PWA ?
+- Add search functionality
+- Add filter functionality
+- Implement PWA
 - Improve README
-- Lanague support
+- Add language support
 
-## How to contribute
+## How to Contribute
 
-- To categorize an item it needs to be added to the corensponsive \_items.py lists found under ./script
-- Then run script.py and it will generate the needed JSON-files that the front-end uses
+- To categorize an item, it needs to be added to the corresponding `_items.py` lists found under `./script`.
+- Then run `script.py`, and it will generate the needed JSON files that the front-end uses.
+
 
 ---
 
