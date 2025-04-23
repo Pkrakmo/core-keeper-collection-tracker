@@ -1,4 +1,4 @@
-import { useState, forwardRef, useImperativeHandle } from 'react';
+import { forwardRef, useImperativeHandle } from 'react';
 import { GameItem } from '@/app/types/item';
 import ItemGrid from './ItemGrid';
 
@@ -31,7 +31,7 @@ export default forwardRef(function CategorySection(
   ref
 ) {
   useImperativeHandle(ref, () => ({
-    setAllSubCategoriesVisibility: (visibility: boolean) => {
+    setAllSubCategoriesVisibility: () => {
       subCategories.forEach((subCategory) => {
         toggleSubCategoryVisibility(mainCategory, subCategory.subCategory);
       });

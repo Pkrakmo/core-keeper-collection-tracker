@@ -13,8 +13,6 @@ export default function Home() {
   const [activeModal, setActiveModal] = useState<string | null>(null);
   const [hideOwned, setHideOwned] = useState(false);
 
-  const toggleHideOwned = () => setHideOwned((prev) => !prev);
-
   const isOpen = activeModal === 'legend';
   const onOpen = () => setActiveModal('legend');
   const onClose = () => setActiveModal(null);
@@ -34,17 +32,23 @@ export default function Home() {
       <div className='fixed bottom-6 left-0 right-0 flex justify-center'>
         <div className='bg-blue-200/80 backdrop-blur-md rounded-lg p-4 flex gap-4 shadow-lg'>
           <ClearStorageButton />
-          <HideOwnedButton />
-          <InformationButton />
-          <LegendButton />
+          <HideOwnedButton 
+            hideOwned={hideOwned} 
+            toggleHideOwned={() => setHideOwned(!hideOwned)} 
+          />
+          <InformationButton 
+            isOpen={isOpen} 
+            onOpen={onOpen} 
+            onClose={onClose} 
+          />
+          <LegendButton 
+            isOpen={isOpen} 
+            onOpen={onOpen} 
+            onClose={onClose} 
+          />
           <ScrollToTopButton />
         </div>
       </div>
-
-      {/* Modal */}
-      {isOpen && (
-        <LegendButton isOpen={isOpen} onOpen={onOpen} onClose={onClose} />
-      )}
     </main>
   );
 }
