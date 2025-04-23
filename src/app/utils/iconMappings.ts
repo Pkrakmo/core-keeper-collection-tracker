@@ -40,7 +40,7 @@ export const iconMappings = {
     title: 'Dig spot Normal',
   },
   diggingGrass: {
-    src: '/icons/diggingNature.webp',
+    src: '/icons/diggingGrass.webp',
     alt: 'Forest Digging Spot Icon',
     title: 'Dig spot Forest',
   },

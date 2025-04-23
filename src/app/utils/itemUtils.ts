@@ -1,7 +1,7 @@
 import { GameItem } from '@/app/types/item';
 
 export const countOwned = (items: GameItem[]) =>
-  items.filter((item) => item.owned).length;
+  items.filter((item) => item.Owned).length;
 
 export const toggleOwned = (
   id: string,
@@ -9,7 +9,7 @@ export const toggleOwned = (
   setItems: (items: GameItem[]) => void
 ) => {
   const updated = items.map((item) =>
-    item.id === id ? { ...item, owned: !item.owned } : item
+    item.ObjectID === Number(id) ? { ...item, owned: !item.Owned } : item
   );
   setItems(updated);
 };
