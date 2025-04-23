@@ -15,14 +15,15 @@ export default function Home() {
 
   const toggleHideOwned = () => setHideOwned((prev) => !prev);
 
+  const isOpen = activeModal === 'legend';
+  const onOpen = () => setActiveModal('legend');
+  const onClose = () => setActiveModal(null);
+
   return (
     <main className='p-6 bg-dark-blue flex flex-col items-center relative'>
       <h1 className='text-3xl font-bold text-center mb-6'>
         Core Keeper Collection Tracker
       </h1>
-      <div className='absolute top-16 left-1/2 transform -translate-x-1/2 -rotate-7 text-red-700 text-5xl font-bold animate-pulse pointer-events-none'>
-        Work in Progress
-      </div>
 
       <NavigationButtons />
       <CollectionGrid hideOwned={hideOwned} />
@@ -30,24 +31,18 @@ export default function Home() {
       <div className='h-20'></div>
 
       {/* Floating Buttons */}
-      <div className='fixed bottom-6 left-0 right-0 flex justify-center gap-4'>
-        <ClearStorageButton />
-        <HideOwnedButton
-          hideOwned={hideOwned}
-          toggleHideOwned={toggleHideOwned}
-        />
-        <InformationButton
-          isOpen={activeModal === 'information'}
-          onOpen={() => setActiveModal('information')}
-          onClose={() => setActiveModal(null)}
-        />
-        <LegendButton
-          isOpen={activeModal === 'legend'}
-          onOpen={() => setActiveModal('legend')}
-          onClose={() => setActiveModal(null)}
-        />
-        <ScrollToTopButton />
+      <div className='fixed bottom-6 left-0 right-0 flex justify-center'>
+        <div className='bg-blue-200/80 backdrop-blur-md rounded-lg p-4 flex gap-4 shadow-lg'>
+          <ClearStorageButton />
+          <HideOwnedButton />
+          <InformationButton />
+          <LegendButton/>
+          <ScrollToTopButton />
+        </div>
       </div>
+
+      {/* Modal */}
+      {isOpen && <LegendButton isOpen={isOpen} onOpen={onOpen} onClose={onClose} />}
     </main>
   );
 }

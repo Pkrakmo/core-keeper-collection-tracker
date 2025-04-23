@@ -29,8 +29,8 @@ export default function LegendButton({
 
       {/* Modal */}
       {isOpen && (
-        <div className='fixed inset-0 flex items-center justify-center pointer-events-none z-50'>
-          <div className='bg-blue-100 p-6 rounded-lg shadow-lg w-80 pointer-events-auto relative'>
+        <div className='fixed inset-0 flex items-center justify-center z-50'>
+          <div className='bg-blue-100 p-6 rounded-lg shadow-lg w-80 relative'>
             {/* Close Button */}
             <button
               onClick={onClose}

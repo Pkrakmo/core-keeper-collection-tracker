@@ -7,8 +7,11 @@ Open [https://pkrakmo.github.io/core-keeper-collection-tracker/](https://pkrakmo
 
 ### Inspiration
 
-- [Collectors Checklist Spreadsheet](https://docs.google.com/spreadsheets/d/1-JP8dCOhp6oVlJAIJcoxaX_M0SfSPAHDL2GCvFz2U9M/edit?gid=0#gid=0)
+- [Collectors Checklist Spreadsheet from](https://docs.google.com/spreadsheets/d/1-JP8dCOhp6oVlJAIJcoxaX_M0SfSPAHDL2GCvFz2U9M/edit?gid=0#gid=0)
+
 - [Reddit Post on r/CoreKeeperGame](https://www.reddit.com/r/CoreKeeperGame/comments/11k476k/collectors_checklist_version_deux/)
+
+- [DZK312's Core Keeper Collection Guide](https://docs.google.com/spreadsheets/d/1Mn-W6D368Z_oa-vDCaRNz61VKGLU7smXgqPt1wxWutc/edit?gid=80264034#gid=80264034)
 
 ---
 
@@ -21,28 +24,29 @@ Favicon is from the [Core Keper wiki](https://static.wikia.nocookie.net/core-kee
 
 ---
 
-
 ## TODO
 
 - Clean up the project structure
 - Remove unused assets (there are — and will be — a lot 😅)
 - Note: Only the required assets are loaded, even if extras are present
-- When an asset is added, you will need to clear the data. I want to avoid that and add the new data seamlessly.
+- When an asset is added you will need to clear the data, I want to avoid that and and the new data
 - Boss collections based on boss
 - Fish collection based on location
-- Convert images from PNG to WEBP
+- Convert images from PNG to WEBP ?
 - Improve the UI
-- Add search functionality
-- Add filter functionality
-- Implement PWA
+- Search
+- Filter
+- PWA ?
 - Improve README
-- Add language support
+- Lanague support
 
-## How to Contribute
+Note to self
+  - Roofing_Gadget,6,0 has the wrong sprite
 
-- To categorize an item, it needs to be added to the corresponding `_items.py` lists found under `./script`.
-- Then run `script.py`, and it will generate the needed JSON files that the front-end uses.
+## How to contribute
 
+- To categorize an item it needs to be added to the corensponsive \_items.py lists found under ./script
+- Then run script.py and it will generate the needed JSON-files that the front-end uses
 
 ---
 

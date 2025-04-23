@@ -1,0 +1,87 @@
+digspot_data = {
+    "diggingNormal": [
+        "Heart Berry Seed",
+        "Bomb Pepper Seed",
+        "Glow Tulip Seed",
+        "Root Seed",
+        "Geode",
+        "Old Amulet",
+        "Bone Creole",
+        "Twisted Agate",
+        "Triangle Trinket",
+        "Ammonite",
+        "Broken Core Idol",
+        "Peasant Hat",
+        "Peasant Chest",
+        "Heart Berry Necklace",
+        "Oracle Card Aura",
+        "Loyal Egg",
+        "Adventurer's Hat",
+        "Rusty Dagger",
+        "Crescent Ring",
+        "Small Valuable Pouch"
+    ],
+
+    "diggingGrass": [
+        "Old Spore Mask",
+        "Hard Thorn",
+        "Balloon Spore",
+        "Amber Chunk",
+        "Petrified Coral",
+        "Stone Cap",
+        "Root Seed",
+        "Glow Tulip Seed",
+        "Ocarina",
+        "Loyal Egg",
+        "Mercenary Headband",
+        "Mercenary Pants",
+        "Mercenary Tank Top",
+        "Bomb"
+    ],
+
+    "diggingBeach": [
+        "Coral Wood",
+        "Octarine Ore",
+        "Fish Fossil",
+        "Petrified Trilobite",
+        "Forked Coral",
+        "Gold Bar",
+        "Fizzy Crystal",
+        "Bubble Pearl",
+        "Black Bubble Pearl",
+        "Loyal Egg",
+        "Wildwarden Pants",
+        "Large Bomb",
+        "Tome of the Deep"
+    ],
+
+    "diggingDesert": [
+        "Galaxite Ore",
+        "Blue Glass Shard",
+        "Caveling Sandal",
+        "Crystal Spearhead",
+        "Desert Diamond",
+        "Black Desert Diamond",
+        "Bone Necklace",
+        "Bone Ring",
+        "Oracle Card Radiance",
+        "Prehistoric Crystal Spear",
+        "Loyal Egg",
+        "Minion Detonator"
+    ],
+
+        "diggingLava": [
+        "Mechanical Part",
+        "Galaxite Ore",
+        "Charred Caveling Skull",
+        "Worker Handcuff",
+        "Pickaxe Head",
+        "Black Necklace",
+        "Flame Ring",
+        "Black Ring",
+        "Miner's Labour Suit",
+        "Miner's Worker Pants",
+        "Recall Idol",
+        "Galaxite Key",
+        "Large Bomb"]
+}

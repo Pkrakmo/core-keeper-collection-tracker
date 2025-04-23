@@ -1,95 +1,146 @@
 'use client';
 
-import { useState, useEffect } from 'react';
+import { useState, useEffect, useMemo, useRef } from 'react';
 import { GameItem } from '@/app/types/item';
-import { useLocalStorage } from '@/app/hooks/useLocalStorage';
 import CategorySection from './CategorySection';
 
-import armorData from '@/public/armors.json';
-import weaponData from '@/public/weapons.json';
-import treasuresData from '@/public/treasures.json';
-import accessoriesData from '@/public/accessories.json';
+import data from '@/public/itemData.json';
 
 export default function CollectionGrid({ hideOwned }: { hideOwned: boolean }) {
-  const [armorItems, setArmorItems] = useLocalStorage<GameItem[]>(
-    'corekeeper-armor-items',
-    armorData
-  );
-  const [weaponItems, setWeaponItems] = useLocalStorage<GameItem[]>(
-    'corekeeper-weapon-items',
-    weaponData.filter((item) => !item.name.toLowerCase().includes('minion'))
-  );
-  const [accessoriesItems, setAccessoriesItems] = useLocalStorage<GameItem[]>(
-    'corekeeper-accessories-items',
-    accessoriesData
-  );
-  const [figurineItems, setFigurineItems] = useLocalStorage<GameItem[]>(
-    'corekeeper-figurine-items',
-    treasuresData.filter((item) => item.name.toLowerCase().includes('figurine'))
-  );
-  const [oracleCardItems, setOracleCardItems] = useLocalStorage<GameItem[]>(
-    'corekeeper-oraclecard-items',
-    treasuresData
-      .filter((item) => item.name.includes('Oracle Card'))
-      .map((item) => ({
-        ...item,
-        name: item.name.replace('Oracle Card ', 'Oracle Card "').concat('"'),
-      }))
-  );
-
   const [isHydrated, setIsHydrated] = useState(false);
-  const [categoryVisibility, setCategoryVisibility] = useState({
-    Armors: true,
-    Accessories: true,
-    Weapons: true,
-    Figurines: true,
-    'Oracle Cards': true,
-  });
+  const [mainCategoryVisibility, setMainCategoryVisibility] = useState<
+    Record<string, boolean>
+  >({});
+  const [subCategoryVisibility, setSubCategoryVisibility] = useState<
+    Record<string, Record<string, boolean>>
+  >({});
+  const categoryRefs = useRef<Record<string, any>>({});
+  const [items, setItems] = useState<GameItem[]>(data);
+
+  const categories = useMemo(() => {
+    return Object.entries(
+      items.reduce<Record<string, Record<string, GameItem[]>>>(
+        (acc, item: GameItem) => {
+          if (!acc[item.MainCategory]) acc[item.MainCategory] = {};
+          if (!acc[item.MainCategory][item.SubCategory])
+            acc[item.MainCategory][item.SubCategory] = [];
+          acc[item.MainCategory][item.SubCategory].push(item);
+          return acc;
+        },
+        {}
+      )
+    ).map(([mainCategory, subCategories]) => ({
+      mainCategory,
+      subCategories: Object.entries(subCategories).map(
+        ([subCategory, items]) => ({
+          subCategory,
+          items,
+        })
+      ),
+    }));
+  }, [items]);
 
   useEffect(() => {
-    const savedVisibility =
-      typeof window !== 'undefined'
-        ? localStorage.getItem('categoryVisibility')
-        : null;
-    if (savedVisibility) {
-      setCategoryVisibility(JSON.parse(savedVisibility));
+    if (!isHydrated) {
+      const savedMainVisibility = localStorage.getItem(
+        'mainCategoryVisibility'
+      );
+      const savedSubVisibility = localStorage.getItem('subCategoryVisibility');
+
+      if (savedMainVisibility && savedSubVisibility) {
+        setMainCategoryVisibility(JSON.parse(savedMainVisibility));
+        setSubCategoryVisibility(JSON.parse(savedSubVisibility));
+      } else {
+        const initialMainVisibility = categories.reduce<
+          Record<string, boolean>
+        >((acc, category) => {
+          acc[category.mainCategory] = true; // Default all main categories to visible
+          return acc;
+        }, {});
+
+        const initialSubVisibility = categories.reduce<
+          Record<string, Record<string, boolean>>
+        >((acc, category) => {
+          acc[category.mainCategory] = category.subCategories.reduce<
+            Record<string, boolean>
+          >((subAcc, subCategory) => {
+            subAcc[subCategory.subCategory] = true; // Default all subcategories to visible
+            return subAcc;
+          }, {});
+          return acc;
+        }, {});
+
+        setMainCategoryVisibility(initialMainVisibility);
+        setSubCategoryVisibility(initialSubVisibility);
+      }
+      setIsHydrated(true);
     }
-    setIsHydrated(true);
-  }, []);
+  }, [isHydrated, categories]);
 
   useEffect(() => {
     if (isHydrated) {
       localStorage.setItem(
-        'categoryVisibility',
-        JSON.stringify(categoryVisibility)
+        'mainCategoryVisibility',
+        JSON.stringify(mainCategoryVisibility)
+      );
+      localStorage.setItem(
+        'subCategoryVisibility',
+        JSON.stringify(subCategoryVisibility)
       );
     }
-  }, [categoryVisibility, isHydrated]);
+  }, [mainCategoryVisibility, subCategoryVisibility, isHydrated]);
 
-  const categories = [
-    { name: 'Armors', items: armorItems, setItems: setArmorItems },
-    {
-      name: 'Accessories',
-      items: accessoriesItems,
-      setItems: setAccessoriesItems,
-    },
-    { name: 'Weapons', items: weaponItems, setItems: setWeaponItems },
-    { name: 'Figurines', items: figurineItems, setItems: setFigurineItems },
-    {
-      name: 'Oracle Cards',
-      items: oracleCardItems,
-      setItems: setOracleCardItems,
-    },
-  ].sort((a, b) => a.name.localeCompare(b.name));
+  const toggleMainCategoryVisibility = (mainCategory: string) => {
+    setMainCategoryVisibility((prev) => ({
+      ...prev,
+      [mainCategory]: !prev[mainCategory],
+    }));
+  };
 
-  const setAllCategoriesVisibility = (visibility: boolean) => {
-    setCategoryVisibility({
-      Armors: visibility,
-      Accessories: visibility,
-      Weapons: visibility,
-      Figurines: visibility,
-      'Oracle Cards': visibility,
-    });
+  const toggleSubCategoryVisibility = (
+    mainCategory: string,
+    subCategory: string
+  ) => {
+    setSubCategoryVisibility((prev) => ({
+      ...prev,
+      [mainCategory]: {
+        ...prev[mainCategory],
+        [subCategory]: !prev[mainCategory][subCategory],
+      },
+    }));
+  };
+
+  const setAllMainCategoriesVisibility = (visibility: boolean) => {
+    const updatedVisibility = Object.keys(mainCategoryVisibility).reduce<
+      Record<string, boolean>
+    >((acc, mainCategory) => {
+      acc[mainCategory] = visibility;
+      return acc;
+    }, {});
+    setMainCategoryVisibility(updatedVisibility);
+  };
+
+  const setAllSubCategoriesVisibility = (visibility: boolean) => {
+    const updatedVisibility = Object.keys(subCategoryVisibility).reduce<
+      Record<string, Record<string, boolean>>
+    >((acc, mainCategory) => {
+      acc[mainCategory] = Object.keys(
+        subCategoryVisibility[mainCategory] || {}
+      ).reduce<Record<string, boolean>>((subAcc, subCategory) => {
+        subAcc[subCategory] = visibility;
+        return subAcc;
+      }, {});
+      return acc;
+    }, {});
+    setSubCategoryVisibility(updatedVisibility);
+  };
+
+  const toggleOwned = (id: number) => {
+    setItems((prevItems) =>
+      prevItems.map((item) =>
+        item.ObjectID === id ? { ...item, Owned: !item.Owned } : item
+      )
+    );
   };
 
   if (!isHydrated) return <div>Loading...</div>;
@@ -99,13 +150,19 @@ export default function CollectionGrid({ hideOwned }: { hideOwned: boolean }) {
       <div className='mb-2 flex justify-between items-center'>
         <div className='flex space-x-2'>
           <button
-            onClick={() => setAllCategoriesVisibility(false)}
+            onClick={() => {
+              setAllMainCategoriesVisibility(false);
+              setAllSubCategoriesVisibility(false);
+            }}
             className='px-2 py-1 bg-red-600 text-white text-sm rounded hover:bg-red-700'
           >
             Minimize All
           </button>
           <button
-            onClick={() => setAllCategoriesVisibility(true)}
+            onClick={() => {
+              setAllMainCategoriesVisibility(true);
+              setAllSubCategoriesVisibility(true);
+            }}
             className='px-2 py-1 bg-green-600 text-white text-sm rounded hover:bg-green-700'
           >
             Maximize All
@@ -113,21 +170,22 @@ export default function CollectionGrid({ hideOwned }: { hideOwned: boolean }) {
         </div>
       </div>
 
-      {/* Render Categories */}
-      {categories.map((category) => (
+      {categories.map((category, index) => (
         <CategorySection
-          key={category.name}
+          key={`${category.mainCategory}-${index}`}
+          ref={(ref: HTMLDivElement | null) => {
+            categoryRefs.current[category.mainCategory] = ref;
+          }}
           category={category}
           hideOwned={hideOwned}
-          isVisible={
-            categoryVisibility[category.name as keyof typeof categoryVisibility]
-          }
+          toggleOwned={toggleOwned}
+          isVisible={mainCategoryVisibility[category.mainCategory]}
           toggleVisibility={() =>
-            setCategoryVisibility((prev) => ({
-              ...prev,
-              [category.name]:
-                !prev[category.name as keyof typeof categoryVisibility],
-            }))
+            toggleMainCategoryVisibility(category.mainCategory)
+          }
+          toggleSubCategoryVisibility={toggleSubCategoryVisibility}
+          subCategoryVisibility={
+            subCategoryVisibility[category.mainCategory] || {}
           }
         />
       ))}

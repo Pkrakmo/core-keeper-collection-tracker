@@ -1,0 +1,8154 @@
+[
+  {
+    "InGameName": "Copper Shovel",
+    "ObjectID": 1
+  },
+  {
+    "InGameName": "Ancient Pickaxe",
+    "ObjectID": 2
+  },
+  {
+    "InGameName": "Copper Pickaxe",
+    "ObjectID": 3
+  },
+  {
+    "InGameName": "Watering Can",
+    "ObjectID": 4
+  },
+  {
+    "InGameName": "Large Watering Can",
+    "ObjectID": 5
+  },
+  {
+    "InGameName": "Roofing Gadget",
+    "ObjectID": 6
+  },
+  {
+    "InGameName": "Leash",
+    "ObjectID": 7
+  },
+  {
+    "InGameName": "Cattle Transport Box",
+    "ObjectID": 8
+  },
+  {
+    "InGameName": "Wood Pickaxe",
+    "ObjectID": 10
+  },
+  {
+    "InGameName": "Wood Shovel",
+    "ObjectID": 11
+  },
+  {
+    "InGameName": "Copper Hoe",
+    "ObjectID": 12
+  },
+  {
+    "InGameName": "Wooden Hoe",
+    "ObjectID": 13
+  },
+  {
+    "InGameName": "Tin Pickaxe",
+    "ObjectID": 15
+  },
+  {
+    "InGameName": "Tin Shovel",
+    "ObjectID": 16
+  },
+  {
+    "InGameName": "Tin Hoe",
+    "ObjectID": 17
+  },
+  {
+    "InGameName": "Bug Net",
+    "ObjectID": 18
+  },
+  {
+    "InGameName": "Iron Pickaxe",
+    "ObjectID": 20
+  },
+  {
+    "InGameName": "Iron Shovel",
+    "ObjectID": 21
+  },
+  {
+    "InGameName": "Iron Hoe",
+    "ObjectID": 22
+  },
+  {
+    "InGameName": "Garden Trowel",
+    "ObjectID": 23
+  },
+  {
+    "InGameName": "Scarlet Pickaxe",
+    "ObjectID": 30
+  },
+  {
+    "InGameName": "Scarlet Hoe",
+    "ObjectID": 31
+  },
+  {
+    "InGameName": "Scarlet Shovel",
+    "ObjectID": 32
+  },
+  {
+    "InGameName": "Octarine Garden Trowel",
+    "ObjectID": 34
+  },
+  {
+    "InGameName": "Octarine Pickaxe",
+    "ObjectID": 35
+  },
+  {
+    "InGameName": "Octarine Shovel",
+    "ObjectID": 36
+  },
+  {
+    "InGameName": "Galaxite Pickaxe",
+    "ObjectID": 37
+  },
+  {
+    "InGameName": "Galaxite Shovel",
+    "ObjectID": 38
+  },
+  {
+    "InGameName": "Bucket",
+    "ObjectID": 39
+  },
+  {
+    "InGameName": "Solarite Pickaxe",
+    "ObjectID": 41
+  },
+  {
+    "InGameName": "Solarite Pickaxe",
+    "ObjectID": 41
+  },
+  {
+    "InGameName": "Soul Seeker",
+    "ObjectID": 45
+  },
+  {
+    "InGameName": "Wood Fishing Rod",
+    "ObjectID": 50
+  },
+  {
+    "InGameName": "Tin Fishing Rod",
+    "ObjectID": 51
+  },
+  {
+    "InGameName": "Iron Fishing Rod",
+    "ObjectID": 52
+  },
+  {
+    "InGameName": "Scarlet Fishing Rod",
+    "ObjectID": 53
+  },
+  {
+    "InGameName": "Octarine Fishing Rod",
+    "ObjectID": 54
+  },
+  {
+    "InGameName": "Galaxite Fishing Rod",
+    "ObjectID": 55
+  },
+  {
+    "InGameName": "Solarite Fishing Rod",
+    "ObjectID": 56
+  },
+  {
+    "InGameName": "Copper Sledge Hammer",
+    "ObjectID": 60
+  },
+  {
+    "InGameName": "Tin Sledge Hammer",
+    "ObjectID": 61
+  },
+  {
+    "InGameName": "Iron Sledge Hammer",
+    "ObjectID": 62
+  },
+  {
+    "InGameName": "Scarlet Sledge Hammer",
+    "ObjectID": 63
+  },
+  {
+    "InGameName": "Octarine Sledge Hammer",
+    "ObjectID": 64
+  },
+  {
+    "InGameName": "Galaxite Sledge Hammer",
+    "ObjectID": 65
+  },
+  {
+    "InGameName": "Red Paint Brush",
+    "ObjectID": 70
+  },
+  {
+    "InGameName": "Yellow Paint Brush",
+    "ObjectID": 71
+  },
+  {
+    "InGameName": "Green Paint Brush",
+    "ObjectID": 72
+  },
+  {
+    "InGameName": "Purple Paint Brush",
+    "ObjectID": 73
+  },
+  {
+    "InGameName": "Blue Paint Brush",
+    "ObjectID": 74
+  },
+  {
+    "InGameName": "Brown Paint Brush",
+    "ObjectID": 75
+  },
+  {
+    "InGameName": "White Paint Brush",
+    "ObjectID": 76
+  },
+  {
+    "InGameName": "Black Paint Brush",
+    "ObjectID": 77
+  },
+  {
+    "InGameName": "Orange Paint Brush",
+    "ObjectID": 78
+  },
+  {
+    "InGameName": "Cyan Paint Brush",
+    "ObjectID": 79
+  },
+  {
+    "InGameName": "Pink Paint Brush",
+    "ObjectID": 80
+  },
+  {
+    "InGameName": "Grey Paint Brush",
+    "ObjectID": 81
+  },
+  {
+    "InGameName": "Peach Paint Brush",
+    "ObjectID": 82
+  },
+  {
+    "InGameName": "Teal Paint Brush",
+    "ObjectID": 83
+  },
+  {
+    "InGameName": "Hand Drill",
+    "ObjectID": 90
+  },
+  {
+    "InGameName": "Obliteration Ray",
+    "ObjectID": 91
+  },
+  {
+    "InGameName": "Scarlet Hand Drill",
+    "ObjectID": 92
+  },
+  {
+    "InGameName": "Chest",
+    "ObjectID": 100
+  },
+  {
+    "InGameName": "Larva Hive Chest",
+    "ObjectID": 101
+  },
+  {
+    "InGameName": "Mold Covered Chest",
+    "ObjectID": 102
+  },
+  {
+    "InGameName": "Ancient Chest",
+    "ObjectID": 103
+  },
+  {
+    "InGameName": "Seashell Chest",
+    "ObjectID": 104
+  },
+  {
+    "InGameName": "Golden Ancient Chest",
+    "ObjectID": 105
+  },
+  {
+    "InGameName": "Smoldering Chest",
+    "ObjectID": 106
+  },
+  {
+    "InGameName": "Gingerbread House Chest",
+    "ObjectID": 107
+  },
+  {
+    "InGameName": "Valentine's Chest",
+    "ObjectID": 108
+  },
+  {
+    "InGameName": "Alien Tech Chest",
+    "ObjectID": 109
+  },
+  {
+    "InGameName": "Torch (standing)",
+    "ObjectID": 110
+  },
+  {
+    "InGameName": "Campfire",
+    "ObjectID": 111
+  },
+  {
+    "InGameName": "Decorative Torch (standing)",
+    "ObjectID": 112
+  },
+  {
+    "InGameName": "NA",
+    "ObjectID": 113
+  },
+  {
+    "InGameName": "NA",
+    "ObjectID": 114
+  },
+  {
+    "InGameName": "Crystal Lamp",
+    "ObjectID": 115
+  },
+  {
+    "InGameName": "Decorative Pot",
+    "ObjectID": 120
+  },
+  {
+    "InGameName": "Planter Box",
+    "ObjectID": 121
+  },
+  {
+    "InGameName": "Pedestal",
+    "ObjectID": 125
+  },
+  {
+    "InGameName": "Stone Pedestal",
+    "ObjectID": 126
+  },
+  {
+    "InGameName": "Blue Glass Pedestal",
+    "ObjectID": 127
+  },
+  {
+    "InGameName": "Deceased Explorer",
+    "ObjectID": 128
+  },
+  {
+    "InGameName": "Skeleton Decor",
+    "ObjectID": 129
+  },
+  {
+    "InGameName": "Wood Stool",
+    "ObjectID": 135
+  },
+  {
+    "InGameName": "Wood Table",
+    "ObjectID": 136
+  },
+  {
+    "InGameName": "Painting (down)",
+    "ObjectID": 137
+  },
+  {
+    "InGameName": "Wooden Pillar",
+    "ObjectID": 138
+  },
+  {
+    "InGameName": "Floor Pillow",
+    "ObjectID": 139
+  },
+  {
+    "InGameName": "Lamp",
+    "ObjectID": 140
+  },
+  {
+    "InGameName": "Large Shiny Glimmering Object",
+    "ObjectID": 150
+  },
+  {
+    "InGameName": "Thumper",
+    "ObjectID": 151
+  },
+  {
+    "InGameName": "Bait Pillar",
+    "ObjectID": 152
+  },
+  {
+    "InGameName": "Wind Organ of Wilderness",
+    "ObjectID": 153
+  },
+  {
+    "InGameName": "Wind Organ of Ice",
+    "ObjectID": 154
+  },
+  {
+    "InGameName": "Wind Organ of Fire",
+    "ObjectID": 155
+  },
+  {
+    "InGameName": "Titan's Chest",
+    "ObjectID": 170
+  },
+  {
+    "InGameName": "Glurch Chest",
+    "ObjectID": 171
+  },
+  {
+    "InGameName": "Ghorm Chest",
+    "ObjectID": 172
+  },
+  {
+    "InGameName": "Hive Mother Chest",
+    "ObjectID": 173
+  },
+  {
+    "InGameName": "Ivy's Chest",
+    "ObjectID": 174
+  },
+  {
+    "InGameName": "Golden Titan's Chest",
+    "ObjectID": 175
+  },
+  {
+    "InGameName": "Morpha's Chest",
+    "ObjectID": 176
+  },
+  {
+    "InGameName": "Floating Titan's Chest",
+    "ObjectID": 177
+  },
+  {
+    "InGameName": "King Slime's Chest",
+    "ObjectID": 178
+  },
+  {
+    "InGameName": "Igneous' Chest",
+    "ObjectID": 179
+  },
+  {
+    "InGameName": "Haunted Hive Mother Chest",
+    "ObjectID": 180
+  },
+  {
+    "InGameName": "Locked Desert Prince Chest",
+    "ObjectID": 181
+  },
+  {
+    "InGameName": "Locked Desert Queen Chest",
+    "ObjectID": 182
+  },
+  {
+    "InGameName": "Locked Desert King Chest",
+    "ObjectID": 183
+  },
+  {
+    "InGameName": "Desert Prince Chest",
+    "ObjectID": 184
+  },
+  {
+    "InGameName": "Desert Queen Chest",
+    "ObjectID": 185
+  },
+  {
+    "InGameName": "Desert King Chest",
+    "ObjectID": 186
+  },
+  {
+    "InGameName": "Music Sheet Stand",
+    "ObjectID": 187
+  },
+  {
+    "InGameName": "Wash Basin",
+    "ObjectID": 188
+  },
+  {
+    "InGameName": "Atlantean Worm Chest",
+    "ObjectID": 189
+  },
+  {
+    "InGameName": "Druidra Chest",
+    "ObjectID": 190
+  },
+  {
+    "InGameName": "Crydra Chest",
+    "ObjectID": 191
+  },
+  {
+    "InGameName": "Pyrdra Chest",
+    "ObjectID": 192
+  },
+  {
+    "InGameName": "Core Tech Chest",
+    "ObjectID": 193
+  },
+  {
+    "InGameName": "Urschleims Chest",
+    "ObjectID": 194
+  },
+  {
+    "InGameName": "Terrarium",
+    "ObjectID": 195
+  },
+  {
+    "InGameName": "Aquarium",
+    "ObjectID": 196
+  },
+  {
+    "InGameName": "Beach Terrarium",
+    "ObjectID": 197
+  },
+  {
+    "InGameName": "Desert Terrarium",
+    "ObjectID": 198
+  },
+  {
+    "InGameName": "Wilderness Terrarium",
+    "ObjectID": 199
+  },
+  {
+    "InGameName": "Crystal Terrarium",
+    "ObjectID": 200
+  },
+  {
+    "InGameName": "Passage Terrarium",
+    "ObjectID": 201
+  },
+  {
+    "InGameName": "Sunken Aquarium",
+    "ObjectID": 202
+  },
+  {
+    "InGameName": "Rocky Aquarium",
+    "ObjectID": 203
+  },
+  {
+    "InGameName": "Wilderness Aquarium",
+    "ObjectID": 204
+  },
+  {
+    "InGameName": "Crystal Aquarium",
+    "ObjectID": 205
+  },
+  {
+    "InGameName": "Passage Aquarium",
+    "ObjectID": 206
+  },
+  {
+    "InGameName": "Malugaz Chest",
+    "ObjectID": 207
+  },
+  {
+    "InGameName": "Colossal Cicada Chest",
+    "ObjectID": 208
+  },
+  {
+    "InGameName": "Locked Copper Chest",
+    "ObjectID": 210
+  },
+  {
+    "InGameName": "Copper Chest",
+    "ObjectID": 211
+  },
+  {
+    "InGameName": "Copper Key",
+    "ObjectID": 212
+  },
+  {
+    "InGameName": "Locked Iron Chest",
+    "ObjectID": 213
+  },
+  {
+    "InGameName": "Iron Chest",
+    "ObjectID": 214
+  },
+  {
+    "InGameName": "Iron Key",
+    "ObjectID": 215
+  },
+  {
+    "InGameName": "Locked Scarlet Chest",
+    "ObjectID": 216
+  },
+  {
+    "InGameName": "Scarlet Chest",
+    "ObjectID": 217
+  },
+  {
+    "InGameName": "Scarlet Key",
+    "ObjectID": 218
+  },
+  {
+    "InGameName": "Locked Octarine Chest",
+    "ObjectID": 219
+  },
+  {
+    "InGameName": "Octarine Chest",
+    "ObjectID": 220
+  },
+  {
+    "InGameName": "Octarine Key",
+    "ObjectID": 221
+  },
+  {
+    "InGameName": "Locked Galaxite Chest",
+    "ObjectID": 222
+  },
+  {
+    "InGameName": "Galaxite Chest",
+    "ObjectID": 223
+  },
+  {
+    "InGameName": "Galaxite Key",
+    "ObjectID": 224
+  },
+  {
+    "InGameName": "Locked Solarite Chest",
+    "ObjectID": 225
+  },
+  {
+    "InGameName": "Solarite Chest",
+    "ObjectID": 226
+  },
+  {
+    "InGameName": "Solarite Key",
+    "ObjectID": 227
+  },
+  {
+    "InGameName": "Cultist Chest",
+    "ObjectID": 228
+  },
+  {
+    "InGameName": "NA",
+    "ObjectID": 230
+  },
+  {
+    "InGameName": "Roof light",
+    "ObjectID": 231
+  },
+  {
+    "InGameName": "Normal water",
+    "ObjectID": 232
+  },
+  {
+    "InGameName": "Pit",
+    "ObjectID": 233
+  },
+  {
+    "InGameName": "Lava",
+    "ObjectID": 234
+  },
+  {
+    "InGameName": "NA",
+    "ObjectID": 235
+  },
+  {
+    "InGameName": "Dirt Block",
+    "ObjectID": 300
+  },
+  {
+    "InGameName": "Stone Block",
+    "ObjectID": 301
+  },
+  {
+    "InGameName": "Stone Bricks Wall",
+    "ObjectID": 302
+  },
+  {
+    "InGameName": "Clay Block",
+    "ObjectID": 303
+  },
+  {
+    "InGameName": "Wood Wall",
+    "ObjectID": 320
+  },
+  {
+    "InGameName": "Larva Hive Block",
+    "ObjectID": 321
+  },
+  {
+    "InGameName": "Grass Block",
+    "ObjectID": 325
+  },
+  {
+    "InGameName": "Mold Block",
+    "ObjectID": 326
+  },
+  {
+    "InGameName": "Beach Block",
+    "ObjectID": 327
+  },
+  {
+    "InGameName": "Sand Block",
+    "ObjectID": 328
+  },
+  {
+    "InGameName": "Turf Block",
+    "ObjectID": 329
+  },
+  {
+    "InGameName": "Metropolis Block",
+    "ObjectID": 330
+  },
+  {
+    "InGameName": "Desert Block",
+    "ObjectID": 331
+  },
+  {
+    "InGameName": "Lava Rock Block",
+    "ObjectID": 332
+  },
+  {
+    "InGameName": "Desert Temple Block",
+    "ObjectID": 333
+  },
+  {
+    "InGameName": "Maze Block",
+    "ObjectID": 334
+  },
+  {
+    "InGameName": "Snow Block",
+    "ObjectID": 335
+  },
+  {
+    "InGameName": "Great Wall",
+    "ObjectID": 349
+  },
+  {
+    "InGameName": "Obsidian Block",
+    "ObjectID": 350
+  },
+  {
+    "InGameName": "Paintable Wall (unpainted)",
+    "ObjectID": 351
+  },
+  {
+    "InGameName": "Scarlet Wall",
+    "ObjectID": 352
+  },
+  {
+    "InGameName": "Coral Wall",
+    "ObjectID": 353
+  },
+  {
+    "InGameName": "Galaxite Wall",
+    "ObjectID": 354
+  },
+  {
+    "InGameName": "Explosives Deposit",
+    "ObjectID": 355
+  },
+  {
+    "InGameName": "Glass Wall (unpainted)",
+    "ObjectID": 356
+  },
+  {
+    "InGameName": "Meadow Block",
+    "ObjectID": 357
+  },
+  {
+    "InGameName": "Straw-bale Wall",
+    "ObjectID": 358
+  },
+  {
+    "InGameName": "Crystal Block",
+    "ObjectID": 359
+  },
+  {
+    "InGameName": "Alien Tech Block",
+    "ObjectID": 360
+  },
+  {
+    "InGameName": "Gleam Wood Wall",
+    "ObjectID": 361
+  },
+  {
+    "InGameName": "Thermite Wall",
+    "ObjectID": 362
+  },
+  {
+    "InGameName": "Dark Stone Block",
+    "ObjectID": 363
+  },
+  {
+    "InGameName": "Fossil Block",
+    "ObjectID": 364
+  },
+  {
+    "InGameName": "Oasis Block",
+    "ObjectID": 365
+  },
+  {
+    "InGameName": "Poison Berry Wall",
+    "ObjectID": 366
+  },
+  {
+    "InGameName": "Molten Wall",
+    "ObjectID": 367
+  },
+  {
+    "InGameName": "Watered Dirt Block",
+    "ObjectID": 398
+  },
+  {
+    "InGameName": "Tilled Dirt Block",
+    "ObjectID": 399
+  },
+  {
+    "InGameName": "Dirt Ground",
+    "ObjectID": 400
+  },
+  {
+    "InGameName": "Stone Ground",
+    "ObjectID": 401
+  },
+  {
+    "InGameName": "Larva Hive Ground",
+    "ObjectID": 402
+  },
+  {
+    "InGameName": "Grass Ground",
+    "ObjectID": 403
+  },
+  {
+    "InGameName": "Mold Ground",
+    "ObjectID": 404
+  },
+  {
+    "InGameName": "Beach Sand Ground",
+    "ObjectID": 405
+  },
+  {
+    "InGameName": "Clay Ground",
+    "ObjectID": 406
+  },
+  {
+    "InGameName": "Sand Ground",
+    "ObjectID": 407
+  },
+  {
+    "InGameName": "Turf Ground",
+    "ObjectID": 408
+  },
+  {
+    "InGameName": "City Floor",
+    "ObjectID": 409
+  },
+  {
+    "InGameName": "Desert Sand Ground",
+    "ObjectID": 410
+  },
+  {
+    "InGameName": "Lava Rock Ground",
+    "ObjectID": 411
+  },
+  {
+    "InGameName": "Temple Floor",
+    "ObjectID": 412
+  },
+  {
+    "InGameName": "Maze Floor",
+    "ObjectID": 413
+  },
+  {
+    "InGameName": "Snow Ground",
+    "ObjectID": 414
+  },
+  {
+    "InGameName": "Meadow Ground",
+    "ObjectID": 415
+  },
+  {
+    "InGameName": "Dark Stone Ground",
+    "ObjectID": 416
+  },
+  {
+    "InGameName": "Crystal Ground",
+    "ObjectID": 417
+  },
+  {
+    "InGameName": "Alien Tech Floor",
+    "ObjectID": 418
+  },
+  {
+    "InGameName": "Watered Stone Block",
+    "ObjectID": 420
+  },
+  {
+    "InGameName": "Tilled Stone Block",
+    "ObjectID": 421
+  },
+  {
+    "InGameName": "Watered Mold Block",
+    "ObjectID": 422
+  },
+  {
+    "InGameName": "Tilled Mold Block",
+    "ObjectID": 423
+  },
+  {
+    "InGameName": "Tilled Beach Block",
+    "ObjectID": 425
+  },
+  {
+    "InGameName": "Watered Beach Block",
+    "ObjectID": 426
+  },
+  {
+    "InGameName": "Tilled Turf Block",
+    "ObjectID": 427
+  },
+  {
+    "InGameName": "Watered Turf Block",
+    "ObjectID": 428
+  },
+  {
+    "InGameName": "Tilled Grass Block",
+    "ObjectID": 429
+  },
+  {
+    "InGameName": "Watered Grass Block",
+    "ObjectID": 430
+  },
+  {
+    "InGameName": "Tilled Clay Block",
+    "ObjectID": 431
+  },
+  {
+    "InGameName": "Watered Clay Block",
+    "ObjectID": 432
+  },
+  {
+    "InGameName": "Tilled Crystal Block",
+    "ObjectID": 433
+  },
+  {
+    "InGameName": "Watered Crystal Block",
+    "ObjectID": 434
+  },
+  {
+    "InGameName": "Tilled Meadow Block",
+    "ObjectID": 435
+  },
+  {
+    "InGameName": "Watered Meadow Block",
+    "ObjectID": 436
+  },
+  {
+    "InGameName": "NA",
+    "ObjectID": 437
+  },
+  {
+    "InGameName": "NA",
+    "ObjectID": 438
+  },
+  {
+    "InGameName": "NA",
+    "ObjectID": 439
+  },
+  {
+    "InGameName": "NA",
+    "ObjectID": 440
+  },
+  {
+    "InGameName": "Obsidian Ground",
+    "ObjectID": 450
+  },
+  {
+    "InGameName": "Copper Bar",
+    "ObjectID": 1001
+  },
+  {
+    "InGameName": "Iron Bar",
+    "ObjectID": 1002
+  },
+  {
+    "InGameName": "Gold Bar",
+    "ObjectID": 1003
+  },
+  {
+    "InGameName": "Scarlet Bar",
+    "ObjectID": 1004
+  },
+  {
+    "InGameName": "Tin Bar",
+    "ObjectID": 1005
+  },
+  {
+    "InGameName": "Octarine Bar",
+    "ObjectID": 1006
+  },
+  {
+    "InGameName": "Galaxite Bar",
+    "ObjectID": 1007
+  },
+  {
+    "InGameName": "Solarite Bar",
+    "ObjectID": 1008
+  },
+  {
+    "InGameName": "Pandorium Bar",
+    "ObjectID": 1009
+  },
+  {
+    "InGameName": "Glass Piece",
+    "ObjectID": 1025
+  },
+  {
+    "InGameName": "Plank",
+    "ObjectID": 1030
+  },
+  {
+    "InGameName": "Coral Wood Plank",
+    "ObjectID": 1031
+  },
+  {
+    "InGameName": "Gleam Wood Plank",
+    "ObjectID": 1032
+  },
+  {
+    "InGameName": "Egg Incubator",
+    "ObjectID": 1200
+  },
+  {
+    "InGameName": "Pet Pellet",
+    "ObjectID": 1201
+  },
+  {
+    "InGameName": "Rare Candy",
+    "ObjectID": 1202
+  },
+  {
+    "InGameName": "Beast Booster",
+    "ObjectID": 1203
+  },
+  {
+    "InGameName": "Loyal Egg",
+    "ObjectID": 1220
+  },
+  {
+    "InGameName": "Cracked Loyal Egg",
+    "ObjectID": 1221
+  },
+  {
+    "InGameName": "Subterrier",
+    "ObjectID": 1222
+  },
+  {
+    "InGameName": "Curious Egg",
+    "ObjectID": 1223
+  },
+  {
+    "InGameName": "Cracked Curious Egg",
+    "ObjectID": 1224
+  },
+  {
+    "InGameName": "Embertail",
+    "ObjectID": 1225
+  },
+  {
+    "InGameName": "Lively Egg",
+    "ObjectID": 1226
+  },
+  {
+    "InGameName": "Cracked Lively Egg",
+    "ObjectID": 1227
+  },
+  {
+    "InGameName": "Owlux",
+    "ObjectID": 1228
+  },
+  {
+    "InGameName": "Oozy Egg",
+    "ObjectID": 1229
+  },
+  {
+    "InGameName": "Cracked Oozy Egg",
+    "ObjectID": 1230
+  },
+  {
+    "InGameName": "Jr. Orange Slime",
+    "ObjectID": 1231
+  },
+  {
+    "InGameName": "Nimble Egg",
+    "ObjectID": 1232
+  },
+  {
+    "InGameName": "Cracked Nimble Egg",
+    "ObjectID": 1233
+  },
+  {
+    "InGameName": "Fanhare",
+    "ObjectID": 1234
+  },
+  {
+    "InGameName": "Oozy Slippery Egg",
+    "ObjectID": 1235
+  },
+  {
+    "InGameName": "Cracked Oozy Slippery Egg",
+    "ObjectID": 1236
+  },
+  {
+    "InGameName": "Jr. Blue Slime",
+    "ObjectID": 1237
+  },
+  {
+    "InGameName": "Oozy Poison Egg",
+    "ObjectID": 1238
+  },
+  {
+    "InGameName": "Cracked Oozy Poison Egg",
+    "ObjectID": 1239
+  },
+  {
+    "InGameName": "Jr. Purple Slime",
+    "ObjectID": 1240
+  },
+  {
+    "InGameName": "Oozy Lava Egg",
+    "ObjectID": 1241
+  },
+  {
+    "InGameName": "Cracked Oozy Lava Egg",
+    "ObjectID": 1242
+  },
+  {
+    "InGameName": "Jr. Lava Slime",
+    "ObjectID": 1243
+  },
+  {
+    "InGameName": "Oozy Royal Egg",
+    "ObjectID": 1244
+  },
+  {
+    "InGameName": "Cracked Oozy Royal Egg",
+    "ObjectID": 1245
+  },
+  {
+    "InGameName": "Prince Slime",
+    "ObjectID": 1246
+  },
+  {
+    "InGameName": "Pheromoth",
+    "ObjectID": 1247
+  },
+  {
+    "InGameName": "Fuzzy Egg",
+    "ObjectID": 1248
+  },
+  {
+    "InGameName": "Cracked Fuzzy Egg",
+    "ObjectID": 1249
+  },
+  {
+    "InGameName": "Squishy Egg",
+    "ObjectID": 1250
+  },
+  {
+    "InGameName": "Cracked Squishy Egg",
+    "ObjectID": 1251
+  },
+  {
+    "InGameName": "Snugglygrade",
+    "ObjectID": 1252
+  },
+  {
+    "InGameName": "Arcane Symbiote",
+    "ObjectID": 1253
+  },
+  {
+    "InGameName": "Arcane Egg",
+    "ObjectID": 1254
+  },
+  {
+    "InGameName": "Cracked Arcane Egg",
+    "ObjectID": 1255
+  },
+  {
+    "InGameName": "Pest Egg",
+    "ObjectID": 1256
+  },
+  {
+    "InGameName": "Cracked Pest Egg",
+    "ObjectID": 1257
+  },
+  {
+    "InGameName": "Electro-Pet",
+    "ObjectID": 1258
+  },
+  {
+    "InGameName": "Moolin",
+    "ObjectID": 1300
+  },
+  {
+    "InGameName": "Feeding Tray",
+    "ObjectID": 1301
+  },
+  {
+    "InGameName": "Bambuck",
+    "ObjectID": 1302
+  },
+  {
+    "InGameName": "Strolly Poly",
+    "ObjectID": 1303
+  },
+  {
+    "InGameName": "Moolin Calf",
+    "ObjectID": 1304
+  },
+  {
+    "InGameName": "Bambuck Kid",
+    "ObjectID": 1305
+  },
+  {
+    "InGameName": "Strolly Poly Nymph",
+    "ObjectID": 1306
+  },
+  {
+    "InGameName": "Kelple",
+    "ObjectID": 1307
+  },
+  {
+    "InGameName": "Kelple Hatchling",
+    "ObjectID": 1308
+  },
+  {
+    "InGameName": "Dodo",
+    "ObjectID": 1309
+  },
+  {
+    "InGameName": "Dodo Chick",
+    "ObjectID": 1310
+  },
+  {
+    "InGameName": "Drohmble",
+    "ObjectID": 1311
+  },
+  {
+    "InGameName": "Drohmble Calf",
+    "ObjectID": 1312
+  },
+  {
+    "InGameName": "Skeleton Minion",
+    "ObjectID": 1350
+  },
+  {
+    "InGameName": "Bat Minion",
+    "ObjectID": 1351
+  },
+  {
+    "InGameName": "Jellyfish Minion",
+    "ObjectID": 1352
+  },
+  {
+    "InGameName": "Fire Mite Minion",
+    "ObjectID": 1353
+  },
+  {
+    "InGameName": "Plant Minion",
+    "ObjectID": 1354
+  },
+  {
+    "InGameName": "Radioactive Minion",
+    "ObjectID": 1355
+  },
+  {
+    "InGameName": "NA",
+    "ObjectID": 1356
+  },
+  {
+    "InGameName": "Owlboy - Main Title",
+    "ObjectID": 1400
+  },
+  {
+    "InGameName": "Core Keeper - Base Theme",
+    "ObjectID": 1401
+  },
+  {
+    "InGameName": "CSD!3!? \u2013 It's Dangerous To Go Alone",
+    "ObjectID": 1402
+  },
+  {
+    "InGameName": "Happy Birthday To You",
+    "ObjectID": 1403
+  },
+  {
+    "InGameName": "Terraria - Journey's Beginning",
+    "ObjectID": 1404
+  },
+  {
+    "InGameName": "Stardew Valley - Spring (It's a Big World Outside)",
+    "ObjectID": 1405
+  },
+  {
+    "InGameName": "Valheim - Meadows",
+    "ObjectID": 1406
+  },
+  {
+    "InGameName": "Copper Ore",
+    "ObjectID": 1500
+  },
+  {
+    "InGameName": "Tin Ore",
+    "ObjectID": 1505
+  },
+  {
+    "InGameName": "Iron Ore",
+    "ObjectID": 1510
+  },
+  {
+    "InGameName": "Gold Ore",
+    "ObjectID": 1520
+  },
+  {
+    "InGameName": "Scarlet Ore",
+    "ObjectID": 1521
+  },
+  {
+    "InGameName": "Octarine Ore",
+    "ObjectID": 1522
+  },
+  {
+    "InGameName": "Galaxite Ore",
+    "ObjectID": 1523
+  },
+  {
+    "InGameName": "Solarite Ore",
+    "ObjectID": 1524
+  },
+  {
+    "InGameName": "Pandorium Ore",
+    "ObjectID": 1525
+  },
+  {
+    "InGameName": "Ancient Gemstone",
+    "ObjectID": 1600
+  },
+  {
+    "InGameName": "Jungle Emerald",
+    "ObjectID": 1601
+  },
+  {
+    "InGameName": "Ocean Sapphire",
+    "ObjectID": 1602
+  },
+  {
+    "InGameName": "Desert Ruby",
+    "ObjectID": 1603
+  },
+  {
+    "InGameName": "Wood (unpainted)",
+    "ObjectID": 1610
+  },
+  {
+    "InGameName": "Thorn Wood",
+    "ObjectID": 1611
+  },
+  {
+    "InGameName": "Coral Wood",
+    "ObjectID": 1612
+  },
+  {
+    "InGameName": "Gleam Wood",
+    "ObjectID": 1613
+  },
+  {
+    "InGameName": "Slime",
+    "ObjectID": 1630
+  },
+  {
+    "InGameName": "Poison Slime",
+    "ObjectID": 1631
+  },
+  {
+    "InGameName": "Slippery Slime",
+    "ObjectID": 1632
+  },
+  {
+    "InGameName": "Magma Slime",
+    "ObjectID": 1633
+  },
+  {
+    "InGameName": "Fiber",
+    "ObjectID": 1640
+  },
+  {
+    "InGameName": "Wool",
+    "ObjectID": 1641
+  },
+  {
+    "InGameName": "Strolly Poly Plate",
+    "ObjectID": 1642
+  },
+  {
+    "InGameName": "Larva Meat",
+    "ObjectID": 1645
+  },
+  {
+    "InGameName": "Shiny Larva Meat",
+    "ObjectID": 1646
+  },
+  {
+    "InGameName": "Mechanical Part",
+    "ObjectID": 1647
+  },
+  {
+    "InGameName": "Scrap Parts",
+    "ObjectID": 1648
+  },
+  {
+    "InGameName": "Cytoplasm",
+    "ObjectID": 1649
+  },
+  {
+    "InGameName": "Calcified Shell",
+    "ObjectID": 1650
+  },
+  {
+    "InGameName": "Blasting Dung",
+    "ObjectID": 1651
+  },
+  {
+    "InGameName": "Alien Fuse",
+    "ObjectID": 1652
+  },
+  {
+    "InGameName": "NA",
+    "ObjectID": 2000
+  },
+  {
+    "InGameName": "NA",
+    "ObjectID": 2010
+  },
+  {
+    "InGameName": "NA",
+    "ObjectID": 2012
+  },
+  {
+    "InGameName": "NA",
+    "ObjectID": 2013
+  },
+  {
+    "InGameName": "NA",
+    "ObjectID": 2014
+  },
+  {
+    "InGameName": "NA",
+    "ObjectID": 2015
+  },
+  {
+    "InGameName": "NA",
+    "ObjectID": 2016
+  },
+  {
+    "InGameName": "NA",
+    "ObjectID": 2017
+  },
+  {
+    "InGameName": "NA",
+    "ObjectID": 2018
+  },
+  {
+    "InGameName": "NA",
+    "ObjectID": 2019
+  },
+  {
+    "InGameName": "NA",
+    "ObjectID": 2020
+  },
+  {
+    "InGameName": "Ancient Coin",
+    "ObjectID": 2021
+  },
+  {
+    "InGameName": "NA",
+    "ObjectID": 2022
+  },
+  {
+    "InGameName": "NA",
+    "ObjectID": 2023
+  },
+  {
+    "InGameName": "NA",
+    "ObjectID": 2024
+  },
+  {
+    "InGameName": "Soul of Azeos",
+    "ObjectID": 2050
+  },
+  {
+    "InGameName": "Rune (Glurch)",
+    "ObjectID": 2051
+  },
+  {
+    "InGameName": "Soul of Omoroth",
+    "ObjectID": 2052
+  },
+  {
+    "InGameName": "Soul of Ra-Akar",
+    "ObjectID": 2053
+  },
+  {
+    "InGameName": "Soul of Druidra",
+    "ObjectID": 2054
+  },
+  {
+    "InGameName": "Soul of Crydra",
+    "ObjectID": 2055
+  },
+  {
+    "InGameName": "Soul of Pyrdra",
+    "ObjectID": 2056
+  },
+  {
+    "InGameName": "Fish shoal",
+    "ObjectID": 2060
+  },
+  {
+    "InGameName": "Copper Ore Boulder",
+    "ObjectID": 2200
+  },
+  {
+    "InGameName": "Tin Ore Boulder",
+    "ObjectID": 2201
+  },
+  {
+    "InGameName": "Iron Ore Boulder",
+    "ObjectID": 2202
+  },
+  {
+    "InGameName": "Gold Ore Boulder",
+    "ObjectID": 2203
+  },
+  {
+    "InGameName": "Scarlet Ore Boulder",
+    "ObjectID": 2204
+  },
+  {
+    "InGameName": "Octarine Ore Boulder",
+    "ObjectID": 2205
+  },
+  {
+    "InGameName": "Galaxite Ore Boulder",
+    "ObjectID": 2206
+  },
+  {
+    "InGameName": "Solarite Ore Boulder",
+    "ObjectID": 2207
+  },
+  {
+    "InGameName": "NA",
+    "ObjectID": 2208
+  },
+  {
+    "InGameName": "Pandorium Ore Boulder",
+    "ObjectID": 2209
+  },
+  {
+    "InGameName": "NA",
+    "ObjectID": 2210
+  },
+  {
+    "InGameName": "NA",
+    "ObjectID": 2211
+  },
+  {
+    "InGameName": "NA",
+    "ObjectID": 2212
+  },
+  {
+    "InGameName": "NA",
+    "ObjectID": 2400
+  },
+  {
+    "InGameName": "NA",
+    "ObjectID": 2401
+  },
+  {
+    "InGameName": "NA (Marker1)",
+    "ObjectID": 2402
+  },
+  {
+    "InGameName": "Ghorm's Horn",
+    "ObjectID": 2500
+  },
+  {
+    "InGameName": "Glurch Eye",
+    "ObjectID": 2501
+  },
+  {
+    "InGameName": "Stolen Crystal Heart",
+    "ObjectID": 2502
+  },
+  {
+    "InGameName": "Giant Slime Summoning Idol",
+    "ObjectID": 2503
+  },
+  {
+    "InGameName": "Ghorm Summoning Idol",
+    "ObjectID": 2504
+  },
+  {
+    "InGameName": "Hive Mother Summoning Idol",
+    "ObjectID": 2505
+  },
+  {
+    "InGameName": "Malugaz Summoning Idol",
+    "ObjectID": 2506
+  },
+  {
+    "InGameName": "NA",
+    "ObjectID": 2507
+  },
+  {
+    "InGameName": "Crown Summoning Idol",
+    "ObjectID": 2508
+  },
+  {
+    "InGameName": "Haunted Hive Mother Summoning Idol",
+    "ObjectID": 2509
+  },
+  {
+    "InGameName": "Core Commander Summoning Idol",
+    "ObjectID": 2510
+  },
+  {
+    "InGameName": "Primeval Slime Cell",
+    "ObjectID": 2511
+  },
+  {
+    "InGameName": "Corrupted Sap",
+    "ObjectID": 2512
+  },
+  {
+    "InGameName": "Hardened Sap",
+    "ObjectID": 2513
+  },
+  {
+    "InGameName": "Void Neuron",
+    "ObjectID": 2514
+  },
+  {
+    "InGameName": "Orange Slime",
+    "ObjectID": 3000
+  },
+  {
+    "InGameName": "Larva",
+    "ObjectID": 3001
+  },
+  {
+    "InGameName": "Big Larva",
+    "ObjectID": 3002
+  },
+  {
+    "InGameName": "Ghorm the Devourer",
+    "ObjectID": 3003
+  },
+  {
+    "InGameName": "Acid Larva",
+    "ObjectID": 3004
+  },
+  {
+    "InGameName": "The Hive Mother",
+    "ObjectID": 3005
+  },
+  {
+    "InGameName": "Larva Hive Egg",
+    "ObjectID": 3006
+  },
+  {
+    "InGameName": "Cocoon",
+    "ObjectID": 3007
+  },
+  {
+    "InGameName": "Red Slime",
+    "ObjectID": 3008
+  },
+  {
+    "InGameName": "Shrooman",
+    "ObjectID": 3009
+  },
+  {
+    "InGameName": "Haunted Hive Mother",
+    "ObjectID": 3010
+  },
+  {
+    "InGameName": "Glurch the Abominous Mass",
+    "ObjectID": 3020
+  },
+  {
+    "InGameName": "Purple Slime",
+    "ObjectID": 3021
+  },
+  {
+    "InGameName": "Blue Slime",
+    "ObjectID": 3022
+  },
+  {
+    "InGameName": "Ivy the Poisonous Mass",
+    "ObjectID": 3023
+  },
+  {
+    "InGameName": "Morpha the Aquatic Mass",
+    "ObjectID": 3024
+  },
+  {
+    "InGameName": "King Slime",
+    "ObjectID": 3025
+  },
+  {
+    "InGameName": "Royal Slime",
+    "ObjectID": 3026
+  },
+  {
+    "InGameName": "Lava Slime",
+    "ObjectID": 3027
+  },
+  {
+    "InGameName": "Igneous the Molten Mass",
+    "ObjectID": 3028
+  },
+  {
+    "InGameName": "Caveling",
+    "ObjectID": 3050
+  },
+  {
+    "InGameName": "Caveling Shaman",
+    "ObjectID": 3051
+  },
+  {
+    "InGameName": "Caveling Gardener",
+    "ObjectID": 3052
+  },
+  {
+    "InGameName": "Caveling Hunter",
+    "ObjectID": 3053
+  },
+  {
+    "InGameName": "Infected Caveling",
+    "ObjectID": 3054
+  },
+  {
+    "InGameName": "Caveling Brute",
+    "ObjectID": 3055
+  },
+  {
+    "InGameName": "Caveling Scholar",
+    "ObjectID": 3056
+  },
+  {
+    "InGameName": "Core Sentry",
+    "ObjectID": 3057
+  },
+  {
+    "InGameName": "Malugaz the Corrupted",
+    "ObjectID": 3058
+  },
+  {
+    "InGameName": "Caveling Assassin",
+    "ObjectID": 3059
+  },
+  {
+    "InGameName": "Caveling Mummy",
+    "ObjectID": 3060
+  },
+  {
+    "InGameName": "Caveling Skirmisher",
+    "ObjectID": 3061
+  },
+  {
+    "InGameName": "Caveling Spearman",
+    "ObjectID": 3062
+  },
+  {
+    "InGameName": "Snare Plant",
+    "ObjectID": 3080
+  },
+  {
+    "InGameName": "Azeos the Sky Titan",
+    "ObjectID": 3090
+  },
+  {
+    "InGameName": "NA",
+    "ObjectID": 3091
+  },
+  {
+    "InGameName": "Thunder Beam",
+    "ObjectID": 3092
+  },
+  {
+    "InGameName": "Blue Crystal",
+    "ObjectID": 3093
+  },
+  {
+    "InGameName": "Tentacle",
+    "ObjectID": 3100
+  },
+  {
+    "InGameName": "Mold Tentacle",
+    "ObjectID": 3101
+  },
+  {
+    "InGameName": "Bubble Crab",
+    "ObjectID": 3105
+  },
+  {
+    "InGameName": "Omoroth the Sea Titan",
+    "ObjectID": 3110
+  },
+  {
+    "InGameName": "Omoroth's Tentacle",
+    "ObjectID": 3111
+  },
+  {
+    "InGameName": "NA",
+    "ObjectID": 3112
+  },
+  {
+    "InGameName": "Bomb Scarab",
+    "ObjectID": 3130
+  },
+  {
+    "InGameName": "Ra-Akar the Sand Titan",
+    "ObjectID": 3131
+  },
+  {
+    "InGameName": "NA",
+    "ObjectID": 3132
+  },
+  {
+    "InGameName": "Lava Butterfly",
+    "ObjectID": 3133
+  },
+  {
+    "InGameName": "NA",
+    "ObjectID": 3140
+  },
+  {
+    "InGameName": "Druidra the Wild Titan",
+    "ObjectID": 3145
+  },
+  {
+    "InGameName": "Crydra the Ice Titan",
+    "ObjectID": 3146
+  },
+  {
+    "InGameName": "Pyrdra the Fire Titan",
+    "ObjectID": 3147
+  },
+  {
+    "InGameName": "Atlantean Worm",
+    "ObjectID": 3148
+  },
+  {
+    "InGameName": "Crystal Snail",
+    "ObjectID": 3150
+  },
+  {
+    "InGameName": "Orbital Turret",
+    "ObjectID": 3151
+  },
+  {
+    "InGameName": "Mimite",
+    "ObjectID": 3152
+  },
+  {
+    "InGameName": "Nilipede",
+    "ObjectID": 3153
+  },
+  {
+    "InGameName": "NA",
+    "ObjectID": 3154
+  },
+  {
+    "InGameName": "Clay Burrower",
+    "ObjectID": 3155
+  },
+  {
+    "InGameName": "NA",
+    "ObjectID": 3156
+  },
+  {
+    "InGameName": "Core Commander",
+    "ObjectID": 3157
+  },
+  {
+    "InGameName": "Core Thunder Beam",
+    "ObjectID": 3158
+  },
+  {
+    "InGameName": "Core Sphere",
+    "ObjectID": 3159
+  },
+  {
+    "InGameName": "Nature Worm",
+    "ObjectID": 3160
+  },
+  {
+    "InGameName": "NA",
+    "ObjectID": 3161
+  },
+  {
+    "InGameName": "NA",
+    "ObjectID": 3162
+  },
+  {
+    "InGameName": "Sulfur Worm",
+    "ObjectID": 3163
+  },
+  {
+    "InGameName": "NA",
+    "ObjectID": 3164
+  },
+  {
+    "InGameName": "Colossal Amoeba",
+    "ObjectID": 3165
+  },
+  {
+    "InGameName": "NA",
+    "ObjectID": 3166
+  },
+  {
+    "InGameName": "NA",
+    "ObjectID": 3167
+  },
+  {
+    "InGameName": "Urschleim",
+    "ObjectID": 3168
+  },
+  {
+    "InGameName": "Bulb",
+    "ObjectID": 3169
+  },
+  {
+    "InGameName": "NA",
+    "ObjectID": 3170
+  },
+  {
+    "InGameName": "Shrooman Brute",
+    "ObjectID": 3180
+  },
+  {
+    "InGameName": "Floracada",
+    "ObjectID": 3181
+  },
+  {
+    "InGameName": "Desert Cicada",
+    "ObjectID": 3182
+  },
+  {
+    "InGameName": "Nimruza, Queen of the Burrowed Sands",
+    "ObjectID": 3183
+  },
+  {
+    "InGameName": "Cicada Nymph",
+    "ObjectID": 3184
+  },
+  {
+    "InGameName": "NA",
+    "ObjectID": 3185
+  },
+  {
+    "InGameName": "NA",
+    "ObjectID": 3187
+  },
+  {
+    "InGameName": "Gold Scarab",
+    "ObjectID": 3188
+  },
+  {
+    "InGameName": "NA",
+    "ObjectID": 3400
+  },
+  {
+    "InGameName": "Ghost Scholar",
+    "ObjectID": 3401
+  },
+  {
+    "InGameName": "Yellow Glowbug",
+    "ObjectID": 3500
+  },
+  {
+    "InGameName": "Blue Glowbug",
+    "ObjectID": 3501
+  },
+  {
+    "InGameName": "Green Glowbug",
+    "ObjectID": 3502
+  },
+  {
+    "InGameName": "Red Glowbug",
+    "ObjectID": 3503
+  },
+  {
+    "InGameName": "Gem-Jellyfish",
+    "ObjectID": 3510
+  },
+  {
+    "InGameName": "Cloaked Merchant",
+    "ObjectID": 3900
+  },
+  {
+    "InGameName": "Ancient Hologram Pod",
+    "ObjectID": 3901
+  },
+  {
+    "InGameName": "Bearded Merchant",
+    "ObjectID": 3902
+  },
+  {
+    "InGameName": "Fishing Merchant",
+    "ObjectID": 3903
+  },
+  {
+    "InGameName": "Seasonal Merchant",
+    "ObjectID": 3904
+  },
+  {
+    "InGameName": "Little Helperling",
+    "ObjectID": 3905
+  },
+  {
+    "InGameName": "Brave Merchant",
+    "ObjectID": 3906
+  },
+  {
+    "InGameName": "Mysterious Idol",
+    "ObjectID": 3930
+  },
+  {
+    "InGameName": "Slime Oil Idol",
+    "ObjectID": 3931
+  },
+  {
+    "InGameName": "Pile of Chum Idol",
+    "ObjectID": 3932
+  },
+  {
+    "InGameName": "Cookies & Milk",
+    "ObjectID": 3933
+  },
+  {
+    "InGameName": "Seasonal Calendar (down)",
+    "ObjectID": 3934
+  },
+  {
+    "InGameName": "Nuclear Battery Idol",
+    "ObjectID": 3935
+  },
+  {
+    "InGameName": "Ancient Fountain",
+    "ObjectID": 4001
+  },
+  {
+    "InGameName": "The Core",
+    "ObjectID": 4002
+  },
+  {
+    "InGameName": "Basic Workbench",
+    "ObjectID": 4003
+  },
+  {
+    "InGameName": "Furnace",
+    "ObjectID": 4004
+  },
+  {
+    "InGameName": "Electronics Table",
+    "ObjectID": 4005
+  },
+  {
+    "InGameName": "Greenery Pod",
+    "ObjectID": 4006
+  },
+  {
+    "InGameName": "Carpenter's Table",
+    "ObjectID": 4007
+  },
+  {
+    "InGameName": "Alchemy Table",
+    "ObjectID": 4008
+  },
+  {
+    "InGameName": "Table Saw",
+    "ObjectID": 4009
+  },
+  {
+    "InGameName": "Iron Workbench",
+    "ObjectID": 4010
+  },
+  {
+    "InGameName": "Copper Anvil",
+    "ObjectID": 4011
+  },
+  {
+    "InGameName": "Jewelry Workbench",
+    "ObjectID": 4012
+  },
+  {
+    "InGameName": "Cooking Pot",
+    "ObjectID": 4013
+  },
+  {
+    "InGameName": "Iron Anvil",
+    "ObjectID": 4014
+  },
+  {
+    "InGameName": "Smelter Kiln",
+    "ObjectID": 4015
+  },
+  {
+    "InGameName": "Scarlet Workbench",
+    "ObjectID": 4016
+  },
+  {
+    "InGameName": "Railway Forge",
+    "ObjectID": 4017
+  },
+  {
+    "InGameName": "Painter's Table",
+    "ObjectID": 4018
+  },
+  {
+    "InGameName": "Tin Workbench",
+    "ObjectID": 4019
+  },
+  {
+    "InGameName": "Tin Anvil",
+    "ObjectID": 4020
+  },
+  {
+    "InGameName": "Scarlet Anvil",
+    "ObjectID": 4021
+  },
+  {
+    "InGameName": "Automation Table",
+    "ObjectID": 4022
+  },
+  {
+    "InGameName": "Cartography Table",
+    "ObjectID": 4023
+  },
+  {
+    "InGameName": "Octarine Anvil",
+    "ObjectID": 4024
+  },
+  {
+    "InGameName": "Salvage and Repair Station",
+    "ObjectID": 4025
+  },
+  {
+    "InGameName": "Distillery Table",
+    "ObjectID": 4026
+  },
+  {
+    "InGameName": "Octarine Workbench",
+    "ObjectID": 4027
+  },
+  {
+    "InGameName": "Bait Workbench",
+    "ObjectID": 4028
+  },
+  {
+    "InGameName": "Dresser",
+    "ObjectID": 4029
+  },
+  {
+    "InGameName": "Proficient Jewelry Workbench",
+    "ObjectID": 4030
+  },
+  {
+    "InGameName": "Boat Workbench",
+    "ObjectID": 4031
+  },
+  {
+    "InGameName": "Fury Forge",
+    "ObjectID": 4032
+  },
+  {
+    "InGameName": "Galaxite Workbench",
+    "ObjectID": 4033
+  },
+  {
+    "InGameName": "Galaxite Anvil",
+    "ObjectID": 4034
+  },
+  {
+    "InGameName": "Key Casting Table",
+    "ObjectID": 4035
+  },
+  {
+    "InGameName": "Go-Kart Workbench",
+    "ObjectID": 4036
+  },
+  {
+    "InGameName": "Festive Workbench",
+    "ObjectID": 4037
+  },
+  {
+    "InGameName": "Magic Mirror",
+    "ObjectID": 4038
+  },
+  {
+    "InGameName": "Mannequin",
+    "ObjectID": 4039
+  },
+  {
+    "InGameName": "Valentine Crafting Table",
+    "ObjectID": 4040
+  },
+  {
+    "InGameName": "Loom",
+    "ObjectID": 4041
+  },
+  {
+    "InGameName": "Music Workbench",
+    "ObjectID": 4042
+  },
+  {
+    "InGameName": "Copper Workbench",
+    "ObjectID": 4043
+  },
+  {
+    "InGameName": "Glass Smelter",
+    "ObjectID": 4044
+  },
+  {
+    "InGameName": "Glass Workbench",
+    "ObjectID": 4045
+  },
+  {
+    "InGameName": "Upgrade Station",
+    "ObjectID": 4046
+  },
+  {
+    "InGameName": "Solarite Anvil",
+    "ObjectID": 4047
+  },
+  {
+    "InGameName": "Livestock Workbench",
+    "ObjectID": 4048
+  },
+  {
+    "InGameName": "Solarite Workbench",
+    "ObjectID": 4049
+  },
+  {
+    "InGameName": "Samhain Workbench",
+    "ObjectID": 4050
+  },
+  {
+    "InGameName": "Hydra Altar",
+    "ObjectID": 4051
+  },
+  {
+    "InGameName": "Pouch Workbench",
+    "ObjectID": 4052
+  },
+  {
+    "InGameName": "Laboratory Table",
+    "ObjectID": 4053
+  },
+  {
+    "InGameName": "Portal",
+    "ObjectID": 4099
+  },
+  {
+    "InGameName": "Electricity Generator",
+    "ObjectID": 4100
+  },
+  {
+    "InGameName": "Ghorm Statue",
+    "ObjectID": 4101
+  },
+  {
+    "InGameName": "Glurch Statue",
+    "ObjectID": 4102
+  },
+  {
+    "InGameName": "Malugaz Statue",
+    "ObjectID": 4103
+  },
+  {
+    "InGameName": "Arrow Sign",
+    "ObjectID": 4151
+  },
+  {
+    "InGameName": "Skull Effigy",
+    "ObjectID": 4152
+  },
+  {
+    "InGameName": "Brute Sign",
+    "ObjectID": 4153
+  },
+  {
+    "InGameName": "Sign",
+    "ObjectID": 4154
+  },
+  {
+    "InGameName": "Metropolis Sign",
+    "ObjectID": 4155
+  },
+  {
+    "InGameName": "Wood Floor",
+    "ObjectID": 4700
+  },
+  {
+    "InGameName": "Wood Fence Gate (down)",
+    "ObjectID": 4701
+  },
+  {
+    "InGameName": "Wood Fence (unpainted)",
+    "ObjectID": 4702
+  },
+  {
+    "InGameName": "Wood Bridge",
+    "ObjectID": 4703
+  },
+  {
+    "InGameName": "Stone Floor",
+    "ObjectID": 4704
+  },
+  {
+    "InGameName": "Stone Fence Gate (down)",
+    "ObjectID": 4705
+  },
+  {
+    "InGameName": "Stone Fence",
+    "ObjectID": 4706
+  },
+  {
+    "InGameName": "Stone Bridge",
+    "ObjectID": 4707
+  },
+  {
+    "InGameName": "Paintable Floor (unpainted)",
+    "ObjectID": 4708
+  },
+  {
+    "InGameName": "Scarlet Floor",
+    "ObjectID": 4709
+  },
+  {
+    "InGameName": "Scarlet Fence Gate (down)",
+    "ObjectID": 4710
+  },
+  {
+    "InGameName": "Scarlet Fence",
+    "ObjectID": 4711
+  },
+  {
+    "InGameName": "Scarlet Bridge",
+    "ObjectID": 4712
+  },
+  {
+    "InGameName": "Lit Floor (unpainted)",
+    "ObjectID": 4713
+  },
+  {
+    "InGameName": "Coral Floor",
+    "ObjectID": 4714
+  },
+  {
+    "InGameName": "Coral Fence Gate (down)",
+    "ObjectID": 4715
+  },
+  {
+    "InGameName": "Coral Fence",
+    "ObjectID": 4716
+  },
+  {
+    "InGameName": "Coral Bridge",
+    "ObjectID": 4717
+  },
+  {
+    "InGameName": "Galaxite Floor",
+    "ObjectID": 4718
+  },
+  {
+    "InGameName": "Galaxite Fence Gate (down)",
+    "ObjectID": 4719
+  },
+  {
+    "InGameName": "Galaxite Fence",
+    "ObjectID": 4720
+  },
+  {
+    "InGameName": "Galaxite Bridge",
+    "ObjectID": 4721
+  },
+  {
+    "InGameName": "Glass Floor (unpainted)",
+    "ObjectID": 4722
+  },
+  {
+    "InGameName": "Thin Glass Wall (unpainted)",
+    "ObjectID": 4723
+  },
+  {
+    "InGameName": "Glass Bridge (unpainted)",
+    "ObjectID": 4724
+  },
+  {
+    "InGameName": "Woven Straw Floor",
+    "ObjectID": 4725
+  },
+  {
+    "InGameName": "Gleam Wood Floor",
+    "ObjectID": 4726
+  },
+  {
+    "InGameName": "Gleam Wood Fence Gate (down)",
+    "ObjectID": 4727
+  },
+  {
+    "InGameName": "Gleam Wood Fence",
+    "ObjectID": 4728
+  },
+  {
+    "InGameName": "Gleam Wood Bridge",
+    "ObjectID": 4729
+  },
+  {
+    "InGameName": "Rug (unpainted)",
+    "ObjectID": 4750
+  },
+  {
+    "InGameName": "Woven Mat",
+    "ObjectID": 4751
+  },
+  {
+    "InGameName": "Loose Flooring (unpainted)",
+    "ObjectID": 4752
+  },
+  {
+    "InGameName": "Rose Petal Flooring",
+    "ObjectID": 4753
+  },
+  {
+    "InGameName": "Bed",
+    "ObjectID": 4760
+  },
+  {
+    "InGameName": "Wood Door (down)",
+    "ObjectID": 4770
+  },
+  {
+    "InGameName": "Stone Door (down)",
+    "ObjectID": 4771
+  },
+  {
+    "InGameName": "Scarlet Door (down)",
+    "ObjectID": 4772
+  },
+  {
+    "InGameName": "Metal Grate",
+    "ObjectID": 4773
+  },
+  {
+    "InGameName": "Gleam Wood Door (down)",
+    "ObjectID": 4774
+  },
+  {
+    "InGameName": "Coral Door (down)",
+    "ObjectID": 4775
+  },
+  {
+    "InGameName": "Galaxite Door (down)",
+    "ObjectID": 4776
+  },
+  {
+    "InGameName": "Tapestry (down)",
+    "ObjectID": 4777
+  },
+  {
+    "InGameName": "Banner",
+    "ObjectID": 4778
+  },
+  {
+    "InGameName": "Caveling Skull",
+    "ObjectID": 5010
+  },
+  {
+    "InGameName": "Leaf Fossil",
+    "ObjectID": 5011
+  },
+  {
+    "InGameName": "Ammonite",
+    "ObjectID": 5012
+  },
+  {
+    "InGameName": "Geode",
+    "ObjectID": 5013
+  },
+  {
+    "InGameName": "Broken Core Idol",
+    "ObjectID": 5014
+  },
+  {
+    "InGameName": "Ocarina",
+    "ObjectID": 5015
+  },
+  {
+    "InGameName": "Old Amulet",
+    "ObjectID": 5016
+  },
+  {
+    "InGameName": "Ear Plate",
+    "ObjectID": 5017
+  },
+  {
+    "InGameName": "Bone Creole",
+    "ObjectID": 5018
+  },
+  {
+    "InGameName": "Triangle Trinket",
+    "ObjectID": 5019
+  },
+  {
+    "InGameName": "Twisted Agate",
+    "ObjectID": 5020
+  },
+  {
+    "InGameName": "Blood Skull",
+    "ObjectID": 5021
+  },
+  {
+    "InGameName": "Grub Knot",
+    "ObjectID": 5022
+  },
+  {
+    "InGameName": "Petrified Egg",
+    "ObjectID": 5023
+  },
+  {
+    "InGameName": "Old Spore Mask",
+    "ObjectID": 5024
+  },
+  {
+    "InGameName": "Hard Thorn",
+    "ObjectID": 5025
+  },
+  {
+    "InGameName": "Balloon Spore",
+    "ObjectID": 5026
+  },
+  {
+    "InGameName": "Caveling Doll",
+    "ObjectID": 5027
+  },
+  {
+    "InGameName": "Small Caveling Skull",
+    "ObjectID": 5028
+  },
+  {
+    "InGameName": "Golden Feather",
+    "ObjectID": 5029
+  },
+  {
+    "InGameName": "Mechanical Arm",
+    "ObjectID": 5030
+  },
+  {
+    "InGameName": "Dry Butterfly",
+    "ObjectID": 5031
+  },
+  {
+    "InGameName": "Precious Urn",
+    "ObjectID": 5032
+  },
+  {
+    "InGameName": "Amber Chunk",
+    "ObjectID": 5033
+  },
+  {
+    "InGameName": "Petrified Coral",
+    "ObjectID": 5034
+  },
+  {
+    "InGameName": "Mold Dew",
+    "ObjectID": 5035
+  },
+  {
+    "InGameName": "Fungal Bone",
+    "ObjectID": 5036
+  },
+  {
+    "InGameName": "Mildew Leaf",
+    "ObjectID": 5037
+  },
+  {
+    "InGameName": "Chipped Plate",
+    "ObjectID": 5038
+  },
+  {
+    "InGameName": "Stone Cap",
+    "ObjectID": 5039
+  },
+  {
+    "InGameName": "Giant Mite",
+    "ObjectID": 5040
+  },
+  {
+    "InGameName": "Rusty Spoon",
+    "ObjectID": 5041
+  },
+  {
+    "InGameName": "Green Kelp",
+    "ObjectID": 5042
+  },
+  {
+    "InGameName": "Golden Starfish",
+    "ObjectID": 5043
+  },
+  {
+    "InGameName": "Amber Fish Egg",
+    "ObjectID": 5044
+  },
+  {
+    "InGameName": "Soft Sponge",
+    "ObjectID": 5045
+  },
+  {
+    "InGameName": "Adder Stone",
+    "ObjectID": 5046
+  },
+  {
+    "InGameName": "Caveling Perfume",
+    "ObjectID": 5047
+  },
+  {
+    "InGameName": "Enhydro Crystal",
+    "ObjectID": 5048
+  },
+  {
+    "InGameName": "Mucus Amoeba",
+    "ObjectID": 5049
+  },
+  {
+    "InGameName": "Parasite Fossil",
+    "ObjectID": 5050
+  },
+  {
+    "InGameName": "Golden Cocoon",
+    "ObjectID": 5051
+  },
+  {
+    "InGameName": "Grub Pearl",
+    "ObjectID": 5052
+  },
+  {
+    "InGameName": "Giant Germ",
+    "ObjectID": 5053
+  },
+  {
+    "InGameName": "Mold Shell",
+    "ObjectID": 5054
+  },
+  {
+    "InGameName": "Ceremonial Flute",
+    "ObjectID": 5055
+  },
+  {
+    "InGameName": "Data Slate",
+    "ObjectID": 5056
+  },
+  {
+    "InGameName": "Lost Paddle",
+    "ObjectID": 5057
+  },
+  {
+    "InGameName": "Feather Fish Scale",
+    "ObjectID": 5058
+  },
+  {
+    "InGameName": "Caveling Medal",
+    "ObjectID": 5059
+  },
+  {
+    "InGameName": "Rainbow Kelp",
+    "ObjectID": 5060
+  },
+  {
+    "InGameName": "Bubble Pearl",
+    "ObjectID": 5061
+  },
+  {
+    "InGameName": "Black Bubble Pearl",
+    "ObjectID": 5062
+  },
+  {
+    "InGameName": "Sealed Beverage",
+    "ObjectID": 5063
+  },
+  {
+    "InGameName": "Shark Tooth",
+    "ObjectID": 5064
+  },
+  {
+    "InGameName": "Forked Coral",
+    "ObjectID": 5065
+  },
+  {
+    "InGameName": "Petrified Trilobite",
+    "ObjectID": 5066
+  },
+  {
+    "InGameName": "Rusty Fishing Hook",
+    "ObjectID": 5067
+  },
+  {
+    "InGameName": "Fish Fossil",
+    "ObjectID": 5068
+  },
+  {
+    "InGameName": "Fizzy Crystal",
+    "ObjectID": 5069
+  },
+  {
+    "InGameName": "Grey Kelp",
+    "ObjectID": 5070
+  },
+  {
+    "InGameName": "Yellow Kelp",
+    "ObjectID": 5071
+  },
+  {
+    "InGameName": "Pale Kelp",
+    "ObjectID": 5072
+  },
+  {
+    "InGameName": "Red Kelp",
+    "ObjectID": 5073
+  },
+  {
+    "InGameName": "Early Human Skull",
+    "ObjectID": 5074
+  },
+  {
+    "InGameName": "Golden Caveling Mask",
+    "ObjectID": 5075
+  },
+  {
+    "InGameName": "Ancient Gem Plate",
+    "ObjectID": 5076
+  },
+  {
+    "InGameName": "Antique Board Game",
+    "ObjectID": 5077
+  },
+  {
+    "InGameName": "Music Bowl",
+    "ObjectID": 5078
+  },
+  {
+    "InGameName": "Seismic Clock",
+    "ObjectID": 5079
+  },
+  {
+    "InGameName": "Old Journal",
+    "ObjectID": 5080
+  },
+  {
+    "InGameName": "Mysterious Doll Set",
+    "ObjectID": 5081
+  },
+  {
+    "InGameName": "Ritual Goblet",
+    "ObjectID": 5082
+  },
+  {
+    "InGameName": "Oracle Card \"Entity\"",
+    "ObjectID": 5083
+  },
+  {
+    "InGameName": "Glurch Figurine",
+    "ObjectID": 5084
+  },
+  {
+    "InGameName": "Ivy Figurine",
+    "ObjectID": 5085
+  },
+  {
+    "InGameName": "Ghorm Figurine",
+    "ObjectID": 5086
+  },
+  {
+    "InGameName": "Hive Mother Figurine",
+    "ObjectID": 5087
+  },
+  {
+    "InGameName": "Slime Figurine",
+    "ObjectID": 5088
+  },
+  {
+    "InGameName": "Purple Slime Figurine",
+    "ObjectID": 5089
+  },
+  {
+    "InGameName": "Red Slime Figurine",
+    "ObjectID": 5090
+  },
+  {
+    "InGameName": "Acid Larva Figurine",
+    "ObjectID": 5091
+  },
+  {
+    "InGameName": "Larva Figurine",
+    "ObjectID": 5092
+  },
+  {
+    "InGameName": "Big Larva Figurine",
+    "ObjectID": 5093
+  },
+  {
+    "InGameName": "Hive Larva Figurine",
+    "ObjectID": 5094
+  },
+  {
+    "InGameName": "Big Hive Larva Figurine",
+    "ObjectID": 5095
+  },
+  {
+    "InGameName": "Caveling Figurine",
+    "ObjectID": 5096
+  },
+  {
+    "InGameName": "Caveling Gardener Figurine",
+    "ObjectID": 5097
+  },
+  {
+    "InGameName": "Caveling Hunter Figurine",
+    "ObjectID": 5098
+  },
+  {
+    "InGameName": "Caveling Shaman Figurine",
+    "ObjectID": 5099
+  },
+  {
+    "InGameName": "Infected Caveling Figurine",
+    "ObjectID": 5100
+  },
+  {
+    "InGameName": "Caveling Brute Figurine",
+    "ObjectID": 5101
+  },
+  {
+    "InGameName": "Azeos Figurine",
+    "ObjectID": 5102
+  },
+  {
+    "InGameName": "Malugaz Figurine",
+    "ObjectID": 5103
+  },
+  {
+    "InGameName": "Tentacle Figurine",
+    "ObjectID": 5104
+  },
+  {
+    "InGameName": "Mold Tentacle Figurine",
+    "ObjectID": 5105
+  },
+  {
+    "InGameName": "Snare Plant Figurine",
+    "ObjectID": 5106
+  },
+  {
+    "InGameName": "Blue Slime Figurine",
+    "ObjectID": 5107
+  },
+  {
+    "InGameName": "Oracle Card \"Aura\"",
+    "ObjectID": 5108
+  },
+  {
+    "InGameName": "Oracle Card \"Brilliance\"",
+    "ObjectID": 5109
+  },
+  {
+    "InGameName": "Awakened Azeos Figurine",
+    "ObjectID": 5110
+  },
+  {
+    "InGameName": "Screen Device",
+    "ObjectID": 5111
+  },
+  {
+    "InGameName": "Caveling Effigy",
+    "ObjectID": 5112
+  },
+  {
+    "InGameName": "Crystal Sphere",
+    "ObjectID": 5113
+  },
+  {
+    "InGameName": "Luxurious Handmirror",
+    "ObjectID": 5114
+  },
+  {
+    "InGameName": "Processor Chip",
+    "ObjectID": 5115
+  },
+  {
+    "InGameName": "Timeless Hourglass",
+    "ObjectID": 5116
+  },
+  {
+    "InGameName": "Playing Dice",
+    "ObjectID": 5117
+  },
+  {
+    "InGameName": "Golden Whistle",
+    "ObjectID": 5118
+  },
+  {
+    "InGameName": "Bent Fork",
+    "ObjectID": 5119
+  },
+  {
+    "InGameName": "Caveling Cup",
+    "ObjectID": 5120
+  },
+  {
+    "InGameName": "Oracle Card \"Wisdom\"",
+    "ObjectID": 5121
+  },
+  {
+    "InGameName": "Oracle Card \"Metropolis\"",
+    "ObjectID": 5122
+  },
+  {
+    "InGameName": "Oracle Card \"Inspiration\"",
+    "ObjectID": 5123
+  },
+  {
+    "InGameName": "Core Figurine",
+    "ObjectID": 5124
+  },
+  {
+    "InGameName": "Morpha Figurine",
+    "ObjectID": 5125
+  },
+  {
+    "InGameName": "Cocoon Figurine",
+    "ObjectID": 5126
+  },
+  {
+    "InGameName": "Omoroth Figurine",
+    "ObjectID": 5127
+  },
+  {
+    "InGameName": "Bubble Crab Figurine",
+    "ObjectID": 5128
+  },
+  {
+    "InGameName": "Core Sentry Figurine",
+    "ObjectID": 5129
+  },
+  {
+    "InGameName": "Caveling Scholar Figurine",
+    "ObjectID": 5130
+  },
+  {
+    "InGameName": "Giant Squid Eye",
+    "ObjectID": 5131
+  },
+  {
+    "InGameName": "Golden Needle",
+    "ObjectID": 5132
+  },
+  {
+    "InGameName": "Polished Shell",
+    "ObjectID": 5133
+  },
+  {
+    "InGameName": "Opabinia Fossil",
+    "ObjectID": 5134
+  },
+  {
+    "InGameName": "Blue Kelp",
+    "ObjectID": 5135
+  },
+  {
+    "InGameName": "Shrooman Figurine",
+    "ObjectID": 5136
+  },
+  {
+    "InGameName": "King Slime Figurine",
+    "ObjectID": 5137
+  },
+  {
+    "InGameName": "Oracle Card \"Radiance\"",
+    "ObjectID": 5138
+  },
+  {
+    "InGameName": "Oracle Card \"Temperance\"",
+    "ObjectID": 5139
+  },
+  {
+    "InGameName": "Oracle Card \"Endurance\"",
+    "ObjectID": 5140
+  },
+  {
+    "InGameName": "Blue Glass Shard",
+    "ObjectID": 5141
+  },
+  {
+    "InGameName": "Charred Caveling Skull",
+    "ObjectID": 5142
+  },
+  {
+    "InGameName": "Caveling Sandal",
+    "ObjectID": 5143
+  },
+  {
+    "InGameName": "Worker Handcuff",
+    "ObjectID": 5144
+  },
+  {
+    "InGameName": "Crystal Spearhead",
+    "ObjectID": 5145
+  },
+  {
+    "InGameName": "Melting Lava Wing",
+    "ObjectID": 5146
+  },
+  {
+    "InGameName": "Plume Ball",
+    "ObjectID": 5147
+  },
+  {
+    "InGameName": "Pickaxe Head",
+    "ObjectID": 5148
+  },
+  {
+    "InGameName": "Desert Diamond",
+    "ObjectID": 5149
+  },
+  {
+    "InGameName": "Black Desert Diamond",
+    "ObjectID": 5150
+  },
+  {
+    "InGameName": "Bag of Marbles",
+    "ObjectID": 5151
+  },
+  {
+    "InGameName": "Ancient Golden Coin",
+    "ObjectID": 5152
+  },
+  {
+    "InGameName": "Incense Bowl",
+    "ObjectID": 5153
+  },
+  {
+    "InGameName": "Ancient Makeup Set",
+    "ObjectID": 5154
+  },
+  {
+    "InGameName": "Caveling Prophet Mask",
+    "ObjectID": 5155
+  },
+  {
+    "InGameName": "Frozen Flame",
+    "ObjectID": 5156
+  },
+  {
+    "InGameName": "Igneous Figurine",
+    "ObjectID": 5160
+  },
+  {
+    "InGameName": "Ra-Akar Figurine",
+    "ObjectID": 5161
+  },
+  {
+    "InGameName": "Bomb Scarab Figurine",
+    "ObjectID": 5162
+  },
+  {
+    "InGameName": "Lava Butterfly Figurine",
+    "ObjectID": 5163
+  },
+  {
+    "InGameName": "Caveling Assassin Figurine",
+    "ObjectID": 5164
+  },
+  {
+    "InGameName": "Lava Slime Figurine",
+    "ObjectID": 5165
+  },
+  {
+    "InGameName": "Broken Gourd",
+    "ObjectID": 5166
+  },
+  {
+    "InGameName": "Kingfish Scale",
+    "ObjectID": 5167
+  },
+  {
+    "InGameName": "Broken Toy Ship",
+    "ObjectID": 5168
+  },
+  {
+    "InGameName": "Flesh Kelp",
+    "ObjectID": 5169
+  },
+  {
+    "InGameName": "Ancient Fishing Hook",
+    "ObjectID": 5170
+  },
+  {
+    "InGameName": "Fusion Alloy",
+    "ObjectID": 5171
+  },
+  {
+    "InGameName": "Starlight Shards",
+    "ObjectID": 5172
+  },
+  {
+    "InGameName": "Dark Blue Kelp",
+    "ObjectID": 5173
+  },
+  {
+    "InGameName": "White Whistle",
+    "ObjectID": 5174
+  },
+  {
+    "InGameName": "Haunted Hive Mother Figurine",
+    "ObjectID": 5175
+  },
+  {
+    "InGameName": "Frankenbrute Figurine",
+    "ObjectID": 5176
+  },
+  {
+    "InGameName": "Pumpking Caveling Figurine",
+    "ObjectID": 5177
+  },
+  {
+    "InGameName": "Spookaveling Figurine",
+    "ObjectID": 5178
+  },
+  {
+    "InGameName": "Big Dracularva Figurine",
+    "ObjectID": 5179
+  },
+  {
+    "InGameName": "Caveling Skirmisher Figurine",
+    "ObjectID": 5180
+  },
+  {
+    "InGameName": "Caveling Spearman Figurine",
+    "ObjectID": 5181
+  },
+  {
+    "InGameName": "Crystal Star",
+    "ObjectID": 5182
+  },
+  {
+    "InGameName": "Snow Globe",
+    "ObjectID": 5183
+  },
+  {
+    "InGameName": "Sentry Nutcracker",
+    "ObjectID": 5184
+  },
+  {
+    "InGameName": "Winter Bell",
+    "ObjectID": 5185
+  },
+  {
+    "InGameName": "Starwand Shaman Figurine",
+    "ObjectID": 5186
+  },
+  {
+    "InGameName": "Snowhead Slime Figurine",
+    "ObjectID": 5187
+  },
+  {
+    "InGameName": "Carrot Slime Figurine",
+    "ObjectID": 5188
+  },
+  {
+    "InGameName": "Bakery Brute Figurine",
+    "ObjectID": 5189
+  },
+  {
+    "InGameName": "Gingerbreadling Figurine",
+    "ObjectID": 5190
+  },
+  {
+    "InGameName": "Santa Shrooman Figurine",
+    "ObjectID": 5191
+  },
+  {
+    "InGameName": "Lump of Coal",
+    "ObjectID": 5192
+  },
+  {
+    "InGameName": "Pink Rose Bouquet",
+    "ObjectID": 5193
+  },
+  {
+    "InGameName": "White Rose Bouquet",
+    "ObjectID": 5194
+  },
+  {
+    "InGameName": "Golden Rose Bouquet",
+    "ObjectID": 5195
+  },
+  {
+    "InGameName": "Enchanted Rose",
+    "ObjectID": 5196
+  },
+  {
+    "InGameName": "Rose Water",
+    "ObjectID": 5197
+  },
+  {
+    "InGameName": "Heart of Gold",
+    "ObjectID": 5198
+  },
+  {
+    "InGameName": "Blue Glass Kalimba",
+    "ObjectID": 5199
+  },
+  {
+    "InGameName": "Offspring Capsule",
+    "ObjectID": 5200
+  },
+  {
+    "InGameName": "Homeworld Reminiscence",
+    "ObjectID": 5201
+  },
+  {
+    "InGameName": "Catalyst Gemstone",
+    "ObjectID": 5202
+  },
+  {
+    "InGameName": "Chemical Ration",
+    "ObjectID": 5203
+  },
+  {
+    "InGameName": "Deepspace Log",
+    "ObjectID": 5204
+  },
+  {
+    "InGameName": "Triops Fossil",
+    "ObjectID": 5205
+  },
+  {
+    "InGameName": "Suspended Butterfly",
+    "ObjectID": 5206
+  },
+  {
+    "InGameName": "Crystal Bone",
+    "ObjectID": 5207
+  },
+  {
+    "InGameName": "Agartha Report",
+    "ObjectID": 5208
+  },
+  {
+    "InGameName": "Sparkle Opal",
+    "ObjectID": 5209
+  },
+  {
+    "InGameName": "Atlantean Worm Figurine",
+    "ObjectID": 5210
+  },
+  {
+    "InGameName": "Mimite Figurine",
+    "ObjectID": 5212
+  },
+  {
+    "InGameName": "Orbital Turret Figurine",
+    "ObjectID": 5213
+  },
+  {
+    "InGameName": "Nilipede Figurine",
+    "ObjectID": 5214
+  },
+  {
+    "InGameName": "Clay Burrower Figurine",
+    "ObjectID": 5215
+  },
+  {
+    "InGameName": "Druidra Figurine",
+    "ObjectID": 5216
+  },
+  {
+    "InGameName": "Pyrdra Figurine",
+    "ObjectID": 5217
+  },
+  {
+    "InGameName": "Crydra Figurine",
+    "ObjectID": 5218
+  },
+  {
+    "InGameName": "Core Commander Figurine",
+    "ObjectID": 5219
+  },
+  {
+    "InGameName": "Unleashed Core Commander Figurine",
+    "ObjectID": 5220
+  },
+  {
+    "InGameName": "Colossal Amoeba Figurine",
+    "ObjectID": 5221
+  },
+  {
+    "InGameName": "Sulfur Worm Figurine",
+    "ObjectID": 5222
+  },
+  {
+    "InGameName": "Urschleim Figurine",
+    "ObjectID": 5223
+  },
+  {
+    "InGameName": "Caveling Mummy Figurine",
+    "ObjectID": 5224
+  },
+  {
+    "InGameName": "Shrooman Brute Figurine",
+    "ObjectID": 5225
+  },
+  {
+    "InGameName": "Gold Scarab Figurine",
+    "ObjectID": 5226
+  },
+  {
+    "InGameName": "Cicada Nymph Figurine",
+    "ObjectID": 5227
+  },
+  {
+    "InGameName": "Floracada Figurine",
+    "ObjectID": 5228
+  },
+  {
+    "InGameName": "Nimruza Figurine",
+    "ObjectID": 5229
+  },
+  {
+    "InGameName": "Mushroom",
+    "ObjectID": 5500
+  },
+  {
+    "InGameName": "Giant Mushroom (old)",
+    "ObjectID": 5501
+  },
+  {
+    "InGameName": "Giant Mushroom",
+    "ObjectID": 5502
+  },
+  {
+    "InGameName": "Amber Larva",
+    "ObjectID": 5503
+  },
+  {
+    "InGameName": "Stone Moss",
+    "ObjectID": 5505
+  },
+  {
+    "InGameName": "Lush Moss",
+    "ObjectID": 5506
+  },
+  {
+    "InGameName": "Urban Moss",
+    "ObjectID": 5507
+  },
+  {
+    "InGameName": "Fungal Soil",
+    "ObjectID": 5508
+  },
+  {
+    "InGameName": "Valley Moss",
+    "ObjectID": 5509
+  },
+  {
+    "InGameName": "Clay Moss",
+    "ObjectID": 5510
+  },
+  {
+    "InGameName": "Chrysalis",
+    "ObjectID": 5511
+  },
+  {
+    "InGameName": "Ground Slime",
+    "ObjectID": 5512
+  },
+  {
+    "InGameName": "Ground Acid Slime",
+    "ObjectID": 5513
+  },
+  {
+    "InGameName": "Ground Poison Slime",
+    "ObjectID": 5514
+  },
+  {
+    "InGameName": "Ground Slippery Slime",
+    "ObjectID": 5515
+  },
+  {
+    "InGameName": "Ground Magma Slime",
+    "ObjectID": 5516
+  },
+  {
+    "InGameName": "Crystal Crust",
+    "ObjectID": 5517
+  },
+  {
+    "InGameName": "Ancient Crate",
+    "ObjectID": 5520
+  },
+  {
+    "InGameName": "Large Ancient Crate",
+    "ObjectID": 5525
+  },
+  {
+    "InGameName": "Fallen Rock",
+    "ObjectID": 5526
+  },
+  {
+    "InGameName": "Digging Spot",
+    "ObjectID": 5530
+  },
+  {
+    "InGameName": "Grass Digging Spot",
+    "ObjectID": 5532
+  },
+  {
+    "InGameName": "Beach Digging Spot",
+    "ObjectID": 5533
+  },
+  {
+    "InGameName": "Desert Digging Spot",
+    "ObjectID": 5534
+  },
+  {
+    "InGameName": "Lava Rock Digging Spot",
+    "ObjectID": 5535
+  },
+  {
+    "InGameName": "NA",
+    "ObjectID": 5540
+  },
+  {
+    "InGameName": "NA",
+    "ObjectID": 5541
+  },
+  {
+    "InGameName": "NA",
+    "ObjectID": 5542
+  },
+  {
+    "InGameName": "NA",
+    "ObjectID": 5543
+  },
+  {
+    "InGameName": "NA",
+    "ObjectID": 5544
+  },
+  {
+    "InGameName": "NA",
+    "ObjectID": 5545
+  },
+  {
+    "InGameName": "NA",
+    "ObjectID": 5546
+  },
+  {
+    "InGameName": "NA",
+    "ObjectID": 5547
+  },
+  {
+    "InGameName": "NA",
+    "ObjectID": 5548
+  },
+  {
+    "InGameName": "NA",
+    "ObjectID": 5549
+  },
+  {
+    "InGameName": "NA",
+    "ObjectID": 5550
+  },
+  {
+    "InGameName": "NA",
+    "ObjectID": 5551
+  },
+  {
+    "InGameName": "NA",
+    "ObjectID": 5552
+  },
+  {
+    "InGameName": "Ruins Arc",
+    "ObjectID": 5570
+  },
+  {
+    "InGameName": "Ruins Gate",
+    "ObjectID": 5571
+  },
+  {
+    "InGameName": "Ruins Tile",
+    "ObjectID": 5572
+  },
+  {
+    "InGameName": "Ruins Pillars",
+    "ObjectID": 5573
+  },
+  {
+    "InGameName": "Potted Land Algae",
+    "ObjectID": 5580
+  },
+  {
+    "InGameName": "Potted Bloom Tree",
+    "ObjectID": 5581
+  },
+  {
+    "InGameName": "Potted Plume Tree",
+    "ObjectID": 5582
+  },
+  {
+    "InGameName": "Potted Cherry Tree",
+    "ObjectID": 5583
+  },
+  {
+    "InGameName": "Potted Lush Tree",
+    "ObjectID": 5584
+  },
+  {
+    "InGameName": "Potted Mold Pompom",
+    "ObjectID": 5585
+  },
+  {
+    "InGameName": "Potted Abyss Tree",
+    "ObjectID": 5586
+  },
+  {
+    "InGameName": "Potted Magma Tulip",
+    "ObjectID": 5587
+  },
+  {
+    "InGameName": "Potted Moonbell Tree",
+    "ObjectID": 5588
+  },
+  {
+    "InGameName": "Potted Meadow Tree",
+    "ObjectID": 5589
+  },
+  {
+    "InGameName": "Potted Lucent Oak",
+    "ObjectID": 5590
+  },
+  {
+    "InGameName": "Potted Alien Flower",
+    "ObjectID": 5591
+  },
+  {
+    "InGameName": "Giant Ammonite",
+    "ObjectID": 5600
+  },
+  {
+    "InGameName": "Colossal Cicada Husk",
+    "ObjectID": 5601
+  },
+  {
+    "InGameName": "Small Slime Vessel",
+    "ObjectID": 5602
+  },
+  {
+    "InGameName": "Medium Slime Vessel",
+    "ObjectID": 5603
+  },
+  {
+    "InGameName": "Large Slime Vessel",
+    "ObjectID": 5604
+  },
+  {
+    "InGameName": "Hive Vein",
+    "ObjectID": 5605
+  },
+  {
+    "InGameName": "Amber Boulder",
+    "ObjectID": 5606
+  },
+  {
+    "InGameName": "Amber Larva (old)",
+    "ObjectID": 5607
+  },
+  {
+    "InGameName": "Hive Bones",
+    "ObjectID": 5608
+  },
+  {
+    "InGameName": "Hive Growth",
+    "ObjectID": 5609
+  },
+  {
+    "InGameName": "Stalagmite",
+    "ObjectID": 5610
+  },
+  {
+    "InGameName": "Wooden Crate",
+    "ObjectID": 5611
+  },
+  {
+    "InGameName": "Flower Vessel",
+    "ObjectID": 5612
+  },
+  {
+    "InGameName": "Sun Kelp",
+    "ObjectID": 5613
+  },
+  {
+    "InGameName": "Azeos Lily",
+    "ObjectID": 5614
+  },
+  {
+    "InGameName": "Wilderness Bones",
+    "ObjectID": 5615
+  },
+  {
+    "InGameName": "Ancient Feather",
+    "ObjectID": 5616
+  },
+  {
+    "InGameName": "Bird Poop",
+    "ObjectID": 5617
+  },
+  {
+    "InGameName": "NA",
+    "ObjectID": 5618
+  },
+  {
+    "InGameName": "Bush",
+    "ObjectID": 5619
+  },
+  {
+    "InGameName": "Tall Grass",
+    "ObjectID": 5620
+  },
+  {
+    "InGameName": "Ancient Guardian",
+    "ObjectID": 5621
+  },
+  {
+    "InGameName": "Lush Tree",
+    "ObjectID": 5622
+  },
+  {
+    "InGameName": "Gravestone",
+    "ObjectID": 5623
+  },
+  {
+    "InGameName": "Camp Tent",
+    "ObjectID": 5624
+  },
+  {
+    "InGameName": "Camp Matress",
+    "ObjectID": 5625
+  },
+  {
+    "InGameName": "Old Rebreather",
+    "ObjectID": 5626
+  },
+  {
+    "InGameName": "NA",
+    "ObjectID": 5627
+  },
+  {
+    "InGameName": "Abandoned Campfire",
+    "ObjectID": 5628
+  },
+  {
+    "InGameName": "Worship Mural",
+    "ObjectID": 5629
+  },
+  {
+    "InGameName": "Mold Vessel",
+    "ObjectID": 5630
+  },
+  {
+    "InGameName": "Large Mold Vessel",
+    "ObjectID": 5631
+  },
+  {
+    "InGameName": "Mold Vein",
+    "ObjectID": 5632
+  },
+  {
+    "InGameName": "Small Poison Slime Vessel",
+    "ObjectID": 5633
+  },
+  {
+    "InGameName": "Medium Poison Slime Vessel",
+    "ObjectID": 5634
+  },
+  {
+    "InGameName": "Large Poison Slime Vessel",
+    "ObjectID": 5635
+  },
+  {
+    "InGameName": "Overgrown Wooden Crate",
+    "ObjectID": 5636
+  },
+  {
+    "InGameName": "Falling Stalactite",
+    "ObjectID": 5637
+  },
+  {
+    "InGameName": "NA",
+    "ObjectID": 5638
+  },
+  {
+    "InGameName": "Paradise Tree",
+    "ObjectID": 5639
+  },
+  {
+    "InGameName": "Cicada Burrow",
+    "ObjectID": 5640
+  },
+  {
+    "InGameName": "Caveling Floor Tile",
+    "ObjectID": 5700
+  },
+  {
+    "InGameName": "Broken Stone Pillar",
+    "ObjectID": 5701
+  },
+  {
+    "InGameName": "Caveling Pot",
+    "ObjectID": 5702
+  },
+  {
+    "InGameName": "Caveling Table",
+    "ObjectID": 5703
+  },
+  {
+    "InGameName": "Caveling Chair",
+    "ObjectID": 5704
+  },
+  {
+    "InGameName": "Caveling Toilet",
+    "ObjectID": 5705
+  },
+  {
+    "InGameName": "Caveling Bed",
+    "ObjectID": 5706
+  },
+  {
+    "InGameName": "Caveling Wall (horizontal damaged)",
+    "ObjectID": 5707
+  },
+  {
+    "InGameName": "Short Caveling Wall (bottom)",
+    "ObjectID": 5708
+  },
+  {
+    "InGameName": "Water Well",
+    "ObjectID": 5709
+  },
+  {
+    "InGameName": "Dark Caveling Floor Tile",
+    "ObjectID": 5710
+  },
+  {
+    "InGameName": "Caveling Throne",
+    "ObjectID": 5711
+  },
+  {
+    "InGameName": "Roast Firepit",
+    "ObjectID": 5712
+  },
+  {
+    "InGameName": "Larva Skewer",
+    "ObjectID": 5713
+  },
+  {
+    "InGameName": "Larvaskin Tent",
+    "ObjectID": 5714
+  },
+  {
+    "InGameName": "Spear Rack",
+    "ObjectID": 5715
+  },
+  {
+    "InGameName": "Broken Clay Kiln",
+    "ObjectID": 5716
+  },
+  {
+    "InGameName": "Clay Firing Bucket",
+    "ObjectID": 5717
+  },
+  {
+    "InGameName": "Larvaskin Rug",
+    "ObjectID": 5718
+  },
+  {
+    "InGameName": "Hive Larvaskin Rug",
+    "ObjectID": 5719
+  },
+  {
+    "InGameName": "Small Clamping Frame",
+    "ObjectID": 5720
+  },
+  {
+    "InGameName": "Clamping Frame",
+    "ObjectID": 5721
+  },
+  {
+    "InGameName": "Clay Pot",
+    "ObjectID": 5722
+  },
+  {
+    "InGameName": "Mold Tree",
+    "ObjectID": 5750
+  },
+  {
+    "InGameName": "Mold Well",
+    "ObjectID": 5751
+  },
+  {
+    "InGameName": "Mold Pillar",
+    "ObjectID": 5752
+  },
+  {
+    "InGameName": "Mold Cicada (Sickle)",
+    "ObjectID": 5753
+  },
+  {
+    "InGameName": "Mold Worship Mural",
+    "ObjectID": 5754
+  },
+  {
+    "InGameName": "Floaty Mold",
+    "ObjectID": 5755
+  },
+  {
+    "InGameName": "Mold Cicada",
+    "ObjectID": 5756
+  },
+  {
+    "InGameName": "Beached Jelly",
+    "ObjectID": 5800
+  },
+  {
+    "InGameName": "Large Beached Jelly",
+    "ObjectID": 5801
+  },
+  {
+    "InGameName": "Lumen Coral",
+    "ObjectID": 5802
+  },
+  {
+    "InGameName": "Land Algae",
+    "ObjectID": 5803
+  },
+  {
+    "InGameName": "Tall Land Algae",
+    "ObjectID": 5804
+  },
+  {
+    "InGameName": "Kelp Tree",
+    "ObjectID": 5805
+  },
+  {
+    "InGameName": "Fishing Net Rack",
+    "ObjectID": 5806
+  },
+  {
+    "InGameName": "Driftwood Table",
+    "ObjectID": 5807
+  },
+  {
+    "InGameName": "Driftwood Stool",
+    "ObjectID": 5808
+  },
+  {
+    "InGameName": "Wooden Sign \"Core\"",
+    "ObjectID": 5809
+  },
+  {
+    "InGameName": "Wooden Sign \"Tulip\"",
+    "ObjectID": 5810
+  },
+  {
+    "InGameName": "Giant Conch Shell",
+    "ObjectID": 5811
+  },
+  {
+    "InGameName": "Ocean King Fossil",
+    "ObjectID": 5812
+  },
+  {
+    "InGameName": "Turtle Statue",
+    "ObjectID": 5813
+  },
+  {
+    "InGameName": "Caveling Monument",
+    "ObjectID": 5814
+  },
+  {
+    "InGameName": "Broken Caveling Monument",
+    "ObjectID": 5815
+  },
+  {
+    "InGameName": "Caveling Ship",
+    "ObjectID": 5816
+  },
+  {
+    "InGameName": "Chronicle Gallery",
+    "ObjectID": 5817
+  },
+  {
+    "InGameName": "Broken Core",
+    "ObjectID": 5818
+  },
+  {
+    "InGameName": "Metropolis Gate",
+    "ObjectID": 5819
+  },
+  {
+    "InGameName": "Core Relief Tile",
+    "ObjectID": 5820
+  },
+  {
+    "InGameName": "Stone tile \"Gemstone\"",
+    "ObjectID": 5821
+  },
+  {
+    "InGameName": "Stone tile \"Cavelings\"",
+    "ObjectID": 5822
+  },
+  {
+    "InGameName": "Stone tile \"Scholar\"",
+    "ObjectID": 5823
+  },
+  {
+    "InGameName": "Small Holoboard",
+    "ObjectID": 5824
+  },
+  {
+    "InGameName": "Large Holoboard",
+    "ObjectID": 5825
+  },
+  {
+    "InGameName": "Broken Holoboard",
+    "ObjectID": 5826
+  },
+  {
+    "InGameName": "Big Gold-edged Table",
+    "ObjectID": 5827
+  },
+  {
+    "InGameName": "Gold-edged Table",
+    "ObjectID": 5828
+  },
+  {
+    "InGameName": "Caveling Stool",
+    "ObjectID": 5829
+  },
+  {
+    "InGameName": "Stone Shelf",
+    "ObjectID": 5830
+  },
+  {
+    "InGameName": "Large Stone Shelf",
+    "ObjectID": 5831
+  },
+  {
+    "InGameName": "Caveling Fireplace",
+    "ObjectID": 5832
+  },
+  {
+    "InGameName": "Caveling Pillar",
+    "ObjectID": 5833
+  },
+  {
+    "InGameName": "Vending Machine",
+    "ObjectID": 5834
+  },
+  {
+    "InGameName": "Broken Vending Machine",
+    "ObjectID": 5835
+  },
+  {
+    "InGameName": "Beached Caveling Ship",
+    "ObjectID": 5836
+  },
+  {
+    "InGameName": "Sea Shell",
+    "ObjectID": 5837
+  },
+  {
+    "InGameName": "Broken Core Sentry",
+    "ObjectID": 5838
+  },
+  {
+    "InGameName": "Damaged Core Sentry",
+    "ObjectID": 5839
+  },
+  {
+    "InGameName": "Metropolis Crate",
+    "ObjectID": 5840
+  },
+  {
+    "InGameName": "Large Metropolis Crate",
+    "ObjectID": 5841
+  },
+  {
+    "InGameName": "Driftwood Wooden Crate",
+    "ObjectID": 5842
+  },
+  {
+    "InGameName": "Shrine Mural",
+    "ObjectID": 5843
+  },
+  {
+    "InGameName": "Large Bicolor Coral",
+    "ObjectID": 5844
+  },
+  {
+    "InGameName": "Bicolor Coral",
+    "ObjectID": 5845
+  },
+  {
+    "InGameName": "Small Bicolor Coral",
+    "ObjectID": 5846
+  },
+  {
+    "InGameName": "Large Crimson Coral",
+    "ObjectID": 5847
+  },
+  {
+    "InGameName": "Crimson Coral",
+    "ObjectID": 5848
+  },
+  {
+    "InGameName": "Large Dish Coral",
+    "ObjectID": 5849
+  },
+  {
+    "InGameName": "Dish Coral",
+    "ObjectID": 5850
+  },
+  {
+    "InGameName": "Ice Crystal",
+    "ObjectID": 5851
+  },
+  {
+    "InGameName": "NA",
+    "ObjectID": 5852
+  },
+  {
+    "InGameName": "Desert Flower Vessel",
+    "ObjectID": 5860
+  },
+  {
+    "InGameName": "Large Desert Flower Vessel",
+    "ObjectID": 5861
+  },
+  {
+    "InGameName": "Small Desert Grass",
+    "ObjectID": 5862
+  },
+  {
+    "InGameName": "Charred Crate",
+    "ObjectID": 5863
+  },
+  {
+    "InGameName": "Temple Crate",
+    "ObjectID": 5864
+  },
+  {
+    "InGameName": "Large Temple Crate",
+    "ObjectID": 5865
+  },
+  {
+    "InGameName": "Oasis Flower Vessel",
+    "ObjectID": 5866
+  },
+  {
+    "InGameName": "Large Oasis Flower Vessel",
+    "ObjectID": 5867
+  },
+  {
+    "InGameName": "Desert Shrub",
+    "ObjectID": 5868
+  },
+  {
+    "InGameName": "Sandstone Rock",
+    "ObjectID": 5869
+  },
+  {
+    "InGameName": "Large Left-Facing Rock Arc",
+    "ObjectID": 5870
+  },
+  {
+    "InGameName": "Giant Right-Facing Rock Arc",
+    "ObjectID": 5871
+  },
+  {
+    "InGameName": "Geyser",
+    "ObjectID": 5872
+  },
+  {
+    "InGameName": "Mammoth Fossil",
+    "ObjectID": 5873
+  },
+  {
+    "InGameName": "Plume Tree",
+    "ObjectID": 5874
+  },
+  {
+    "InGameName": "Crystal Meteorite",
+    "ObjectID": 5875
+  },
+  {
+    "InGameName": "Hunting Rock",
+    "ObjectID": 5876
+  },
+  {
+    "InGameName": "Small Sandstone Rock",
+    "ObjectID": 5877
+  },
+  {
+    "InGameName": "Scarab Wingcover",
+    "ObjectID": 5878
+  },
+  {
+    "InGameName": "Crystal Meteorite Boulder",
+    "ObjectID": 5879
+  },
+  {
+    "InGameName": "Ancient Forge",
+    "ObjectID": 5880
+  },
+  {
+    "InGameName": "Temple Pillar",
+    "ObjectID": 5881
+  },
+  {
+    "InGameName": "Angled Glyph Wall",
+    "ObjectID": 5882
+  },
+  {
+    "InGameName": "Glyph Wall",
+    "ObjectID": 5883
+  },
+  {
+    "InGameName": "Temple Decor Rug",
+    "ObjectID": 5884
+  },
+  {
+    "InGameName": "Large Temple Decor Rug",
+    "ObjectID": 5885
+  },
+  {
+    "InGameName": "Temple Guardian Statue",
+    "ObjectID": 5886
+  },
+  {
+    "InGameName": "Raided Temple Guardian Statue",
+    "ObjectID": 5887
+  },
+  {
+    "InGameName": "Glyph Stele",
+    "ObjectID": 5888
+  },
+  {
+    "InGameName": "Broken Glyph Stele",
+    "ObjectID": 5889
+  },
+  {
+    "InGameName": "Temple Throne",
+    "ObjectID": 5900
+  },
+  {
+    "InGameName": "Temple Pedestal",
+    "ObjectID": 5901
+  },
+  {
+    "InGameName": "Azeos Urn",
+    "ObjectID": 5902
+  },
+  {
+    "InGameName": "Ra-Akar Urn",
+    "ObjectID": 5903
+  },
+  {
+    "InGameName": "Omoroth Urn",
+    "ObjectID": 5904
+  },
+  {
+    "InGameName": "Desert Queen Grave",
+    "ObjectID": 5905
+  },
+  {
+    "InGameName": "Desert King Grave",
+    "ObjectID": 5906
+  },
+  {
+    "InGameName": "Desert Prince Grave",
+    "ObjectID": 5907
+  },
+  {
+    "InGameName": "Raided Grave",
+    "ObjectID": 5908
+  },
+  {
+    "InGameName": "Damaged Grave",
+    "ObjectID": 5909
+  },
+  {
+    "InGameName": "Servant Grave",
+    "ObjectID": 5910
+  },
+  {
+    "InGameName": "Tilted Grave",
+    "ObjectID": 5911
+  },
+  {
+    "InGameName": "Meteor Rock",
+    "ObjectID": 5912
+  },
+  {
+    "InGameName": "Temple Mural (Azeos)",
+    "ObjectID": 5913
+  },
+  {
+    "InGameName": "Temple Mural (Omoroth)",
+    "ObjectID": 5914
+  },
+  {
+    "InGameName": "Temple Mural (Ra-Akar)",
+    "ObjectID": 5915
+  },
+  {
+    "InGameName": "Lava Rock",
+    "ObjectID": 5916
+  },
+  {
+    "InGameName": "Coal Pit",
+    "ObjectID": 5917
+  },
+  {
+    "InGameName": "Old Smithing Bellow",
+    "ObjectID": 5918
+  },
+  {
+    "InGameName": "Broken Quarry Timber",
+    "ObjectID": 5919
+  },
+  {
+    "InGameName": "Large Quarry Timber",
+    "ObjectID": 5920
+  },
+  {
+    "InGameName": "Old Wheelbarrow",
+    "ObjectID": 5921
+  },
+  {
+    "InGameName": "Large Right-Facing Rock Arc",
+    "ObjectID": 5922
+  },
+  {
+    "InGameName": "Giant Left-Facing Rock Arc",
+    "ObjectID": 5923
+  },
+  {
+    "InGameName": "NA",
+    "ObjectID": 5924
+  },
+  {
+    "InGameName": "Amalgam Basin",
+    "ObjectID": 5925
+  },
+  {
+    "InGameName": "Amalgam Vent",
+    "ObjectID": 5926
+  },
+  {
+    "InGameName": "Alien Tech Crate",
+    "ObjectID": 5940
+  },
+  {
+    "InGameName": "Large Alien Tech Destructible",
+    "ObjectID": 5941
+  },
+  {
+    "InGameName": "Cryo Pod",
+    "ObjectID": 5942
+  },
+  {
+    "InGameName": "Damaged Cryo Pod",
+    "ObjectID": 5943
+  },
+  {
+    "InGameName": "Broken Cryo Pod",
+    "ObjectID": 5944
+  },
+  {
+    "InGameName": "Sun Crystal",
+    "ObjectID": 5945
+  },
+  {
+    "InGameName": "Large Sun Crystal",
+    "ObjectID": 5946
+  },
+  {
+    "InGameName": "Failed Titan",
+    "ObjectID": 5947
+  },
+  {
+    "InGameName": "Tower Shell",
+    "ObjectID": 5948
+  },
+  {
+    "InGameName": "Lucent Oak",
+    "ObjectID": 5949
+  },
+  {
+    "InGameName": "Tall Crystal Grass",
+    "ObjectID": 5950
+  },
+  {
+    "InGameName": "Crystal Grass",
+    "ObjectID": 5951
+  },
+  {
+    "InGameName": "Crystal Tent",
+    "ObjectID": 5952
+  },
+  {
+    "InGameName": "Radiation Crystal",
+    "ObjectID": 5953
+  },
+  {
+    "InGameName": "Geode Wall Display (down)",
+    "ObjectID": 5954
+  },
+  {
+    "InGameName": "Small Obelisk",
+    "ObjectID": 5955
+  },
+  {
+    "InGameName": "Tall Obelisk",
+    "ObjectID": 5956
+  },
+  {
+    "InGameName": "Singing Crystal",
+    "ObjectID": 5957
+  },
+  {
+    "InGameName": "Dysfunctional Coil",
+    "ObjectID": 5958
+  },
+  {
+    "InGameName": "Alien Crystal Light",
+    "ObjectID": 5959
+  },
+  {
+    "InGameName": "Alien Floor Vent",
+    "ObjectID": 5960
+  },
+  {
+    "InGameName": "Small Alien Obelisk",
+    "ObjectID": 5961
+  },
+  {
+    "InGameName": "Tall Alien Obelisk",
+    "ObjectID": 5962
+  },
+  {
+    "InGameName": "Sulfur Tree",
+    "ObjectID": 5970
+  },
+  {
+    "InGameName": "Sulfur Bud",
+    "ObjectID": 5971
+  },
+  {
+    "InGameName": "Purple Feather Tree",
+    "ObjectID": 5972
+  },
+  {
+    "InGameName": "Small Purple Feather Tree",
+    "ObjectID": 5973
+  },
+  {
+    "InGameName": "Cyan Feather Tree",
+    "ObjectID": 5974
+  },
+  {
+    "InGameName": "Small Cyan Feather Tree",
+    "ObjectID": 5975
+  },
+  {
+    "InGameName": "Tall Barnacle Grass",
+    "ObjectID": 5976
+  },
+  {
+    "InGameName": "Barnacle Grass",
+    "ObjectID": 5977
+  },
+  {
+    "InGameName": "NA",
+    "ObjectID": 5978
+  },
+  {
+    "InGameName": "Pandorium Crystal",
+    "ObjectID": 5979
+  },
+  {
+    "InGameName": "Small Pandorium Crystal",
+    "ObjectID": 5980
+  },
+  {
+    "InGameName": "Fossil Cluster",
+    "ObjectID": 5981
+  },
+  {
+    "InGameName": "Large Fossil Cluster",
+    "ObjectID": 5982
+  },
+  {
+    "InGameName": "Rift Statue",
+    "ObjectID": 5983
+  },
+  {
+    "InGameName": "Amoeba Bomb",
+    "ObjectID": 5984
+  },
+  {
+    "InGameName": "Grimy Stone Pillar",
+    "ObjectID": 5985
+  },
+  {
+    "InGameName": "Grimy Stone Floor",
+    "ObjectID": 5986
+  },
+  {
+    "InGameName": "Stone Lantern",
+    "ObjectID": 5987
+  },
+  {
+    "InGameName": "Oasis Stalagmite",
+    "ObjectID": 5988
+  },
+  {
+    "InGameName": "NA",
+    "ObjectID": 5989
+  },
+  {
+    "InGameName": "Gilded Aloe",
+    "ObjectID": 5990
+  },
+  {
+    "InGameName": "Large Gilded Aloe",
+    "ObjectID": 5991
+  },
+  {
+    "InGameName": "Water Reed",
+    "ObjectID": 5992
+  },
+  {
+    "InGameName": "Colossal Cicada",
+    "ObjectID": 5993
+  },
+  {
+    "InGameName": "Player",
+    "ObjectID": 6000
+  },
+  {
+    "InGameName": "NA",
+    "ObjectID": 6001
+  },
+  {
+    "InGameName": "Tombstone",
+    "ObjectID": 6002
+  },
+  {
+    "InGameName": "Lever",
+    "ObjectID": 6500
+  },
+  {
+    "InGameName": "Electrical Wire",
+    "ObjectID": 6501
+  },
+  {
+    "InGameName": "Ancient Wire",
+    "ObjectID": 6502
+  },
+  {
+    "InGameName": "Indestructible Ancient Wire",
+    "ObjectID": 6503
+  },
+  {
+    "InGameName": "Electrical Door (down)",
+    "ObjectID": 6504
+  },
+  {
+    "InGameName": "Logic Circuit (down)",
+    "ObjectID": 6505
+  },
+  {
+    "InGameName": "Pulse Circuit",
+    "ObjectID": 6506
+  },
+  {
+    "InGameName": "Delay Circuit (down)",
+    "ObjectID": 6507
+  },
+  {
+    "InGameName": "Electricity Stick",
+    "ObjectID": 6508
+  },
+  {
+    "InGameName": "Dynamite Pack",
+    "ObjectID": 6509
+  },
+  {
+    "InGameName": "Pressure Plate",
+    "ObjectID": 6510
+  },
+  {
+    "InGameName": "Cross Circuit (crossed)",
+    "ObjectID": 6511
+  },
+  {
+    "InGameName": "Materializer",
+    "ObjectID": 6512
+  },
+  {
+    "InGameName": "Event Terminal",
+    "ObjectID": 6513
+  },
+  {
+    "InGameName": "Ancient Waypoint",
+    "ObjectID": 6514
+  },
+  {
+    "InGameName": "Rail",
+    "ObjectID": 6550
+  },
+  {
+    "InGameName": "Minecart",
+    "ObjectID": 6551
+  },
+  {
+    "InGameName": "Wonky Minecart",
+    "ObjectID": 6552
+  },
+  {
+    "InGameName": "Boat",
+    "ObjectID": 6580
+  },
+  {
+    "InGameName": "Speeder",
+    "ObjectID": 6581
+  },
+  {
+    "InGameName": "Speeder Go-kart",
+    "ObjectID": 6590
+  },
+  {
+    "InGameName": "Renegade Go-kart",
+    "ObjectID": 6591
+  },
+  {
+    "InGameName": "Primitive Go-kart",
+    "ObjectID": 6592
+  },
+  {
+    "InGameName": "Hive Spike Trap",
+    "ObjectID": 6600
+  },
+  {
+    "InGameName": "Spike Trap",
+    "ObjectID": 6601
+  },
+  {
+    "InGameName": "Flames",
+    "ObjectID": 6602
+  },
+  {
+    "InGameName": "Poison Spike Trap",
+    "ObjectID": 6604
+  },
+  {
+    "InGameName": "Galaxite Trap",
+    "ObjectID": 6609
+  },
+  {
+    "InGameName": "Wooden Spike Trap",
+    "ObjectID": 6610
+  },
+  {
+    "InGameName": "NA",
+    "ObjectID": 6630
+  },
+  {
+    "InGameName": "Drill (down)",
+    "ObjectID": 6650
+  },
+  {
+    "InGameName": "Conveyor Belt (down)",
+    "ObjectID": 6651
+  },
+  {
+    "InGameName": "Robot Arm (down)",
+    "ObjectID": 6652
+  },
+  {
+    "InGameName": "Sprinkler",
+    "ObjectID": 6653
+  },
+  {
+    "InGameName": "Stone Turret (down)",
+    "ObjectID": 6654
+  },
+  {
+    "InGameName": "Galaxite Turret (down)",
+    "ObjectID": 6655
+  },
+  {
+    "InGameName": "Crude Drill (down)",
+    "ObjectID": 6656
+  },
+  {
+    "InGameName": "Grimy Bookshelf",
+    "ObjectID": 6800
+  },
+  {
+    "InGameName": "Large Grimy Bookshelf",
+    "ObjectID": 6801
+  },
+  {
+    "InGameName": "Grimy Table",
+    "ObjectID": 6803
+  },
+  {
+    "InGameName": "Makeshift Goggles",
+    "ObjectID": 6820
+  },
+  {
+    "InGameName": "Researcher's Coat",
+    "ObjectID": 6821
+  },
+  {
+    "InGameName": "Researcher's Pants",
+    "ObjectID": 6822
+  },
+  {
+    "InGameName": "Whiteboard",
+    "ObjectID": 6823
+  },
+  {
+    "InGameName": "Water Cooler",
+    "ObjectID": 6824
+  },
+  {
+    "InGameName": "Bottled Anomaly",
+    "ObjectID": 6825
+  },
+  {
+    "InGameName": "Snacks Vending Machine",
+    "ObjectID": 6826
+  },
+  {
+    "InGameName": "Office Crate",
+    "ObjectID": 6827
+  },
+  {
+    "InGameName": "Pipe Club",
+    "ObjectID": 6829
+  },
+  {
+    "InGameName": "Quill Rifle",
+    "ObjectID": 6830
+  },
+  {
+    "InGameName": "Vit",
+    "ObjectID": 6831
+  },
+  {
+    "InGameName": "Rootbear",
+    "ObjectID": 6832
+  },
+  {
+    "InGameName": "Skip",
+    "ObjectID": 6833
+  },
+  {
+    "InGameName": "Slushie",
+    "ObjectID": 6834
+  },
+  {
+    "InGameName": "Mug of Coffee",
+    "ObjectID": 6835
+  },
+  {
+    "InGameName": "Kizz Cola",
+    "ObjectID": 6836
+  },
+  {
+    "InGameName": "Anteverse Portal",
+    "ObjectID": 6837
+  },
+  {
+    "InGameName": "NA",
+    "ObjectID": 6838
+  },
+  {
+    "InGameName": "Electro-Pest",
+    "ObjectID": 6839
+  },
+  {
+    "InGameName": "Electro-Pest Figurine",
+    "ObjectID": 6840
+  },
+  {
+    "InGameName": "NA",
+    "ObjectID": 7000
+  },
+  {
+    "InGameName": "NA",
+    "ObjectID": 7001
+  },
+  {
+    "InGameName": "NA",
+    "ObjectID": 7002
+  },
+  {
+    "InGameName": "NA",
+    "ObjectID": 7003
+  },
+  {
+    "InGameName": "Azeos Feather Fan",
+    "ObjectID": 7100
+  },
+  {
+    "InGameName": "Omoroth Compass",
+    "ObjectID": 7200
+  },
+  {
+    "InGameName": "Ra-Akar Automaton",
+    "ObjectID": 7300
+  },
+  {
+    "InGameName": "Harp",
+    "ObjectID": 7400
+  },
+  {
+    "InGameName": "Cello",
+    "ObjectID": 7401
+  },
+  {
+    "InGameName": "Flute",
+    "ObjectID": 7402
+  },
+  {
+    "InGameName": "Drumkit",
+    "ObjectID": 7403
+  },
+  {
+    "InGameName": "Pocket Piano",
+    "ObjectID": 7404
+  },
+  {
+    "InGameName": "Melody Mural",
+    "ObjectID": 7453
+  },
+  {
+    "InGameName": "Dirt Melody Mural",
+    "ObjectID": 7454
+  },
+  {
+    "InGameName": "Clay Melody Mural",
+    "ObjectID": 7455
+  },
+  {
+    "InGameName": "Stone Melody Mural",
+    "ObjectID": 7456
+  },
+  {
+    "InGameName": "Nature Melody Mural",
+    "ObjectID": 7457
+  },
+  {
+    "InGameName": "Sea Melody Mural",
+    "ObjectID": 7458
+  },
+  {
+    "InGameName": "Desert Melody Mural",
+    "ObjectID": 7459
+  },
+  {
+    "InGameName": "Meadow Milk",
+    "ObjectID": 7900
+  },
+  {
+    "InGameName": "Marbled Meat",
+    "ObjectID": 7901
+  },
+  {
+    "InGameName": "Dodo Egg",
+    "ObjectID": 7902
+  },
+  {
+    "InGameName": "Heart Berry Seed",
+    "ObjectID": 8001
+  },
+  {
+    "InGameName": "Heart Berry Plant",
+    "ObjectID": 8002
+  },
+  {
+    "InGameName": "Heart Berry",
+    "ObjectID": 8003
+  },
+  {
+    "InGameName": "Glow Tulip Seed",
+    "ObjectID": 8004
+  },
+  {
+    "InGameName": "Glow Tulip Plant",
+    "ObjectID": 8005
+  },
+  {
+    "InGameName": "Glow Tulip",
+    "ObjectID": 8006
+  },
+  {
+    "InGameName": "Bomb Pepper Seed",
+    "ObjectID": 8007
+  },
+  {
+    "InGameName": "Bomb Pepper Plant",
+    "ObjectID": 8008
+  },
+  {
+    "InGameName": "Bomb Pepper",
+    "ObjectID": 8009
+  },
+  {
+    "InGameName": "Carrock Seed",
+    "ObjectID": 8010
+  },
+  {
+    "InGameName": "Carrock Plant",
+    "ObjectID": 8011
+  },
+  {
+    "InGameName": "Carrock",
+    "ObjectID": 8012
+  },
+  {
+    "InGameName": "Puffungi Seed",
+    "ObjectID": 8013
+  },
+  {
+    "InGameName": "Puffungi Plant",
+    "ObjectID": 8014
+  },
+  {
+    "InGameName": "Puffungi",
+    "ObjectID": 8015
+  },
+  {
+    "InGameName": "Root Seed",
+    "ObjectID": 8016
+  },
+  {
+    "InGameName": "Root Plant",
+    "ObjectID": 8017
+  },
+  {
+    "InGameName": "Grub Kapok Seed",
+    "ObjectID": 8018
+  },
+  {
+    "InGameName": "Grub Kapok Plant",
+    "ObjectID": 8019
+  },
+  {
+    "InGameName": "Coral Wood Seed",
+    "ObjectID": 8020
+  },
+  {
+    "InGameName": "Coral Root Plant",
+    "ObjectID": 8021
+  },
+  {
+    "InGameName": "Bloat Oat Seed",
+    "ObjectID": 8022
+  },
+  {
+    "InGameName": "Bloat Oat Plant",
+    "ObjectID": 8023
+  },
+  {
+    "InGameName": "Bloat Oat",
+    "ObjectID": 8024
+  },
+  {
+    "InGameName": "Pewpaya Seed",
+    "ObjectID": 8025
+  },
+  {
+    "InGameName": "Pewpaya Plant",
+    "ObjectID": 8026
+  },
+  {
+    "InGameName": "Pewpaya",
+    "ObjectID": 8027
+  },
+  {
+    "InGameName": "Pinegrapple Seed",
+    "ObjectID": 8028
+  },
+  {
+    "InGameName": "Pinegrapple Plant",
+    "ObjectID": 8029
+  },
+  {
+    "InGameName": "Pinegrapple",
+    "ObjectID": 8030
+  },
+  {
+    "InGameName": "Grumpkin Seed",
+    "ObjectID": 8031
+  },
+  {
+    "InGameName": "Grumpkin Plant",
+    "ObjectID": 8032
+  },
+  {
+    "InGameName": "Grumpkin",
+    "ObjectID": 8033
+  },
+  {
+    "InGameName": "Sunrice Seed",
+    "ObjectID": 8034
+  },
+  {
+    "InGameName": "Sunrice Plant",
+    "ObjectID": 8035
+  },
+  {
+    "InGameName": "Sunrice",
+    "ObjectID": 8036
+  },
+  {
+    "InGameName": "Lunacorn Seed",
+    "ObjectID": 8037
+  },
+  {
+    "InGameName": "Lunacorn Plant",
+    "ObjectID": 8038
+  },
+  {
+    "InGameName": "Lunacorn",
+    "ObjectID": 8039
+  },
+  {
+    "InGameName": "Gleam Wood Seed",
+    "ObjectID": 8040
+  },
+  {
+    "InGameName": "Gleam Root Plant",
+    "ObjectID": 8041
+  },
+  {
+    "InGameName": "Golden Heart Berry",
+    "ObjectID": 8100
+  },
+  {
+    "InGameName": "Golden Glow Tulip",
+    "ObjectID": 8101
+  },
+  {
+    "InGameName": "Golden Bomb Pepper",
+    "ObjectID": 8102
+  },
+  {
+    "InGameName": "Golden Carrock",
+    "ObjectID": 8103
+  },
+  {
+    "InGameName": "Golden Puffungi",
+    "ObjectID": 8104
+  },
+  {
+    "InGameName": "Golden Bloat Oat",
+    "ObjectID": 8105
+  },
+  {
+    "InGameName": "Golden Pewpaya",
+    "ObjectID": 8106
+  },
+  {
+    "InGameName": "Golden Pinegrapple",
+    "ObjectID": 8107
+  },
+  {
+    "InGameName": "Golden Grumpkin",
+    "ObjectID": 8108
+  },
+  {
+    "InGameName": "Golden Sunrice",
+    "ObjectID": 8109
+  },
+  {
+    "InGameName": "Golden Lunacorn",
+    "ObjectID": 8110
+  },
+  {
+    "InGameName": "Recall Idol",
+    "ObjectID": 8200
+  },
+  {
+    "InGameName": "Hive Mother Scanner",
+    "ObjectID": 8210
+  },
+  {
+    "InGameName": "Ghorm the Devourer Scanner",
+    "ObjectID": 8211
+  },
+  {
+    "InGameName": "Malugaz the Corrupted Scanner",
+    "ObjectID": 8212
+  },
+  {
+    "InGameName": "Azeos the Sky Titan Scanner",
+    "ObjectID": 8220
+  },
+  {
+    "InGameName": "Ivy the Poisonous Mass Scanner",
+    "ObjectID": 8221
+  },
+  {
+    "InGameName": "Omoroth the Sea Titan Scanner",
+    "ObjectID": 8225
+  },
+  {
+    "InGameName": "Morpha the Aquatic Mass Scanner",
+    "ObjectID": 8226
+  },
+  {
+    "InGameName": "Ra-Akar the Sand Titan Scanner",
+    "ObjectID": 8227
+  },
+  {
+    "InGameName": "Igneous the Molten Mass Scanner",
+    "ObjectID": 8228
+  },
+  {
+    "InGameName": "Atlantean Worm Scanner",
+    "ObjectID": 8229
+  },
+  {
+    "InGameName": "NA",
+    "ObjectID": 8230
+  },
+  {
+    "InGameName": "Druidra the Wild Titan Scanner",
+    "ObjectID": 8231
+  },
+  {
+    "InGameName": "Crydra the Ice Titan Scanner",
+    "ObjectID": 8232
+  },
+  {
+    "InGameName": "Pyrdra the Fire Titan Scanner",
+    "ObjectID": 8233
+  },
+  {
+    "InGameName": "Urschleim Scanner",
+    "ObjectID": 8234
+  },
+  {
+    "InGameName": "Nimruza, Queen of the Burrowed Sands Scanner",
+    "ObjectID": 8235
+  },
+  {
+    "InGameName": "Rune Parchment",
+    "ObjectID": 8250
+  },
+  {
+    "InGameName": "Glyph Parchment",
+    "ObjectID": 8251
+  },
+  {
+    "InGameName": "Empty Crystal",
+    "ObjectID": 8252
+  },
+  {
+    "InGameName": "Admin Key",
+    "ObjectID": 8253
+  },
+  {
+    "InGameName": "Cipher Parchment",
+    "ObjectID": 8254
+  },
+  {
+    "InGameName": "Thread of Fate",
+    "ObjectID": 8255
+  },
+  {
+    "InGameName": "Lantern",
+    "ObjectID": 8300
+  },
+  {
+    "InGameName": "Orb Lantern",
+    "ObjectID": 8301
+  },
+  {
+    "InGameName": "Small Lantern",
+    "ObjectID": 8302
+  },
+  {
+    "InGameName": "Pumpkin Lantern",
+    "ObjectID": 8303
+  },
+  {
+    "InGameName": "Pearl Lantern",
+    "ObjectID": 8304
+  },
+  {
+    "InGameName": "Soul Lantern",
+    "ObjectID": 8305
+  },
+  {
+    "InGameName": "Wooden Shield",
+    "ObjectID": 8320
+  },
+  {
+    "InGameName": "Toxic Defender",
+    "ObjectID": 8321
+  },
+  {
+    "InGameName": "Octarine Shield",
+    "ObjectID": 8322
+  },
+  {
+    "InGameName": "Iron Shield",
+    "ObjectID": 8323
+  },
+  {
+    "InGameName": "Minion Detonator",
+    "ObjectID": 8330
+  },
+  {
+    "InGameName": "Swift Feather",
+    "ObjectID": 8340
+  },
+  {
+    "InGameName": "Azeos' Dash Feather",
+    "ObjectID": 8341
+  },
+  {
+    "InGameName": "Blue Leather Tome",
+    "ObjectID": 8350
+  },
+  {
+    "InGameName": "Golden Jellyfish",
+    "ObjectID": 8351
+  },
+  {
+    "InGameName": "Caveling ID",
+    "ObjectID": 8352
+  },
+  {
+    "InGameName": "Turtle Shell",
+    "ObjectID": 8353
+  },
+  {
+    "InGameName": "Omoroth's Beak",
+    "ObjectID": 8354
+  },
+  {
+    "InGameName": "Sentry Shield",
+    "ObjectID": 8355
+  },
+  {
+    "InGameName": "Royal Gel",
+    "ObjectID": 8356
+  },
+  {
+    "InGameName": "Crystal Meteor Chunk",
+    "ObjectID": 8357
+  },
+  {
+    "InGameName": "Scorching Aegis",
+    "ObjectID": 8358
+  },
+  {
+    "InGameName": "Concealed Blade",
+    "ObjectID": 8359
+  },
+  {
+    "InGameName": "Smithing Glove",
+    "ObjectID": 8360
+  },
+  {
+    "InGameName": "Oracle Deck",
+    "ObjectID": 8361
+  },
+  {
+    "InGameName": "Core Iris",
+    "ObjectID": 8362
+  },
+  {
+    "InGameName": "Pet Rock",
+    "ObjectID": 8363
+  },
+  {
+    "InGameName": "Hydra Bone Shield",
+    "ObjectID": 8364
+  },
+  {
+    "InGameName": "Hydra Tooth",
+    "ObjectID": 8365
+  },
+  {
+    "InGameName": "Trinity Heart",
+    "ObjectID": 8366
+  },
+  {
+    "InGameName": "Rift Lens",
+    "ObjectID": 8368
+  },
+  {
+    "InGameName": "Moonstone",
+    "ObjectID": 8369
+  },
+  {
+    "InGameName": "Spicy Bait",
+    "ObjectID": 8380
+  },
+  {
+    "InGameName": "Sweet Bait",
+    "ObjectID": 8381
+  },
+  {
+    "InGameName": "Glowing Bait",
+    "ObjectID": 8382
+  },
+  {
+    "InGameName": "Sticky Bait",
+    "ObjectID": 8383
+  },
+  {
+    "InGameName": "Expert Lure",
+    "ObjectID": 8384
+  },
+  {
+    "InGameName": "Purple Bait",
+    "ObjectID": 8385
+  },
+  {
+    "InGameName": "Green Bait",
+    "ObjectID": 8386
+  },
+  {
+    "InGameName": "Red Bait",
+    "ObjectID": 8387
+  },
+  {
+    "InGameName": "Miner Backpack",
+    "ObjectID": 8400
+  },
+  {
+    "InGameName": "Ghorm's Stomach Backpack",
+    "ObjectID": 8401
+  },
+  {
+    "InGameName": "Scarlet Shell Backpack",
+    "ObjectID": 8402
+  },
+  {
+    "InGameName": "Explorer Backpack",
+    "ObjectID": 8403
+  },
+  {
+    "InGameName": "Octarine Backpack",
+    "ObjectID": 8404
+  },
+  {
+    "InGameName": "Morpha's Bubble Bag",
+    "ObjectID": 8405
+  },
+  {
+    "InGameName": "Small Backpack",
+    "ObjectID": 8406
+  },
+  {
+    "InGameName": "Scholar Backpack",
+    "ObjectID": 8407
+  },
+  {
+    "InGameName": "Small Ore and Block Pouch",
+    "ObjectID": 8450
+  },
+  {
+    "InGameName": "Medium Ore and Block Pouch",
+    "ObjectID": 8451
+  },
+  {
+    "InGameName": "Small Seed and Crop Pouch",
+    "ObjectID": 8452
+  },
+  {
+    "InGameName": "Medium Seed and Crop Pouch",
+    "ObjectID": 8453
+  },
+  {
+    "InGameName": "Small Valuable Pouch",
+    "ObjectID": 8454
+  },
+  {
+    "InGameName": "Medium Valuable Pouch",
+    "ObjectID": 8455
+  },
+  {
+    "InGameName": "Small Fish Pouch",
+    "ObjectID": 8456
+  },
+  {
+    "InGameName": "Medium Fish Pouch",
+    "ObjectID": 8457
+  },
+  {
+    "InGameName": "Large Ore and Block Pouch",
+    "ObjectID": 8458
+  },
+  {
+    "InGameName": "Large Seed and Crop Pouch",
+    "ObjectID": 8459
+  },
+  {
+    "InGameName": "Large Valuable Pouch",
+    "ObjectID": 8460
+  },
+  {
+    "InGameName": "Large Fish Pouch",
+    "ObjectID": 8461
+  },
+  {
+    "InGameName": "Copper Helm",
+    "ObjectID": 8500
+  },
+  {
+    "InGameName": "Wood Helm",
+    "ObjectID": 8501
+  },
+  {
+    "InGameName": "Peasant Hat",
+    "ObjectID": 8502
+  },
+  {
+    "InGameName": "Caveling Hood",
+    "ObjectID": 8503
+  },
+  {
+    "InGameName": "Iron Helm",
+    "ObjectID": 8504
+  },
+  {
+    "InGameName": "Bronze Helm",
+    "ObjectID": 8505
+  },
+  {
+    "InGameName": "Carapace Helm",
+    "ObjectID": 8509
+  },
+  {
+    "InGameName": "Larva Helm",
+    "ObjectID": 8510
+  },
+  {
+    "InGameName": "Scarlet Helm",
+    "ObjectID": 8511
+  },
+  {
+    "InGameName": "Hunter Hood",
+    "ObjectID": 8512
+  },
+  {
+    "InGameName": "Farmer's Hat",
+    "ObjectID": 8513
+  },
+  {
+    "InGameName": "Octarine Helm",
+    "ObjectID": 8514
+  },
+  {
+    "InGameName": "Radical Rabbit Ears",
+    "ObjectID": 8515
+  },
+  {
+    "InGameName": "Scholar's Hood",
+    "ObjectID": 8516
+  },
+  {
+    "InGameName": "Diving Helm",
+    "ObjectID": 8517
+  },
+  {
+    "InGameName": "Slime Helm",
+    "ObjectID": 8518
+  },
+  {
+    "InGameName": "Sentry Helm",
+    "ObjectID": 8519
+  },
+  {
+    "InGameName": "Sunglasses",
+    "ObjectID": 8520
+  },
+  {
+    "InGameName": "Omoroth's Helm",
+    "ObjectID": 8521
+  },
+  {
+    "InGameName": "King Slime Crown",
+    "ObjectID": 8522
+  },
+  {
+    "InGameName": "Galaxite Helm",
+    "ObjectID": 8523
+  },
+  {
+    "InGameName": "Assassin Hood",
+    "ObjectID": 8524
+  },
+  {
+    "InGameName": "Magma Horn Armor",
+    "ObjectID": 8525
+  },
+  {
+    "InGameName": "Scarab Visor",
+    "ObjectID": 8526
+  },
+  {
+    "InGameName": "Miner's Protective Helm",
+    "ObjectID": 8527
+  },
+  {
+    "InGameName": "Paladin Mask",
+    "ObjectID": 8528
+  },
+  {
+    "InGameName": "Pumpkin Head",
+    "ObjectID": 8529
+  },
+  {
+    "InGameName": "Spooky Blanket Hood",
+    "ObjectID": 8530
+  },
+  {
+    "InGameName": "Frankenbrute Head",
+    "ObjectID": 8531
+  },
+  {
+    "InGameName": "Godsent King Mask",
+    "ObjectID": 8532
+  },
+  {
+    "InGameName": "Skirmisher Cap",
+    "ObjectID": 8533
+  },
+  {
+    "InGameName": "Festive Hat",
+    "ObjectID": 8534
+  },
+  {
+    "InGameName": "Gingerbreadman Head",
+    "ObjectID": 8535
+  },
+  {
+    "InGameName": "Gingerbread Hood",
+    "ObjectID": 8536
+  },
+  {
+    "InGameName": "Snowman Hat",
+    "ObjectID": 8537
+  },
+  {
+    "InGameName": "Flower Crown",
+    "ObjectID": 8538
+  },
+  {
+    "InGameName": "Top Hat",
+    "ObjectID": 8539
+  },
+  {
+    "InGameName": "Explorer's Hat",
+    "ObjectID": 8540
+  },
+  {
+    "InGameName": "Chef's Hat",
+    "ObjectID": 8541
+  },
+  {
+    "InGameName": "Radical Rabbit Headband",
+    "ObjectID": 8542
+  },
+  {
+    "InGameName": "Adventurer's Hat",
+    "ObjectID": 8543
+  },
+  {
+    "InGameName": "Wildwarden Mask",
+    "ObjectID": 8544
+  },
+  {
+    "InGameName": "Ranger Hood",
+    "ObjectID": 8545
+  },
+  {
+    "InGameName": "Shrooman Cap",
+    "ObjectID": 8546
+  },
+  {
+    "InGameName": "Pot Lid",
+    "ObjectID": 8547
+  },
+  {
+    "InGameName": "Shaman Skull",
+    "ObjectID": 8548
+  },
+  {
+    "InGameName": "Hivebone Helm",
+    "ObjectID": 8549
+  },
+  {
+    "InGameName": "Mercenary Headband",
+    "ObjectID": 8550
+  },
+  {
+    "InGameName": "Moldweb Helm",
+    "ObjectID": 8551
+  },
+  {
+    "InGameName": "Plague Mask",
+    "ObjectID": 8552
+  },
+  {
+    "InGameName": "Solarite Barbute",
+    "ObjectID": 8553
+  },
+  {
+    "InGameName": "Atlantean Worm Helmet",
+    "ObjectID": 8554
+  },
+  {
+    "InGameName": "Cooking Pot Lid",
+    "ObjectID": 8555
+  },
+  {
+    "InGameName": "Ninja Cowl",
+    "ObjectID": 8556
+  },
+  {
+    "InGameName": "Cosmos Visor Helm",
+    "ObjectID": 8557
+  },
+  {
+    "InGameName": "Hazmat Helm",
+    "ObjectID": 8558
+  },
+  {
+    "InGameName": "Hydra Bone Helm",
+    "ObjectID": 8559
+  },
+  {
+    "InGameName": "Core Commander Helm",
+    "ObjectID": 8560
+  },
+  {
+    "InGameName": "Corrupt Warden Mask",
+    "ObjectID": 8561
+  },
+  {
+    "InGameName": "Witch Doctor Hat",
+    "ObjectID": 8562
+  },
+  {
+    "InGameName": "Grim Hood",
+    "ObjectID": 8563
+  },
+  {
+    "InGameName": "Apprentice Hat",
+    "ObjectID": 8564
+  },
+  {
+    "InGameName": "Sorcerer Hood",
+    "ObjectID": 8565
+  },
+  {
+    "InGameName": "Arcane Monk Blindfold",
+    "ObjectID": 8566
+  },
+  {
+    "InGameName": "Pandorium Helm",
+    "ObjectID": 8567
+  },
+  {
+    "InGameName": "Sulfossil Helmet",
+    "ObjectID": 8568
+  },
+  {
+    "InGameName": "Chieftain Headdress",
+    "ObjectID": 8569
+  },
+  {
+    "InGameName": "Soaring Headgear",
+    "ObjectID": 8570
+  },
+  {
+    "InGameName": "Tassel Earrings",
+    "ObjectID": 8571
+  },
+  {
+    "InGameName": "Lily Pad Hat",
+    "ObjectID": 8572
+  },
+  {
+    "InGameName": "Desert Guardian Mask",
+    "ObjectID": 8573
+  },
+  {
+    "InGameName": "Blast Helmet",
+    "ObjectID": 8574
+  },
+  {
+    "InGameName": "Copper Breastplate",
+    "ObjectID": 8600
+  },
+  {
+    "InGameName": "Wood Chest",
+    "ObjectID": 8601
+  },
+  {
+    "InGameName": "Peasant Chest",
+    "ObjectID": 8602
+  },
+  {
+    "InGameName": "Caveling Chest",
+    "ObjectID": 8603
+  },
+  {
+    "InGameName": "Iron Breastplate",
+    "ObjectID": 8604
+  },
+  {
+    "InGameName": "Bronze Breastplate",
+    "ObjectID": 8605
+  },
+  {
+    "InGameName": "Carapace Breastplate",
+    "ObjectID": 8609
+  },
+  {
+    "InGameName": "Larva Chest",
+    "ObjectID": 8610
+  },
+  {
+    "InGameName": "Scarlet Breastplate",
+    "ObjectID": 8611
+  },
+  {
+    "InGameName": "Hunter Cloak",
+    "ObjectID": 8612
+  },
+  {
+    "InGameName": "Ivy's Thorn Harness",
+    "ObjectID": 8613
+  },
+  {
+    "InGameName": "Octarine Breastplate",
+    "ObjectID": 8614
+  },
+  {
+    "InGameName": "Scholar's Cloak",
+    "ObjectID": 8615
+  },
+  {
+    "InGameName": "Kelp Mantle",
+    "ObjectID": 8616
+  },
+  {
+    "InGameName": "Slime Armor",
+    "ObjectID": 8617
+  },
+  {
+    "InGameName": "Towel",
+    "ObjectID": 8618
+  },
+  {
+    "InGameName": "Green Bikini Top",
+    "ObjectID": 8619
+  },
+  {
+    "InGameName": "Blue Bikini Top",
+    "ObjectID": 8620
+  },
+  {
+    "InGameName": "Red Bikini Top",
+    "ObjectID": 8621
+  },
+  {
+    "InGameName": "Omoroth's Chestplate",
+    "ObjectID": 8622
+  },
+  {
+    "InGameName": "Galaxite Torso",
+    "ObjectID": 8623
+  },
+  {
+    "InGameName": "Assassin Cloak",
+    "ObjectID": 8624
+  },
+  {
+    "InGameName": "Magma Torso Armor",
+    "ObjectID": 8625
+  },
+  {
+    "InGameName": "Scarab Harness",
+    "ObjectID": 8626
+  },
+  {
+    "InGameName": "Miner's Labour Suit",
+    "ObjectID": 8627
+  },
+  {
+    "InGameName": "Paladin Harness",
+    "ObjectID": 8628
+  },
+  {
+    "InGameName": "Spooky Blanket Cape",
+    "ObjectID": 8629
+  },
+  {
+    "InGameName": "Dracularva Cape",
+    "ObjectID": 8630
+  },
+  {
+    "InGameName": "Godsent King Breast Armor",
+    "ObjectID": 8631
+  },
+  {
+    "InGameName": "Gingerbread Top",
+    "ObjectID": 8632
+  },
+  {
+    "InGameName": "Cupid Tunic",
+    "ObjectID": 8633
+  },
+  {
+    "InGameName": "Wedding Dress",
+    "ObjectID": 8634
+  },
+  {
+    "InGameName": "Suit Jacket",
+    "ObjectID": 8635
+  },
+  {
+    "InGameName": "Explorer's Jacket",
+    "ObjectID": 8636
+  },
+  {
+    "InGameName": "Chef's Jacket",
+    "ObjectID": 8637
+  },
+  {
+    "InGameName": "Wildwarden Pauldrons",
+    "ObjectID": 8638
+  },
+  {
+    "InGameName": "Ranger Tunic",
+    "ObjectID": 8639
+  },
+  {
+    "InGameName": "Rain Coat",
+    "ObjectID": 8640
+  },
+  {
+    "InGameName": "Pot Tub",
+    "ObjectID": 8641
+  },
+  {
+    "InGameName": "Hivebone Breastplate",
+    "ObjectID": 8643
+  },
+  {
+    "InGameName": "Trenchcoat",
+    "ObjectID": 8644
+  },
+  {
+    "InGameName": "Stone Chestplate",
+    "ObjectID": 8645
+  },
+  {
+    "InGameName": "Moldweb Breastplate",
+    "ObjectID": 8646
+  },
+  {
+    "InGameName": "Solarite Cuirass",
+    "ObjectID": 8647
+  },
+  {
+    "InGameName": "Cooking Pot Tub",
+    "ObjectID": 8648
+  },
+  {
+    "InGameName": "Mercenary Tank Top",
+    "ObjectID": 8649
+  },
+  {
+    "InGameName": "Ninja Garments",
+    "ObjectID": 8650
+  },
+  {
+    "InGameName": "Gemstone Garment",
+    "ObjectID": 8651
+  },
+  {
+    "InGameName": "Cosmos Torso",
+    "ObjectID": 8652
+  },
+  {
+    "InGameName": "Hazmat Suit Jacket",
+    "ObjectID": 8653
+  },
+  {
+    "InGameName": "Hydra Bone Breastplate",
+    "ObjectID": 8654
+  },
+  {
+    "InGameName": "Core Commander Brigandine",
+    "ObjectID": 8655
+  },
+  {
+    "InGameName": "Corrupt Warden Tunic",
+    "ObjectID": 8656
+  },
+  {
+    "InGameName": "Witch Doctor Vest",
+    "ObjectID": 8657
+  },
+  {
+    "InGameName": "Grim Breastplate",
+    "ObjectID": 8658
+  },
+  {
+    "InGameName": "Apprentice Robe",
+    "ObjectID": 8659
+  },
+  {
+    "InGameName": "Sorcerer Robe",
+    "ObjectID": 8660
+  },
+  {
+    "InGameName": "Arcane Monk Cloak",
+    "ObjectID": 8661
+  },
+  {
+    "InGameName": "Pandorium Chestplate and Bracers",
+    "ObjectID": 8662
+  },
+  {
+    "InGameName": "Sulfossil Cuirass",
+    "ObjectID": 8663
+  },
+  {
+    "InGameName": "Chieftain Tunic",
+    "ObjectID": 8664
+  },
+  {
+    "InGameName": "Soaring Poncho",
+    "ObjectID": 8665
+  },
+  {
+    "InGameName": "Tassel Top",
+    "ObjectID": 8666
+  },
+  {
+    "InGameName": "Lily Pad Tunic",
+    "ObjectID": 8667
+  },
+  {
+    "InGameName": "Desert Guardian Tunic",
+    "ObjectID": 8668
+  },
+  {
+    "InGameName": "Blast Plackart",
+    "ObjectID": 8669
+  },
+  {
+    "InGameName": "Copper Pants",
+    "ObjectID": 8700
+  },
+  {
+    "InGameName": "Wood Pants",
+    "ObjectID": 8701
+  },
+  {
+    "InGameName": "Caveling Pants",
+    "ObjectID": 8703
+  },
+  {
+    "InGameName": "Iron Pants",
+    "ObjectID": 8704
+  },
+  {
+    "InGameName": "Bronze Pants",
+    "ObjectID": 8705
+  },
+  {
+    "InGameName": "Scarlet Pants",
+    "ObjectID": 8706
+  },
+  {
+    "InGameName": "Ivy's Pants",
+    "ObjectID": 8707
+  },
+  {
+    "InGameName": "Octarine Pants",
+    "ObjectID": 8708
+  },
+  {
+    "InGameName": "Scuba Fins",
+    "ObjectID": 8709
+  },
+  {
+    "InGameName": "Green Board Shorts",
+    "ObjectID": 8710
+  },
+  {
+    "InGameName": "Blue Board Shorts",
+    "ObjectID": 8711
+  },
+  {
+    "InGameName": "Red Board Shorts",
+    "ObjectID": 8712
+  },
+  {
+    "InGameName": "Green Bikini Bottom",
+    "ObjectID": 8713
+  },
+  {
+    "InGameName": "Blue Bikini Bottom",
+    "ObjectID": 8714
+  },
+  {
+    "InGameName": "Red Bikini Bottom",
+    "ObjectID": 8715
+  },
+  {
+    "InGameName": "Omoroth's Leg Armor",
+    "ObjectID": 8716
+  },
+  {
+    "InGameName": "Galaxite Pants",
+    "ObjectID": 8717
+  },
+  {
+    "InGameName": "Magma Shin Armor",
+    "ObjectID": 8718
+  },
+  {
+    "InGameName": "Scarab Legs",
+    "ObjectID": 8719
+  },
+  {
+    "InGameName": "Miner's Worker Pants",
+    "ObjectID": 8720
+  },
+  {
+    "InGameName": "Paladin Pants",
+    "ObjectID": 8721
+  },
+  {
+    "InGameName": "Godsent King Pants Armor",
+    "ObjectID": 8722
+  },
+  {
+    "InGameName": "Gingerbread Pants",
+    "ObjectID": 8723
+  },
+  {
+    "InGameName": "Suit Pants",
+    "ObjectID": 8724
+  },
+  {
+    "InGameName": "Explorer's Pants",
+    "ObjectID": 8725
+  },
+  {
+    "InGameName": "Chef's Pants",
+    "ObjectID": 8726
+  },
+  {
+    "InGameName": "Wildwarden Pants",
+    "ObjectID": 8727
+  },
+  {
+    "InGameName": "Ranger Pants",
+    "ObjectID": 8728
+  },
+  {
+    "InGameName": "Rubber Boots",
+    "ObjectID": 8729
+  },
+  {
+    "InGameName": "Hivebone Pants",
+    "ObjectID": 8731
+  },
+  {
+    "InGameName": "Stone Pants",
+    "ObjectID": 8732
+  },
+  {
+    "InGameName": "Mercenary Pants",
+    "ObjectID": 8733
+  },
+  {
+    "InGameName": "Moldweb Pants",
+    "ObjectID": 8734
+  },
+  {
+    "InGameName": "Solarite Tassets",
+    "ObjectID": 8735
+  },
+  {
+    "InGameName": "Ninja Leggings",
+    "ObjectID": 8736
+  },
+  {
+    "InGameName": "Gemstone Harem Pants",
+    "ObjectID": 8737
+  },
+  {
+    "InGameName": "Cosmos Legwear",
+    "ObjectID": 8738
+  },
+  {
+    "InGameName": "Hazmat Suit Pants",
+    "ObjectID": 8739
+  },
+  {
+    "InGameName": "Hydra Bone Shins",
+    "ObjectID": 8740
+  },
+  {
+    "InGameName": "Core Commander Greaves",
+    "ObjectID": 8741
+  },
+  {
+    "InGameName": "Corrupt Warden Shorts",
+    "ObjectID": 8742
+  },
+  {
+    "InGameName": "Witch Doctor Jeans",
+    "ObjectID": 8743
+  },
+  {
+    "InGameName": "Grim Legwear",
+    "ObjectID": 8744
+  },
+  {
+    "InGameName": "Apprentice Pants",
+    "ObjectID": 8745
+  },
+  {
+    "InGameName": "Sorcerer Pants",
+    "ObjectID": 8746
+  },
+  {
+    "InGameName": "Arcane Monk Leggings",
+    "ObjectID": 8747
+  },
+  {
+    "InGameName": "Pandorium Pants",
+    "ObjectID": 8748
+  },
+  {
+    "InGameName": "Sulfossil Boots",
+    "ObjectID": 8749
+  },
+  {
+    "InGameName": "Chieftain Shorts",
+    "ObjectID": 8750
+  },
+  {
+    "InGameName": "Soaring Pants",
+    "ObjectID": 8751
+  },
+  {
+    "InGameName": "Tassel Skirt",
+    "ObjectID": 8752
+  },
+  {
+    "InGameName": "Lily Pad Shorts",
+    "ObjectID": 8753
+  },
+  {
+    "InGameName": "Desert Guardian Pants",
+    "ObjectID": 8754
+  },
+  {
+    "InGameName": "Blast Pants",
+    "ObjectID": 8755
+  },
+  {
+    "InGameName": "Copper Cross Necklace",
+    "ObjectID": 8800
+  },
+  {
+    "InGameName": "Grub Egg Necklace",
+    "ObjectID": 8801
+  },
+  {
+    "InGameName": "Iron Chunk Necklace",
+    "ObjectID": 8802
+  },
+  {
+    "InGameName": "Heart Berry Necklace",
+    "ObjectID": 8803
+  },
+  {
+    "InGameName": "Ammonite Necklace",
+    "ObjectID": 8804
+  },
+  {
+    "InGameName": "Gold Crystal Necklace",
+    "ObjectID": 8805
+  },
+  {
+    "InGameName": "Blob Rosary Necklace",
+    "ObjectID": 8806
+  },
+  {
+    "InGameName": "Azeos Beak Necklace",
+    "ObjectID": 8807
+  },
+  {
+    "InGameName": "Remedaisy Necklace",
+    "ObjectID": 8808
+  },
+  {
+    "InGameName": "Ancient Guardian Necklace",
+    "ObjectID": 8809
+  },
+  {
+    "InGameName": "Mold Vein Necklace",
+    "ObjectID": 8810
+  },
+  {
+    "InGameName": "Cave Guppy Necklace",
+    "ObjectID": 8811
+  },
+  {
+    "InGameName": "Bubble Pearl Necklace",
+    "ObjectID": 8812
+  },
+  {
+    "InGameName": "Polished Copper Cross Necklace",
+    "ObjectID": 8813
+  },
+  {
+    "InGameName": "Polished Iron Chunk Necklace",
+    "ObjectID": 8814
+  },
+  {
+    "InGameName": "Polished Gold Crystal Necklace",
+    "ObjectID": 8815
+  },
+  {
+    "InGameName": "Ancient Gem Necklace",
+    "ObjectID": 8816
+  },
+  {
+    "InGameName": "Skull Necklace",
+    "ObjectID": 8817
+  },
+  {
+    "InGameName": "Eostre Necklace",
+    "ObjectID": 8818
+  },
+  {
+    "InGameName": "Neptune Necklace",
+    "ObjectID": 8819
+  },
+  {
+    "InGameName": "Omoroth's Necklace",
+    "ObjectID": 8820
+  },
+  {
+    "InGameName": "Octarine Necklace",
+    "ObjectID": 8821
+  },
+  {
+    "InGameName": "Scarlet Chunk Necklace",
+    "ObjectID": 8822
+  },
+  {
+    "InGameName": "Coral Amulet",
+    "ObjectID": 8823
+  },
+  {
+    "InGameName": "Polished Octarine Necklace",
+    "ObjectID": 8824
+  },
+  {
+    "InGameName": "Polished Scarlet Chunk Necklace",
+    "ObjectID": 8825
+  },
+  {
+    "InGameName": "Polished Coral Amulet",
+    "ObjectID": 8826
+  },
+  {
+    "InGameName": "Conch Shell Necklace",
+    "ObjectID": 8827
+  },
+  {
+    "InGameName": "Oceanheart Necklace",
+    "ObjectID": 8828
+  },
+  {
+    "InGameName": "Rusted Necklace",
+    "ObjectID": 8829
+  },
+  {
+    "InGameName": "Torc Necklace",
+    "ObjectID": 8830
+  },
+  {
+    "InGameName": "Ra-Akar's Necklace",
+    "ObjectID": 8831
+  },
+  {
+    "InGameName": "Nomad Necklace",
+    "ObjectID": 8832
+  },
+  {
+    "InGameName": "Bone Necklace",
+    "ObjectID": 8833
+  },
+  {
+    "InGameName": "Black Necklace",
+    "ObjectID": 8834
+  },
+  {
+    "InGameName": "Flame Necklace",
+    "ObjectID": 8835
+  },
+  {
+    "InGameName": "Fusioned Chunk Necklace",
+    "ObjectID": 8836
+  },
+  {
+    "InGameName": "Samhain Offering Necklace",
+    "ObjectID": 8837
+  },
+  {
+    "InGameName": "Valentine Necklace",
+    "ObjectID": 8838
+  },
+  {
+    "InGameName": "Fang Necklace",
+    "ObjectID": 8839
+  },
+  {
+    "InGameName": "Wildwarden Necklace",
+    "ObjectID": 8840
+  },
+  {
+    "InGameName": "Atlantean Worm Necklace",
+    "ObjectID": 8841
+  },
+  {
+    "InGameName": "Tower Shell Necklace",
+    "ObjectID": 8842
+  },
+  {
+    "InGameName": "Glass Bead Necklace",
+    "ObjectID": 8843
+  },
+  {
+    "InGameName": "Pyrdra's Necklace",
+    "ObjectID": 8844
+  },
+  {
+    "InGameName": "Crescent Necklace",
+    "ObjectID": 8845
+  },
+  {
+    "InGameName": "Soul Medallion",
+    "ObjectID": 8846
+  },
+  {
+    "InGameName": "Bomb Necklace",
+    "ObjectID": 8847
+  },
+  {
+    "InGameName": "Clot Ring",
+    "ObjectID": 8850
+  },
+  {
+    "InGameName": "Larva Ring",
+    "ObjectID": 8851
+  },
+  {
+    "InGameName": "Wooden Thorn Ring",
+    "ObjectID": 8852
+  },
+  {
+    "InGameName": "Glow Tulip Ring",
+    "ObjectID": 8853
+  },
+  {
+    "InGameName": "Swift Ring",
+    "ObjectID": 8854
+  },
+  {
+    "InGameName": "Ring of Rock",
+    "ObjectID": 8855
+  },
+  {
+    "InGameName": "Ring of Stone",
+    "ObjectID": 8856
+  },
+  {
+    "InGameName": "Gold Crystal Ring",
+    "ObjectID": 8857
+  },
+  {
+    "InGameName": "Melting Crystal Ring",
+    "ObjectID": 8858
+  },
+  {
+    "InGameName": "Sky Ring",
+    "ObjectID": 8859
+  },
+  {
+    "InGameName": "Caveling Mother's Ring",
+    "ObjectID": 8860
+  },
+  {
+    "InGameName": "Petal Ring",
+    "ObjectID": 8861
+  },
+  {
+    "InGameName": "Mold Ring",
+    "ObjectID": 8862
+  },
+  {
+    "InGameName": "Rusted Ring",
+    "ObjectID": 8863
+  },
+  {
+    "InGameName": "Sea Foam Ring",
+    "ObjectID": 8864
+  },
+  {
+    "InGameName": "Polished Gold Crystal Ring",
+    "ObjectID": 8865
+  },
+  {
+    "InGameName": "Polished Glow Tulip Ring",
+    "ObjectID": 8866
+  },
+  {
+    "InGameName": "Polished Swift Ring",
+    "ObjectID": 8867
+  },
+  {
+    "InGameName": "Ancient Gem Ring",
+    "ObjectID": 8868
+  },
+  {
+    "InGameName": "Ivy's Ring",
+    "ObjectID": 8869
+  },
+  {
+    "InGameName": "Skull Ring",
+    "ObjectID": 8870
+  },
+  {
+    "InGameName": "Ostara Ring",
+    "ObjectID": 8871
+  },
+  {
+    "InGameName": "Morpha's Ring",
+    "ObjectID": 8872
+  },
+  {
+    "InGameName": "Coral Ring",
+    "ObjectID": 8873
+  },
+  {
+    "InGameName": "Goldfish Ring",
+    "ObjectID": 8874
+  },
+  {
+    "InGameName": "Lucky Ring",
+    "ObjectID": 8875
+  },
+  {
+    "InGameName": "Ancient Guardian Ring",
+    "ObjectID": 8876
+  },
+  {
+    "InGameName": "Omoroth's Ring",
+    "ObjectID": 8877
+  },
+  {
+    "InGameName": "Octarine Ring",
+    "ObjectID": 8878
+  },
+  {
+    "InGameName": "Magnetic Ring",
+    "ObjectID": 8879
+  },
+  {
+    "InGameName": "Golden Spike Ring",
+    "ObjectID": 8880
+  },
+  {
+    "InGameName": "Polished Octarine Ring",
+    "ObjectID": 8881
+  },
+  {
+    "InGameName": "Polished Magnetic Ring",
+    "ObjectID": 8882
+  },
+  {
+    "InGameName": "Polished Golden Spike Ring",
+    "ObjectID": 8883
+  },
+  {
+    "InGameName": "Spine Ring",
+    "ObjectID": 8884
+  },
+  {
+    "InGameName": "Wooden Ring",
+    "ObjectID": 8885
+  },
+  {
+    "InGameName": "Topaz Ring",
+    "ObjectID": 8886
+  },
+  {
+    "InGameName": "White Glass Ring",
+    "ObjectID": 8887
+  },
+  {
+    "InGameName": "Septum Ring",
+    "ObjectID": 8888
+  },
+  {
+    "InGameName": "Ring of Sand",
+    "ObjectID": 8889
+  },
+  {
+    "InGameName": "Bone Ring",
+    "ObjectID": 8890
+  },
+  {
+    "InGameName": "Nomad Ring",
+    "ObjectID": 8891
+  },
+  {
+    "InGameName": "Black Ring",
+    "ObjectID": 8892
+  },
+  {
+    "InGameName": "Flame Ring",
+    "ObjectID": 8893
+  },
+  {
+    "InGameName": "Bomb Ring",
+    "ObjectID": 8894
+  },
+  {
+    "InGameName": "Noble Ring",
+    "ObjectID": 8895
+  },
+  {
+    "InGameName": "Double Ring",
+    "ObjectID": 8896
+  },
+  {
+    "InGameName": "Samhain Curse Ring",
+    "ObjectID": 8897
+  },
+  {
+    "InGameName": "Valentine Ring",
+    "ObjectID": 8898
+  },
+  {
+    "InGameName": "Wildwarden Ring",
+    "ObjectID": 8899
+  },
+  {
+    "InGameName": "Copper Sword",
+    "ObjectID": 8900
+  },
+  {
+    "InGameName": "Iron Sword",
+    "ObjectID": 8901
+  },
+  {
+    "InGameName": "Scarlet Sword",
+    "ObjectID": 8902
+  },
+  {
+    "InGameName": "Tin Sword",
+    "ObjectID": 8903
+  },
+  {
+    "InGameName": "Slime Sword",
+    "ObjectID": 8905
+  },
+  {
+    "InGameName": "Octarine Sword",
+    "ObjectID": 8906
+  },
+  {
+    "InGameName": "Slippery Slime Sword",
+    "ObjectID": 8907
+  },
+  {
+    "InGameName": "Galaxite Sword",
+    "ObjectID": 8908
+  },
+  {
+    "InGameName": "Wooden Sword",
+    "ObjectID": 8909
+  },
+  {
+    "InGameName": "Solarite Sword",
+    "ObjectID": 8910
+  },
+  {
+    "InGameName": "Atlantean Worm Sword",
+    "ObjectID": 8911
+  },
+  {
+    "InGameName": "Larva Spike Club",
+    "ObjectID": 8930
+  },
+  {
+    "InGameName": "Crystal Shard Club",
+    "ObjectID": 8931
+  },
+  {
+    "InGameName": "Poisonous Sickle",
+    "ObjectID": 8940
+  },
+  {
+    "InGameName": "Broken Handle",
+    "ObjectID": 8950
+  },
+  {
+    "InGameName": "Rune Song",
+    "ObjectID": 8951
+  },
+  {
+    "InGameName": "Tin Dagger",
+    "ObjectID": 8952
+  },
+  {
+    "InGameName": "Tin Axe",
+    "ObjectID": 8953
+  },
+  {
+    "InGameName": "Battle Axe",
+    "ObjectID": 8954
+  },
+  {
+    "InGameName": "Scarlet Dagger",
+    "ObjectID": 8955
+  },
+  {
+    "InGameName": "Ritual Dagger",
+    "ObjectID": 8956
+  },
+  {
+    "InGameName": "Octarine Axe",
+    "ObjectID": 8957
+  },
+  {
+    "InGameName": "Anchor Axe",
+    "ObjectID": 8958
+  },
+  {
+    "InGameName": "Lava Battle Axe",
+    "ObjectID": 8959
+  },
+  {
+    "InGameName": "Galaxite Dagger",
+    "ObjectID": 8960
+  },
+  {
+    "InGameName": "Rusty Dagger",
+    "ObjectID": 8961
+  },
+  {
+    "InGameName": "Tentacle Whip",
+    "ObjectID": 8970
+  },
+  {
+    "InGameName": "Hunting Spear",
+    "ObjectID": 8971
+  },
+  {
+    "InGameName": "Prehistoric Crystal Spear",
+    "ObjectID": 8972
+  },
+  {
+    "InGameName": "Iron Halberd",
+    "ObjectID": 8973
+  },
+  {
+    "InGameName": "Hydra Bone Sword",
+    "ObjectID": 8974
+  },
+  {
+    "InGameName": "Pandorium Axe",
+    "ObjectID": 8976
+  },
+  {
+    "InGameName": "Bomb",
+    "ObjectID": 9001
+  },
+  {
+    "InGameName": "Crude Bomb",
+    "ObjectID": 9002
+  },
+  {
+    "InGameName": "Large Bomb",
+    "ObjectID": 9003
+  },
+  {
+    "InGameName": "Red Firework Rocket",
+    "ObjectID": 9004
+  },
+  {
+    "InGameName": "Green Firework Rocket",
+    "ObjectID": 9005
+  },
+  {
+    "InGameName": "Blue Firework Rocket",
+    "ObjectID": 9006
+  },
+  {
+    "InGameName": "Yellow Firework Rocket",
+    "ObjectID": 9007
+  },
+  {
+    "InGameName": "Purple Firework Rocket",
+    "ObjectID": 9008
+  },
+  {
+    "InGameName": "The BIG",
+    "ObjectID": 9009
+  },
+  {
+    "InGameName": "Sulfur Bomb",
+    "ObjectID": 9010
+  },
+  {
+    "InGameName": "Fire Grenade",
+    "ObjectID": 9011
+  },
+  {
+    "InGameName": "Poison Grenade",
+    "ObjectID": 9012
+  },
+  {
+    "InGameName": "Grenade",
+    "ObjectID": 9013
+  },
+  {
+    "InGameName": "Stun Grenade",
+    "ObjectID": 9014
+  },
+  {
+    "InGameName": "Charm Grenade",
+    "ObjectID": 9015
+  },
+  {
+    "InGameName": "Mouse Bomb",
+    "ObjectID": 9016
+  },
+  {
+    "InGameName": "Blunder Bomb",
+    "ObjectID": 9017
+  },
+  {
+    "InGameName": "Void Bomb",
+    "ObjectID": 9018
+  },
+  {
+    "InGameName": "Proximity Bomb",
+    "ObjectID": 9019
+  },
+  {
+    "InGameName": "Flintlock Musket",
+    "ObjectID": 9100
+  },
+  {
+    "InGameName": "Slingshot",
+    "ObjectID": 9102
+  },
+  {
+    "InGameName": "Grubzooka",
+    "ObjectID": 9110
+  },
+  {
+    "InGameName": "Hand Mortar",
+    "ObjectID": 9111
+  },
+  {
+    "InGameName": "Blowpipe",
+    "ObjectID": 9112
+  },
+  {
+    "InGameName": "Fireball Staff",
+    "ObjectID": 9113
+  },
+  {
+    "InGameName": "Octarine Bow",
+    "ObjectID": 9114
+  },
+  {
+    "InGameName": "Phantom Spark",
+    "ObjectID": 9115
+  },
+  {
+    "InGameName": "Iron Bow",
+    "ObjectID": 9116
+  },
+  {
+    "InGameName": "Wood Bow",
+    "ObjectID": 9117
+  },
+  {
+    "InGameName": "Scholar's Staff",
+    "ObjectID": 9118
+  },
+  {
+    "InGameName": "Bubble Gun",
+    "ObjectID": 9119
+  },
+  {
+    "InGameName": "Throwing Daggers",
+    "ObjectID": 9120
+  },
+  {
+    "InGameName": "Galaxite Chakram",
+    "ObjectID": 9121
+  },
+  {
+    "InGameName": "Burnzooka",
+    "ObjectID": 9122
+  },
+  {
+    "InGameName": "Bomb Scarab Mortar",
+    "ObjectID": 9123
+  },
+  {
+    "InGameName": "Snowball",
+    "ObjectID": 9124
+  },
+  {
+    "InGameName": "Cupid Bow",
+    "ObjectID": 9125
+  },
+  {
+    "InGameName": "Sticky Stick",
+    "ObjectID": 9126
+  },
+  {
+    "InGameName": "Wood Crossbow",
+    "ObjectID": 9130
+  },
+  {
+    "InGameName": "Scarlet Crossbow",
+    "ObjectID": 9131
+  },
+  {
+    "InGameName": "Solarite Crossbow",
+    "ObjectID": 9132
+  },
+  {
+    "InGameName": "Ricochet Shuriken",
+    "ObjectID": 9133
+  },
+  {
+    "InGameName": "Void Gun",
+    "ObjectID": 9134
+  },
+  {
+    "InGameName": "Stormbringer",
+    "ObjectID": 9135
+  },
+  {
+    "InGameName": "Chaos Staff",
+    "ObjectID": 9136
+  },
+  {
+    "InGameName": "Arcane Staff",
+    "ObjectID": 9151
+  },
+  {
+    "InGameName": "Zealot's Scimitar",
+    "ObjectID": 9152
+  },
+  {
+    "InGameName": "Simple Staff",
+    "ObjectID": 9153
+  },
+  {
+    "InGameName": "Sun Caller",
+    "ObjectID": 9154
+  },
+  {
+    "InGameName": "Corrupted Meteor Staff",
+    "ObjectID": 9155
+  },
+  {
+    "InGameName": "Tome of the Dark",
+    "ObjectID": 9176
+  },
+  {
+    "InGameName": "Tome of the Deep",
+    "ObjectID": 9177
+  },
+  {
+    "InGameName": "Tome of the Dead",
+    "ObjectID": 9178
+  },
+  {
+    "InGameName": "Tome of Ashes",
+    "ObjectID": 9179
+  },
+  {
+    "InGameName": "Tome of Sprouts",
+    "ObjectID": 9180
+  },
+  {
+    "InGameName": "Tome of Decay",
+    "ObjectID": 9181
+  },
+  {
+    "InGameName": "Flintlock Musket (projectile)",
+    "ObjectID": 9200
+  },
+  {
+    "InGameName": "Fireball",
+    "ObjectID": 9201
+  },
+  {
+    "InGameName": "Slingshot (projectile)",
+    "ObjectID": 9202
+  },
+  {
+    "InGameName": "Thrown Jellyfish",
+    "ObjectID": 9203
+  },
+  {
+    "InGameName": "Small Fireball",
+    "ObjectID": 9204
+  },
+  {
+    "InGameName": "Poison Dart",
+    "ObjectID": 9205
+  },
+  {
+    "InGameName": "Grubzooka (projectile)",
+    "ObjectID": 9210
+  },
+  {
+    "InGameName": "Burnzooka (projectile)",
+    "ObjectID": 9211
+  },
+  {
+    "InGameName": "NA",
+    "ObjectID": 9220
+  },
+  {
+    "InGameName": "Hand Mortar (projectile)",
+    "ObjectID": 9221
+  },
+  {
+    "InGameName": "Thrown Mold",
+    "ObjectID": 9222
+  },
+  {
+    "InGameName": "Blow Dart",
+    "ObjectID": 9223
+  },
+  {
+    "InGameName": "Bubble (hostile)",
+    "ObjectID": 9224
+  },
+  {
+    "InGameName": "Bubble",
+    "ObjectID": 9225
+  },
+  {
+    "InGameName": "Galaxite Chakram (projectile)",
+    "ObjectID": 9226
+  },
+  {
+    "InGameName": "Cupid Arrow",
+    "ObjectID": 9229
+  },
+  {
+    "InGameName": "Iron Arrow",
+    "ObjectID": 9230
+  },
+  {
+    "InGameName": "Octarine Arrow",
+    "ObjectID": 9231
+  },
+  {
+    "InGameName": "Wood Arrow",
+    "ObjectID": 9232
+  },
+  {
+    "InGameName": "Legendary Energy",
+    "ObjectID": 9233
+  },
+  {
+    "InGameName": "Shockwave",
+    "ObjectID": 9234
+  },
+  {
+    "InGameName": "Tornado",
+    "ObjectID": 9235
+  },
+  {
+    "InGameName": "Soul Tornado",
+    "ObjectID": 9236
+  },
+  {
+    "InGameName": "Energy Orb",
+    "ObjectID": 9237
+  },
+  {
+    "InGameName": "Thrown Dagger",
+    "ObjectID": 9238
+  },
+  {
+    "InGameName": "Ancient Projectile",
+    "ObjectID": 9239
+  },
+  {
+    "InGameName": "Magma Blob",
+    "ObjectID": 9240
+  },
+  {
+    "InGameName": "Ancient Projectile",
+    "ObjectID": 9241
+  },
+  {
+    "InGameName": "Thrown Spear",
+    "ObjectID": 9242
+  },
+  {
+    "InGameName": "Bomb Scarab Mortar (projectile)",
+    "ObjectID": 9243
+  },
+  {
+    "InGameName": "Galaxite Energy",
+    "ObjectID": 9244
+  },
+  {
+    "InGameName": "Thrown Snowball",
+    "ObjectID": 9245
+  },
+  {
+    "InGameName": "Thrown Slime",
+    "ObjectID": 9246
+  },
+  {
+    "InGameName": "Wood Bolt",
+    "ObjectID": 9247
+  },
+  {
+    "InGameName": "Scarlet Bolt",
+    "ObjectID": 9248
+  },
+  {
+    "InGameName": "Solarite Bolt",
+    "ObjectID": 9249
+  },
+  {
+    "InGameName": "Orbital Turret Laser",
+    "ObjectID": 9250
+  },
+  {
+    "InGameName": "NA",
+    "ObjectID": 9251
+  },
+  {
+    "InGameName": "Crystal Spike",
+    "ObjectID": 9252
+  },
+  {
+    "InGameName": "Ricochet Shuriken (projectile)",
+    "ObjectID": 9253
+  },
+  {
+    "InGameName": "NA",
+    "ObjectID": 9254
+  },
+  {
+    "InGameName": "Electricity Orb",
+    "ObjectID": 9255
+  },
+  {
+    "InGameName": "Ice Shard",
+    "ObjectID": 9256
+  },
+  {
+    "InGameName": "Core Tornado",
+    "ObjectID": 9257
+  },
+  {
+    "InGameName": "Void Orb",
+    "ObjectID": 9258
+  },
+  {
+    "InGameName": "Core Ancient Projectile",
+    "ObjectID": 9259
+  },
+  {
+    "InGameName": "Core Electricity Orb",
+    "ObjectID": 9260
+  },
+  {
+    "InGameName": "NA",
+    "ObjectID": 9261
+  },
+  {
+    "InGameName": "Arcane Staff (projectile)",
+    "ObjectID": 9262
+  },
+  {
+    "InGameName": "Simple Staff (projectile)",
+    "ObjectID": 9263
+  },
+  {
+    "InGameName": "Sun Staff (projectile)",
+    "ObjectID": 9264
+  },
+  {
+    "InGameName": "NA",
+    "ObjectID": 9265
+  },
+  {
+    "InGameName": "NA",
+    "ObjectID": 9266
+  },
+  {
+    "InGameName": "Trailing Melody",
+    "ObjectID": 9267
+  },
+  {
+    "InGameName": "NA",
+    "ObjectID": 9268
+  },
+  {
+    "InGameName": "NA",
+    "ObjectID": 9269
+  },
+  {
+    "InGameName": "NA",
+    "ObjectID": 9270
+  },
+  {
+    "InGameName": "NA",
+    "ObjectID": 9271
+  },
+  {
+    "InGameName": "NA",
+    "ObjectID": 9272
+  },
+  {
+    "InGameName": "Falling Acid",
+    "ObjectID": 9300
+  },
+  {
+    "InGameName": "Falling Poison",
+    "ObjectID": 9301
+  },
+  {
+    "InGameName": "Falling Flames",
+    "ObjectID": 9302
+  },
+  {
+    "InGameName": "NA",
+    "ObjectID": 9303
+  },
+  {
+    "InGameName": "NA",
+    "ObjectID": 9304
+  },
+  {
+    "InGameName": "NA",
+    "ObjectID": 9305
+  },
+  {
+    "InGameName": "NA",
+    "ObjectID": 9306
+  },
+  {
+    "InGameName": "Rift",
+    "ObjectID": 9310
+  },
+  {
+    "InGameName": "Falling Rock",
+    "ObjectID": 9311
+  },
+  {
+    "InGameName": "NA",
+    "ObjectID": 9313
+  },
+  {
+    "InGameName": "Falling Stalactite",
+    "ObjectID": 9314
+  },
+  {
+    "InGameName": "Shockwave",
+    "ObjectID": 9315
+  },
+  {
+    "InGameName": "Falling Ice Crystal",
+    "ObjectID": 9316
+  },
+  {
+    "InGameName": "Falling Fireball",
+    "ObjectID": 9317
+  },
+  {
+    "InGameName": "NA",
+    "ObjectID": 9318
+  },
+  {
+    "InGameName": "Explosive Fireball",
+    "ObjectID": 9319
+  },
+  {
+    "InGameName": "NA",
+    "ObjectID": 9321
+  },
+  {
+    "InGameName": "NA",
+    "ObjectID": 9322
+  },
+  {
+    "InGameName": "Corrupted Meteor",
+    "ObjectID": 9325
+  },
+  {
+    "InGameName": "NA",
+    "ObjectID": 9326
+  },
+  {
+    "InGameName": "NA",
+    "ObjectID": 9327
+  },
+  {
+    "InGameName": "NA",
+    "ObjectID": 9328
+  },
+  {
+    "InGameName": "NA",
+    "ObjectID": 9329
+  },
+  {
+    "InGameName": "NA",
+    "ObjectID": 9330
+  },
+  {
+    "InGameName": "Healing Potion",
+    "ObjectID": 9400
+  },
+  {
+    "InGameName": "Enrage Potion",
+    "ObjectID": 9401
+  },
+  {
+    "InGameName": "Stoneskin Potion",
+    "ObjectID": 9402
+  },
+  {
+    "InGameName": "Poison Aid Potion",
+    "ObjectID": 9403
+  },
+  {
+    "InGameName": "Greater Healing Potion",
+    "ObjectID": 9404
+  },
+  {
+    "InGameName": "Keen Potion",
+    "ObjectID": 9405
+  },
+  {
+    "InGameName": "Guardian's Potion",
+    "ObjectID": 9406
+  },
+  {
+    "InGameName": "Cave Coffee",
+    "ObjectID": 9407
+  },
+  {
+    "InGameName": "Heart Berry Soda",
+    "ObjectID": 9408
+  },
+  {
+    "InGameName": "Crystal Water",
+    "ObjectID": 9409
+  },
+  {
+    "InGameName": "Unusual Potion",
+    "ObjectID": 9410
+  },
+  {
+    "InGameName": "Splendid Amalgam",
+    "ObjectID": 9411
+  },
+  {
+    "InGameName": "Arcane Potion",
+    "ObjectID": 9412
+  },
+  {
+    "InGameName": "Pact of Power Potion",
+    "ObjectID": 9413
+  },
+  {
+    "InGameName": "Giant Mitochondrion",
+    "ObjectID": 9414
+  },
+  {
+    "InGameName": "Soup",
+    "ObjectID": 9500
+  },
+  {
+    "InGameName": "Pudding",
+    "ObjectID": 9501
+  },
+  {
+    "InGameName": "Salad",
+    "ObjectID": 9502
+  },
+  {
+    "InGameName": "Wrap",
+    "ObjectID": 9503
+  },
+  {
+    "InGameName": "Steak",
+    "ObjectID": 9504
+  },
+  {
+    "InGameName": "Cheese",
+    "ObjectID": 9505
+  },
+  {
+    "InGameName": "Dip Snack",
+    "ObjectID": 9506
+  },
+  {
+    "InGameName": "Sushi",
+    "ObjectID": 9507
+  },
+  {
+    "InGameName": "Fish Balls",
+    "ObjectID": 9508
+  },
+  {
+    "InGameName": "Fillet",
+    "ObjectID": 9509
+  },
+  {
+    "InGameName": "Cereal",
+    "ObjectID": 9510
+  },
+  {
+    "InGameName": "Smoothie",
+    "ObjectID": 9511
+  },
+  {
+    "InGameName": "Sandwich",
+    "ObjectID": 9512
+  },
+  {
+    "InGameName": "Curry",
+    "ObjectID": 9513
+  },
+  {
+    "InGameName": "Cake",
+    "ObjectID": 9514
+  },
+  {
+    "InGameName": "NA",
+    "ObjectID": 9550
+  },
+  {
+    "InGameName": "NA",
+    "ObjectID": 9551
+  },
+  {
+    "InGameName": "NA",
+    "ObjectID": 9552
+  },
+  {
+    "InGameName": "NA",
+    "ObjectID": 9553
+  },
+  {
+    "InGameName": "NA",
+    "ObjectID": 9554
+  },
+  {
+    "InGameName": "NA",
+    "ObjectID": 9555
+  },
+  {
+    "InGameName": "NA",
+    "ObjectID": 9556
+  },
+  {
+    "InGameName": "NA",
+    "ObjectID": 9557
+  },
+  {
+    "InGameName": "NA",
+    "ObjectID": 9558
+  },
+  {
+    "InGameName": "NA",
+    "ObjectID": 9559
+  },
+  {
+    "InGameName": "NA",
+    "ObjectID": 9560
+  },
+  {
+    "InGameName": "NA",
+    "ObjectID": 9561
+  },
+  {
+    "InGameName": "NA",
+    "ObjectID": 9562
+  },
+  {
+    "InGameName": "NA",
+    "ObjectID": 9563
+  },
+  {
+    "InGameName": "NA",
+    "ObjectID": 9564
+  },
+  {
+    "InGameName": "NA",
+    "ObjectID": 9575
+  },
+  {
+    "InGameName": "NA",
+    "ObjectID": 9576
+  },
+  {
+    "InGameName": "NA",
+    "ObjectID": 9577
+  },
+  {
+    "InGameName": "NA",
+    "ObjectID": 9578
+  },
+  {
+    "InGameName": "NA",
+    "ObjectID": 9579
+  },
+  {
+    "InGameName": "NA",
+    "ObjectID": 9580
+  },
+  {
+    "InGameName": "NA",
+    "ObjectID": 9581
+  },
+  {
+    "InGameName": "NA",
+    "ObjectID": 9582
+  },
+  {
+    "InGameName": "NA",
+    "ObjectID": 9583
+  },
+  {
+    "InGameName": "NA",
+    "ObjectID": 9584
+  },
+  {
+    "InGameName": "NA",
+    "ObjectID": 9585
+  },
+  {
+    "InGameName": "NA",
+    "ObjectID": 9586
+  },
+  {
+    "InGameName": "NA",
+    "ObjectID": 9587
+  },
+  {
+    "InGameName": "NA",
+    "ObjectID": 9588
+  },
+  {
+    "InGameName": "NA",
+    "ObjectID": 9589
+  },
+  {
+    "InGameName": "Caveling Bread",
+    "ObjectID": 9600
+  },
+  {
+    "InGameName": "Jingle Jam Cookie",
+    "ObjectID": 9601
+  },
+  {
+    "InGameName": "Food Ration",
+    "ObjectID": 9602
+  },
+  {
+    "InGameName": "Cave Crunch",
+    "ObjectID": 9603
+  },
+  {
+    "InGameName": "Glazed Heart Berry",
+    "ObjectID": 9604
+  },
+  {
+    "InGameName": "Tentacle Jerky",
+    "ObjectID": 9605
+  },
+  {
+    "InGameName": "Chewy Cone Candy",
+    "ObjectID": 9606
+  },
+  {
+    "InGameName": "Spooky Pop Candy",
+    "ObjectID": 9607
+  },
+  {
+    "InGameName": "Evil Eye Candy",
+    "ObjectID": 9608
+  },
+  {
+    "InGameName": "Fruit Bread",
+    "ObjectID": 9609
+  },
+  {
+    "InGameName": "Winter Dinner",
+    "ObjectID": 9610
+  },
+  {
+    "InGameName": "Hot Punch",
+    "ObjectID": 9611
+  },
+  {
+    "InGameName": "Hot Chocolate",
+    "ObjectID": 9612
+  },
+  {
+    "InGameName": "Winter Cookies",
+    "ObjectID": 9613
+  },
+  {
+    "InGameName": "Golden Chocolate",
+    "ObjectID": 9614
+  },
+  {
+    "InGameName": "Box of Chocolates",
+    "ObjectID": 9615
+  },
+  {
+    "InGameName": "Distilled Love",
+    "ObjectID": 9616
+  },
+  {
+    "InGameName": "Kelp Dumpling",
+    "ObjectID": 9617
+  },
+  {
+    "InGameName": "Atlantean Worm Heart",
+    "ObjectID": 9618
+  },
+  {
+    "InGameName": "Crystal Kelp",
+    "ObjectID": 9619
+  },
+  {
+    "InGameName": "Lunar Cheese",
+    "ObjectID": 9620
+  },
+  {
+    "InGameName": "Paradise Fruit Basket",
+    "ObjectID": 9621
+  },
+  {
+    "InGameName": "Orange Cave Guppy",
+    "ObjectID": 9700
+  },
+  {
+    "InGameName": "Blue Cave Guppy",
+    "ObjectID": 9701
+  },
+  {
+    "InGameName": "Rock Jaw",
+    "ObjectID": 9702
+  },
+  {
+    "InGameName": "Gem Crab",
+    "ObjectID": 9703
+  },
+  {
+    "InGameName": "Dagger Fin",
+    "ObjectID": 9704
+  },
+  {
+    "InGameName": "Pink Palace Fish",
+    "ObjectID": 9705
+  },
+  {
+    "InGameName": "Teal Palace Fish",
+    "ObjectID": 9706
+  },
+  {
+    "InGameName": "Crown Squid",
+    "ObjectID": 9707
+  },
+  {
+    "InGameName": "Yellow Blister Head",
+    "ObjectID": 9708
+  },
+  {
+    "InGameName": "Green Blister Head",
+    "ObjectID": 9709
+  },
+  {
+    "InGameName": "Devil Worm",
+    "ObjectID": 9710
+  },
+  {
+    "InGameName": "Vampire Eel",
+    "ObjectID": 9711
+  },
+  {
+    "InGameName": "Mold Shark",
+    "ObjectID": 9712
+  },
+  {
+    "InGameName": "Rot Fish",
+    "ObjectID": 9713
+  },
+  {
+    "InGameName": "Black Steel Urchin",
+    "ObjectID": 9714
+  },
+  {
+    "InGameName": "Azure Feather Fish",
+    "ObjectID": 9715
+  },
+  {
+    "InGameName": "Emerald Feather Fish",
+    "ObjectID": 9716
+  },
+  {
+    "InGameName": "Spirit Veil",
+    "ObjectID": 9717
+  },
+  {
+    "InGameName": "Astral Jelly",
+    "ObjectID": 9718
+  },
+  {
+    "InGameName": "Bottom Tracer",
+    "ObjectID": 9719
+  },
+  {
+    "InGameName": "Silver Dart",
+    "ObjectID": 9720
+  },
+  {
+    "InGameName": "Golden Dart",
+    "ObjectID": 9721
+  },
+  {
+    "InGameName": "Pink Coralotl",
+    "ObjectID": 9722
+  },
+  {
+    "InGameName": "White Coralotl",
+    "ObjectID": 9723
+  },
+  {
+    "InGameName": "Solid Spikeback",
+    "ObjectID": 9724
+  },
+  {
+    "InGameName": "Sandy Spikeback",
+    "ObjectID": 9725
+  },
+  {
+    "InGameName": "Grey Dune Tail",
+    "ObjectID": 9726
+  },
+  {
+    "InGameName": "Brown Dune Tail",
+    "ObjectID": 9727
+  },
+  {
+    "InGameName": "Tornis Kingfish",
+    "ObjectID": 9728
+  },
+  {
+    "InGameName": "Dark Lava Eater",
+    "ObjectID": 9729
+  },
+  {
+    "InGameName": "Bright Lava Eater",
+    "ObjectID": 9730
+  },
+  {
+    "InGameName": "Verdant Dragonfish",
+    "ObjectID": 9731
+  },
+  {
+    "InGameName": "Elder Dragonfish",
+    "ObjectID": 9732
+  },
+  {
+    "InGameName": "Starlight Nautilus",
+    "ObjectID": 9733
+  },
+  {
+    "InGameName": "Beryll Angle Fish",
+    "ObjectID": 9734
+  },
+  {
+    "InGameName": "Glistening Deepstalker",
+    "ObjectID": 9735
+  },
+  {
+    "InGameName": "Cosmic Form",
+    "ObjectID": 9736
+  },
+  {
+    "InGameName": "Jasper Angle Fish",
+    "ObjectID": 9737
+  },
+  {
+    "InGameName": "Splendid Deepstalker",
+    "ObjectID": 9738
+  },
+  {
+    "InGameName": "Terra Trilobite",
+    "ObjectID": 9739
+  },
+  {
+    "InGameName": "Litho Trilobite",
+    "ObjectID": 9740
+  },
+  {
+    "InGameName": "Pinkhorn Pico",
+    "ObjectID": 9741
+  },
+  {
+    "InGameName": "Greenhorn Pico",
+    "ObjectID": 9742
+  },
+  {
+    "InGameName": "Riftian Lampfish",
+    "ObjectID": 9743
+  },
+  {
+    "InGameName": "Blackbug",
+    "ObjectID": 9800
+  },
+  {
+    "InGameName": "Larvlet",
+    "ObjectID": 9801
+  },
+  {
+    "InGameName": "Moon Pincher",
+    "ObjectID": 9802
+  },
+  {
+    "InGameName": "Dusk Fairy",
+    "ObjectID": 9803
+  },
+  {
+    "InGameName": "Dream Messenger",
+    "ObjectID": 9804
+  },
+  {
+    "InGameName": "Citrus Pinion",
+    "ObjectID": 9805
+  },
+  {
+    "InGameName": "Ice Wind",
+    "ObjectID": 9806
+  },
+  {
+    "InGameName": "Crimson Wing",
+    "ObjectID": 9807
+  },
+  {
+    "InGameName": "Little Death",
+    "ObjectID": 9808
+  },
+  {
+    "InGameName": "Leafhopper",
+    "ObjectID": 9809
+  },
+  {
+    "InGameName": "Earthworm",
+    "ObjectID": 9810
+  },
+  {
+    "InGameName": "Manyleg",
+    "ObjectID": 9811
+  },
+  {
+    "InGameName": "Pest Bug",
+    "ObjectID": 9812
+  },
+  {
+    "InGameName": "Sun Pincher",
+    "ObjectID": 9813
+  },
+  {
+    "InGameName": "Gem Snail",
+    "ObjectID": 9814
+  },
+  {
+    "InGameName": "Snoot Fly",
+    "ObjectID": 9815
+  },
+  {
+    "InGameName": "Shadow Newt",
+    "ObjectID": 9816
+  },
+  {
+    "InGameName": "Drape Ray",
+    "ObjectID": 9817
+  },
+  {
+    "InGameName": "Chipped Blade",
+    "ObjectID": 9900
+  },
+  {
+    "InGameName": "Clear Gemstone",
+    "ObjectID": 9901
+  },
+  {
+    "InGameName": "Crystal Skull Shard",
+    "ObjectID": 9902
+  },
+  {
+    "InGameName": "Shutdown Protocol",
+    "ObjectID": 9903
+  },
+  {
+    "InGameName": "Anomaly Report",
+    "ObjectID": 9904
+  },
+  {
+    "InGameName": "Overwrite Transcript",
+    "ObjectID": 9905
+  },
+  {
+    "InGameName": "Channeling Gemstone",
+    "ObjectID": 9906
+  },
+  {
+    "InGameName": "Fractured Limbs",
+    "ObjectID": 9907
+  },
+  {
+    "InGameName": "Energy String",
+    "ObjectID": 9908
+  },
+  {
+    "InGameName": "Crystal Meteor Shard",
+    "ObjectID": 9909
+  },
+  {
+    "InGameName": "Giant Bug Brain",
+    "ObjectID": 9910
+  },
+  {
+    "InGameName": "Pink Hydra Eye",
+    "ObjectID": 9911
+  },
+  {
+    "InGameName": "White Hydra Eye",
+    "ObjectID": 9912
+  },
+  {
+    "InGameName": "Brown Easter Egg",
+    "ObjectID": 10000
+  },
+  {
+    "InGameName": "Rose Easter Egg",
+    "ObjectID": 10001
+  },
+  {
+    "InGameName": "Gray Easter Egg",
+    "ObjectID": 10002
+  },
+  {
+    "InGameName": "Green Easter Egg",
+    "ObjectID": 10003
+  },
+  {
+    "InGameName": "Large Golden Egg",
+    "ObjectID": 10004
+  },
+  {
+    "InGameName": "Chicken Hat",
+    "ObjectID": 10005
+  },
+  {
+    "InGameName": "Chicken Breast Piece",
+    "ObjectID": 10006
+  },
+  {
+    "InGameName": "Chicken Pants",
+    "ObjectID": 10007
+  },
+  {
+    "InGameName": "Eggcellent Hat",
+    "ObjectID": 10008
+  },
+  {
+    "InGameName": "Eggcellent Breast Piece",
+    "ObjectID": 10009
+  },
+  {
+    "InGameName": "Eggcellent Pants",
+    "ObjectID": 10010
+  },
+  {
+    "InGameName": "Easter Pillar",
+    "ObjectID": 10011
+  },
+  {
+    "InGameName": "Easter Egg Flowerpot",
+    "ObjectID": 10012
+  },
+  {
+    "InGameName": "Daisy Flooring",
+    "ObjectID": 10013
+  },
+  {
+    "InGameName": "Easter Garland (down)",
+    "ObjectID": 10014
+  },
+  {
+    "InGameName": "Easter Meadow Table",
+    "ObjectID": 10015
+  },
+  {
+    "InGameName": "Easter Egg Lamp",
+    "ObjectID": 10016
+  },
+  {
+    "InGameName": "Easter Meadow Stool",
+    "ObjectID": 10017
+  },
+  {
+    "InGameName": "Easter Pedestal",
+    "ObjectID": 10018
+  },
+  {
+    "InGameName": "Easter Workbench",
+    "ObjectID": 10019
+  },
+  {
+    "InGameName": "Samhain Goodie Bag",
+    "ObjectID": 10100
+  },
+  {
+    "InGameName": "Pumpkin Coin",
+    "ObjectID": 10101
+  },
+  {
+    "InGameName": "Eerie Wall",
+    "ObjectID": 10102
+  },
+  {
+    "InGameName": "Eerie Floor",
+    "ObjectID": 10103
+  },
+  {
+    "InGameName": "Eerie Table",
+    "ObjectID": 10104
+  },
+  {
+    "InGameName": "Eerie Stool",
+    "ObjectID": 10105
+  },
+  {
+    "InGameName": "Eerie Dresser",
+    "ObjectID": 10106
+  },
+  {
+    "InGameName": "Eerie Chest",
+    "ObjectID": 10107
+  },
+  {
+    "InGameName": "Twisted Roots Torch",
+    "ObjectID": 10108
+  },
+  {
+    "InGameName": "Eerie Rug",
+    "ObjectID": 10109
+  },
+  {
+    "InGameName": "Candle Stack",
+    "ObjectID": 10110
+  },
+  {
+    "InGameName": "Winter Present",
+    "ObjectID": 10200
+  },
+  {
+    "InGameName": "Winter Wreath Wall Decoration (down)",
+    "ObjectID": 10201
+  },
+  {
+    "InGameName": "Holiday Sock Wall Decoration (down)",
+    "ObjectID": 10202
+  },
+  {
+    "InGameName": "Candy Cane Wall Decoration (down)",
+    "ObjectID": 10203
+  },
+  {
+    "InGameName": "Winter Candle Wall Decoration (down)",
+    "ObjectID": 10204
+  },
+  {
+    "InGameName": "Snowflake Wall Decoration (down)",
+    "ObjectID": 10205
+  },
+  {
+    "InGameName": "Luxury Winter Present",
+    "ObjectID": 10206
+  },
+  {
+    "InGameName": "Decorated Winter Tree",
+    "ObjectID": 10207
+  },
+  {
+    "InGameName": "Festive Table",
+    "ObjectID": 10208
+  },
+  {
+    "InGameName": "Festive Stool",
+    "ObjectID": 10209
+  },
+  {
+    "InGameName": "Festive Fireplace",
+    "ObjectID": 10210
+  },
+  {
+    "InGameName": "Snowman",
+    "ObjectID": 10211
+  },
+  {
+    "InGameName": "Snowball Pyramid",
+    "ObjectID": 10212
+  },
+  {
+    "InGameName": "Candle",
+    "ObjectID": 10213
+  },
+  {
+    "InGameName": "Festive Wall Lights (down)",
+    "ObjectID": 10214
+  },
+  {
+    "InGameName": "Paintable Festive Wall Lights (down)",
+    "ObjectID": 10215
+  },
+  {
+    "InGameName": "Valentine's Gift",
+    "ObjectID": 10300
+  },
+  {
+    "InGameName": "Love Letter",
+    "ObjectID": 10301
+  },
+  {
+    "InGameName": "Heart-shaped Rug",
+    "ObjectID": 10302
+  },
+  {
+    "InGameName": "Valentine's Candles",
+    "ObjectID": 10303
+  },
+  {
+    "InGameName": "Wall Hearts (down)",
+    "ObjectID": 10304
+  },
+  {
+    "InGameName": "Heart Painting (down)",
+    "ObjectID": 10305
+  },
+  {
+    "InGameName": "Caveling Brute Plushie",
+    "ObjectID": 10306
+  },
+  {
+    "InGameName": "Green Party Hat",
+    "ObjectID": 10400
+  },
+  {
+    "InGameName": "Red Party Hat",
+    "ObjectID": 10401
+  },
+  {
+    "InGameName": "Blue Party Hat",
+    "ObjectID": 10402
+  },
+  {
+    "InGameName": "Purple Party Hat",
+    "ObjectID": 10404
+  },
+  {
+    "InGameName": "Anniversary Cake",
+    "ObjectID": 10405
+  },
+  {
+    "InGameName": "White Cherry Blossom",
+    "ObjectID": 10500
+  },
+  {
+    "InGameName": "Pink Cherry Blossom",
+    "ObjectID": 10501
+  },
+  {
+    "InGameName": "White Cherry Tree",
+    "ObjectID": 10502
+  },
+  {
+    "InGameName": "Pink Cherry Tree",
+    "ObjectID": 10503
+  },
+  {
+    "InGameName": "Paper Lantern",
+    "ObjectID": 10600
+  },
+  {
+    "InGameName": "Red Envelope",
+    "ObjectID": 10601
+  },
+  {
+    "InGameName": "Guardian Beast Statue",
+    "ObjectID": 10602
+  },
+  {
+    "InGameName": "Mystic Knot Tassel (down)",
+    "ObjectID": 10603
+  },
+  {
+    "InGameName": "Wall Paper Lantern (down)",
+    "ObjectID": 10604
+  },
+  {
+    "InGameName": "Dragon Mask",
+    "ObjectID": 10605
+  },
+  {
+    "InGameName": "Lucky Coin",
+    "ObjectID": 10606
+  },
+  {
+    "InGameName": "Folding Screen",
+    "ObjectID": 10607
+  },
+  {
+    "InGameName": "Lucky Cat",
+    "ObjectID": 10608
+  },
+  {
+    "InGameName": "Meadow Tree",
+    "ObjectID": 15500
+  },
+  {
+    "InGameName": "Meadow Bush",
+    "ObjectID": 15501
+  },
+  {
+    "InGameName": "Tall Meadow Grass",
+    "ObjectID": 15502
+  },
+  {
+    "InGameName": "Potted Tree with Red Envelopes",
+    "ObjectID": 16009
+  },
+  {
+    "InGameName": "Atlantean Worm Ring",
+    "ObjectID": 18850
+  },
+  {
+    "InGameName": "Glass Bead Ring",
+    "ObjectID": 18851
+  },
+  {
+    "InGameName": "Druidra's Ring",
+    "ObjectID": 18852
+  },
+  {
+    "InGameName": "Crydra's Ring",
+    "ObjectID": 18853
+  },
+  {
+    "InGameName": "Crescent Ring",
+    "ObjectID": 18854
+  },
+  {
+    "InGameName": "Hourglass Ring",
+    "ObjectID": 18890
+  },
+  {
+    "InGameName": "Vicious Ring",
+    "ObjectID": 18891
+  },
+  {
+    "InGameName": "Boundary Ring",
+    "ObjectID": 18892
+  },
+  {
+    "InGameName": "Puppet Ring",
+    "ObjectID": 18893
+  }
+]

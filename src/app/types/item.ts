@@ -1,14 +1,9 @@
 export interface GameItem {
-  id: string;
-  name: string;
-  icon: string;
-  boss: boolean;
-  seasonal: boolean;
-  craftable: boolean;
-  merchant: boolean;
-  dropped: boolean;
-  owned: boolean;
-  fishing: boolean;
-  loot: boolean;
-  dig: boolean;
+  InGameName: string;
+  ObjectID: number;
+  Icon: string;
+  MainCategory: string;
+  SubCategory: string;
+  Flags: string[];
+  Owned: boolean;
 }
