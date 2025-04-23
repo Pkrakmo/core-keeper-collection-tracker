@@ -41,7 +41,8 @@ Favicon is from the [Core Keper wiki](https://static.wikia.nocookie.net/core-kee
 - Lanague support
 
 Note to self
-  - Roofing_Gadget,6,0 has the wrong sprite
+
+- Roofing_Gadget,6,0 has the wrong sprite
 
 ## How to contribute
 

@@ -36,13 +36,15 @@ export default function Home() {
           <ClearStorageButton />
           <HideOwnedButton />
           <InformationButton />
-          <LegendButton/>
+          <LegendButton />
           <ScrollToTopButton />
         </div>
       </div>
 
       {/* Modal */}
-      {isOpen && <LegendButton isOpen={isOpen} onOpen={onOpen} onClose={onClose} />}
+      {isOpen && (
+        <LegendButton isOpen={isOpen} onOpen={onOpen} onClose={onClose} />
+      )}
     </main>
   );
 }

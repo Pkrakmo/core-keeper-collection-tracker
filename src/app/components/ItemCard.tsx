@@ -32,7 +32,7 @@ export default function ItemCard({ item, toggleOwned }: Props) {
           alt={alt}
           width={24}
           height={24}
-          className="w-6 h-6"
+          className='w-6 h-6'
           title={title}
         />
       );
@@ -64,7 +64,7 @@ export default function ItemCard({ item, toggleOwned }: Props) {
             'seaFishingLoot',
             'moldFishingLoot',
             'natureFishingLoot',
-            'stoneFishingLoot'
+            'stoneFishingLoot',
           ] as (keyof typeof iconMappings)[]
         ).map(renderIcon)}
       </div>

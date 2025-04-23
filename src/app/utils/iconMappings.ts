@@ -74,15 +74,14 @@ export const iconMappings = {
     alt: 'Mold Fishing Loot Icon',
     title: 'Fishing Loot Mold',
   },
-  NatureFishingLoot : {
+  NatureFishingLoot: {
     src: '/icons/natureFishingLoot.webp',
     alt: 'Nature Fishing Loot Icon',
     title: 'Fishing Loot Nature',
   },
-  stoneFishingLoot : {
+  stoneFishingLoot: {
     src: '/icons/stoneFishingLoot.webp',
     alt: 'Stone Fishing Loot Icon',
     title: 'Fishing Loot Stone',
   },
-
 };
