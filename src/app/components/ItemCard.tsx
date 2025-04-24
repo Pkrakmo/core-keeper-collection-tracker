@@ -94,7 +94,7 @@ export default function ItemCard({ item, toggleOwned }: Props) {
       )}
 
       {/* Item Name */}
-      <div className='flex items-center gap-1'>
+      <div className='flex items-center gap-1 mb-4'> {/* Added mb-4 for spacing */}
         <p
           className={`text-center font-medium text-sm transition ${
             item.Owned ? 'text-green-800' : 'text-white'
@@ -103,6 +103,16 @@ export default function ItemCard({ item, toggleOwned }: Props) {
           {item.InGameName || 'Unnamed Item'}
         </p>
       </div>
+
+      {/* BaseLevel in the bottom-left corner */}
+      {item.BaseLevel !== undefined && (
+          <div
+          className='absolute bottom-2 left-2 text-white text-xs font-bold bg-black bg-opacity-50 px-1 rounded'
+          title='Item Base Level' // Tooltip added here
+        >
+          {item.BaseLevel}
+        </div>
+      )}
     </div>
   );
 }

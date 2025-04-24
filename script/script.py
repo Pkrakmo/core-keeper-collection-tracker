@@ -6,6 +6,7 @@ import item_lists
 from digspot_data import digspot_data
 from fishspot_data import fishspot_data
 from fishspotitems_data import itemfishspot_data
+from item_base_level_data import item_baselevel as raw_item_baselevel
 
 # Step 1: Build reverse lookup map of item name → (MainCategory, SubCategory)
 item_to_category = {}
@@ -40,7 +41,7 @@ for root, _, files in os.walk(icons_dir):
             relative_path = os.path.relpath(full_path, icons_dir)
             icon_files.append(relative_path)
 
-# Create category-based lookup from digspot_data
+# Create category-based lookups
 digspot_flags = {}
 for category, item_list in digspot_data.items():
     for item in item_list:
@@ -55,6 +56,12 @@ fishspotitems_flags = {}
 for category, item_list in itemfishspot_data.items():
     for item in item_list:
         fishspotitems_flags.setdefault(item, []).append(category)
+
+# Step 3.5: Transform item_baselevel structure to item_name → level
+item_baselevel = {}
+for level, names in raw_item_baselevel.items():
+    for name in names:
+        item_baselevel[name] = level
 
 # Step 4: Match items with icons and assign category
 output = []
@@ -75,12 +82,13 @@ for item in items:
         # Add digspot-related flags
         if ingame_name in digspot_flags:
             flags.extend(digspot_flags[ingame_name])
-
         if ingame_name in fishspot_flags:
             flags.extend(fishspot_flags[ingame_name])
-
         if ingame_name in fishspotitems_flags:
             flags.extend(fishspotitems_flags[ingame_name])
+
+        # BaseLevel assignment
+        base_level = item_baselevel.get(ingame_name, 0)
 
         result = {
             "InGameName": ingame_name,
@@ -89,12 +97,13 @@ for item in items:
             "MainCategory": main_cat,
             "SubCategory": sub_cat,
             "Flags": flags,
+            "BaseLevel": base_level,
             "Owned": False,
         }
         output.append(result)
 
 # Step 5: Write result to JSON
-output_path = os.path.join(script_dir, 'gameData.json')
+output_path = os.path.join(script_dir, 'itemData.json')
 with open(output_path, 'w', encoding='utf-8') as f:
     json.dump(output, f, indent=2, ensure_ascii=False)
 

@@ -5,5 +5,6 @@ export interface GameItem {
   MainCategory: string;
   SubCategory: string;
   Flags: string[];
+  BaseLevel: number;
   Owned: boolean;
 }
