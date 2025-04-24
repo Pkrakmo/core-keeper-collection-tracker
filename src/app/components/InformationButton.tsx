@@ -49,13 +49,13 @@ export default function InformationButton() {
                 Thanks for using this application!
                 <br />
                 <br />
-                This is an version of the tracker that I update regularly with
-                new features and improvements The saved data might be corupted
+                This is a version of the tracker that I update regularly with
+                new features and improvements. The saved data might be corrupted
                 when I keep updating the app, so please do not rely on it for
                 long-term use.
                 <br />
                 <br />
-                If you should encounter any issues, please clear your browser's
+                If you should encounter any issues, please clear your browser&#39;s
                 local storage for this app.
                 <br />
                 <br />
