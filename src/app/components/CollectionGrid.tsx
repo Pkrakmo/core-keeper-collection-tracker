@@ -14,7 +14,7 @@ export default function CollectionGrid({ hideOwned }: { hideOwned: boolean }) {
   const [subCategoryVisibility, setSubCategoryVisibility] = useState<
     Record<string, Record<string, boolean>>
   >({});
-  const categoryRefs = useRef<Record<string, HTMLDivElement | null>>({}); 
+  const categoryRefs = useRef<Record<string, HTMLDivElement | null>>({});
   const [items, setItems] = useState<GameItem[]>(data);
 
   const categories = useMemo(() => {
