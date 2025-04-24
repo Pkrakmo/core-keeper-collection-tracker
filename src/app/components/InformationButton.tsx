@@ -55,8 +55,8 @@ export default function InformationButton() {
                 long-term use.
                 <br />
                 <br />
-                If you should encounter any issues, please clear your browser&#39;s
-                local storage for this app.
+                If you should encounter any issues, please clear your
+                browser&#39;s local storage for this app.
                 <br />
                 <br />
                 If you want to contribute or ran into an issue using this app,

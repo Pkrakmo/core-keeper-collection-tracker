@@ -17,9 +17,15 @@ export default function CollectionGrid({ hideOwned }: { hideOwned: boolean }) {
   const categoryRefs = useRef<Record<string, HTMLDivElement | null>>({});
   const [items, setItems] = useState<GameItem[]>(data);
 
+  // Sort items by InGameName
+  const sortedItems = useMemo(() => {
+    return [...items].sort((a, b) => a.InGameName.localeCompare(b.InGameName));
+  }, [items]);
+
+  // Create and sort categories and subcategories by name
   const categories = useMemo(() => {
-    return Object.entries(
-      items.reduce<Record<string, Record<string, GameItem[]>>>(
+    const unsortedCategories = Object.entries(
+      sortedItems.reduce<Record<string, Record<string, GameItem[]>>>(
         (acc, item: GameItem) => {
           if (!acc[item.MainCategory]) acc[item.MainCategory] = {};
           if (!acc[item.MainCategory][item.SubCategory])
@@ -31,14 +37,19 @@ export default function CollectionGrid({ hideOwned }: { hideOwned: boolean }) {
       )
     ).map(([mainCategory, subCategories]) => ({
       mainCategory,
-      subCategories: Object.entries(subCategories).map(
-        ([subCategory, items]) => ({
+      subCategories: Object.entries(subCategories)
+        .map(([subCategory, items]) => ({
           subCategory,
           items,
-        })
-      ),
+        }))
+        .sort((a, b) => a.subCategory.localeCompare(b.subCategory)), // Sort subcategories by name
     }));
-  }, [items]);
+
+    // Sort categories by mainCategory name
+    return unsortedCategories.sort((a, b) =>
+      a.mainCategory.localeCompare(b.mainCategory)
+    );
+  }, [sortedItems]);
 
   useEffect(() => {
     if (!isHydrated) {
