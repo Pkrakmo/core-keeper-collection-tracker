@@ -1,0 +1,253 @@
+## Can you clean thist list ? Remove single letters, remove duplicate names
+## Complete base level line
+https://core-keeper.fandom.com/wiki/Category:Items_with_base_level_2
+
+Base Level 1
+Peasant armor
+
+Peasant Chest
+
+Peasant Hat
+
+Wood Pickaxe
+
+Wood Shovel
+
+Wooden Sword
+
+Base Level 2
+Blue Cave Guppy
+
+Copper Cross Necklace
+
+Copper Pickaxe
+
+Copper Shovel
+
+Copper Sledge Hammer
+
+Copper Sword
+
+Miner Backpack
+
+Orange Cave Guppy
+
+Simple Staff
+
+Small Backpack
+
+Small Lantern
+
+Tome of the Dark
+
+Wood armor
+
+Wood Bow
+
+Wood Chest
+
+Wood Crossbow
+
+Wood Fishing Rod
+
+Wood Helm
+
+Wood Pants
+
+Wooden Shield
+
+Base Level 3
+Adventurer's Hat
+
+Apprentice armor
+
+Apprentice Hat
+
+Apprentice Pants
+
+Apprentice Robe
+
+Cave Guppy Necklace
+
+Copper armor
+
+Copper Breastplate
+
+Copper Helm
+
+Copper Pants
+
+Festive Hat
+
+Rain armor
+
+Rain Coat
+
+Ranger armor
+
+Ranger Hood
+
+Ranger Pants
+
+Ranger Tunic
+
+Ring of Stone
+
+Rock Jaw
+
+Rubber Boots
+
+Rusty Dagger
+
+Shrooman Cap
+
+Small Fish Pouch
+
+Small Ore and Block Pouch
+
+Small Seed and Crop Pouch
+
+Small Valuable Pouch
+
+Snowman Hat
+
+Witch Doctor armor
+
+Witch Doctor Hat
+
+Witch Doctor Jeans
+
+Witch Doctor Vest
+
+Base Level 4
+Gem Crab
+
+Glowing Bait
+
+Green Blister Head
+
+Hand Drill
+
+Medium Fish Pouch
+
+Medium Ore and Block Pouch
+
+Medium Seed and Crop Pouch
+
+Medium Valuable Pouch
+
+Scuba Fins
+
+Snowball
+
+Spicy Bait
+
+Sticky Bait
+
+Sticky Stick
+
+Stun Grenade
+
+Sweet Bait
+
+Swift Feather
+
+Base Level 5
+Blob Rosary Necklace
+
+Bronze armor
+
+Bronze Breastplate
+
+Bronze Helm
+
+Bronze Pants
+
+Chieftain armor
+
+Chieftain Headdress
+
+Chieftain Shorts
+
+Chieftain Tunic
+
+Crescent Ring
+
+Cupid Bow
+
+Cupid Tunic
+
+Devil Worm
+
+Explorer Backpack
+
+Fang Necklace
+
+Flintlock Musket
+
+Glow Tulip Ring
+
+Heart Berry Necklace
+
+Hunting Spear
+
+Large Fish Pouch
+
+Large Ore and Block Pouch
+
+Large Seed and Crop Pouch
+
+Large Valuable Pouch
+
+Melting Crystal Ring
+
+Pot armor
+
+Pot Lid
+
+Pot Tub
+
+Rusted Ring
+
+Slingshot
+
+Tin Axe
+
+Tin Dagger
+
+Tin Sword
+
+Valentine Necklace
+
+Valentine Ring
+
+Base Level 6
+Clot Ring
+
+Cooking Pot armor
+
+Cooking Pot Lid
+
+Cooking Pot Tub
+
+Dagger Fin
+
+Dracularva Cape
+
+Iron Fishing Rod
+
+Iron Pickaxe
+
+Iron Shovel
+
+Iron Sledge Hammer
+
+Lantern
+
+Skirmisher Cap
+
+Slime Sword
+
+Swift Ring
+
+Vampire Eel
