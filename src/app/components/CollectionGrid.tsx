@@ -16,11 +16,38 @@ export default function CollectionGrid({ hideOwned }: { hideOwned: boolean }) {
   >({});
   const categoryRefs = useRef<Record<string, HTMLDivElement | null>>({});
   const [items, setItems] = useState<GameItem[]>(data);
+  const [sortOrder, setSortOrder] = useState<'A-Z' | 'Z-A' | 'Lowest-Highest' | 'Highest-Lowest'>('A-Z');
+  const [selectedFlag, setSelectedFlag] = useState<string | null>(null);
+  const [searchText, setSearchText] = useState<string>('');
 
-  // Sort items by InGameName
+  const filteredItems = useMemo(() => {
+    let filtered = items;
+    if (selectedFlag) {
+      filtered = filtered.filter((item) => item.Flags?.includes(selectedFlag));
+    }
+    if (searchText) {
+      filtered = filtered.filter((item) =>
+        item.InGameName.toLowerCase().includes(searchText.toLowerCase())
+      );
+    }
+    return filtered;
+  }, [items, selectedFlag, searchText]);
+
+  // Sort items based on sortOrder
   const sortedItems = useMemo(() => {
-    return [...items].sort((a, b) => a.InGameName.localeCompare(b.InGameName));
-  }, [items]);
+    return [...filteredItems].sort((a, b) => {
+      if (sortOrder === 'A-Z') {
+        return a.InGameName.localeCompare(b.InGameName);
+      } else if (sortOrder === 'Z-A') {
+        return b.InGameName.localeCompare(a.InGameName);
+      } else if (sortOrder === 'Lowest-Highest') {
+        return (a.BaseLevel ?? 0) - (b.BaseLevel ?? 0); // Handle undefined BaseLevel
+      } else if (sortOrder === 'Highest-Lowest') {
+        return (b.BaseLevel ?? 0) - (a.BaseLevel ?? 0); // Handle undefined BaseLevel
+      }
+      return 0;
+    });
+  }, [filteredItems, sortOrder]);
 
   // Create and sort categories and subcategories by name
   const categories = useMemo(() => {
@@ -158,8 +185,8 @@ export default function CollectionGrid({ hideOwned }: { hideOwned: boolean }) {
 
   return (
     <div className='flex flex-col gap-8 mt-6'>
-      <div className='mb-2 flex justify-between items-center'>
-        <div className='flex space-x-2'>
+      <div className='mb-2 flex flex-wrap gap-2 justify-between items-center'>
+        <div className='flex flex-wrap gap-2 w-full md:w-auto'>
           <button
             onClick={() => {
               setAllMainCategoriesVisibility(false);
@@ -178,6 +205,47 @@ export default function CollectionGrid({ hideOwned }: { hideOwned: boolean }) {
           >
             Maximize All
           </button>
+          {/* Sorting Dropdown */}
+          <select
+            value={sortOrder}
+            onChange={(e) =>
+              setSortOrder(
+                e.target.value as 'A-Z' | 'Z-A' | 'Lowest-Highest' | 'Highest-Lowest'
+              )
+            }
+            className='px-2 py-1 bg-gray-200 text-gray-800 text-sm rounded hover:bg-gray-300 focus:outline-none'
+          >
+            <option value='A-Z'>Sort A-Z</option>
+            <option value='Z-A'>Sort Z-A</option>
+            <option value='Lowest-Highest'>Base Level: Low / High</option>
+            <option value='Highest-Lowest'>Base Level: High / Low</option>
+          </select>
+          {/* Filter Dropdown */}
+          <select
+            value={selectedFlag || ''}
+            onChange={(e) =>
+              setSelectedFlag(e.target.value || null) // Set null if no filter is selected
+            }
+            className='px-2 py-1 bg-gray-200 text-gray-800 text-sm rounded hover:bg-gray-300 focus:outline-none'
+          >
+            <option value=''>All Items</option>
+            {/* Dynamically populate flags and sort them alphabetically */}
+            {Array.from(new Set(items.flatMap((item) => item.Flags || [])))
+              .sort((a, b) => a.localeCompare(b)) // Sort flags alphabetically
+              .map((flag) => (
+                <option key={flag} value={flag}>
+                  {flag}
+                </option>
+              ))}
+          </select>
+          {/* Text Filter */}
+          <input
+            type='text'
+            value={searchText}
+            onChange={(e) => setSearchText(e.target.value)}
+            placeholder='Search by name...'
+            className='px-2 py-1 bg-gray-200 text-gray-800 text-sm rounded hover:bg-gray-300 focus:outline-none'
+          />
         </div>
       </div>
 
