@@ -131,7 +131,7 @@ Accessories = {
         "Wooden Ring",
         "Wooden Thorn Ring",
     ],
-    "Bags and Pouches": [
+    "Bags_and_Pouches": [
         "Belt Pocket",
         "Explorer Backpack",
         "Ghorm's Stomach Bag",
@@ -161,7 +161,7 @@ Accessories = {
         "Small Lantern",
         "Soul Lantern",
     ],
-    "Polished Rings and Necklaces": [
+    "Polished_Rings_and_Necklaces": [
         "Polished Copper Cross Necklace",
         "Polished Coral Amulet",
         "Polished Glow Tulip Ring",
@@ -1753,7 +1753,7 @@ Valuables = {
         "Winter Bell",
         "Yellow Kelp",
     ],
-    "Oracle Cards": [
+    "Oracle_Cards": [
         "Oracle Card Aura",
         "Oracle Card Brilliance",
         "Oracle Card Endurance",

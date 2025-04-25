@@ -1,6 +1,7 @@
 'use client';
 
 import { useState, useEffect, useMemo, useRef } from 'react';
+import { useTranslation } from 'react-i18next';
 import { GameItem } from '@/app/types/item';
 import CategorySection from './CategorySection';
 import FilterControls from './FilterControls';
@@ -8,6 +9,8 @@ import FilterControls from './FilterControls';
 import data from '@/public/itemData.json';
 
 export default function CollectionGrid({ hideOwned }: { hideOwned: boolean }) {
+  const { t } = useTranslation();
+
   const [isHydrated, setIsHydrated] = useState(false);
   const [mainCategoryVisibility, setMainCategoryVisibility] = useState<
     Record<string, boolean>
@@ -64,10 +67,10 @@ export default function CollectionGrid({ hideOwned }: { hideOwned: boolean }) {
         {}
       )
     ).map(([mainCategory, subCategories]) => ({
-      mainCategory,
+      mainCategory: t(`categories.${mainCategory}`), // Translate MainCategory
       subCategories: Object.entries(subCategories)
         .map(([subCategory, items]) => ({
-          subCategory,
+          subCategory: t(`categories.${subCategory}`), // Translate SubCategory
           items,
         }))
         .sort((a, b) => a.subCategory.localeCompare(b.subCategory)),
@@ -76,7 +79,7 @@ export default function CollectionGrid({ hideOwned }: { hideOwned: boolean }) {
     return unsortedCategories.sort((a, b) =>
       a.mainCategory.localeCompare(b.mainCategory)
     );
-  }, [sortedItems]);
+  }, [sortedItems, t]);
 
   useEffect(() => {
     if (!isHydrated) {
@@ -92,7 +95,7 @@ export default function CollectionGrid({ hideOwned }: { hideOwned: boolean }) {
         const initialMainVisibility = categories.reduce<
           Record<string, boolean>
         >((acc, category) => {
-          acc[category.mainCategory] = true;
+          acc[category.mainCategory] = true; // Use original keys
           return acc;
         }, {});
 
@@ -102,7 +105,7 @@ export default function CollectionGrid({ hideOwned }: { hideOwned: boolean }) {
           acc[category.mainCategory] = category.subCategories.reduce<
             Record<string, boolean>
           >((subAcc, subCategory) => {
-            subAcc[subCategory.subCategory] = true;
+            subAcc[subCategory.subCategory] = true; // Use original keys
             return subAcc;
           }, {});
           return acc;
@@ -143,7 +146,7 @@ export default function CollectionGrid({ hideOwned }: { hideOwned: boolean }) {
       ...prev,
       [mainCategory]: {
         ...prev[mainCategory],
-        [subCategory]: !prev[mainCategory][subCategory],
+        [subCategory]: !prev[mainCategory]?.[subCategory], // Use optional chaining to avoid undefined errors
       },
     }));
   };

@@ -9,7 +9,7 @@ output_file = 'item_lists.py'
 maingroups = {
     "Tools_And_Weapons": ["Tools", "Weapons"],
     "Valuables": ["Valuables", "Figurines", "Oracle Cards"],
-    "Accessories": ["Polished Rings and Necklaces", "Rings", "Necklaces", "Bags and Pouches", "Lanterns"],
+    "Accessories": ["Polished_Rings_and_Necklaces", "Rings", "Necklaces", "Bags_and_Pouches", "Lanterns"],
 }
 
 # Step 2: Setup nested structure
@@ -30,7 +30,7 @@ for category in os.listdir(icons_path):
                     if "figurine" in lowered:
                         nested_data["Valuables"]["Figurines"].append(f'"{readable_name}"')
                     elif readable_name.startswith("Oracle Card"):
-                        nested_data["Valuables"]["Oracle Cards"].append(f'"{readable_name}"')
+                        nested_data["Valuables"]["Oracle_Cards"].append(f'"{readable_name}"')
                     else:
                         nested_data["Valuables"]["Valuables"].append(f'"{readable_name}"')
                     continue
@@ -38,9 +38,9 @@ for category in os.listdir(icons_path):
                 # Step 5: Special logic for Accessories
                 if category == "Accessories":
                     if "polished" in lowered:
-                        nested_data["Accessories"]["Polished Rings and Necklaces"].append(f'"{readable_name}"')
+                        nested_data["Accessories"]["Polished_Rings_and_Necklaces"].append(f'"{readable_name}"')
                     elif "bag" in lowered or "pouch" in lowered or "belt" in lowered or "satchel" in lowered or "backpack" in lowered:
-                        nested_data["Accessories"]["Bags and Pouches"].append(f'"{readable_name}"')
+                        nested_data["Accessories"]["Bags_and_Pouches"].append(f'"{readable_name}"')
                     elif "ring" in lowered:
                         nested_data["Accessories"]["Rings"].append(f'"{readable_name}"')
                     elif "necklace" in lowered or "amulet" in lowered or "medallion" in lowered:
