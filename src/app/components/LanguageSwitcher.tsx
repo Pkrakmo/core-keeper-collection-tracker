@@ -22,6 +22,8 @@ export default function LanguageSwitcher() {
       >
         <option value='en'>English</option>
         <option value='de'>Deutsch</option>
+        <option value='no'>Norsk</option>
+        {/* Add more languages here */}
       </select>
     </div>
   );

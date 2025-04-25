@@ -17,10 +17,16 @@ export default function Home() {
 
   return (
     <main className='p-6 bg-dark-blue flex flex-col items-center relative'>
-      <LanguageSwitcher />
-      <h1 className='text-3xl font-bold text-center mb-6'>{t('title')}</h1>
-      <div className='absolute top-16 left-1/2 transform -translate-x-1/2 -rotate-9 text-red-700 text-5xl font-bold animate-pulse pointer-events-none'>
-        {t('workInProgress')}
+      <div className='relative w-full'>
+        <LanguageSwitcher className='language-switcher' />
+        <h1 className='text-3xl font-bold text-center page-title'>
+          {t('title')}
+        </h1>
+      </div>
+      <div className='relative w-full flex justify-center items-center mt-4'>
+        <div className='text-red-700 text-2xl md:text-5xl font-bold animate-pulse pointer-events-none'>
+          {t('workInProgress')}
+        </div>
       </div>
 
       <NavigationButtons />

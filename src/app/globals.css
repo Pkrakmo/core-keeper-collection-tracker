@@ -68,3 +68,15 @@ body {
 .animate-nudge-up {
   animation: nudge-up 1.5s infinite;
 }
+
+@media (max-width: 640px) {
+  .language-switcher {
+    position: absolute;
+    top: 1rem;
+    right: 1rem;
+  }
+
+  .page-title {
+    margin-top: 3rem;
+  }
+}

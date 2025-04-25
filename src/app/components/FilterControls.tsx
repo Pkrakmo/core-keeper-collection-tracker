@@ -1,4 +1,5 @@
 import React from 'react';
+import { useTranslation } from 'react-i18next';
 import { GameItem } from '../types/item';
 
 interface FilterControlsProps {
@@ -26,6 +27,8 @@ export default function FilterControls({
   setAllSubCategoriesVisibility,
   items,
 }: FilterControlsProps) {
+  const { t } = useTranslation();
+
   return (
     <div className='flex flex-wrap gap-2 w-full md:w-auto'>
       <button
@@ -35,7 +38,7 @@ export default function FilterControls({
         }}
         className='px-2 py-1 bg-red-600 text-white text-sm rounded hover:bg-red-700'
       >
-        Minimize All
+        {t('minimizeAll')}
       </button>
       <button
         onClick={() => {
@@ -44,7 +47,7 @@ export default function FilterControls({
         }}
         className='px-2 py-1 bg-green-600 text-white text-sm rounded hover:bg-green-700'
       >
-        Maximize All
+        {t('maximizeAll')}
       </button>
       {/* Sorting Dropdown */}
       <select
@@ -60,10 +63,10 @@ export default function FilterControls({
         }
         className='px-2 py-1 bg-gray-200 text-gray-800 text-sm rounded hover:bg-gray-300 focus:outline-none'
       >
-        <option value='A-Z'>Sort A-Z</option>
-        <option value='Z-A'>Sort Z-A</option>
-        <option value='Lowest-Highest'>Base Level: Low / High</option>
-        <option value='Highest-Lowest'>Base Level: High / Low</option>
+        <option value='A-Z'>{t('sortAZ')}</option>
+        <option value='Z-A'>{t('sortZA')}</option>
+        <option value='Lowest-Highest'>{t('baseLevelLowHigh')}</option>
+        <option value='Highest-Lowest'>{t('baseLevelHighLow')}</option>
       </select>
       {/* Filter Dropdown */}
       <select
@@ -73,7 +76,7 @@ export default function FilterControls({
         }
         className='px-2 py-1 bg-gray-200 text-gray-800 text-sm rounded hover:bg-gray-300 focus:outline-none'
       >
-        <option value=''>All Items</option>
+        <option value=''>{t('allItems')}</option>
         {/* Dynamically populate flags and sort them alphabetically */}
         {Array.from(new Set(items.flatMap((item) => item.Flags || [])))
           .sort((a, b) => a.localeCompare(b)) // Sort flags alphabetically
@@ -88,7 +91,7 @@ export default function FilterControls({
         type='text'
         value={searchText}
         onChange={(e) => setSearchText(e.target.value)}
-        placeholder='Search by name...'
+        placeholder={t('searchByName')}
         className='px-2 py-1 bg-gray-200 text-gray-800 text-sm rounded hover:bg-gray-300 focus:outline-none'
       />
     </div>
