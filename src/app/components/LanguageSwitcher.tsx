@@ -2,28 +2,27 @@
 
 import { useTranslation } from 'react-i18next';
 
-export default function LanguageSwitcher() {
+interface LanguageSwitcherProps {
+  className?: string; // Add className as an optional prop
+}
+
+export default function LanguageSwitcher({ className }: LanguageSwitcherProps) {
   const { i18n } = useTranslation();
 
-  console.log('i18n instance:', i18n); // Debugging line
-
-  const handleLanguageChange = (
-    event: React.ChangeEvent<HTMLSelectElement>
-  ) => {
+  const handleLanguageChange = (event: React.ChangeEvent<HTMLSelectElement>) => {
     i18n.changeLanguage(event.target.value);
   };
 
   return (
-    <div className='absolute top-4 right-4'>
+    <div className={`absolute top-4 right-4 ${className || ''}`}>
       <select
         onChange={handleLanguageChange}
         value={i18n.language}
-        className='p-2 bg-gray-800 text-white rounded'
+        className="p-2 bg-gray-800 text-white rounded"
       >
-        <option value='en'>English</option>
-        <option value='de'>Deutsch</option>
-        <option value='no'>Norsk</option>
-        {/* Add more languages here */}
+        <option value="en">English</option>
+        <option value="de">Deutsch</option>
+        <option value="no">Norsk</option>
       </select>
     </div>
   );
