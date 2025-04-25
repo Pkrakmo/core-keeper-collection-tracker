@@ -59,6 +59,17 @@ export default function InformationButton() {
                 browser&#39;s local storage for this app.
                 <br />
                 <br />
+                Trello board:{' '}
+                <a
+                  href='https://trello.com/b/rTdkN76X/core-keeper-collection-tracker'
+                  target='_blank'
+                  rel='noopener noreferrer'
+                  className='text-blue-600 underline hover:text-blue-800'
+                >
+                  here
+                </a>
+                <br />
+                <br />
                 If you want to contribute or ran into an issue using this app,
                 please check out the GitHub Project{' '}
                 <a

@@ -1,6 +1,7 @@
 'use client';
 
 import { useState } from 'react';
+import { useTranslation } from 'react-i18next';
 import CollectionGrid from './components/CollectionGrid';
 import ClearStorageButton from './components/ClearStorageButton';
 import NavigationButtons from './components/NavigationButtons';
@@ -8,17 +9,18 @@ import LegendButton from './components/LegendButton';
 import InformationButton from './components/InformationButton';
 import HideOwnedButton from './components/HideOwnedButton';
 import ScrollToTopButton from './components/ScrollToTopButton';
+import LanguageSwitcher from './components/LanguageSwitcher';
 
 export default function Home() {
+  const { t } = useTranslation();
   const [hideOwned, setHideOwned] = useState(false);
 
   return (
     <main className='p-6 bg-dark-blue flex flex-col items-center relative'>
-      <h1 className='text-3xl font-bold text-center mb-6'>
-        Core Keeper Collection Tracker
-      </h1>
+      <LanguageSwitcher />
+      <h1 className='text-3xl font-bold text-center mb-6'>{t('title')}</h1>
       <div className='absolute top-16 left-1/2 transform -translate-x-1/2 -rotate-9 text-red-700 text-5xl font-bold animate-pulse pointer-events-none'>
-        ! Work in Progress ! Unstable release
+        {t('workInProgress')}
       </div>
 
       <NavigationButtons />
@@ -35,7 +37,7 @@ export default function Home() {
             toggleHideOwned={() => setHideOwned(!hideOwned)}
           />
           <LegendButton />
-          <InformationButton /> {/* Added InformationButton */}
+          <InformationButton />
           <ScrollToTopButton />
         </div>
       </div>
