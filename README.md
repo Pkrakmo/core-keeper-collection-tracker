@@ -32,6 +32,8 @@ Favicon is from the [Core Keper wiki](https://static.wikia.nocookie.net/core-kee
 - When an asset is added you will need to clear the data, I want to avoid that and and the new data
 - Boss collections based on boss
 - Fish collection based on location
+- Some items are in many loot tables, select what loot table group that should be displayed
+- Loot icon weight ?
 - Convert images from PNG to WEBP ?
 - Improve the UI
 - Search
