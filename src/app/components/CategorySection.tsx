@@ -39,17 +39,30 @@ export default forwardRef(function CategorySection(
   }));
 
   return (
-    <div>
+    <div
+      style={{
+        color: 'var(--text)',
+      }}
+    >
       <div
         className='cursor-pointer text-lg font-bold mb-2'
         onClick={toggleVisibility}
+        style={{
+          color: 'var(--primary)',
+        }}
       >
         {mainCategory} {isVisible ? '▼' : '▶'}
       </div>
 
       {isVisible &&
         subCategories.map((subCategory, index) => (
-          <div key={`${subCategory.subCategory}-${index}`} className='ml-4'>
+          <div
+            key={`${subCategory.subCategory}-${index}`}
+            className='ml-4'
+            style={{
+              color: 'var(--text)',
+            }}
+          >
             <div
               className='cursor-pointer text-md font-semibold mb-2'
               onClick={() =>
@@ -58,6 +71,9 @@ export default forwardRef(function CategorySection(
                   subCategory.subCategory
                 )
               }
+              style={{
+                color: 'var(--primary)',
+              }}
             >
               {subCategory.subCategory}{' '}
               {subCategoryVisibility[subCategory.subCategory] ? '▼' : '▶'}

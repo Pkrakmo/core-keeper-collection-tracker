@@ -14,7 +14,11 @@ export default function ClearStorageButton() {
   return (
     <button
       onClick={handleClearStorage}
-      className='w-10 h-10 bg-red-600 text-white rounded-full shadow-lg hover:bg-red-700 focus:outline-none flex items-center justify-center'
+      className='w-10 h-10 rounded-full shadow-lg focus:outline-none flex items-center justify-center'
+      style={{
+        backgroundColor: 'var(--primary)',
+        color: 'var(--text)',
+      }}
       title='Clear all saved data'
       aria-label='Clear storage'
     >

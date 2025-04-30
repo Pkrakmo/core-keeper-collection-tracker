@@ -1,0 +1,10197 @@
+[
+  {
+    "assetName": "None",
+    "objectID": 0,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CopperShovel",
+    "objectID": 1,
+    "baseLevel": 2
+  },
+  {
+    "assetName": "AncientMiningPick",
+    "objectID": 2,
+    "baseLevel": 11
+  },
+  {
+    "assetName": "CopperMiningPick",
+    "objectID": 3,
+    "baseLevel": 2
+  },
+  {
+    "assetName": "WaterCan",
+    "objectID": 4,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "LargeWaterCan",
+    "objectID": 5,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "RoofingTool",
+    "objectID": 6,
+    "baseLevel": 8
+  },
+  {
+    "assetName": "Leash",
+    "objectID": 7,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CattleCage",
+    "objectID": 8,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "WoodMiningPick",
+    "objectID": 10,
+    "baseLevel": 1
+  },
+  {
+    "assetName": "WoodShovel",
+    "objectID": 11,
+    "baseLevel": 1
+  },
+  {
+    "assetName": "CopperHoe",
+    "objectID": 12,
+    "baseLevel": 2
+  },
+  {
+    "assetName": "WoodHoe",
+    "objectID": 13,
+    "baseLevel": 1
+  },
+  {
+    "assetName": "TinMiningPick",
+    "objectID": 15,
+    "baseLevel": 4
+  },
+  {
+    "assetName": "TinShovel",
+    "objectID": 16,
+    "baseLevel": 4
+  },
+  {
+    "assetName": "TinHoe",
+    "objectID": 17,
+    "baseLevel": 4
+  },
+  {
+    "assetName": "BugNet",
+    "objectID": 18,
+    "baseLevel": 4
+  },
+  {
+    "assetName": "IronMiningPick",
+    "objectID": 20,
+    "baseLevel": 6
+  },
+  {
+    "assetName": "IronShovel",
+    "objectID": 21,
+    "baseLevel": 6
+  },
+  {
+    "assetName": "IronHoe",
+    "objectID": 22,
+    "baseLevel": 6
+  },
+  {
+    "assetName": "StoneSeeder",
+    "objectID": 23,
+    "baseLevel": 3
+  },
+  {
+    "assetName": "ScarletMiningPick",
+    "objectID": 30,
+    "baseLevel": 9
+  },
+  {
+    "assetName": "ScarletHoe",
+    "objectID": 31,
+    "baseLevel": 9
+  },
+  {
+    "assetName": "ScarletShovel",
+    "objectID": 32,
+    "baseLevel": 9
+  },
+  {
+    "assetName": "OctarineSeeder",
+    "objectID": 34,
+    "baseLevel": 12
+  },
+  {
+    "assetName": "OctarineMiningPick",
+    "objectID": 35,
+    "baseLevel": 12
+  },
+  {
+    "assetName": "OctarineShovel",
+    "objectID": 36,
+    "baseLevel": 11
+  },
+  {
+    "assetName": "GalaxiteMiningPick",
+    "objectID": 37,
+    "baseLevel": 14
+  },
+  {
+    "assetName": "GalaxiteShovel",
+    "objectID": 38,
+    "baseLevel": 14
+  },
+  {
+    "assetName": "Bucket",
+    "objectID": 39,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "SolariteMiningPick",
+    "objectID": 41,
+    "baseLevel": 16
+  },
+  {
+    "assetName": "LegendaryMiningPick",
+    "objectID": 45,
+    "baseLevel": 16
+  },
+  {
+    "assetName": "WoodFishingRod",
+    "objectID": 50,
+    "baseLevel": 2
+  },
+  {
+    "assetName": "TinFishingRod",
+    "objectID": 51,
+    "baseLevel": 4
+  },
+  {
+    "assetName": "IronFishingRod",
+    "objectID": 52,
+    "baseLevel": 6
+  },
+  {
+    "assetName": "ScarletFishingRod",
+    "objectID": 53,
+    "baseLevel": 9
+  },
+  {
+    "assetName": "OctarineFishingRod",
+    "objectID": 54,
+    "baseLevel": 12
+  },
+  {
+    "assetName": "GalaxiteFishingRod",
+    "objectID": 55,
+    "baseLevel": 14
+  },
+  {
+    "assetName": "SolariteFishingRod",
+    "objectID": 56,
+    "baseLevel": 16
+  },
+  {
+    "assetName": "CopperSledge",
+    "objectID": 60,
+    "baseLevel": 2
+  },
+  {
+    "assetName": "TinSledge",
+    "objectID": 61,
+    "baseLevel": 4
+  },
+  {
+    "assetName": "IronSledge",
+    "objectID": 62,
+    "baseLevel": 6
+  },
+  {
+    "assetName": "ScarletSledge",
+    "objectID": 63,
+    "baseLevel": 9
+  },
+  {
+    "assetName": "OctarineSledge",
+    "objectID": 64,
+    "baseLevel": 12
+  },
+  {
+    "assetName": "GalaxiteSledge",
+    "objectID": 65,
+    "baseLevel": 14
+  },
+  {
+    "assetName": "PaintBrushRed",
+    "objectID": 70,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "PaintBrushYellow",
+    "objectID": 71,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "PaintBrushGreen",
+    "objectID": 72,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "PaintBrushPurple",
+    "objectID": 73,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "PaintBrushBlue",
+    "objectID": 74,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "PaintBrushBrown",
+    "objectID": 75,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "PaintBrushWhite",
+    "objectID": 76,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "PaintBrushBlack",
+    "objectID": 77,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "PaintBrushOrange",
+    "objectID": 78,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "PaintBrushCyan",
+    "objectID": 79,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "PaintBrushPink",
+    "objectID": 80,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "PaintBrushGrey",
+    "objectID": 81,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "PaintBrushPeach",
+    "objectID": 82,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "PaintBrushTeal",
+    "objectID": 83,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "DrillTool",
+    "objectID": 90,
+    "baseLevel": 4
+  },
+  {
+    "assetName": "LaserDrillTool",
+    "objectID": 91,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "DrillToolScarlet",
+    "objectID": 92,
+    "baseLevel": 9
+  },
+  {
+    "assetName": "InventoryChest",
+    "objectID": 100,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "InventoryLarvaHiveChest",
+    "objectID": 101,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "InventoryMoldDungeonChest",
+    "objectID": 102,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "InventoryAncientChest",
+    "objectID": 103,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "InventorySeaBiomeChest",
+    "objectID": 104,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "InventoryDesertBiomeChest",
+    "objectID": 105,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "InventoryLavaChest",
+    "objectID": 106,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "GingerbreadChest",
+    "objectID": 107,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "ValentineChest",
+    "objectID": 108,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "AlienChest",
+    "objectID": 109,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "Torch",
+    "objectID": 110,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "Campfire",
+    "objectID": 111,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "DecorativeTorch1",
+    "objectID": 112,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "FishoilTorch",
+    "objectID": 113,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "JellyOnAStick",
+    "objectID": 114,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CrystalLamp",
+    "objectID": 115,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "DecorativePot",
+    "objectID": 120,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "PlanterBox",
+    "objectID": 121,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "Pedestal",
+    "objectID": 125,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "StonePedestal",
+    "objectID": 126,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "RuinsPedestal",
+    "objectID": 127,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "SkeletonPedestal",
+    "objectID": 128,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "SkeletonPedestal2",
+    "objectID": 129,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "WoodStool",
+    "objectID": 135,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "WoodTable",
+    "objectID": 136,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "Painting",
+    "objectID": 137,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "WoodPillar",
+    "objectID": 138,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "FloorPillow",
+    "objectID": 139,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "Lamp",
+    "objectID": 140,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "LargeShinyGlimmeringObject",
+    "objectID": 150,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "Thumper",
+    "objectID": 151,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "BaitOnAPole",
+    "objectID": 152,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "HydraBossNatureBait",
+    "objectID": 153,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "HydraBossSeaBait",
+    "objectID": 154,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "HydraBossDesertBait",
+    "objectID": 155,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "BossChest",
+    "objectID": 170,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "GlurchChest",
+    "objectID": 171,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "GhormChest",
+    "objectID": 172,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "HivemotherChest",
+    "objectID": 173,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "IvyChest",
+    "objectID": 174,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "EasterChest",
+    "objectID": 175,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "MorphaChest",
+    "objectID": 176,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "OctopusBossChest",
+    "objectID": 177,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "KingSlimeChest",
+    "objectID": 178,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "LavaSlimeBossChest",
+    "objectID": 179,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "HivemotherHalloweenChest",
+    "objectID": 180,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "LockedPrinceChest",
+    "objectID": 181,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "LockedQueenChest",
+    "objectID": 182,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "LockedKingChest",
+    "objectID": 183,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "UnlockedPrinceChest",
+    "objectID": 184,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "UnlockedQueenChest",
+    "objectID": 185,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "UnlockedKingChest",
+    "objectID": 186,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "MusicSheetStand",
+    "objectID": 187,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "WashBasin",
+    "objectID": 188,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "AtlantianWormChest",
+    "objectID": 189,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "HydraBossNatureChest",
+    "objectID": 190,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "HydraBossSeaChest",
+    "objectID": 191,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "HydraBossDesertChest",
+    "objectID": 192,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CoreCommanderChest",
+    "objectID": 193,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "WallBossChest",
+    "objectID": 194,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "Terrarium",
+    "objectID": 195,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "Aquarium",
+    "objectID": 196,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "TerrariumBeach",
+    "objectID": 197,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "TerrariumDesert",
+    "objectID": 198,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "TerrariumNature",
+    "objectID": 199,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "TerrariumCrystal",
+    "objectID": 200,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "TerrariumPassage",
+    "objectID": 201,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "AquariumBeach",
+    "objectID": 202,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "AquariumDesert",
+    "objectID": 203,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "AquariumNature",
+    "objectID": 204,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "AquariumCrystal",
+    "objectID": 205,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "AquariumPassage",
+    "objectID": 206,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "MalugazChest",
+    "objectID": 207,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "GiantCicadaChest",
+    "objectID": 208,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "LockedCopperChest",
+    "objectID": 210,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CopperChest",
+    "objectID": 211,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CopperKey",
+    "objectID": 212,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "LockedIronChest",
+    "objectID": 213,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "IronChest",
+    "objectID": 214,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "IronKey",
+    "objectID": 215,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "LockedScarletChest",
+    "objectID": 216,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "ScarletChest",
+    "objectID": 217,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "ScarletKey",
+    "objectID": 218,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "LockedOctarineChest",
+    "objectID": 219,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "OctarineChest",
+    "objectID": 220,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "OctarineKey",
+    "objectID": 221,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "LockedGalaxiteChest",
+    "objectID": 222,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "GalaxiteChest",
+    "objectID": 223,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "GalaxiteKey",
+    "objectID": 224,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "LockedSolariteChest",
+    "objectID": 225,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "SolariteChest",
+    "objectID": 226,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "SolariteKey",
+    "objectID": 227,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "PassageChest",
+    "objectID": 228,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "Roof",
+    "objectID": 230,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "RoofHole",
+    "objectID": 231,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "Water",
+    "objectID": 232,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "Pit",
+    "objectID": 233,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "Lava",
+    "objectID": 234,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "ImmunityTile",
+    "objectID": 235,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "WallDirtBlock",
+    "objectID": 300,
+    "baseLevel": 2
+  },
+  {
+    "assetName": "WallStoneBlock",
+    "objectID": 301,
+    "baseLevel": 6
+  },
+  {
+    "assetName": "WallStoneBricksBlock",
+    "objectID": 302,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "WallClayBlock",
+    "objectID": 303,
+    "baseLevel": 4
+  },
+  {
+    "assetName": "WallWoodBlock",
+    "objectID": 320,
+    "baseLevel": 2
+  },
+  {
+    "assetName": "WallHiveBlock",
+    "objectID": 321,
+    "baseLevel": 6
+  },
+  {
+    "assetName": "WallGrassBlock",
+    "objectID": 325,
+    "baseLevel": 8
+  },
+  {
+    "assetName": "WallMoldBlock",
+    "objectID": 326,
+    "baseLevel": 9
+  },
+  {
+    "assetName": "WallLimestoneBlock",
+    "objectID": 327,
+    "baseLevel": 10
+  },
+  {
+    "assetName": "WallSandBlock",
+    "objectID": 328,
+    "baseLevel": 2
+  },
+  {
+    "assetName": "WallTurfBlock",
+    "objectID": 329,
+    "baseLevel": 2
+  },
+  {
+    "assetName": "WallCityBlock",
+    "objectID": 330,
+    "baseLevel": 11
+  },
+  {
+    "assetName": "WallDesertBlock",
+    "objectID": 331,
+    "baseLevel": 12
+  },
+  {
+    "assetName": "WallLavaBlock",
+    "objectID": 332,
+    "baseLevel": 13
+  },
+  {
+    "assetName": "WallDesertTempleBlock",
+    "objectID": 333,
+    "baseLevel": 12
+  },
+  {
+    "assetName": "WallDesertTempleBlock2",
+    "objectID": 334,
+    "baseLevel": 12
+  },
+  {
+    "assetName": "WallSnowBlock",
+    "objectID": 335,
+    "baseLevel": 2
+  },
+  {
+    "assetName": "GreatWallBlock",
+    "objectID": 349,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "WallObsidianBlock",
+    "objectID": 350,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "WallPaintableBlock",
+    "objectID": 351,
+    "baseLevel": 2
+  },
+  {
+    "assetName": "WallScarletBlock",
+    "objectID": 352,
+    "baseLevel": 8
+  },
+  {
+    "assetName": "WallCoralBlock",
+    "objectID": 353,
+    "baseLevel": 10
+  },
+  {
+    "assetName": "WallGalaxiteBlock",
+    "objectID": 354,
+    "baseLevel": 12
+  },
+  {
+    "assetName": "WallExplosiveBlock",
+    "objectID": 355,
+    "baseLevel": 4
+  },
+  {
+    "assetName": "WallGlassBlock",
+    "objectID": 356,
+    "baseLevel": 2
+  },
+  {
+    "assetName": "WallMeadowBlock",
+    "objectID": 357,
+    "baseLevel": 2
+  },
+  {
+    "assetName": "WallStrawBlock",
+    "objectID": 358,
+    "baseLevel": 2
+  },
+  {
+    "assetName": "WallCrystalBlock",
+    "objectID": 359,
+    "baseLevel": 14
+  },
+  {
+    "assetName": "WallAlienBlock",
+    "objectID": 360,
+    "baseLevel": 14
+  },
+  {
+    "assetName": "WallGleamWoodBlock",
+    "objectID": 361,
+    "baseLevel": 14
+  },
+  {
+    "assetName": "WallNaturalExplosiveBlock",
+    "objectID": 362,
+    "baseLevel": 4
+  },
+  {
+    "assetName": "WallDarkStoneBlock",
+    "objectID": 363,
+    "baseLevel": 6
+  },
+  {
+    "assetName": "WallPassageBlock",
+    "objectID": 364,
+    "baseLevel": 15
+  },
+  {
+    "assetName": "WallOasisBlock",
+    "objectID": 365,
+    "baseLevel": 12
+  },
+  {
+    "assetName": "WallForestExplosiveBlock",
+    "objectID": 366,
+    "baseLevel": 8
+  },
+  {
+    "assetName": "WallDesertExplosiveBlock",
+    "objectID": 367,
+    "baseLevel": 12
+  },
+  {
+    "assetName": "WateredGround",
+    "objectID": 398,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "DugUpGround",
+    "objectID": 399,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "GroundDirtBlock",
+    "objectID": 400,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "GroundStoneBlock",
+    "objectID": 401,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "GroundHiveBlock",
+    "objectID": 402,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "GroundGrassBlock",
+    "objectID": 403,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "GroundMoldBlock",
+    "objectID": 404,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "GroundBeachSandBlock",
+    "objectID": 405,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "GroundClayBlock",
+    "objectID": 406,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "GroundSandBlock",
+    "objectID": 407,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "GroundTurfBlock",
+    "objectID": 408,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "GroundCityBlock",
+    "objectID": 409,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "GroundDesertSandBlock",
+    "objectID": 410,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "GroundLavaBlock",
+    "objectID": 411,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "GroundDesertTempleBlock",
+    "objectID": 412,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "GroundDesertTempleBlock2",
+    "objectID": 413,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "GroundSnowBlock",
+    "objectID": 414,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "GroundMeadowBlock",
+    "objectID": 415,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "GroundDarkStoneBlock",
+    "objectID": 416,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "GroundCrystalBlock",
+    "objectID": 417,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "GroundAlienBlock",
+    "objectID": 418,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "WateredStoneGround",
+    "objectID": 420,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "DugUpStoneGround",
+    "objectID": 421,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "WateredMoldGround",
+    "objectID": 422,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "DugUpMoldGround",
+    "objectID": 423,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "DugUpSeaGround",
+    "objectID": 425,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "WateredSeaGround",
+    "objectID": 426,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "DugUpTurfGround",
+    "objectID": 427,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "WateredTurfGround",
+    "objectID": 428,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "DugUpNatureGround",
+    "objectID": 429,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "WateredNatureGround",
+    "objectID": 430,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "DugUpClayGround",
+    "objectID": 431,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "WateredClayGround",
+    "objectID": 432,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "DugUpCrystalGround",
+    "objectID": 433,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "WateredCrystalGround",
+    "objectID": 434,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "DugUpMeadowGround",
+    "objectID": 435,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "WateredMeadowGround",
+    "objectID": 436,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "GroundPassageBlock",
+    "objectID": 437,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "GroundOasisblock",
+    "objectID": 438,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "DugUpOasisGround",
+    "objectID": 439,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "WateredOasisGround",
+    "objectID": 440,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "GroundObsidianBlock",
+    "objectID": 450,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CopperBar",
+    "objectID": 1001,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "IronBar",
+    "objectID": 1002,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "GoldBar",
+    "objectID": 1003,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "ScarletBar",
+    "objectID": 1004,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "TinBar",
+    "objectID": 1005,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "OctarineBar",
+    "objectID": 1006,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "GalaxiteBar",
+    "objectID": 1007,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "SolariteBar",
+    "objectID": 1008,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "PandoriumBar",
+    "objectID": 1009,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "Glass",
+    "objectID": 1025,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "Plank",
+    "objectID": 1030,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CoralPlank",
+    "objectID": 1031,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "GleamWoodPlank",
+    "objectID": 1032,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "EggIncubator",
+    "objectID": 1200,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "PetCandy",
+    "objectID": 1201,
+    "baseLevel": 3
+  },
+  {
+    "assetName": "PetCandyRare",
+    "objectID": 1202,
+    "baseLevel": 4
+  },
+  {
+    "assetName": "PetCandyEpic",
+    "objectID": 1203,
+    "baseLevel": 5
+  },
+  {
+    "assetName": "PetDogEgg",
+    "objectID": 1220,
+    "baseLevel": 3
+  },
+  {
+    "assetName": "PetDogEggCracked",
+    "objectID": 1221,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "PetDog",
+    "objectID": 1222,
+    "baseLevel": 7
+  },
+  {
+    "assetName": "PetCatEgg",
+    "objectID": 1223,
+    "baseLevel": 3
+  },
+  {
+    "assetName": "PetCatEggCracked",
+    "objectID": 1224,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "PetCat",
+    "objectID": 1225,
+    "baseLevel": 7
+  },
+  {
+    "assetName": "PetBirdEgg",
+    "objectID": 1226,
+    "baseLevel": 3
+  },
+  {
+    "assetName": "PetBirdEggCracked",
+    "objectID": 1227,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "PetBird",
+    "objectID": 1228,
+    "baseLevel": 7
+  },
+  {
+    "assetName": "PetSlimeBlobEgg",
+    "objectID": 1229,
+    "baseLevel": 3
+  },
+  {
+    "assetName": "PetSlimeBlobEggCracked",
+    "objectID": 1230,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "PetSlimeBlob",
+    "objectID": 1231,
+    "baseLevel": 7
+  },
+  {
+    "assetName": "PetBunnyEgg",
+    "objectID": 1232,
+    "baseLevel": 3
+  },
+  {
+    "assetName": "PetBunnyEggCracked",
+    "objectID": 1233,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "PetBunny",
+    "objectID": 1234,
+    "baseLevel": 7
+  },
+  {
+    "assetName": "PetSlipperySlimeBlobEgg",
+    "objectID": 1235,
+    "baseLevel": 3
+  },
+  {
+    "assetName": "PetSlipperySlimeBlobEggCracked",
+    "objectID": 1236,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "PetSlipperySlimeBlob",
+    "objectID": 1237,
+    "baseLevel": 7
+  },
+  {
+    "assetName": "PetPoisonSlimeBlobEgg",
+    "objectID": 1238,
+    "baseLevel": 3
+  },
+  {
+    "assetName": "PetPoisonSlimeBlobEggCracked",
+    "objectID": 1239,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "PetPoisonSlimeBlob",
+    "objectID": 1240,
+    "baseLevel": 7
+  },
+  {
+    "assetName": "PetLavaSlimeBlobEgg",
+    "objectID": 1241,
+    "baseLevel": 3
+  },
+  {
+    "assetName": "PetLavaSlimeBlobEggCracked",
+    "objectID": 1242,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "PetLavaSlimeBlob",
+    "objectID": 1243,
+    "baseLevel": 7
+  },
+  {
+    "assetName": "PetPrinceSlimeBlobEgg",
+    "objectID": 1244,
+    "baseLevel": 3
+  },
+  {
+    "assetName": "PetPrinceSlimeBlobEggCracked",
+    "objectID": 1245,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "PetPrinceSlimeBlob",
+    "objectID": 1246,
+    "baseLevel": 7
+  },
+  {
+    "assetName": "PetMoth",
+    "objectID": 1247,
+    "baseLevel": 10
+  },
+  {
+    "assetName": "PetMothEgg",
+    "objectID": 1248,
+    "baseLevel": 10
+  },
+  {
+    "assetName": "PetMothEggCracked",
+    "objectID": 1249,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "PetTardigradeEgg",
+    "objectID": 1250,
+    "baseLevel": 16
+  },
+  {
+    "assetName": "PetTardigradeEggCracked",
+    "objectID": 1251,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "PetTardigrade",
+    "objectID": 1252,
+    "baseLevel": 16
+  },
+  {
+    "assetName": "PetMagic",
+    "objectID": 1253,
+    "baseLevel": 7
+  },
+  {
+    "assetName": "PetMagicEgg",
+    "objectID": 1254,
+    "baseLevel": 3
+  },
+  {
+    "assetName": "PetMagicEggCracked",
+    "objectID": 1255,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "PetElectricEgg",
+    "objectID": 1256,
+    "baseLevel": 7
+  },
+  {
+    "assetName": "PetElectricEggCracked",
+    "objectID": 1257,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "PetElectric",
+    "objectID": 1258,
+    "baseLevel": 7
+  },
+  {
+    "assetName": "Cow",
+    "objectID": 1300,
+    "baseLevel": 2
+  },
+  {
+    "assetName": "CattleFeedTray",
+    "objectID": 1301,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "Goat",
+    "objectID": 1302,
+    "baseLevel": 2
+  },
+  {
+    "assetName": "RolyPoly",
+    "objectID": 1303,
+    "baseLevel": 2
+  },
+  {
+    "assetName": "CowBaby",
+    "objectID": 1304,
+    "baseLevel": 2
+  },
+  {
+    "assetName": "GoatBaby",
+    "objectID": 1305,
+    "baseLevel": 2
+  },
+  {
+    "assetName": "RolyPolyBaby",
+    "objectID": 1306,
+    "baseLevel": 2
+  },
+  {
+    "assetName": "Turtle",
+    "objectID": 1307,
+    "baseLevel": 2
+  },
+  {
+    "assetName": "TurtleBaby",
+    "objectID": 1308,
+    "baseLevel": 2
+  },
+  {
+    "assetName": "Dodo",
+    "objectID": 1309,
+    "baseLevel": 2
+  },
+  {
+    "assetName": "DodoBaby",
+    "objectID": 1310,
+    "baseLevel": 2
+  },
+  {
+    "assetName": "Camel",
+    "objectID": 1311,
+    "baseLevel": 2
+  },
+  {
+    "assetName": "CamelBaby",
+    "objectID": 1312,
+    "baseLevel": 2
+  },
+  {
+    "assetName": "MeleeMinion",
+    "objectID": 1350,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "BatMinion",
+    "objectID": 1351,
+    "baseLevel": 4
+  },
+  {
+    "assetName": "OrbitingMinion",
+    "objectID": 1352,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "FireMiteMinion",
+    "objectID": 1353,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "PoisonMinion",
+    "objectID": 1354,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "RadiatingMinion",
+    "objectID": 1355,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "ExplosiveMinion",
+    "objectID": 1356,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "MusicSheetOwlBoyMainTheme",
+    "objectID": 1400,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "MusicSheetCoreKeeperBaseTheme",
+    "objectID": 1401,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "MusicSheetCookServeDelicious3ItsDangerousToGoAlone",
+    "objectID": 1402,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "MusicSheetHappyBirthday",
+    "objectID": 1403,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "MusicSheetTerrariaJourneysBeginning",
+    "objectID": 1404,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "MusicSheetStardewValleyItsABigWorldOutside",
+    "objectID": 1405,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "MusicSheetValheimMeadows",
+    "objectID": 1406,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CopperOre",
+    "objectID": 1500,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "TinOre",
+    "objectID": 1505,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "IronOre",
+    "objectID": 1510,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "GoldOre",
+    "objectID": 1520,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "ScarletOre",
+    "objectID": 1521,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "OctarineOre",
+    "objectID": 1522,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "GalaxiteOre",
+    "objectID": 1523,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "SolariteOre",
+    "objectID": 1524,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "PandoriumOre",
+    "objectID": 1525,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "AncientGemstone",
+    "objectID": 1600,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "NatureGemstone",
+    "objectID": 1601,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "SeaGemstone",
+    "objectID": 1602,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "DesertGemstone",
+    "objectID": 1603,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "Wood",
+    "objectID": 1610,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "ThornWood",
+    "objectID": 1611,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CoralWood",
+    "objectID": 1612,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "GleamWood",
+    "objectID": 1613,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "Slime",
+    "objectID": 1630,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "PoisonSlime",
+    "objectID": 1631,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "SlipperySlime",
+    "objectID": 1632,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "LavaSlime",
+    "objectID": 1633,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "Fiber",
+    "objectID": 1640,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "Wool",
+    "objectID": 1641,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "RolyPolyPlate",
+    "objectID": 1642,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "LarvaMeat",
+    "objectID": 1645,
+    "baseLevel": 4
+  },
+  {
+    "assetName": "GoldenLarvaMeat",
+    "objectID": 1646,
+    "baseLevel": 6
+  },
+  {
+    "assetName": "MechanicalPart",
+    "objectID": 1647,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "ScrapPart",
+    "objectID": 1648,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "Cytoplasm",
+    "objectID": 1649,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CalcifiedBone",
+    "objectID": 1650,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "BlastingDung",
+    "objectID": 1651,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "AlienFuse",
+    "objectID": 1652,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "DroppedItem",
+    "objectID": 2000,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "InventorySlot",
+    "objectID": 2010,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "BlunderExplosion",
+    "objectID": 2011,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "VoidExplosion",
+    "objectID": 2012,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CharmExplosion",
+    "objectID": 2013,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "FieryExplosion",
+    "objectID": 2014,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "PoisonExplosion",
+    "objectID": 2015,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "ScatterExplosion",
+    "objectID": 2016,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "StunExplosion",
+    "objectID": 2017,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "SunExplosion",
+    "objectID": 2018,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "SulfurExplosion",
+    "objectID": 2019,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "Explosion",
+    "objectID": 2020,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "AncientCoin",
+    "objectID": 2021,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "MinionDetonatorExplosion",
+    "objectID": 2022,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "SmallPoisonExplosion",
+    "objectID": 2023,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "SmallSulfurExplosion",
+    "objectID": 2024,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "AzeosSoulOrb",
+    "objectID": 2050,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "SummonArea",
+    "objectID": 2051,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "OmorothSoulOrb",
+    "objectID": 2052,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "ScarabBossSoulOrb",
+    "objectID": 2053,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "HydraBossNatureSoulOrb",
+    "objectID": 2054,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "HydraBossSeaSoulOrb",
+    "objectID": 2055,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "HydraBossDesertSoulOrb",
+    "objectID": 2056,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "FishShoal",
+    "objectID": 2060,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CopperOreBoulder",
+    "objectID": 2200,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "TinOreBoulder",
+    "objectID": 2201,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "IronOreBoulder",
+    "objectID": 2202,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "GoldOreBoulder",
+    "objectID": 2203,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "ScarletOreBoulder",
+    "objectID": 2204,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "OctarineOreBoulder",
+    "objectID": 2205,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "GalaxiteOreBoulder",
+    "objectID": 2206,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "SolariteOreBoulder",
+    "objectID": 2207,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "WormSulfurExplosion",
+    "objectID": 2208,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "PandoriumOreBoulder",
+    "objectID": 2209,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "ExplosiveWallExplosion",
+    "objectID": 2210,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "StoneHatchlingExplosion",
+    "objectID": 2211,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "DesertExplosiveWallExplosion",
+    "objectID": 2212,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "MusicArea",
+    "objectID": 2400,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "WaterSpreader",
+    "objectID": 2401,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "MapMarker",
+    "objectID": 2402,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "LarvaBossCrystal",
+    "objectID": 2500,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "SlimeBossCrystal",
+    "objectID": 2501,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "HiveBossCrystal",
+    "objectID": 2502,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "SlimeBossSummoningItem",
+    "objectID": 2503,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "LarvaBossSummoningItem",
+    "objectID": 2504,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "HiveBossSummoningItem",
+    "objectID": 2505,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "ShamanBossSummoningItem",
+    "objectID": 2506,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "OctopusBossTeleportLocation",
+    "objectID": 2507,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "KingSlimeSummoningItem",
+    "objectID": 2508,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "HiveHalloweenBossSummoningItem",
+    "objectID": 2509,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CoreBossSummoningItem",
+    "objectID": 2510,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "WallBossSummoningItem",
+    "objectID": 2511,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "GiantCicadaBossSummoningItem",
+    "objectID": 2512,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "NatureCicadaSummoningItem",
+    "objectID": 2513,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "DarkVoidCrystal",
+    "objectID": 2514,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "SlimeBlob",
+    "objectID": 3000,
+    "baseLevel": 2
+  },
+  {
+    "assetName": "Larva",
+    "objectID": 3001,
+    "baseLevel": 4
+  },
+  {
+    "assetName": "BigLarva",
+    "objectID": 3002,
+    "baseLevel": 5
+  },
+  {
+    "assetName": "BossLarva",
+    "objectID": 3003,
+    "baseLevel": 4
+  },
+  {
+    "assetName": "AcidLarva",
+    "objectID": 3004,
+    "baseLevel": 4
+  },
+  {
+    "assetName": "LarvaHiveBoss",
+    "objectID": 3005,
+    "baseLevel": 6
+  },
+  {
+    "assetName": "LarvaHiveEgg",
+    "objectID": 3006,
+    "baseLevel": 6
+  },
+  {
+    "assetName": "Cocoon",
+    "objectID": 3007,
+    "baseLevel": 4
+  },
+  {
+    "assetName": "AggressiveSlimeBlob",
+    "objectID": 3008,
+    "baseLevel": 2
+  },
+  {
+    "assetName": "MushroomEnemy",
+    "objectID": 3009,
+    "baseLevel": 2
+  },
+  {
+    "assetName": "LarvaHiveHalloweenBoss",
+    "objectID": 3010,
+    "baseLevel": 6
+  },
+  {
+    "assetName": "SlimeBoss",
+    "objectID": 3020,
+    "baseLevel": 2
+  },
+  {
+    "assetName": "PoisonSlimeBlob",
+    "objectID": 3021,
+    "baseLevel": 8
+  },
+  {
+    "assetName": "SlipperySlimeBlob",
+    "objectID": 3022,
+    "baseLevel": 10
+  },
+  {
+    "assetName": "PoisonSlimeBoss",
+    "objectID": 3023,
+    "baseLevel": 8
+  },
+  {
+    "assetName": "SlipperySlimeBoss",
+    "objectID": 3024,
+    "baseLevel": 10
+  },
+  {
+    "assetName": "KingSlime",
+    "objectID": 3025,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "RoyalSlimeBlob",
+    "objectID": 3026,
+    "baseLevel": 6
+  },
+  {
+    "assetName": "LavaSlimeBlob",
+    "objectID": 3027,
+    "baseLevel": 13
+  },
+  {
+    "assetName": "LavaSlimeBoss",
+    "objectID": 3028,
+    "baseLevel": 13
+  },
+  {
+    "assetName": "Caveling",
+    "objectID": 3050,
+    "baseLevel": 6
+  },
+  {
+    "assetName": "CavelingShaman",
+    "objectID": 3051,
+    "baseLevel": 6
+  },
+  {
+    "assetName": "CavelingGardener",
+    "objectID": 3052,
+    "baseLevel": 8
+  },
+  {
+    "assetName": "CavelingHunter",
+    "objectID": 3053,
+    "baseLevel": 8
+  },
+  {
+    "assetName": "InfectedCaveling",
+    "objectID": 3054,
+    "baseLevel": 9
+  },
+  {
+    "assetName": "CavelingBrute",
+    "objectID": 3055,
+    "baseLevel": 9
+  },
+  {
+    "assetName": "CavelingScholar",
+    "objectID": 3056,
+    "baseLevel": 11
+  },
+  {
+    "assetName": "AncientGolem",
+    "objectID": 3057,
+    "baseLevel": 11
+  },
+  {
+    "assetName": "ShamanBoss",
+    "objectID": 3058,
+    "baseLevel": 6
+  },
+  {
+    "assetName": "CavelingAssassin",
+    "objectID": 3059,
+    "baseLevel": 12
+  },
+  {
+    "assetName": "CavelingMummy",
+    "objectID": 3060,
+    "baseLevel": 13
+  },
+  {
+    "assetName": "CavelingSkirmisher",
+    "objectID": 3061,
+    "baseLevel": 4
+  },
+  {
+    "assetName": "CavelingSpearman",
+    "objectID": 3062,
+    "baseLevel": 4
+  },
+  {
+    "assetName": "SnarePlant",
+    "objectID": 3080,
+    "baseLevel": 8
+  },
+  {
+    "assetName": "BirdBoss",
+    "objectID": 3090,
+    "baseLevel": 8
+  },
+  {
+    "assetName": "BirdBossSpawnLocation",
+    "objectID": 3091,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "BirdBossBeam",
+    "objectID": 3092,
+    "baseLevel": 8
+  },
+  {
+    "assetName": "BirdBossStone",
+    "objectID": 3093,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "SmallTentacle",
+    "objectID": 3100,
+    "baseLevel": 10
+  },
+  {
+    "assetName": "MoldTentacle",
+    "objectID": 3101,
+    "baseLevel": 9
+  },
+  {
+    "assetName": "CrabEnemy",
+    "objectID": 3105,
+    "baseLevel": 10
+  },
+  {
+    "assetName": "OctopusBoss",
+    "objectID": 3110,
+    "baseLevel": 11
+  },
+  {
+    "assetName": "OctopusTentacle",
+    "objectID": 3111,
+    "baseLevel": 13
+  },
+  {
+    "assetName": "OctopusBossSpawnLocation",
+    "objectID": 3112,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "BombScarab",
+    "objectID": 3130,
+    "baseLevel": 12
+  },
+  {
+    "assetName": "ScarabBoss",
+    "objectID": 3131,
+    "baseLevel": 13
+  },
+  {
+    "assetName": "ScarabBossSpawnLocation",
+    "objectID": 3132,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "LavaButterfly",
+    "objectID": 3133,
+    "baseLevel": 13
+  },
+  {
+    "assetName": "DesertBrute",
+    "objectID": 3140,
+    "baseLevel": 9
+  },
+  {
+    "assetName": "HydraBossNature",
+    "objectID": 3145,
+    "baseLevel": 15
+  },
+  {
+    "assetName": "HydraBossSea",
+    "objectID": 3146,
+    "baseLevel": 15
+  },
+  {
+    "assetName": "HydraBossDesert",
+    "objectID": 3147,
+    "baseLevel": 15
+  },
+  {
+    "assetName": "SnakeBossSegment",
+    "objectID": 3148,
+    "baseLevel": 14
+  },
+  {
+    "assetName": "CrystalBigSnail",
+    "objectID": 3150,
+    "baseLevel": 16
+  },
+  {
+    "assetName": "OrbitalTurret",
+    "objectID": 3151,
+    "baseLevel": 14
+  },
+  {
+    "assetName": "Mimite",
+    "objectID": 3152,
+    "baseLevel": 14
+  },
+  {
+    "assetName": "WormSegment",
+    "objectID": 3153,
+    "baseLevel": 14
+  },
+  {
+    "assetName": "WormSegmentTail",
+    "objectID": 3154,
+    "baseLevel": 14
+  },
+  {
+    "assetName": "ClayWormSegment",
+    "objectID": 3155,
+    "baseLevel": 4
+  },
+  {
+    "assetName": "ClayWormSegmentTail",
+    "objectID": 3156,
+    "baseLevel": 4
+  },
+  {
+    "assetName": "CoreBoss",
+    "objectID": 3157,
+    "baseLevel": 17
+  },
+  {
+    "assetName": "CoreBossBeam",
+    "objectID": 3158,
+    "baseLevel": 17
+  },
+  {
+    "assetName": "CoreBossOrb",
+    "objectID": 3159,
+    "baseLevel": 14
+  },
+  {
+    "assetName": "NatureWormSegment",
+    "objectID": 3160,
+    "baseLevel": 14
+  },
+  {
+    "assetName": "NatureWormSegmentTail",
+    "objectID": 3161,
+    "baseLevel": 14
+  },
+  {
+    "assetName": "CoreBossVoidImmuneZone",
+    "objectID": 3162,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "AmoebaWormSegment",
+    "objectID": 3163,
+    "baseLevel": 15
+  },
+  {
+    "assetName": "AmoebaWormSegmentTail",
+    "objectID": 3164,
+    "baseLevel": 15
+  },
+  {
+    "assetName": "AmoebaGiantSegment",
+    "objectID": 3165,
+    "baseLevel": 15
+  },
+  {
+    "assetName": "AmoebaGiantSegmentTail",
+    "objectID": 3166,
+    "baseLevel": 15
+  },
+  {
+    "assetName": "AmoebaGiantSegmentBody",
+    "objectID": 3167,
+    "baseLevel": 15
+  },
+  {
+    "assetName": "WallBoss",
+    "objectID": 3168,
+    "baseLevel": 18
+  },
+  {
+    "assetName": "WallBossBulb",
+    "objectID": 3169,
+    "baseLevel": 18
+  },
+  {
+    "assetName": "WallBossHead",
+    "objectID": 3170,
+    "baseLevel": 18
+  },
+  {
+    "assetName": "MushroomBrute",
+    "objectID": 3180,
+    "baseLevel": 4
+  },
+  {
+    "assetName": "NatureCicadaEnemy",
+    "objectID": 3181,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "DesertCicadaEnemy",
+    "objectID": 3182,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "GiantCicadaBoss",
+    "objectID": 3183,
+    "baseLevel": 15
+  },
+  {
+    "assetName": "CicadaNymph",
+    "objectID": 3184,
+    "baseLevel": 15
+  },
+  {
+    "assetName": "GiantCicadaBossShield",
+    "objectID": 3185,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "GiantCicadaBossSpawnLocation",
+    "objectID": 3187,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "GoldenBombScarab",
+    "objectID": 3188,
+    "baseLevel": 12
+  },
+  {
+    "assetName": "GhostCaveling",
+    "objectID": 3400,
+    "baseLevel": 10
+  },
+  {
+    "assetName": "GhostScholar",
+    "objectID": 3401,
+    "baseLevel": 10
+  },
+  {
+    "assetName": "YellowFirefly",
+    "objectID": 3500,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "BlueFireFly",
+    "objectID": 3501,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "GreenFireFly",
+    "objectID": 3502,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "RedFireFly",
+    "objectID": 3503,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "JellyFish",
+    "objectID": 3510,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CavelingMerchant",
+    "objectID": 3900,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "AncientHologramPod",
+    "objectID": 3901,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "SlimeMerchant",
+    "objectID": 3902,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "FishingMerchant",
+    "objectID": 3903,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "SeasonalMerchant",
+    "objectID": 3904,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "SantasLittleHelper",
+    "objectID": 3905,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CrystalMerchant",
+    "objectID": 3906,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "MysteriousIdol",
+    "objectID": 3930,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "SlimeOil",
+    "objectID": 3931,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "PileOfChum",
+    "objectID": 3932,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CookiesAndMilk",
+    "objectID": 3933,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "Calendar",
+    "objectID": 3934,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CrystalMerchantSpawnItem",
+    "objectID": 3935,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "AncientFountain",
+    "objectID": 4001,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "TheCore",
+    "objectID": 4002,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "WoodenWorkBench",
+    "objectID": 4003,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "Furnace",
+    "objectID": 4004,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "ElectronicsTable",
+    "objectID": 4005,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "GreeneryPod",
+    "objectID": 4006,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "Carpenter",
+    "objectID": 4007,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "AlchemyTable",
+    "objectID": 4008,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "TableSaw",
+    "objectID": 4009,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "IronWorkBench",
+    "objectID": 4010,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CopperAnvil",
+    "objectID": 4011,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "JewelryWorkBench",
+    "objectID": 4012,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CookingPot",
+    "objectID": 4013,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "IronAnvil",
+    "objectID": 4014,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "SmelterKiln",
+    "objectID": 4015,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "ScarletWorkBench",
+    "objectID": 4016,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "RailwayForge",
+    "objectID": 4017,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "PaintersTable",
+    "objectID": 4018,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "TinWorkbench",
+    "objectID": 4019,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "TinAnvil",
+    "objectID": 4020,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "ScarletAnvil",
+    "objectID": 4021,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "AutomationTable",
+    "objectID": 4022,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CartographyTable",
+    "objectID": 4023,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "OctarineAnvil",
+    "objectID": 4024,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "SalvageAndRepairStation",
+    "objectID": 4025,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "DistilleryTable",
+    "objectID": 4026,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "OctarineWorkbench",
+    "objectID": 4027,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "FishingWorkBench",
+    "objectID": 4028,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "Dresser",
+    "objectID": 4029,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "AdvancedJewelryWorkBench",
+    "objectID": 4030,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "BoatWorkbench",
+    "objectID": 4031,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "FuryForge",
+    "objectID": 4032,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "GalaxiteWorkbench",
+    "objectID": 4033,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "GalaxiteAnvil",
+    "objectID": 4034,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "KeyCraftingTable",
+    "objectID": 4035,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "GoKartWorkbench",
+    "objectID": 4036,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "ChristmasWorkbench",
+    "objectID": 4037,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "MagicMirror",
+    "objectID": 4038,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "Mannequin",
+    "objectID": 4039,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "ValentineWorkbench",
+    "objectID": 4040,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "LoomSpinningWheel",
+    "objectID": 4041,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "MusicWorkbench",
+    "objectID": 4042,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CopperWorkbench",
+    "objectID": 4043,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "GlassSmelter",
+    "objectID": 4044,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "GlassWorkbench",
+    "objectID": 4045,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "UpgradeForge",
+    "objectID": 4046,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "SolariteAnvil",
+    "objectID": 4047,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CattleWorkbench",
+    "objectID": 4048,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "SolariteWorkbench",
+    "objectID": 4049,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "HalloweenWorkbench",
+    "objectID": 4050,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "HydraWorkbench",
+    "objectID": 4051,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "PouchWorkbench",
+    "objectID": 4052,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "LaboratoryWorkbench",
+    "objectID": 4053,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "Portal",
+    "objectID": 4099,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "ElectricityGenerator",
+    "objectID": 4100,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "LarvaBossStatue",
+    "objectID": 4101,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "SlimeBossStatue",
+    "objectID": 4102,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "LarvaHiveBossStatue",
+    "objectID": 4103,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "SignArrow",
+    "objectID": 4151,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "SignSkull",
+    "objectID": 4152,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "SignBrute",
+    "objectID": 4153,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "SignText",
+    "objectID": 4154,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "SignTextMetropolis",
+    "objectID": 4155,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "WoodFloor",
+    "objectID": 4700,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "WoodFenceGate",
+    "objectID": 4701,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "WoodFence",
+    "objectID": 4702,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "WoodBridge",
+    "objectID": 4703,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "StoneFloor",
+    "objectID": 4704,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "StoneFenceGate",
+    "objectID": 4705,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "StoneFence",
+    "objectID": 4706,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "StoneBridge",
+    "objectID": 4707,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "PaintableFloor",
+    "objectID": 4708,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "ScarletFloor",
+    "objectID": 4709,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "ScarletFenceGate",
+    "objectID": 4710,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "ScarletFence",
+    "objectID": 4711,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "ScarletBridge",
+    "objectID": 4712,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "PaintableLitFloor",
+    "objectID": 4713,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CoralFloor",
+    "objectID": 4714,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CoralFenceGate",
+    "objectID": 4715,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CoralFence",
+    "objectID": 4716,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CoralBridge",
+    "objectID": 4717,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "GalaxiteFloor",
+    "objectID": 4718,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "GalaxiteFenceGate",
+    "objectID": 4719,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "GalaxiteFence",
+    "objectID": 4720,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "GalaxiteBridge",
+    "objectID": 4721,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "GlassFloor",
+    "objectID": 4722,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "ThinWallGlass",
+    "objectID": 4723,
+    "baseLevel": 2
+  },
+  {
+    "assetName": "GlassBridge",
+    "objectID": 4724,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "WovenStrawFloor",
+    "objectID": 4725,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "GleamWoodFloor",
+    "objectID": 4726,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "GleamWoodFenceGate",
+    "objectID": 4727,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "GleamWoodFence",
+    "objectID": 4728,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "GleamWoodBridge",
+    "objectID": 4729,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "Rug",
+    "objectID": 4750,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "WovenMat",
+    "objectID": 4751,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "LooseFlooring",
+    "objectID": 4752,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "ValentineFloorPetals",
+    "objectID": 4753,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "Bed",
+    "objectID": 4760,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "WoodDoor",
+    "objectID": 4770,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "StoneDoor",
+    "objectID": 4771,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "ScarletDoor",
+    "objectID": 4772,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "MetalGrateBridge",
+    "objectID": 4773,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "GleamWoodDoor",
+    "objectID": 4774,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CoralDoor",
+    "objectID": 4775,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "GalaxiteDoor",
+    "objectID": 4776,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "Tapestry",
+    "objectID": 4777,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "Banner",
+    "objectID": 4778,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CavelingSkull",
+    "objectID": 5010,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "LeafFossil",
+    "objectID": 5011,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "Ammonite",
+    "objectID": 5012,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "Geode",
+    "objectID": 5013,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "BrokenCoreIdol",
+    "objectID": 5014,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "Ocarina",
+    "objectID": 5015,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "OldAmulet",
+    "objectID": 5016,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "EarPlate",
+    "objectID": 5017,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "BoneCreole",
+    "objectID": 5018,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "TriangleTrinket",
+    "objectID": 5019,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "TwistedAgate",
+    "objectID": 5020,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "BloodSkull",
+    "objectID": 5021,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "GrubKnot",
+    "objectID": 5022,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "PetrifiedEgg",
+    "objectID": 5023,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "OldSporeMask",
+    "objectID": 5024,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "HardThorn",
+    "objectID": 5025,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "BalloonSpore",
+    "objectID": 5026,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CavelingDoll",
+    "objectID": 5027,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "SmallCavelingSkull",
+    "objectID": 5028,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "GoldenFeather",
+    "objectID": 5029,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "MechanicalArm",
+    "objectID": 5030,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "DryButterfly",
+    "objectID": 5031,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "PreciousUrn",
+    "objectID": 5032,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "AmberChunk",
+    "objectID": 5033,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "PetrifiedCoral",
+    "objectID": 5034,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "MoldDew",
+    "objectID": 5035,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "FungalBone",
+    "objectID": 5036,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "MildewLeaf",
+    "objectID": 5037,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "ChippedPlate",
+    "objectID": 5038,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "StoneCap",
+    "objectID": 5039,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "GiantMite",
+    "objectID": 5040,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "RustySpoon",
+    "objectID": 5041,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "GreenKelp",
+    "objectID": 5042,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "GoldenStarfish",
+    "objectID": 5043,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "AmberFishEgg",
+    "objectID": 5044,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "SoftSponge",
+    "objectID": 5045,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "AdderStone",
+    "objectID": 5046,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CavelingPerfume",
+    "objectID": 5047,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "EnhydroCrystal",
+    "objectID": 5048,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "MucusAmoeba",
+    "objectID": 5049,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "ParasiteFossil",
+    "objectID": 5050,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "GoldenCocoon",
+    "objectID": 5051,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "GrubPearl",
+    "objectID": 5052,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "GiantGerm",
+    "objectID": 5053,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "MoldShell",
+    "objectID": 5054,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CeremonialFlute",
+    "objectID": 5055,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "DataSlate",
+    "objectID": 5056,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "LostPaddle",
+    "objectID": 5057,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "FeatherFishScale",
+    "objectID": 5058,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CavelingMedal",
+    "objectID": 5059,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "RainbowKelp",
+    "objectID": 5060,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "BubblePearl",
+    "objectID": 5061,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "BlackBubblePearl",
+    "objectID": 5062,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "SealedBeverage",
+    "objectID": 5063,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "SharkTooth",
+    "objectID": 5064,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "ForkedCoral",
+    "objectID": 5065,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "PetrifiedTrilobite",
+    "objectID": 5066,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "RustyFishingHook",
+    "objectID": 5067,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "FishFossil",
+    "objectID": 5068,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "FizzyCrystal",
+    "objectID": 5069,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "GreyKelp",
+    "objectID": 5070,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "YellowKelp",
+    "objectID": 5071,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "PaleKelp",
+    "objectID": 5072,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "RedKelp",
+    "objectID": 5073,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "EarlyHumanSkull",
+    "objectID": 5074,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "GoldenCavelingMask",
+    "objectID": 5075,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "AncientGemPlate",
+    "objectID": 5076,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "AntiqueBoardGame",
+    "objectID": 5077,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "MusicBowl",
+    "objectID": 5078,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "SeismicClock",
+    "objectID": 5079,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "OldJournal",
+    "objectID": 5080,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "ParsecPalsDolls",
+    "objectID": 5081,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "RitualGoblet",
+    "objectID": 5082,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "OracleCardCore",
+    "objectID": 5083,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "GlurchTrophy",
+    "objectID": 5084,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "IvyTrophy",
+    "objectID": 5085,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "GhormTrophy",
+    "objectID": 5086,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "HivemotherTrophy",
+    "objectID": 5087,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "SlimeTrophy",
+    "objectID": 5088,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "PurpleSlimeTrophy",
+    "objectID": 5089,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "RedSlimeTrophy",
+    "objectID": 5090,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "AcidLarvaTrophy",
+    "objectID": 5091,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "LarvaTrophy",
+    "objectID": 5092,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "BigLarvaTrophy",
+    "objectID": 5093,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "HiveLarvaTrophy",
+    "objectID": 5094,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "HiveBigLarvaTrophy",
+    "objectID": 5095,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CavelingTrophy",
+    "objectID": 5096,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CavelingFarmerTrophy",
+    "objectID": 5097,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CavelingHunterTrophy",
+    "objectID": 5098,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CavelingShamanTrophy",
+    "objectID": 5099,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CavelingInfectedTrophy",
+    "objectID": 5100,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CavelingBruteTrophy",
+    "objectID": 5101,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "AzeosTrophy",
+    "objectID": 5102,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "MalugazTrophy",
+    "objectID": 5103,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "TentacleTrophy",
+    "objectID": 5104,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "MoldTentacleTrophy",
+    "objectID": 5105,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "SnarePlantTrophy",
+    "objectID": 5106,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "BlueSlimeTrophy",
+    "objectID": 5107,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "OracleCardGem",
+    "objectID": 5108,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "OracleCardFlower",
+    "objectID": 5109,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "EasterAzeosTrophy",
+    "objectID": 5110,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "ScreenDevice",
+    "objectID": 5111,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CavelingEffigy",
+    "objectID": 5112,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CrystalSphere",
+    "objectID": 5113,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "LuxuriousHandmirror",
+    "objectID": 5114,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "ProcessorChip",
+    "objectID": 5115,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "TimelessHourglass",
+    "objectID": 5116,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "PlayingDice",
+    "objectID": 5117,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "GoldenWhistle",
+    "objectID": 5118,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "BentFork",
+    "objectID": 5119,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CavelingCup",
+    "objectID": 5120,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "OracleCardScholar",
+    "objectID": 5121,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "OracleCardCity",
+    "objectID": 5122,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "OracleCardLeader",
+    "objectID": 5123,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CoreTrophy",
+    "objectID": 5124,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "MorphaTrophy",
+    "objectID": 5125,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CocoonTrophy",
+    "objectID": 5126,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "OmorothTrophy",
+    "objectID": 5127,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CrabTrophy",
+    "objectID": 5128,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "GolemTrophy",
+    "objectID": 5129,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "ScholarTrophy",
+    "objectID": 5130,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "GiantSquidEye",
+    "objectID": 5131,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "GoldenNeedle",
+    "objectID": 5132,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "PolishedShell",
+    "objectID": 5133,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "OpabiniaFossil",
+    "objectID": 5134,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "BlueKelp",
+    "objectID": 5135,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "MushroomEnemyTrophy",
+    "objectID": 5136,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "KingSlimeTrophy",
+    "objectID": 5137,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "OracleCardAzeos",
+    "objectID": 5138,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "OracleCardOmoroth",
+    "objectID": 5139,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "OracleCardRaAkar",
+    "objectID": 5140,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "BlueGlassShard",
+    "objectID": 5141,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CharredCavelingSkull",
+    "objectID": 5142,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CavelingSandal",
+    "objectID": 5143,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "WorkerHandcuff",
+    "objectID": 5144,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CrystalSpearhead",
+    "objectID": 5145,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "MoltenButterflyWing",
+    "objectID": 5146,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "PlumeBall",
+    "objectID": 5147,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "PickaxeHead",
+    "objectID": 5148,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "DesertDiamond",
+    "objectID": 5149,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "BlackDesertDiamond",
+    "objectID": 5150,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "BagOfMarbles",
+    "objectID": 5151,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "AncientGoldenCoin",
+    "objectID": 5152,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "IncenseBowl",
+    "objectID": 5153,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "AncientMakeupSet",
+    "objectID": 5154,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CavelingProphetMask",
+    "objectID": 5155,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "FrozenFlame",
+    "objectID": 5156,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "IgneousTrophy",
+    "objectID": 5160,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "RaAkarTrophy",
+    "objectID": 5161,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "BombScarabTrophy",
+    "objectID": 5162,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "LavaButterflyTrophy",
+    "objectID": 5163,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CavelingAssassinTrophy",
+    "objectID": 5164,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "LavaSlimeTrophy",
+    "objectID": 5165,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "BrokenGourd",
+    "objectID": 5166,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "KingfishScale",
+    "objectID": 5167,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "BrokenToyShip",
+    "objectID": 5168,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "FleshKelp",
+    "objectID": 5169,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "AncientFishingHook",
+    "objectID": 5170,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "FusionAlloy",
+    "objectID": 5171,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "StarlightShards",
+    "objectID": 5172,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "DarkBlueKelp",
+    "objectID": 5173,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "WhiteWhistle",
+    "objectID": 5174,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "HiveHalloweenBossTrophy",
+    "objectID": 5175,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "FrankensteinCavelingBruteTrophy",
+    "objectID": 5176,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "PumpkinHeadCavelingShamanTrophy",
+    "objectID": 5177,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "GhostBlanketCavelingTrophy",
+    "objectID": 5178,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "BigLarvaVampireTrophy",
+    "objectID": 5179,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CavelingSkirmisherTrophy",
+    "objectID": 5180,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CavelingSpearmanTrophy",
+    "objectID": 5181,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CrystalStar",
+    "objectID": 5182,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "SnowGlobe",
+    "objectID": 5183,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "SentryNutcracker",
+    "objectID": 5184,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "WinterBell",
+    "objectID": 5185,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "ChristmasShamanTrophy",
+    "objectID": 5186,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "ChristmasSlimeTrophy",
+    "objectID": 5187,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "ChristmasSpikedSlimeTrophy",
+    "objectID": 5188,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "ChristmasBruteTrophy",
+    "objectID": 5189,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "ChristmasCavelingTrophy",
+    "objectID": 5190,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "ChristmasShroomanTrophy",
+    "objectID": 5191,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "LumpOfCoal",
+    "objectID": 5192,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "PinkRoseBouquet",
+    "objectID": 5193,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "WhiteRoseBouquet",
+    "objectID": 5194,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "GoldenRoseBouquet",
+    "objectID": 5195,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "EnchantedRose",
+    "objectID": 5196,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "RoseWater",
+    "objectID": 5197,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "HeartOfGold",
+    "objectID": 5198,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "BlueGlassKalimba",
+    "objectID": 5199,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "OffspringCapsule",
+    "objectID": 5200,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "HomeworldReminiscence",
+    "objectID": 5201,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CatalystGemstone",
+    "objectID": 5202,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "ChemicalRation",
+    "objectID": 5203,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "DeepspaceLog",
+    "objectID": 5204,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "TriopsFossil",
+    "objectID": 5205,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "SuspendedButterfly",
+    "objectID": 5206,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CrystalBone",
+    "objectID": 5207,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "AgarthaReport",
+    "objectID": 5208,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "SparkleOpal",
+    "objectID": 5209,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "AtlantianWormTrophy",
+    "objectID": 5210,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "MimiteTrophy",
+    "objectID": 5212,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "OrbitalTurretTrophy",
+    "objectID": 5213,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "NilipedeTrophy",
+    "objectID": 5214,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "ClayWormTrophy",
+    "objectID": 5215,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "HydraBossNatureTrophy",
+    "objectID": 5216,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "HydraBossDesertTrophy",
+    "objectID": 5217,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "HydraBossSeaTrophy",
+    "objectID": 5218,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CoreCommanderTrophy",
+    "objectID": 5219,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "UnleashedCoreCommanderTrophy",
+    "objectID": 5220,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "ColossalAmoebaTrophy",
+    "objectID": 5221,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "SulfurWormTrophy",
+    "objectID": 5222,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "WallBossTrophy",
+    "objectID": 5223,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CavelingMummyTrophy",
+    "objectID": 5224,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "ShroomanBruteTrophy",
+    "objectID": 5225,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "GoldenBombScarabTrophy",
+    "objectID": 5226,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CicadaNymphTrophy",
+    "objectID": 5227,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CicadaNatureTrophy",
+    "objectID": 5228,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "GiantCicadaBossTrophy",
+    "objectID": 5229,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "Mushroom",
+    "objectID": 5500,
+    "baseLevel": 2
+  },
+  {
+    "assetName": "GiantMushroom",
+    "objectID": 5501,
+    "baseLevel": 4
+  },
+  {
+    "assetName": "GiantMushroom2",
+    "objectID": 5502,
+    "baseLevel": 4
+  },
+  {
+    "assetName": "AmberLarva2",
+    "objectID": 5503,
+    "baseLevel": 9
+  },
+  {
+    "assetName": "StoneCavelingMoss",
+    "objectID": 5505,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "NatureCavelingMoss",
+    "objectID": 5506,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CityCavelingMoss",
+    "objectID": 5507,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "FungalGrowth",
+    "objectID": 5508,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "DesertCavelingMoss",
+    "objectID": 5509,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "ClayCavelingMoss",
+    "objectID": 5510,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "Chrysalis",
+    "objectID": 5511,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "GroundSlime",
+    "objectID": 5512,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "GroundAcidSlime",
+    "objectID": 5513,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "GroundPoisonSlime",
+    "objectID": 5514,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "GroundSlipperySlime",
+    "objectID": 5515,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "GroundLavaSlime",
+    "objectID": 5516,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CrystalCrust",
+    "objectID": 5517,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "AncientDestructible",
+    "objectID": 5520,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "LargeAncientDestructible",
+    "objectID": 5525,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "FallingRockDestructible",
+    "objectID": 5526,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "DiggingSpot",
+    "objectID": 5530,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "DiggingSpotNature",
+    "objectID": 5532,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "DiggingSpotSea",
+    "objectID": 5533,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "DiggingSpotDesert",
+    "objectID": 5534,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "DiggingSpotLava",
+    "objectID": 5535,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "SmallStones",
+    "objectID": 5540,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "SmallGrass",
+    "objectID": 5541,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "WallGrass",
+    "objectID": 5542,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "AncientDestructibleDebris",
+    "objectID": 5543,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "WoodenDestructibleDebris",
+    "objectID": 5544,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "JellyfishDestructibleDebris",
+    "objectID": 5545,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "NatureWoodenDestructibleDebris",
+    "objectID": 5546,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "SeaWoodenDestructibleDebris",
+    "objectID": 5547,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "DesertDestructibleDebris",
+    "objectID": 5548,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "LavaWoodenDestructibleDebris",
+    "objectID": 5549,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "DesertTempleDestructibleDebris",
+    "objectID": 5550,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CrystalDestructibleDebris",
+    "objectID": 5551,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "PassageDestructibleDebris",
+    "objectID": 5552,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "RuinsPiece1",
+    "objectID": 5570,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "RuinsPiece2",
+    "objectID": 5571,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "RuinsPiece3",
+    "objectID": 5572,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "RuinsPiece4",
+    "objectID": 5573,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "PottedLandKelp",
+    "objectID": 5580,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "PottedFlowerTree",
+    "objectID": 5581,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "PottedPlumeTree",
+    "objectID": 5582,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "PottedCherryTree",
+    "objectID": 5583,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "PottedLushTree",
+    "objectID": 5584,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "PottedPuffSticks",
+    "objectID": 5585,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "PottedLushBush",
+    "objectID": 5586,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "PottedMagmaTulip",
+    "objectID": 5587,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "PottedGlowberryTree",
+    "objectID": 5588,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "PottedGoldenOrbBush",
+    "objectID": 5589,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "PottedLucentTree",
+    "objectID": 5590,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "PottedAlienFlower",
+    "objectID": 5591,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "LargeShell",
+    "objectID": 5600,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "ColossCicada",
+    "objectID": 5601,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "SlimeDestructSmall",
+    "objectID": 5602,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "SlimeDestructMedium",
+    "objectID": 5603,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "SlimeDestructLarge",
+    "objectID": 5604,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "HiveVein",
+    "objectID": 5605,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "AmberBoulder",
+    "objectID": 5606,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "AmberLarva",
+    "objectID": 5607,
+    "baseLevel": 9
+  },
+  {
+    "assetName": "HiveBone",
+    "objectID": 5608,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "HiveDestructible",
+    "objectID": 5609,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "Stalagmite",
+    "objectID": 5610,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "WoodenDestructible",
+    "objectID": 5611,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "NatureDestructible",
+    "objectID": 5612,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "WaterKelp",
+    "objectID": 5613,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "WaterLily",
+    "objectID": 5614,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "NatureBones",
+    "objectID": 5615,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "AncientFeather",
+    "objectID": 5616,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "BirdPoop",
+    "objectID": 5617,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "AbyssTree",
+    "objectID": 5618,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "Bush",
+    "objectID": 5619,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "TallGrass",
+    "objectID": 5620,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "AncientGiant",
+    "objectID": 5621,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "GraveTree",
+    "objectID": 5622,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "Gravestone",
+    "objectID": 5623,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "AbandonedCampTent",
+    "objectID": 5624,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "AbandonedCampMatress",
+    "objectID": 5625,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "OldRebreather",
+    "objectID": 5626,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "RebreatherSceneSprout",
+    "objectID": 5627,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "AbandonedCampfire",
+    "objectID": 5628,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "WorshipMural",
+    "objectID": 5629,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "MoldDestructible",
+    "objectID": 5630,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "LargeMoldDestructible",
+    "objectID": 5631,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "MoldVein",
+    "objectID": 5632,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "PoisonSlimeDestructSmall",
+    "objectID": 5633,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "PoisonSlimeDestructMedium",
+    "objectID": 5634,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "PoisonSlimeDestructLarge",
+    "objectID": 5635,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "NatureWoodenDestructible",
+    "objectID": 5636,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "HydraBossStalactite",
+    "objectID": 5637,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "HydraHeadNature",
+    "objectID": 5638,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "BigJungleTree",
+    "objectID": 5639,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CicadaBurrow",
+    "objectID": 5640,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CavelingFloorTile",
+    "objectID": 5700,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "BrokenStonePillar",
+    "objectID": 5701,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CavelingPot",
+    "objectID": 5702,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CavelingTable",
+    "objectID": 5703,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CavelingChair",
+    "objectID": 5704,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CavelingToilet",
+    "objectID": 5705,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CavelingBed",
+    "objectID": 5706,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CavelingWall",
+    "objectID": 5707,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CavelingShortWall",
+    "objectID": 5708,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "WaterWell",
+    "objectID": 5709,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CavelingFloorTileDark",
+    "objectID": 5710,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CavelingThrone",
+    "objectID": 5711,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "LarvaBBQ",
+    "objectID": 5712,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "LarvaSkewer",
+    "objectID": 5713,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "LarvaskinTent",
+    "objectID": 5714,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "SpearRack",
+    "objectID": 5715,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "Kiln1",
+    "objectID": 5716,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "Kiln2",
+    "objectID": 5717,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "LarvaskinRug",
+    "objectID": 5718,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "LarvaskinRugRed",
+    "objectID": 5719,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "LeatherFrameSmall",
+    "objectID": 5720,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "LeatherFrame",
+    "objectID": 5721,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "ClayPot",
+    "objectID": 5722,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "MoldTree",
+    "objectID": 5750,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "MoldWell",
+    "objectID": 5751,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "MoldPillar",
+    "objectID": 5752,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "MoldCicada",
+    "objectID": 5753,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "MoldWorshipMural",
+    "objectID": 5754,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "FloatyMold",
+    "objectID": 5755,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "MoldCicadaWithoutSickle",
+    "objectID": 5756,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "JellyfishDestructable",
+    "objectID": 5800,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "LargeJellyfishDestructable",
+    "objectID": 5801,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "GlowingCoral",
+    "objectID": 5802,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "LandKelp",
+    "objectID": 5803,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "TallLandKelp",
+    "objectID": 5804,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "KelpTree",
+    "objectID": 5805,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "FishingNetRack",
+    "objectID": 5806,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "DriftwoodTable",
+    "objectID": 5807,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "DriftwoodStool",
+    "objectID": 5808,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "WoodenSign1",
+    "objectID": 5809,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "WoodenSign2",
+    "objectID": 5810,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "ConchShell",
+    "objectID": 5811,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "OceanKingFossil",
+    "objectID": 5812,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "TurtleRock",
+    "objectID": 5813,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CavelingMonument",
+    "objectID": 5814,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CavelingMonumentBroken",
+    "objectID": 5815,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CavelingShip",
+    "objectID": 5816,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "ChronicleGallery",
+    "objectID": 5817,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "BrokenCore",
+    "objectID": 5818,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "RuinsGate",
+    "objectID": 5819,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "RuinsCoreRelief",
+    "objectID": 5820,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "BigFloorTileGemstone",
+    "objectID": 5821,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "BigFloorTileCaveling",
+    "objectID": 5822,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "BigFloorTileScholar",
+    "objectID": 5823,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "InfoBoardSmall",
+    "objectID": 5824,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "InfoBoardLarge",
+    "objectID": 5825,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "InfoBoardBroken",
+    "objectID": 5826,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "RuinsTable",
+    "objectID": 5827,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "RuinsTableSmall",
+    "objectID": 5828,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "RuinsStool",
+    "objectID": 5829,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "RuinsShelfSmall",
+    "objectID": 5830,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "RuinsShelfLarge",
+    "objectID": 5831,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "RuinsFireplace",
+    "objectID": 5832,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "RuinsCavelingPillar",
+    "objectID": 5833,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "VendingMachine",
+    "objectID": 5834,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "VendingMachineBroken",
+    "objectID": 5835,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CavelingShipBeached",
+    "objectID": 5836,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "SeaShell",
+    "objectID": 5837,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "BrokenCoreSentry1",
+    "objectID": 5838,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "BrokenCoreSentry2",
+    "objectID": 5839,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CityDestructible",
+    "objectID": 5840,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "LargeCityDestructible",
+    "objectID": 5841,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "SeaWoodenDestructible",
+    "objectID": 5842,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "ShrineMural",
+    "objectID": 5843,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "SurfaceCoral1Large",
+    "objectID": 5844,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "SurfaceCoral1Medium",
+    "objectID": 5845,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "SurfaceCoral1Small",
+    "objectID": 5846,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "SurfaceCoral2Large",
+    "objectID": 5847,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "SurfaceCoral2Small",
+    "objectID": 5848,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "SurfaceCoral3Large",
+    "objectID": 5849,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "SurfaceCoral3Small",
+    "objectID": 5850,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "HydraBossIceShard",
+    "objectID": 5851,
+    "baseLevel": 14
+  },
+  {
+    "assetName": "HydraHeadSea",
+    "objectID": 5852,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "DesertDestructible",
+    "objectID": 5860,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "LargeDesertDestructible",
+    "objectID": 5861,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "SmallDesertGrass",
+    "objectID": 5862,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "LavaWoodenDestructible",
+    "objectID": 5863,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "DesertTempleDestructible",
+    "objectID": 5864,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "LargeDesertTempleDestructible",
+    "objectID": 5865,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "GreenDesertDestructible",
+    "objectID": 5866,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "GreenLargeDesertDestructible",
+    "objectID": 5867,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "DesertBush",
+    "objectID": 5868,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "DesertRock1",
+    "objectID": 5869,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "DesertRock2Left",
+    "objectID": 5870,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "DesertRock3Right",
+    "objectID": 5871,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "Geyser",
+    "objectID": 5872,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "MammothFossil",
+    "objectID": 5873,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "PlumeTree",
+    "objectID": 5874,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CrystalMeteor",
+    "objectID": 5875,
+    "baseLevel": 12
+  },
+  {
+    "assetName": "HuntingSceneRock",
+    "objectID": 5876,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "DesertRockSmall",
+    "objectID": 5877,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "ScarabWingcover",
+    "objectID": 5878,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CrystalMeteorBoulder",
+    "objectID": 5879,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "AncientForge",
+    "objectID": 5880,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "TemplePillar",
+    "objectID": 5881,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "TempleGlyphWall1",
+    "objectID": 5882,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "TempleGlyphWall2",
+    "objectID": 5883,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "SmallTempleRug",
+    "objectID": 5884,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "LargeTempleRug",
+    "objectID": 5885,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "TempleGuardianStatue",
+    "objectID": 5886,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "TempleGuardianStatueRaided",
+    "objectID": 5887,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "TempleGlyphBlock",
+    "objectID": 5888,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "TempleGlyphBlockBroken",
+    "objectID": 5889,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "TempleThrone",
+    "objectID": 5900,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "TemplePedestal",
+    "objectID": 5901,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "TempleAzeosUrn",
+    "objectID": 5902,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "TempleRaAkarUrn",
+    "objectID": 5903,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "TempleOmorothUrn",
+    "objectID": 5904,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "QueenGrave",
+    "objectID": 5905,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "KingGrave",
+    "objectID": 5906,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "PrinceGrave",
+    "objectID": 5907,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "EmptyGrave",
+    "objectID": 5908,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "BrokenGrave",
+    "objectID": 5909,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "IntactGrave",
+    "objectID": 5910,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "TiltedGrave",
+    "objectID": 5911,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "MeteorRock",
+    "objectID": 5912,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "TempleMuralAzeos",
+    "objectID": 5913,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "TempleMuralOmoroth",
+    "objectID": 5914,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "TempleMuralRaAkar",
+    "objectID": 5915,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "LavaRock",
+    "objectID": 5916,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "EmberPit",
+    "objectID": 5917,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "SmithingBellow",
+    "objectID": 5918,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "LavaPost1",
+    "objectID": 5919,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "LavaPost2",
+    "objectID": 5920,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "Wheelbarrow",
+    "objectID": 5921,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "DesertRock2Right",
+    "objectID": 5922,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "DesertRock3Left",
+    "objectID": 5923,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "HydraHeadDesert",
+    "objectID": 5924,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "LiquidMetalBasin",
+    "objectID": 5925,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "LiquidMetalVent",
+    "objectID": 5926,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "AlienTechDestructible",
+    "objectID": 5940,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "LargeAlienTechDestructible",
+    "objectID": 5941,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CryoPod1",
+    "objectID": 5942,
+    "baseLevel": 14
+  },
+  {
+    "assetName": "CryoPod2",
+    "objectID": 5943,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CryoPod3",
+    "objectID": 5944,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CrystalDestructible",
+    "objectID": 5945,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "LargeCrystalDestructible",
+    "objectID": 5946,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CrystalCicada",
+    "objectID": 5947,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "TowerShell",
+    "objectID": 5948,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "LucentOakTree",
+    "objectID": 5949,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "TallCrystalGrass",
+    "objectID": 5950,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "SmallCrystalGrass",
+    "objectID": 5951,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CrystalTent",
+    "objectID": 5952,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "RadiationCrystal",
+    "objectID": 5953,
+    "baseLevel": 16
+  },
+  {
+    "assetName": "GeodeWallDisplay",
+    "objectID": 5954,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "ObeliskSmall",
+    "objectID": 5955,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "ObeliskTall",
+    "objectID": 5956,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "SingingCrystal",
+    "objectID": 5957,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "AlienTechSpire",
+    "objectID": 5958,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "AlienTechCrystalLight",
+    "objectID": 5959,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "AlienFloorVent",
+    "objectID": 5960,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "AlienObeliskSmall",
+    "objectID": 5961,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "AlienObeliskTall",
+    "objectID": 5962,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "SulfurTree",
+    "objectID": 5970,
+    "baseLevel": 15
+  },
+  {
+    "assetName": "SulfurBud",
+    "objectID": 5971,
+    "baseLevel": 15
+  },
+  {
+    "assetName": "FeatherTree",
+    "objectID": 5972,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "SmallFeatherTree",
+    "objectID": 5973,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "FeatherTreeCyan",
+    "objectID": 5974,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "SmallFeatherTreeCyan",
+    "objectID": 5975,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "TallBarnacleGrass",
+    "objectID": 5976,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "SmallBarnacleGrass",
+    "objectID": 5977,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "PassageGroundDecoration",
+    "objectID": 5978,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "PandoriumCrystal",
+    "objectID": 5979,
+    "baseLevel": 15
+  },
+  {
+    "assetName": "SmallPandoriumCrystal",
+    "objectID": 5980,
+    "baseLevel": 15
+  },
+  {
+    "assetName": "PassageDestructible",
+    "objectID": 5981,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "LargePassageDestructible",
+    "objectID": 5982,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "PassageCraftingStatue",
+    "objectID": 5983,
+    "baseLevel": 18
+  },
+  {
+    "assetName": "AmoebaBomb",
+    "objectID": 5984,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "GrimyStonePillar",
+    "objectID": 5985,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "GrimyStoneFloor",
+    "objectID": 5986,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "StoneLantern",
+    "objectID": 5987,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "OasisStalagmite",
+    "objectID": 5988,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "OasisGroundDecoration",
+    "objectID": 5989,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "OasisSucculent",
+    "objectID": 5990,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "OasisSucculentLarge",
+    "objectID": 5991,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "WaterReed",
+    "objectID": 5992,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CultistColossCicada",
+    "objectID": 5993,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "Player",
+    "objectID": 6000,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "PlayerCrafting",
+    "objectID": 6001,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "PlayerGrave",
+    "objectID": 6002,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "Lever",
+    "objectID": 6500,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "ElectricalWire",
+    "objectID": 6501,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "AncientWire",
+    "objectID": 6502,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "IndestructibleAncientWire",
+    "objectID": 6503,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "ElectricalDoor",
+    "objectID": 6504,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "LogicCircuit",
+    "objectID": 6505,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "PulseCircuit",
+    "objectID": 6506,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "DelayCircuit",
+    "objectID": 6507,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "ElectricityStick",
+    "objectID": 6508,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "DynamitePack",
+    "objectID": 6509,
+    "baseLevel": 6
+  },
+  {
+    "assetName": "PressurePlate",
+    "objectID": 6510,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CrossCircuit",
+    "objectID": 6511,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "EnemySpawnerPlatform",
+    "objectID": 6512,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "EventTerminal",
+    "objectID": 6513,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "WayPoint",
+    "objectID": 6514,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "Rail",
+    "objectID": 6550,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "Minecart",
+    "objectID": 6551,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "WonkyMinecart",
+    "objectID": 6552,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "Boat",
+    "objectID": 6580,
+    "baseLevel": 8
+  },
+  {
+    "assetName": "SpeederBoat",
+    "objectID": 6581,
+    "baseLevel": 11
+  },
+  {
+    "assetName": "SpeederGoKart",
+    "objectID": 6590,
+    "baseLevel": 9
+  },
+  {
+    "assetName": "RenegadeGoKart",
+    "objectID": 6591,
+    "baseLevel": 9
+  },
+  {
+    "assetName": "PrimitiveGoKart",
+    "objectID": 6592,
+    "baseLevel": 8
+  },
+  {
+    "assetName": "HiveSpikeTrap",
+    "objectID": 6600,
+    "baseLevel": 6
+  },
+  {
+    "assetName": "SpikeTrap",
+    "objectID": 6601,
+    "baseLevel": 4
+  },
+  {
+    "assetName": "FireTrap",
+    "objectID": 6602,
+    "baseLevel": 6
+  },
+  {
+    "assetName": "PoisonTrap",
+    "objectID": 6604,
+    "baseLevel": 12
+  },
+  {
+    "assetName": "GalaxiteTrap",
+    "objectID": 6609,
+    "baseLevel": 13
+  },
+  {
+    "assetName": "WoodSpikeTrap",
+    "objectID": 6610,
+    "baseLevel": 2
+  },
+  {
+    "assetName": "Napalm",
+    "objectID": 6630,
+    "baseLevel": 2
+  },
+  {
+    "assetName": "Drill",
+    "objectID": 6650,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "ConveyorBelt",
+    "objectID": 6651,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "RobotArm",
+    "objectID": 6652,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "Sprinkler",
+    "objectID": 6653,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "TempleTurret",
+    "objectID": 6654,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "GalaxiteTurret",
+    "objectID": 6655,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CrudeDrill",
+    "objectID": 6656,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "GrimyStoneBookshelf",
+    "objectID": 6800,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "GrimyStoneBookshelfLarge",
+    "objectID": 6801,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "GrimyStoneTable",
+    "objectID": 6803,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "AFScienceHelm",
+    "objectID": 6820,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "AFScienceBreastArmor",
+    "objectID": 6821,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "AFSciencePantsArmor",
+    "objectID": 6822,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "AFWhiteBoard",
+    "objectID": 6823,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "AFWaterCooler",
+    "objectID": 6824,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "AFBottledAnomaly",
+    "objectID": 6825,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "AFVendingMachine",
+    "objectID": 6826,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "AFWoodenDestructible",
+    "objectID": 6827,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "AFPipeClub",
+    "objectID": 6829,
+    "baseLevel": 8
+  },
+  {
+    "assetName": "AFQuillRifle",
+    "objectID": 6830,
+    "baseLevel": 7
+  },
+  {
+    "assetName": "AFDrink1",
+    "objectID": 6831,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "AFDrink2",
+    "objectID": 6832,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "AFDrink3",
+    "objectID": 6833,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "AFDrink4",
+    "objectID": 6834,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "AFDrink5",
+    "objectID": 6835,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "AFDrink6",
+    "objectID": 6836,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "AFPortal",
+    "objectID": 6837,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "AFQuillProjectile",
+    "objectID": 6838,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "AFPestElectric",
+    "objectID": 6839,
+    "baseLevel": 7
+  },
+  {
+    "assetName": "AFPestElectricTrophy",
+    "objectID": 6840,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "LarvaTerritorySpawner",
+    "objectID": 7000,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "SlimeTerritorySpawner",
+    "objectID": 7001,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CavelingTerritorySpawner",
+    "objectID": 7002,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CavelingNatureTerritorySpawner",
+    "objectID": 7003,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "AzeosFeatherFan",
+    "objectID": 7100,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "OmorothCompass",
+    "objectID": 7200,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "RaAkarAutomaton",
+    "objectID": 7300,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "InstrumentHarp",
+    "objectID": 7400,
+    "baseLevel": 2
+  },
+  {
+    "assetName": "InstrumentCello",
+    "objectID": 7401,
+    "baseLevel": 2
+  },
+  {
+    "assetName": "InstrumentFlute",
+    "objectID": 7402,
+    "baseLevel": 2
+  },
+  {
+    "assetName": "InstrumentDrumkit",
+    "objectID": 7403,
+    "baseLevel": 2
+  },
+  {
+    "assetName": "InstrumentPiano",
+    "objectID": 7404,
+    "baseLevel": 2
+  },
+  {
+    "assetName": "MelodyListenerMural",
+    "objectID": 7453,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "MelodyListenerMuralDirt",
+    "objectID": 7454,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "MelodyListenerMuralClay",
+    "objectID": 7455,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "MelodyListenerMuralStone",
+    "objectID": 7456,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "MelodyListenerMuralNature",
+    "objectID": 7457,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "MelodyListenerMuralSea",
+    "objectID": 7458,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "MelodyListenerMuralDesert",
+    "objectID": 7459,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "Milk",
+    "objectID": 7900,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "Meat",
+    "objectID": 7901,
+    "baseLevel": 4
+  },
+  {
+    "assetName": "Egg",
+    "objectID": 7902,
+    "baseLevel": 8
+  },
+  {
+    "assetName": "HeartBerrySeed",
+    "objectID": 8001,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "HeartBerryPlant",
+    "objectID": 8002,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "HeartBerry",
+    "objectID": 8003,
+    "baseLevel": 4
+  },
+  {
+    "assetName": "GlowingTulipSeed",
+    "objectID": 8004,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "GlowingTulipPlant",
+    "objectID": 8005,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "GlowingTulipFlower",
+    "objectID": 8006,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "BombPepperSeed",
+    "objectID": 8007,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "BombPepperPlant",
+    "objectID": 8008,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "BombPepper",
+    "objectID": 8009,
+    "baseLevel": 5
+  },
+  {
+    "assetName": "CarrockSeed",
+    "objectID": 8010,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CarrockPlant",
+    "objectID": 8011,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "Carrock",
+    "objectID": 8012,
+    "baseLevel": 7
+  },
+  {
+    "assetName": "PuffungiSeed",
+    "objectID": 8013,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "PuffungiPlant",
+    "objectID": 8014,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "Puffungi",
+    "objectID": 8015,
+    "baseLevel": 10
+  },
+  {
+    "assetName": "RootSeed",
+    "objectID": 8016,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "RootPlant",
+    "objectID": 8017,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "GrubKapokSeed",
+    "objectID": 8018,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "GrubKapokPlant",
+    "objectID": 8019,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CoralRootSeed",
+    "objectID": 8020,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CoralRootPlant",
+    "objectID": 8021,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "BloatOatSeed",
+    "objectID": 8022,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "BloatOatPlant",
+    "objectID": 8023,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "BloatOat",
+    "objectID": 8024,
+    "baseLevel": 9
+  },
+  {
+    "assetName": "PewpayaSeed",
+    "objectID": 8025,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "PewpayaPlant",
+    "objectID": 8026,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "Pewpaya",
+    "objectID": 8027,
+    "baseLevel": 11
+  },
+  {
+    "assetName": "PinegrappleSeed",
+    "objectID": 8028,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "PinegrapplePlant",
+    "objectID": 8029,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "Pinegrapple",
+    "objectID": 8030,
+    "baseLevel": 11
+  },
+  {
+    "assetName": "GrumpkinSeed",
+    "objectID": 8031,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "GrumpkinPlant",
+    "objectID": 8032,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "Grumpkin",
+    "objectID": 8033,
+    "baseLevel": 7
+  },
+  {
+    "assetName": "SunriceSeed",
+    "objectID": 8034,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "SunricePlant",
+    "objectID": 8035,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "Sunrice",
+    "objectID": 8036,
+    "baseLevel": 15
+  },
+  {
+    "assetName": "LunacornSeed",
+    "objectID": 8037,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "LunacornPlant",
+    "objectID": 8038,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "Lunacorn",
+    "objectID": 8039,
+    "baseLevel": 15
+  },
+  {
+    "assetName": "GleamRootSeed",
+    "objectID": 8040,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "GleamRootPlant",
+    "objectID": 8041,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "HeartBerryRare",
+    "objectID": 8100,
+    "baseLevel": 6
+  },
+  {
+    "assetName": "GlowingTulipFlowerRare",
+    "objectID": 8101,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "BombPepperRare",
+    "objectID": 8102,
+    "baseLevel": 6
+  },
+  {
+    "assetName": "CarrockRare",
+    "objectID": 8103,
+    "baseLevel": 8
+  },
+  {
+    "assetName": "PuffungiRare",
+    "objectID": 8104,
+    "baseLevel": 11
+  },
+  {
+    "assetName": "BloatOatRare",
+    "objectID": 8105,
+    "baseLevel": 10
+  },
+  {
+    "assetName": "PewpayaRare",
+    "objectID": 8106,
+    "baseLevel": 12
+  },
+  {
+    "assetName": "PinegrappleRare",
+    "objectID": 8107,
+    "baseLevel": 12
+  },
+  {
+    "assetName": "GrumpkinRare",
+    "objectID": 8108,
+    "baseLevel": 8
+  },
+  {
+    "assetName": "SunriceRare",
+    "objectID": 8109,
+    "baseLevel": 16
+  },
+  {
+    "assetName": "LunacornRare",
+    "objectID": 8110,
+    "baseLevel": 16
+  },
+  {
+    "assetName": "RecallIdol",
+    "objectID": 8200,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "HiveMotherScanner",
+    "objectID": 8210,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "LarvaBossScanner",
+    "objectID": 8211,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "ShamanBossScanner",
+    "objectID": 8212,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "BirdBossScanner",
+    "objectID": 8220,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "PoisonSlimeBossScanner",
+    "objectID": 8221,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "OctopusBossScanner",
+    "objectID": 8225,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "SlipperySlimeBossScanner",
+    "objectID": 8226,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "ScarabBossScanner",
+    "objectID": 8227,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "LavaSlimeBossScanner",
+    "objectID": 8228,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "SnakeBossScanner",
+    "objectID": 8229,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CoreBossScanner",
+    "objectID": 8230,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "HydraBossNatureScanner",
+    "objectID": 8231,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "HydraBossSeaScanner",
+    "objectID": 8232,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "HydraBossDesertScanner",
+    "objectID": 8233,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "WallBossScanner",
+    "objectID": 8234,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "GiantCicadaBossScanner",
+    "objectID": 8235,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "LegendarySwordParchment",
+    "objectID": 8250,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "LegendaryBowParchment",
+    "objectID": 8251,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "ProtocolSlate",
+    "objectID": 8252,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "ProtocolSlateKey",
+    "objectID": 8253,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "LegendaryMiningPickParchment",
+    "objectID": 8254,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "BindingString",
+    "objectID": 8255,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "Lantern",
+    "objectID": 8300,
+    "baseLevel": 6
+  },
+  {
+    "assetName": "OrbLantern",
+    "objectID": 8301,
+    "baseLevel": 9
+  },
+  {
+    "assetName": "SmallLantern",
+    "objectID": 8302,
+    "baseLevel": 2
+  },
+  {
+    "assetName": "PumpkinLantern",
+    "objectID": 8303,
+    "baseLevel": 7
+  },
+  {
+    "assetName": "PearlLantern",
+    "objectID": 8304,
+    "baseLevel": 12
+  },
+  {
+    "assetName": "SoulLantern",
+    "objectID": 8305,
+    "baseLevel": 12
+  },
+  {
+    "assetName": "WoodShield",
+    "objectID": 8320,
+    "baseLevel": 2
+  },
+  {
+    "assetName": "PoisonousShield",
+    "objectID": 8321,
+    "baseLevel": 10
+  },
+  {
+    "assetName": "OctarineShield",
+    "objectID": 8322,
+    "baseLevel": 12
+  },
+  {
+    "assetName": "IronShield",
+    "objectID": 8323,
+    "baseLevel": 7
+  },
+  {
+    "assetName": "MinionDetonator",
+    "objectID": 8330,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "SwiftFeather",
+    "objectID": 8340,
+    "baseLevel": 4
+  },
+  {
+    "assetName": "AzeosSwiftFeather",
+    "objectID": 8341,
+    "baseLevel": 10
+  },
+  {
+    "assetName": "CavelingSkinTome",
+    "objectID": 8350,
+    "baseLevel": 9
+  },
+  {
+    "assetName": "GoldenJellyfish",
+    "objectID": 8351,
+    "baseLevel": 12
+  },
+  {
+    "assetName": "CavelingID",
+    "objectID": 8352,
+    "baseLevel": 12
+  },
+  {
+    "assetName": "TurtleShell",
+    "objectID": 8353,
+    "baseLevel": 13
+  },
+  {
+    "assetName": "OmorothBeak",
+    "objectID": 8354,
+    "baseLevel": 14
+  },
+  {
+    "assetName": "GolemShield",
+    "objectID": 8355,
+    "baseLevel": 13
+  },
+  {
+    "assetName": "RoyalGel",
+    "objectID": 8356,
+    "baseLevel": 9
+  },
+  {
+    "assetName": "CrystalMeteorShardOffhand",
+    "objectID": 8357,
+    "baseLevel": 15
+  },
+  {
+    "assetName": "LavaShield",
+    "objectID": 8358,
+    "baseLevel": 16
+  },
+  {
+    "assetName": "ConceiledBlade",
+    "objectID": 8359,
+    "baseLevel": 13
+  },
+  {
+    "assetName": "SmithingGlove",
+    "objectID": 8360,
+    "baseLevel": 15
+  },
+  {
+    "assetName": "OracleDeck",
+    "objectID": 8361,
+    "baseLevel": 15
+  },
+  {
+    "assetName": "CoreEye",
+    "objectID": 8362,
+    "baseLevel": 16
+  },
+  {
+    "assetName": "PetRock",
+    "objectID": 8363,
+    "baseLevel": 16
+  },
+  {
+    "assetName": "HydraBoneShield",
+    "objectID": 8364,
+    "baseLevel": 16
+  },
+  {
+    "assetName": "HydraBoneTooth",
+    "objectID": 8365,
+    "baseLevel": 16
+  },
+  {
+    "assetName": "TrinityHeartOrbOffhand",
+    "objectID": 8366,
+    "baseLevel": 17
+  },
+  {
+    "assetName": "RiftLensOffhand",
+    "objectID": 8368,
+    "baseLevel": 8
+  },
+  {
+    "assetName": "MoonstoneOffhand",
+    "objectID": 8369,
+    "baseLevel": 14
+  },
+  {
+    "assetName": "BaitFishBitesFaster",
+    "objectID": 8380,
+    "baseLevel": 4
+  },
+  {
+    "assetName": "BaitIncreasedChanceToGetFish",
+    "objectID": 8381,
+    "baseLevel": 4
+  },
+  {
+    "assetName": "BaitIncreasedChanceToGetFishLoot",
+    "objectID": 8382,
+    "baseLevel": 4
+  },
+  {
+    "assetName": "BaitFishStartsCloserToBeReeledIn",
+    "objectID": 8383,
+    "baseLevel": 4
+  },
+  {
+    "assetName": "BaitOctopusBoss",
+    "objectID": 8384,
+    "baseLevel": 13
+  },
+  {
+    "assetName": "BaitIncreaseChanceOfHigherRarityFish",
+    "objectID": 8385,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "BaitFishBitesFasterAndIncreasedChanceToGetFish",
+    "objectID": 8386,
+    "baseLevel": 9
+  },
+  {
+    "assetName": "BaitFishBitesFasterAndStartsCloserToBeReeledIn",
+    "objectID": 8387,
+    "baseLevel": 9
+  },
+  {
+    "assetName": "CaveBag",
+    "objectID": 8400,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "GhormsStomachBag",
+    "objectID": 8401,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "ScarletShellBackpack",
+    "objectID": 8402,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "ExplorerBackpack",
+    "objectID": 8403,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "OctarineBackpack",
+    "objectID": 8404,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "MorphaBag",
+    "objectID": 8405,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "JuteBag",
+    "objectID": 8406,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "ScholarBag",
+    "objectID": 8407,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "OreAndBlockPouch",
+    "objectID": 8450,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "MediumOreAndBlockPouch",
+    "objectID": 8451,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "SeedAndCropsPouch",
+    "objectID": 8452,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "MediumSeedAndCropsPouch",
+    "objectID": 8453,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "ValuablePouch",
+    "objectID": 8454,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "MediumValuablePouch",
+    "objectID": 8455,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "FishPouch",
+    "objectID": 8456,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "MediumFishPouch",
+    "objectID": 8457,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "LargeOreAndBlockPouch",
+    "objectID": 8458,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "LargeSeedAndCropsPouch",
+    "objectID": 8459,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "LargeValuablePouch",
+    "objectID": 8460,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "LargeFishPouch",
+    "objectID": 8461,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CopperHelm",
+    "objectID": 8500,
+    "baseLevel": 3
+  },
+  {
+    "assetName": "WoodHelm",
+    "objectID": 8501,
+    "baseLevel": 2
+  },
+  {
+    "assetName": "PeasantHelm",
+    "objectID": 8502,
+    "baseLevel": 1
+  },
+  {
+    "assetName": "CavelingHelm",
+    "objectID": 8503,
+    "baseLevel": 7
+  },
+  {
+    "assetName": "IronHelm",
+    "objectID": 8504,
+    "baseLevel": 7
+  },
+  {
+    "assetName": "BronzeHelm",
+    "objectID": 8505,
+    "baseLevel": 5
+  },
+  {
+    "assetName": "CarapaceHelm",
+    "objectID": 8509,
+    "baseLevel": 8
+  },
+  {
+    "assetName": "LarvaHelm",
+    "objectID": 8510,
+    "baseLevel": 8
+  },
+  {
+    "assetName": "ScarletHelm",
+    "objectID": 8511,
+    "baseLevel": 10
+  },
+  {
+    "assetName": "HunterHelm",
+    "objectID": 8512,
+    "baseLevel": 10
+  },
+  {
+    "assetName": "FarmerHelm",
+    "objectID": 8513,
+    "baseLevel": 9
+  },
+  {
+    "assetName": "OctarineHelm",
+    "objectID": 8514,
+    "baseLevel": 12
+  },
+  {
+    "assetName": "RadicalRabbitEars",
+    "objectID": 8515,
+    "baseLevel": 10
+  },
+  {
+    "assetName": "ScholarHelm",
+    "objectID": 8516,
+    "baseLevel": 13
+  },
+  {
+    "assetName": "DiverHelm",
+    "objectID": 8517,
+    "baseLevel": 13
+  },
+  {
+    "assetName": "SlimeHelm",
+    "objectID": 8518,
+    "baseLevel": 12
+  },
+  {
+    "assetName": "GolemHelm",
+    "objectID": 8519,
+    "baseLevel": 14
+  },
+  {
+    "assetName": "SunglassesHelm",
+    "objectID": 8520,
+    "baseLevel": 10
+  },
+  {
+    "assetName": "OctopusHelm",
+    "objectID": 8521,
+    "baseLevel": 13
+  },
+  {
+    "assetName": "KingSlimeCrown",
+    "objectID": 8522,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "GalaxiteHelm",
+    "objectID": 8523,
+    "baseLevel": 14
+  },
+  {
+    "assetName": "AssassinHelm",
+    "objectID": 8524,
+    "baseLevel": 14
+  },
+  {
+    "assetName": "LavaHelm",
+    "objectID": 8525,
+    "baseLevel": 16
+  },
+  {
+    "assetName": "ScarabHelm",
+    "objectID": 8526,
+    "baseLevel": 15
+  },
+  {
+    "assetName": "MinerHelm",
+    "objectID": 8527,
+    "baseLevel": 16
+  },
+  {
+    "assetName": "DesertHelm",
+    "objectID": 8528,
+    "baseLevel": 13
+  },
+  {
+    "assetName": "PumpkinHelm",
+    "objectID": 8529,
+    "baseLevel": 8
+  },
+  {
+    "assetName": "GhostBlanketHelm",
+    "objectID": 8530,
+    "baseLevel": 7
+  },
+  {
+    "assetName": "FrankensteinHelm",
+    "objectID": 8531,
+    "baseLevel": 8
+  },
+  {
+    "assetName": "GodsentHelm",
+    "objectID": 8532,
+    "baseLevel": 16
+  },
+  {
+    "assetName": "SkirmisherHelm",
+    "objectID": 8533,
+    "baseLevel": 6
+  },
+  {
+    "assetName": "SantaHelm",
+    "objectID": 8534,
+    "baseLevel": 3
+  },
+  {
+    "assetName": "GingerbreadManHelm",
+    "objectID": 8535,
+    "baseLevel": 8
+  },
+  {
+    "assetName": "GingerbreadHoodHelm",
+    "objectID": 8536,
+    "baseLevel": 8
+  },
+  {
+    "assetName": "SnowmanHelm",
+    "objectID": 8537,
+    "baseLevel": 3
+  },
+  {
+    "assetName": "WeddingHelm",
+    "objectID": 8538,
+    "baseLevel": 2
+  },
+  {
+    "assetName": "SuitHelm",
+    "objectID": 8539,
+    "baseLevel": 2
+  },
+  {
+    "assetName": "ArcheologyHelm",
+    "objectID": 8540,
+    "baseLevel": 2
+  },
+  {
+    "assetName": "CookHelm",
+    "objectID": 8541,
+    "baseLevel": 2
+  },
+  {
+    "assetName": "RadicalRabbitEarsDiadem",
+    "objectID": 8542,
+    "baseLevel": 10
+  },
+  {
+    "assetName": "ExplorerHelm",
+    "objectID": 8543,
+    "baseLevel": 3
+  },
+  {
+    "assetName": "TamerHelm",
+    "objectID": 8544,
+    "baseLevel": 10
+  },
+  {
+    "assetName": "RangerHelm",
+    "objectID": 8545,
+    "baseLevel": 3
+  },
+  {
+    "assetName": "MushroomHelm",
+    "objectID": 8546,
+    "baseLevel": 3
+  },
+  {
+    "assetName": "PotHelm",
+    "objectID": 8547,
+    "baseLevel": 5
+  },
+  {
+    "assetName": "ShamanHelm",
+    "objectID": 8548,
+    "baseLevel": 9
+  },
+  {
+    "assetName": "HiveBoneHelm",
+    "objectID": 8549,
+    "baseLevel": 9
+  },
+  {
+    "assetName": "RamboHelm",
+    "objectID": 8550,
+    "baseLevel": 10
+  },
+  {
+    "assetName": "MoldwebHelm",
+    "objectID": 8551,
+    "baseLevel": 10
+  },
+  {
+    "assetName": "PlagueDoctorHelm",
+    "objectID": 8552,
+    "baseLevel": 12
+  },
+  {
+    "assetName": "CrystalHelm",
+    "objectID": 8553,
+    "baseLevel": 16
+  },
+  {
+    "assetName": "AtlantianWormHelm",
+    "objectID": 8554,
+    "baseLevel": 17
+  },
+  {
+    "assetName": "CookingPotHelm",
+    "objectID": 8555,
+    "baseLevel": 6
+  },
+  {
+    "assetName": "NinjaHelm",
+    "objectID": 8556,
+    "baseLevel": 17
+  },
+  {
+    "assetName": "AlienTechHelm",
+    "objectID": 8557,
+    "baseLevel": 16
+  },
+  {
+    "assetName": "RadiationHelm",
+    "objectID": 8558,
+    "baseLevel": 16
+  },
+  {
+    "assetName": "HydraBoneHelm",
+    "objectID": 8559,
+    "baseLevel": 17
+  },
+  {
+    "assetName": "CoreCommanderHelm",
+    "objectID": 8560,
+    "baseLevel": 17
+  },
+  {
+    "assetName": "CorruptWardenHelm",
+    "objectID": 8561,
+    "baseLevel": 10
+  },
+  {
+    "assetName": "WitchDoctorHelm",
+    "objectID": 8562,
+    "baseLevel": 3
+  },
+  {
+    "assetName": "GrimHelm",
+    "objectID": 8563,
+    "baseLevel": 16
+  },
+  {
+    "assetName": "ApprenticeHelm",
+    "objectID": 8564,
+    "baseLevel": 3
+  },
+  {
+    "assetName": "SorcererHelm",
+    "objectID": 8565,
+    "baseLevel": 13
+  },
+  {
+    "assetName": "ArcaneMonkHelm",
+    "objectID": 8566,
+    "baseLevel": 17
+  },
+  {
+    "assetName": "PandoriumHelm",
+    "objectID": 8567,
+    "baseLevel": 17
+  },
+  {
+    "assetName": "SulfurHelm",
+    "objectID": 8568,
+    "baseLevel": 18
+  },
+  {
+    "assetName": "ChieftainHelm",
+    "objectID": 8569,
+    "baseLevel": 5
+  },
+  {
+    "assetName": "SoaringHelm",
+    "objectID": 8570,
+    "baseLevel": 7
+  },
+  {
+    "assetName": "DancerHelm",
+    "objectID": 8571,
+    "baseLevel": 14
+  },
+  {
+    "assetName": "SwampMageHelm",
+    "objectID": 8572,
+    "baseLevel": 10
+  },
+  {
+    "assetName": "DesertGuardianHelm",
+    "objectID": 8573,
+    "baseLevel": 18
+  },
+  {
+    "assetName": "BlastHelm",
+    "objectID": 8574,
+    "baseLevel": 7
+  },
+  {
+    "assetName": "CopperBreastArmor",
+    "objectID": 8600,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "WoodBreastArmor",
+    "objectID": 8601,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "PeasantBreastArmor",
+    "objectID": 8602,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CavelingBreastArmor",
+    "objectID": 8603,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "IronBreastArmor",
+    "objectID": 8604,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "BronzeBreastArmor",
+    "objectID": 8605,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CarapaceBreastArmor",
+    "objectID": 8609,
+    "baseLevel": 8
+  },
+  {
+    "assetName": "LarvaBreastArmor",
+    "objectID": 8610,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "ScarletBreastArmor",
+    "objectID": 8611,
+    "baseLevel": 10
+  },
+  {
+    "assetName": "HunterBreastArmor",
+    "objectID": 8612,
+    "baseLevel": 10
+  },
+  {
+    "assetName": "IvyBreastArmor",
+    "objectID": 8613,
+    "baseLevel": 11
+  },
+  {
+    "assetName": "OctarineBreastArmor",
+    "objectID": 8614,
+    "baseLevel": 12
+  },
+  {
+    "assetName": "ScholarArmor",
+    "objectID": 8615,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "DiverArmor",
+    "objectID": 8616,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "SlimeBreastArmor",
+    "objectID": 8617,
+    "baseLevel": 12
+  },
+  {
+    "assetName": "TowelBreastArmor",
+    "objectID": 8618,
+    "baseLevel": 10
+  },
+  {
+    "assetName": "BikiniBreastArmorGreen",
+    "objectID": 8619,
+    "baseLevel": 10
+  },
+  {
+    "assetName": "BikiniBreastArmorBlue",
+    "objectID": 8620,
+    "baseLevel": 10
+  },
+  {
+    "assetName": "BikiniBreastArmorRed",
+    "objectID": 8621,
+    "baseLevel": 10
+  },
+  {
+    "assetName": "OctopusBreastArmor",
+    "objectID": 8622,
+    "baseLevel": 13
+  },
+  {
+    "assetName": "GalaxiteBreastArmor",
+    "objectID": 8623,
+    "baseLevel": 14
+  },
+  {
+    "assetName": "AssassinBreastArmor",
+    "objectID": 8624,
+    "baseLevel": 14
+  },
+  {
+    "assetName": "LavaBreastArmor",
+    "objectID": 8625,
+    "baseLevel": 16
+  },
+  {
+    "assetName": "ScarabBreastArmor",
+    "objectID": 8626,
+    "baseLevel": 15
+  },
+  {
+    "assetName": "MinerBreastArmor",
+    "objectID": 8627,
+    "baseLevel": 15
+  },
+  {
+    "assetName": "DesertBreastArmor",
+    "objectID": 8628,
+    "baseLevel": 13
+  },
+  {
+    "assetName": "GhostBlanketBreastArmor",
+    "objectID": 8629,
+    "baseLevel": 7
+  },
+  {
+    "assetName": "VampireCapeBreastArmor",
+    "objectID": 8630,
+    "baseLevel": 6
+  },
+  {
+    "assetName": "GodsentBreastArmor",
+    "objectID": 8631,
+    "baseLevel": 16
+  },
+  {
+    "assetName": "GingerbreadBreastArmor",
+    "objectID": 8632,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CupidBreastArmor",
+    "objectID": 8633,
+    "baseLevel": 5
+  },
+  {
+    "assetName": "WeddingDressArmor",
+    "objectID": 8634,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "SuitBreastArmor",
+    "objectID": 8635,
+    "baseLevel": 2
+  },
+  {
+    "assetName": "ArcheologyShirt",
+    "objectID": 8636,
+    "baseLevel": 2
+  },
+  {
+    "assetName": "CookShirt",
+    "objectID": 8637,
+    "baseLevel": 2
+  },
+  {
+    "assetName": "TamerBreastArmor",
+    "objectID": 8638,
+    "baseLevel": 10
+  },
+  {
+    "assetName": "RangerBreastArmor",
+    "objectID": 8639,
+    "baseLevel": 3
+  },
+  {
+    "assetName": "RainBreastArmor",
+    "objectID": 8640,
+    "baseLevel": 3
+  },
+  {
+    "assetName": "PotBreastArmor",
+    "objectID": 8641,
+    "baseLevel": 5
+  },
+  {
+    "assetName": "HiveBoneBreastArmor",
+    "objectID": 8643,
+    "baseLevel": 9
+  },
+  {
+    "assetName": "TrenchcoatBreastArmor",
+    "objectID": 8644,
+    "baseLevel": 7
+  },
+  {
+    "assetName": "GolemBreastArmor",
+    "objectID": 8645,
+    "baseLevel": 7
+  },
+  {
+    "assetName": "MoldwebBreastArmor",
+    "objectID": 8646,
+    "baseLevel": 10
+  },
+  {
+    "assetName": "CrystalBreastArmor",
+    "objectID": 8647,
+    "baseLevel": 16
+  },
+  {
+    "assetName": "CookingPotBreastArmor",
+    "objectID": 8648,
+    "baseLevel": 6
+  },
+  {
+    "assetName": "RamboBreastArmor",
+    "objectID": 8649,
+    "baseLevel": 10
+  },
+  {
+    "assetName": "NinjaBreastArmor",
+    "objectID": 8650,
+    "baseLevel": 17
+  },
+  {
+    "assetName": "AncientGemstoneBreastArmor",
+    "objectID": 8651,
+    "baseLevel": 16
+  },
+  {
+    "assetName": "AlienTechBreastArmor",
+    "objectID": 8652,
+    "baseLevel": 16
+  },
+  {
+    "assetName": "RadiationBreastArmor",
+    "objectID": 8653,
+    "baseLevel": 16
+  },
+  {
+    "assetName": "HydraBoneBreastArmor",
+    "objectID": 8654,
+    "baseLevel": 17
+  },
+  {
+    "assetName": "CoreCommanderBreastArmor",
+    "objectID": 8655,
+    "baseLevel": 17
+  },
+  {
+    "assetName": "CorruptWardenBreastArmor",
+    "objectID": 8656,
+    "baseLevel": 10
+  },
+  {
+    "assetName": "WitchDoctorBreastArmor",
+    "objectID": 8657,
+    "baseLevel": 3
+  },
+  {
+    "assetName": "GrimBreastArmor",
+    "objectID": 8658,
+    "baseLevel": 16
+  },
+  {
+    "assetName": "ApprenticeBreastArmor",
+    "objectID": 8659,
+    "baseLevel": 3
+  },
+  {
+    "assetName": "SorcererBreastArmor",
+    "objectID": 8660,
+    "baseLevel": 13
+  },
+  {
+    "assetName": "ArcaneMonkBreastArmor",
+    "objectID": 8661,
+    "baseLevel": 17
+  },
+  {
+    "assetName": "PandoriumBreastArmor",
+    "objectID": 8662,
+    "baseLevel": 17
+  },
+  {
+    "assetName": "SulfurBreastArmor",
+    "objectID": 8663,
+    "baseLevel": 18
+  },
+  {
+    "assetName": "ChieftainBreastArmor",
+    "objectID": 8664,
+    "baseLevel": 5
+  },
+  {
+    "assetName": "SoaringBreastArmor",
+    "objectID": 8665,
+    "baseLevel": 7
+  },
+  {
+    "assetName": "DancerBreastArmor",
+    "objectID": 8666,
+    "baseLevel": 14
+  },
+  {
+    "assetName": "SwampMageBreastArmor",
+    "objectID": 8667,
+    "baseLevel": 10
+  },
+  {
+    "assetName": "DesertGuardianBreastArmor",
+    "objectID": 8668,
+    "baseLevel": 18
+  },
+  {
+    "assetName": "BlastBreastArmor",
+    "objectID": 8669,
+    "baseLevel": 7
+  },
+  {
+    "assetName": "CopperPantsArmor",
+    "objectID": 8700,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "WoodPantsArmor",
+    "objectID": 8701,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CavelingPantsArmor",
+    "objectID": 8703,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "IronPantsArmor",
+    "objectID": 8704,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "BronzePantsArmor",
+    "objectID": 8705,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "ScarletPantsArmor",
+    "objectID": 8706,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "IvyPantsArmor",
+    "objectID": 8707,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "OctarinePantsArmor",
+    "objectID": 8708,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "DiverPantsArmor",
+    "objectID": 8709,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "SwimingPantsArmorGreen",
+    "objectID": 8710,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "SwimingPantsArmorBlue",
+    "objectID": 8711,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "SwimingPantsArmorRed",
+    "objectID": 8712,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "BikiniPantsArmorGreen",
+    "objectID": 8713,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "BikiniPantsArmorBlue",
+    "objectID": 8714,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "BikiniPantsArmorRed",
+    "objectID": 8715,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "OctopusPantsArmor",
+    "objectID": 8716,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "GalaxitePantsArmor",
+    "objectID": 8717,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "LavaPantsArmor",
+    "objectID": 8718,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "ScarabPantsArmor",
+    "objectID": 8719,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "MinerPantsArmor",
+    "objectID": 8720,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "DesertPantsArmor",
+    "objectID": 8721,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "GodsentPantsArmor",
+    "objectID": 8722,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "GingerbreadPantsArmor",
+    "objectID": 8723,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "SuitPantsArmor",
+    "objectID": 8724,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "ArcheologyPants",
+    "objectID": 8725,
+    "baseLevel": 2
+  },
+  {
+    "assetName": "CookPants",
+    "objectID": 8726,
+    "baseLevel": 2
+  },
+  {
+    "assetName": "TamerPantsArmor",
+    "objectID": 8727,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "RangerPantsArmor",
+    "objectID": 8728,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "RainPantsArmor",
+    "objectID": 8729,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "HiveBonePantsArmor",
+    "objectID": 8731,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "GolemPantsArmor",
+    "objectID": 8732,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "RamboPantsArmor",
+    "objectID": 8733,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "MoldwebPantsArmor",
+    "objectID": 8734,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CrystalPantsArmor",
+    "objectID": 8735,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "NinjaPantsArmor",
+    "objectID": 8736,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "AncientGemstonePantsArmor",
+    "objectID": 8737,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "AlienTechPantsArmor",
+    "objectID": 8738,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "RadiationPantsArmor",
+    "objectID": 8739,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "HydraBonePantsArmor",
+    "objectID": 8740,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CoreCommanderPantsArmor",
+    "objectID": 8741,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CorruptWardenPantsArmor",
+    "objectID": 8742,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "WitchDoctorPantsArmor",
+    "objectID": 8743,
+    "baseLevel": 3
+  },
+  {
+    "assetName": "GrimPantsArmor",
+    "objectID": 8744,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "ApprenticePantsArmor",
+    "objectID": 8745,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "SorcererPantsArmor",
+    "objectID": 8746,
+    "baseLevel": 13
+  },
+  {
+    "assetName": "ArcaneMonkPantsArmor",
+    "objectID": 8747,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "PandoriumPantsArmor",
+    "objectID": 8748,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "SulfurPantsArmor",
+    "objectID": 8749,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "ChieftainPantsArmor",
+    "objectID": 8750,
+    "baseLevel": 5
+  },
+  {
+    "assetName": "SoaringPantsArmor",
+    "objectID": 8751,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "DancerPantsArmor",
+    "objectID": 8752,
+    "baseLevel": 14
+  },
+  {
+    "assetName": "SwampMagePantsArmor",
+    "objectID": 8753,
+    "baseLevel": 10
+  },
+  {
+    "assetName": "DesertGuardianPantsArmor",
+    "objectID": 8754,
+    "baseLevel": 18
+  },
+  {
+    "assetName": "BlastPantsArmor",
+    "objectID": 8755,
+    "baseLevel": 7
+  },
+  {
+    "assetName": "CopperCrossNecklace",
+    "objectID": 8800,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "GrubEggNecklace",
+    "objectID": 8801,
+    "baseLevel": 8
+  },
+  {
+    "assetName": "IronChunkNecklace",
+    "objectID": 8802,
+    "baseLevel": 7
+  },
+  {
+    "assetName": "HeartBerryNecklace",
+    "objectID": 8803,
+    "baseLevel": 5
+  },
+  {
+    "assetName": "AmmoniteNecklace",
+    "objectID": 8804,
+    "baseLevel": 8
+  },
+  {
+    "assetName": "GoldCrystalNecklace",
+    "objectID": 8805,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "BlobRosaryNecklace",
+    "objectID": 8806,
+    "baseLevel": 5
+  },
+  {
+    "assetName": "AzeosBeakNecklace",
+    "objectID": 8807,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "RemedaisyNecklace",
+    "objectID": 8808,
+    "baseLevel": 11
+  },
+  {
+    "assetName": "AncientGuardianNecklace",
+    "objectID": 8809,
+    "baseLevel": 11
+  },
+  {
+    "assetName": "MoldVeinNecklace",
+    "objectID": 8810,
+    "baseLevel": 11
+  },
+  {
+    "assetName": "CaveGuppyNecklace",
+    "objectID": 8811,
+    "baseLevel": 3
+  },
+  {
+    "assetName": "BubblePearlNecklace",
+    "objectID": 8812,
+    "baseLevel": 8
+  },
+  {
+    "assetName": "PolishedCopperCrossNecklace",
+    "objectID": 8813,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "PolishedIronChunkNecklace",
+    "objectID": 8814,
+    "baseLevel": 13
+  },
+  {
+    "assetName": "PolishedGoldCrystalNecklace",
+    "objectID": 8815,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "AncientGemNecklace",
+    "objectID": 8816,
+    "baseLevel": 11
+  },
+  {
+    "assetName": "SkullNecklace",
+    "objectID": 8817,
+    "baseLevel": 9
+  },
+  {
+    "assetName": "EostreNecklace",
+    "objectID": 8818,
+    "baseLevel": 10
+  },
+  {
+    "assetName": "DiverNecklace",
+    "objectID": 8819,
+    "baseLevel": 8
+  },
+  {
+    "assetName": "OmorothNecklace",
+    "objectID": 8820,
+    "baseLevel": 13
+  },
+  {
+    "assetName": "OctarineNecklace",
+    "objectID": 8821,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "ScarletChunkNecklace",
+    "objectID": 8822,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CoralAmulet",
+    "objectID": 8823,
+    "baseLevel": 11
+  },
+  {
+    "assetName": "PolishedOctarineNecklace",
+    "objectID": 8824,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "PolishedScarletChunkNecklace",
+    "objectID": 8825,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "PolishedCoralAmulet",
+    "objectID": 8826,
+    "baseLevel": 13
+  },
+  {
+    "assetName": "ConchShellNecklace",
+    "objectID": 8827,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "OceanHeartNecklace",
+    "objectID": 8828,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "RustedNecklace",
+    "objectID": 8829,
+    "baseLevel": 10
+  },
+  {
+    "assetName": "TorcNecklace",
+    "objectID": 8830,
+    "baseLevel": 12
+  },
+  {
+    "assetName": "RaAkarNecklace",
+    "objectID": 8831,
+    "baseLevel": 15
+  },
+  {
+    "assetName": "NomadNecklace",
+    "objectID": 8832,
+    "baseLevel": 14
+  },
+  {
+    "assetName": "BoneNecklace",
+    "objectID": 8833,
+    "baseLevel": 13
+  },
+  {
+    "assetName": "BlackNecklace",
+    "objectID": 8834,
+    "baseLevel": 14
+  },
+  {
+    "assetName": "FlameNecklace",
+    "objectID": 8835,
+    "baseLevel": 15
+  },
+  {
+    "assetName": "FusionedChunkNecklace",
+    "objectID": 8836,
+    "baseLevel": 15
+  },
+  {
+    "assetName": "SamhainOfferingNecklace",
+    "objectID": 8837,
+    "baseLevel": 8
+  },
+  {
+    "assetName": "ValentineNecklace",
+    "objectID": 8838,
+    "baseLevel": 5
+  },
+  {
+    "assetName": "FangNecklace",
+    "objectID": 8839,
+    "baseLevel": 5
+  },
+  {
+    "assetName": "TamerNecklace",
+    "objectID": 8840,
+    "baseLevel": 10
+  },
+  {
+    "assetName": "AtlantianWormNecklace",
+    "objectID": 8841,
+    "baseLevel": 17
+  },
+  {
+    "assetName": "TowerShellNecklace",
+    "objectID": 8842,
+    "baseLevel": 17
+  },
+  {
+    "assetName": "CrystalNecklace",
+    "objectID": 8843,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "HydraJewelryDesertNecklace",
+    "objectID": 8844,
+    "baseLevel": 16
+  },
+  {
+    "assetName": "CrescentNecklace",
+    "objectID": 8845,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "SoulNecklace",
+    "objectID": 8846,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "BombNecklace",
+    "objectID": 8847,
+    "baseLevel": 9
+  },
+  {
+    "assetName": "ClotRing",
+    "objectID": 8850,
+    "baseLevel": 6
+  },
+  {
+    "assetName": "LarvaRing",
+    "objectID": 8851,
+    "baseLevel": 7
+  },
+  {
+    "assetName": "WoodenThornRing",
+    "objectID": 8852,
+    "baseLevel": 10
+  },
+  {
+    "assetName": "GlowTulipRing",
+    "objectID": 8853,
+    "baseLevel": 5
+  },
+  {
+    "assetName": "SwiftRing",
+    "objectID": 8854,
+    "baseLevel": 6
+  },
+  {
+    "assetName": "RingOfRock",
+    "objectID": 8855,
+    "baseLevel": 8
+  },
+  {
+    "assetName": "RingOfStone",
+    "objectID": 8856,
+    "baseLevel": 3
+  },
+  {
+    "assetName": "GoldCrystalRing",
+    "objectID": 8857,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "MeltingCrystalRing",
+    "objectID": 8858,
+    "baseLevel": 5
+  },
+  {
+    "assetName": "SkyRing",
+    "objectID": 8859,
+    "baseLevel": 11
+  },
+  {
+    "assetName": "CavelingMothersRing",
+    "objectID": 8860,
+    "baseLevel": 10
+  },
+  {
+    "assetName": "PetalRing",
+    "objectID": 8861,
+    "baseLevel": 10
+  },
+  {
+    "assetName": "MoldRing",
+    "objectID": 8862,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "RustedRing",
+    "objectID": 8863,
+    "baseLevel": 5
+  },
+  {
+    "assetName": "SeaFoamRing",
+    "objectID": 8864,
+    "baseLevel": 9
+  },
+  {
+    "assetName": "PolishedGoldCrystalRing",
+    "objectID": 8865,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "PolishedGlowTulipRing",
+    "objectID": 8866,
+    "baseLevel": 13
+  },
+  {
+    "assetName": "PolishedSwiftRing",
+    "objectID": 8867,
+    "baseLevel": 13
+  },
+  {
+    "assetName": "AncientGemRing",
+    "objectID": 8868,
+    "baseLevel": 13
+  },
+  {
+    "assetName": "IvyRing",
+    "objectID": 8869,
+    "baseLevel": 10
+  },
+  {
+    "assetName": "SkullRing",
+    "objectID": 8870,
+    "baseLevel": 9
+  },
+  {
+    "assetName": "OstaraRing",
+    "objectID": 8871,
+    "baseLevel": 10
+  },
+  {
+    "assetName": "MorphaRing",
+    "objectID": 8872,
+    "baseLevel": 13
+  },
+  {
+    "assetName": "CoralRing",
+    "objectID": 8873,
+    "baseLevel": 13
+  },
+  {
+    "assetName": "DiverRing",
+    "objectID": 8874,
+    "baseLevel": 8
+  },
+  {
+    "assetName": "LuckyRing",
+    "objectID": 8875,
+    "baseLevel": 12
+  },
+  {
+    "assetName": "AncientGuardianRing",
+    "objectID": 8876,
+    "baseLevel": 12
+  },
+  {
+    "assetName": "OmorothRing",
+    "objectID": 8877,
+    "baseLevel": 13
+  },
+  {
+    "assetName": "OctarineRing",
+    "objectID": 8878,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "MagneticRing",
+    "objectID": 8879,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "GoldenSpikeRing",
+    "objectID": 8880,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "PolishedOctarineRing",
+    "objectID": 8881,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "PolishedMagneticRing",
+    "objectID": 8882,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "PolishedGoldenSpikeRing",
+    "objectID": 8883,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "SpineRing",
+    "objectID": 8884,
+    "baseLevel": 13
+  },
+  {
+    "assetName": "WoodenRing",
+    "objectID": 8885,
+    "baseLevel": 10
+  },
+  {
+    "assetName": "TopazRing",
+    "objectID": 8886,
+    "baseLevel": 11
+  },
+  {
+    "assetName": "WhiteGlassRing",
+    "objectID": 8887,
+    "baseLevel": 11
+  },
+  {
+    "assetName": "SeptumRing",
+    "objectID": 8888,
+    "baseLevel": 12
+  },
+  {
+    "assetName": "RingOfSand",
+    "objectID": 8889,
+    "baseLevel": 15
+  },
+  {
+    "assetName": "BoneRing",
+    "objectID": 8890,
+    "baseLevel": 13
+  },
+  {
+    "assetName": "NomadRing",
+    "objectID": 8891,
+    "baseLevel": 14
+  },
+  {
+    "assetName": "BlackRing",
+    "objectID": 8892,
+    "baseLevel": 15
+  },
+  {
+    "assetName": "FlameRing",
+    "objectID": 8893,
+    "baseLevel": 14
+  },
+  {
+    "assetName": "BombRing",
+    "objectID": 8894,
+    "baseLevel": 15
+  },
+  {
+    "assetName": "NobleRing",
+    "objectID": 8895,
+    "baseLevel": 13
+  },
+  {
+    "assetName": "DoubleRing",
+    "objectID": 8896,
+    "baseLevel": 14
+  },
+  {
+    "assetName": "SamhainCurseRing",
+    "objectID": 8897,
+    "baseLevel": 8
+  },
+  {
+    "assetName": "ValentineRing",
+    "objectID": 8898,
+    "baseLevel": 5
+  },
+  {
+    "assetName": "TamerRing",
+    "objectID": 8899,
+    "baseLevel": 10
+  },
+  {
+    "assetName": "CopperSword",
+    "objectID": 8900,
+    "baseLevel": 2
+  },
+  {
+    "assetName": "IronSword",
+    "objectID": 8901,
+    "baseLevel": 7
+  },
+  {
+    "assetName": "ScarletSword",
+    "objectID": 8902,
+    "baseLevel": 9
+  },
+  {
+    "assetName": "TinSword",
+    "objectID": 8903,
+    "baseLevel": 5
+  },
+  {
+    "assetName": "SlimeSword",
+    "objectID": 8905,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "OctarineSword",
+    "objectID": 8906,
+    "baseLevel": 12
+  },
+  {
+    "assetName": "SlipperySlimeSword",
+    "objectID": 8907,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "GalaxiteSword",
+    "objectID": 8908,
+    "baseLevel": 14
+  },
+  {
+    "assetName": "WoodSword",
+    "objectID": 8909,
+    "baseLevel": 1
+  },
+  {
+    "assetName": "SolariteSword",
+    "objectID": 8910,
+    "baseLevel": 16
+  },
+  {
+    "assetName": "AtlantianWormSword",
+    "objectID": 8911,
+    "baseLevel": 17
+  },
+  {
+    "assetName": "LarvaSpikeClub",
+    "objectID": 8930,
+    "baseLevel": 8
+  },
+  {
+    "assetName": "ShardClub",
+    "objectID": 8931,
+    "baseLevel": 16
+  },
+  {
+    "assetName": "PoisonousSickle",
+    "objectID": 8940,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "BrokenLegendarySword",
+    "objectID": 8950,
+    "baseLevel": 10
+  },
+  {
+    "assetName": "LegendarySword",
+    "objectID": 8951,
+    "baseLevel": 13
+  },
+  {
+    "assetName": "TinDagger",
+    "objectID": 8952,
+    "baseLevel": 5
+  },
+  {
+    "assetName": "TinAxe",
+    "objectID": 8953,
+    "baseLevel": 5
+  },
+  {
+    "assetName": "BattleAxe",
+    "objectID": 8954,
+    "baseLevel": 7
+  },
+  {
+    "assetName": "ScarletDagger",
+    "objectID": 8955,
+    "baseLevel": 9
+  },
+  {
+    "assetName": "RitualDagger",
+    "objectID": 8956,
+    "baseLevel": 9
+  },
+  {
+    "assetName": "OctarineAxe",
+    "objectID": 8957,
+    "baseLevel": 12
+  },
+  {
+    "assetName": "AnchorAxe",
+    "objectID": 8958,
+    "baseLevel": 13
+  },
+  {
+    "assetName": "LavaAxe",
+    "objectID": 8959,
+    "baseLevel": 15
+  },
+  {
+    "assetName": "GalaxiteDagger",
+    "objectID": 8960,
+    "baseLevel": 14
+  },
+  {
+    "assetName": "RustyDagger",
+    "objectID": 8961,
+    "baseLevel": 3
+  },
+  {
+    "assetName": "TentacleWhip",
+    "objectID": 8970,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "HuntingSpear",
+    "objectID": 8971,
+    "baseLevel": 5
+  },
+  {
+    "assetName": "AncientSpear",
+    "objectID": 8972,
+    "baseLevel": 15
+  },
+  {
+    "assetName": "IronHalberdSpear",
+    "objectID": 8973,
+    "baseLevel": 7
+  },
+  {
+    "assetName": "HydraBoneSword",
+    "objectID": 8974,
+    "baseLevel": 16
+  },
+  {
+    "assetName": "PandoriumAxe",
+    "objectID": 8976,
+    "baseLevel": 17
+  },
+  {
+    "assetName": "Bomb",
+    "objectID": 9001,
+    "baseLevel": 6
+  },
+  {
+    "assetName": "SmallBomb",
+    "objectID": 9002,
+    "baseLevel": 4
+  },
+  {
+    "assetName": "LargeBomb",
+    "objectID": 9003,
+    "baseLevel": 9
+  },
+  {
+    "assetName": "FireworkRed",
+    "objectID": 9004,
+    "baseLevel": 6
+  },
+  {
+    "assetName": "FireworkGreen",
+    "objectID": 9005,
+    "baseLevel": 6
+  },
+  {
+    "assetName": "FireworkBlue",
+    "objectID": 9006,
+    "baseLevel": 6
+  },
+  {
+    "assetName": "FireworkYellow",
+    "objectID": 9007,
+    "baseLevel": 6
+  },
+  {
+    "assetName": "FireworkPurple",
+    "objectID": 9008,
+    "baseLevel": 6
+  },
+  {
+    "assetName": "FireworkBig",
+    "objectID": 9009,
+    "baseLevel": 7
+  },
+  {
+    "assetName": "SulfurBomb",
+    "objectID": 9010,
+    "baseLevel": 16
+  },
+  {
+    "assetName": "FireGrenade",
+    "objectID": 9011,
+    "baseLevel": 13
+  },
+  {
+    "assetName": "PoisonGrenade",
+    "objectID": 9012,
+    "baseLevel": 13
+  },
+  {
+    "assetName": "Grenade",
+    "objectID": 9013,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "StunGrenade",
+    "objectID": 9014,
+    "baseLevel": 4
+  },
+  {
+    "assetName": "CharmGrenade",
+    "objectID": 9015,
+    "baseLevel": 13
+  },
+  {
+    "assetName": "SeekerBomb",
+    "objectID": 9016,
+    "baseLevel": 6
+  },
+  {
+    "assetName": "BlunderBomb",
+    "objectID": 9017,
+    "baseLevel": 9
+  },
+  {
+    "assetName": "VoidBomb",
+    "objectID": 9018,
+    "baseLevel": 17
+  },
+  {
+    "assetName": "ProximityBomb",
+    "objectID": 9019,
+    "baseLevel": 13
+  },
+  {
+    "assetName": "FlintlockMusket",
+    "objectID": 9100,
+    "baseLevel": 5
+  },
+  {
+    "assetName": "Slingshot",
+    "objectID": 9102,
+    "baseLevel": 5
+  },
+  {
+    "assetName": "Grubzooka",
+    "objectID": 9110,
+    "baseLevel": 9
+  },
+  {
+    "assetName": "HandMortar",
+    "objectID": 9111,
+    "baseLevel": 8
+  },
+  {
+    "assetName": "Blowpipe",
+    "objectID": 9112,
+    "baseLevel": 10
+  },
+  {
+    "assetName": "FireballStaff",
+    "objectID": 9113,
+    "baseLevel": 8
+  },
+  {
+    "assetName": "OctarineBow",
+    "objectID": 9114,
+    "baseLevel": 12
+  },
+  {
+    "assetName": "LegendaryBow",
+    "objectID": 9115,
+    "baseLevel": 15
+  },
+  {
+    "assetName": "IronBow",
+    "objectID": 9116,
+    "baseLevel": 7
+  },
+  {
+    "assetName": "WoodBow",
+    "objectID": 9117,
+    "baseLevel": 2
+  },
+  {
+    "assetName": "ScholarStaff",
+    "objectID": 9118,
+    "baseLevel": 13
+  },
+  {
+    "assetName": "BubbleGun",
+    "objectID": 9119,
+    "baseLevel": 12
+  },
+  {
+    "assetName": "ThrowingDaggers",
+    "objectID": 9120,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "GalaxiteChakram",
+    "objectID": 9121,
+    "baseLevel": 14
+  },
+  {
+    "assetName": "Burnzooka",
+    "objectID": 9122,
+    "baseLevel": 16
+  },
+  {
+    "assetName": "ScarabMortar",
+    "objectID": 9123,
+    "baseLevel": 14
+  },
+  {
+    "assetName": "Snowball",
+    "objectID": 9124,
+    "baseLevel": 4
+  },
+  {
+    "assetName": "CupidBow",
+    "objectID": 9125,
+    "baseLevel": 5
+  },
+  {
+    "assetName": "SlimeStaff",
+    "objectID": 9126,
+    "baseLevel": 4
+  },
+  {
+    "assetName": "WoodCrossbow",
+    "objectID": 9130,
+    "baseLevel": 2
+  },
+  {
+    "assetName": "ScarletCrossbow",
+    "objectID": 9131,
+    "baseLevel": 9
+  },
+  {
+    "assetName": "SolariteCrossbow",
+    "objectID": 9132,
+    "baseLevel": 16
+  },
+  {
+    "assetName": "RazorFlake",
+    "objectID": 9133,
+    "baseLevel": 16
+  },
+  {
+    "assetName": "VoidOrbGun",
+    "objectID": 9134,
+    "baseLevel": 17
+  },
+  {
+    "assetName": "LightningGun",
+    "objectID": 9135,
+    "baseLevel": 19
+  },
+  {
+    "assetName": "ChaosStaff",
+    "objectID": 9136,
+    "baseLevel": 17
+  },
+  {
+    "assetName": "ArcaneStaff",
+    "objectID": 9151,
+    "baseLevel": 8
+  },
+  {
+    "assetName": "ZealotSword",
+    "objectID": 9152,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "BasicStaff",
+    "objectID": 9153,
+    "baseLevel": 2
+  },
+  {
+    "assetName": "SunStaff",
+    "objectID": 9154,
+    "baseLevel": 13
+  },
+  {
+    "assetName": "MeteorStaff",
+    "objectID": 9155,
+    "baseLevel": 18
+  },
+  {
+    "assetName": "TomeOfRange",
+    "objectID": 9176,
+    "baseLevel": 2
+  },
+  {
+    "assetName": "TomeOfOrbit",
+    "objectID": 9177,
+    "baseLevel": 12
+  },
+  {
+    "assetName": "TomeOfMelee",
+    "objectID": 9178,
+    "baseLevel": 11
+  },
+  {
+    "assetName": "TomeOfFire",
+    "objectID": 9179,
+    "baseLevel": 7
+  },
+  {
+    "assetName": "TomeOfPoison",
+    "objectID": 9180,
+    "baseLevel": 10
+  },
+  {
+    "assetName": "TomeOfRadiation",
+    "objectID": 9181,
+    "baseLevel": 17
+  },
+  {
+    "assetName": "FlintlockMusketProjectile",
+    "objectID": 9200,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "FireballProjectile",
+    "objectID": 9201,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "SlingshotProjectile",
+    "objectID": 9202,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "JellyfishProjectile",
+    "objectID": 9203,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "SmallFireballProjectile",
+    "objectID": 9204,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "BunnyPoisonDartProjectile",
+    "objectID": 9205,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "GrubzookaProjectile",
+    "objectID": 9210,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "BurnzookaProjectile",
+    "objectID": 9211,
+    "baseLevel": 13
+  },
+  {
+    "assetName": "BoatTurretProjectile",
+    "objectID": 9220,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "HandMortarProjectile",
+    "objectID": 9221,
+    "baseLevel": 8
+  },
+  {
+    "assetName": "MoldProjectile",
+    "objectID": 9222,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "BlowDartProjectile",
+    "objectID": 9223,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "BubbleProjectile",
+    "objectID": 9224,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "BubblePlayerProjectile",
+    "objectID": 9225,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "ChakramProjectile",
+    "objectID": 9226,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CupidArrowProjectile",
+    "objectID": 9229,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "IronArrowProjectile",
+    "objectID": 9230,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "OctarineArrowProjectile",
+    "objectID": 9231,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "WoodArrowProjectile",
+    "objectID": 9232,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "LegendaryEnergyProjectile",
+    "objectID": 9233,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "ShockWaveProjectile",
+    "objectID": 9234,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "OctopusBossProjectile",
+    "objectID": 9235,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "OctopusBossPlayerProjectile",
+    "objectID": 9236,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "EnergyProjectile",
+    "objectID": 9237,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "AssassinDaggerProjectile",
+    "objectID": 9238,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "ScarabBossProjectile",
+    "objectID": 9239,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "LavaSlimeBossProjectile",
+    "objectID": 9240,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "ScarabBossPlayerProjectile",
+    "objectID": 9241,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "SpearProjectile",
+    "objectID": 9242,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "ScarabMortarProjectile",
+    "objectID": 9243,
+    "baseLevel": 14
+  },
+  {
+    "assetName": "GalaxiteEnergyProjectile",
+    "objectID": 9244,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "SnowballProjectile",
+    "objectID": 9245,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "SlimeProjectile",
+    "objectID": 9246,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "WoodBoltProjectile",
+    "objectID": 9247,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "ScarletBoltProjectile",
+    "objectID": 9248,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "SolariteBoltProjectile",
+    "objectID": 9249,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "OrbitalTurretProjectile",
+    "objectID": 9250,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "GravityProjectile",
+    "objectID": 9251,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CrystalSpikeTrail",
+    "objectID": 9252,
+    "baseLevel": 14
+  },
+  {
+    "assetName": "RazorFlakeProjectile",
+    "objectID": 9253,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "RazorFlakeShardProjectile",
+    "objectID": 9254,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "ElectricProjectile",
+    "objectID": 9255,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "IceShardProjectile",
+    "objectID": 9256,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CoreBossWhirlwindProjectile",
+    "objectID": 9257,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "VoidOrbGunProjectile",
+    "objectID": 9258,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CoreBossScarabProjectile",
+    "objectID": 9259,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CoreBossElectricProjectile",
+    "objectID": 9260,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "BatMinionProjectile",
+    "objectID": 9261,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "ArcaneStaffProjectile",
+    "objectID": 9262,
+    "baseLevel": 2
+  },
+  {
+    "assetName": "BasicStaffProjectile",
+    "objectID": 9263,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "SunStaffProjectile",
+    "objectID": 9264,
+    "baseLevel": 10
+  },
+  {
+    "assetName": "DeflectProjectile",
+    "objectID": 9265,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "PoisonMinionProjectile",
+    "objectID": 9266,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "RuneSongTrail",
+    "objectID": 9267,
+    "baseLevel": 9
+  },
+  {
+    "assetName": "FireGrenadeProjectile",
+    "objectID": 9268,
+    "baseLevel": 13
+  },
+  {
+    "assetName": "PoisonGrenadeProjectile",
+    "objectID": 9269,
+    "baseLevel": 13
+  },
+  {
+    "assetName": "GrenadeProjectile",
+    "objectID": 9270,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "StunGrenadeProjectile",
+    "objectID": 9271,
+    "baseLevel": 4
+  },
+  {
+    "assetName": "CharmGrenadeProjectile",
+    "objectID": 9272,
+    "baseLevel": 13
+  },
+  {
+    "assetName": "LarvaHiveBossMortarProjectile",
+    "objectID": 9300,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "PoisonSlimeBossMortarProjectile",
+    "objectID": 9301,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "ShamanBossMortarProjectile",
+    "objectID": 9302,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "SandExplosion",
+    "objectID": 9303,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "SandExplosionWithScarab",
+    "objectID": 9304,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "FireAoeDamage",
+    "objectID": 9305,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "SulfurSetPuffExplosion",
+    "objectID": 9306,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "MummyMortarProjectile",
+    "objectID": 9310,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "FallingRockMortarProjectile",
+    "objectID": 9311,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "HydraBossBeamMortarProjectile",
+    "objectID": 9313,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "HydraBossStalactiteMortarProjectile",
+    "objectID": 9314,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "HydraBossShockwaveMortarProjectile",
+    "objectID": 9315,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "HydraBossIceShardMortarProjectile",
+    "objectID": 9316,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "HydraBossLavaMortarProjectile",
+    "objectID": 9317,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "HydraBossSpawnNilipedeMortarProjectile",
+    "objectID": 9318,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "FireballExplosiveProjectile",
+    "objectID": 9319,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "SeekerBombProjectile",
+    "objectID": 9321,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CicadaBossBuzzMortarProjectile",
+    "objectID": 9322,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "MeteorMortarProjectile",
+    "objectID": 9325,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "BombMortarPojectile",
+    "objectID": 9326,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "SmallBombMortarPojectile",
+    "objectID": 9327,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "LargeBombMortarPojectile",
+    "objectID": 9328,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "SulfurBombMortarPojectile",
+    "objectID": 9329,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "VoidBombMortarPojectile",
+    "objectID": 9330,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "HealingPotion",
+    "objectID": 9400,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "EnragePotion",
+    "objectID": 9401,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "StoneskinPotion",
+    "objectID": 9402,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "PoisonAidPotion",
+    "objectID": 9403,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "GreaterHealingPotion",
+    "objectID": 9404,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "KeenPotion",
+    "objectID": 9405,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "GuardiansPotion",
+    "objectID": 9406,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CavelingCoffee",
+    "objectID": 9407,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "HeartberrySoda",
+    "objectID": 9408,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CrystalWater",
+    "objectID": 9409,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "UnusualPotion",
+    "objectID": 9410,
+    "baseLevel": 15
+  },
+  {
+    "assetName": "LiquidMetal",
+    "objectID": 9411,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "MagicPotion",
+    "objectID": 9412,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "MinionPotion",
+    "objectID": 9413,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "GiantMitochondrion",
+    "objectID": 9414,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CookedSoup",
+    "objectID": 9500,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CookedPudding",
+    "objectID": 9501,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CookedSalad",
+    "objectID": 9502,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CookedWrap",
+    "objectID": 9503,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CookedSteak",
+    "objectID": 9504,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CookedCheese",
+    "objectID": 9505,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CookedDipSnack",
+    "objectID": 9506,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CookedSushi",
+    "objectID": 9507,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CookedFishBalls",
+    "objectID": 9508,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CookedFillet",
+    "objectID": 9509,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CookedCereal",
+    "objectID": 9510,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CookedSmoothie",
+    "objectID": 9511,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CookedSandwich",
+    "objectID": 9512,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CookedPanCurry",
+    "objectID": 9513,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CookedCake",
+    "objectID": 9514,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CookedSoupRare",
+    "objectID": 9550,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CookedPuddingRare",
+    "objectID": 9551,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CookedSaladRare",
+    "objectID": 9552,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CookedWrapRare",
+    "objectID": 9553,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CookedSteakRare",
+    "objectID": 9554,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CookedCheeseRare",
+    "objectID": 9555,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CookedDipSnackRare",
+    "objectID": 9556,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CookedSushiRare",
+    "objectID": 9557,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CookedFishBallsRare",
+    "objectID": 9558,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CookedFilletRare",
+    "objectID": 9559,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CookedCerealRare",
+    "objectID": 9560,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CookedSmoothieRare",
+    "objectID": 9561,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CookedSandwichRare",
+    "objectID": 9562,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CookedPanCurryRare",
+    "objectID": 9563,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CookedCakeRare",
+    "objectID": 9564,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CookedSoupEpic",
+    "objectID": 9575,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CookedPuddingEpic",
+    "objectID": 9576,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CookedSaladEpic",
+    "objectID": 9577,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CookedWrapEpic",
+    "objectID": 9578,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CookedSteakEpic",
+    "objectID": 9579,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CookedCheeseEpic",
+    "objectID": 9580,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CookedDipSnackEpic",
+    "objectID": 9581,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CookedSushiEpic",
+    "objectID": 9582,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CookedFishBallsEpic",
+    "objectID": 9583,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CookedFilletEpic",
+    "objectID": 9584,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CookedCerealEpic",
+    "objectID": 9585,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CookedSmoothieEpic",
+    "objectID": 9586,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CookedSandwichEpic",
+    "objectID": 9587,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CookedPanCurryEpic",
+    "objectID": 9588,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CookedCakeEpic",
+    "objectID": 9589,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CavelingBread",
+    "objectID": 9600,
+    "baseLevel": 7
+  },
+  {
+    "assetName": "JingleJamCookie",
+    "objectID": 9601,
+    "baseLevel": 3
+  },
+  {
+    "assetName": "FoodRation",
+    "objectID": 9602,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CavelingCrunch",
+    "objectID": 9603,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "GlazedHeartberry",
+    "objectID": 9604,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "TentacleJerky",
+    "objectID": 9605,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "ChewyConeCandy",
+    "objectID": 9606,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "SpookyPopCandy",
+    "objectID": 9607,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "EvilEyeCandy",
+    "objectID": 9608,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "FruitBread",
+    "objectID": 9609,
+    "baseLevel": 7
+  },
+  {
+    "assetName": "WinterDinner",
+    "objectID": 9610,
+    "baseLevel": 8
+  },
+  {
+    "assetName": "HotPunch",
+    "objectID": 9611,
+    "baseLevel": 8
+  },
+  {
+    "assetName": "HotChocolate",
+    "objectID": 9612,
+    "baseLevel": 7
+  },
+  {
+    "assetName": "WinterCookies",
+    "objectID": 9613,
+    "baseLevel": 7
+  },
+  {
+    "assetName": "GoldenChocolate",
+    "objectID": 9614,
+    "baseLevel": 9
+  },
+  {
+    "assetName": "BoxOfChocolates",
+    "objectID": 9615,
+    "baseLevel": 5
+  },
+  {
+    "assetName": "DistilledSlime",
+    "objectID": 9616,
+    "baseLevel": 5
+  },
+  {
+    "assetName": "KelpDumpling",
+    "objectID": 9617,
+    "baseLevel": 11
+  },
+  {
+    "assetName": "AtlantianWormHeart",
+    "objectID": 9618,
+    "baseLevel": 17
+  },
+  {
+    "assetName": "CrystalKelp",
+    "objectID": 9619,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CosmicCheese",
+    "objectID": 9620,
+    "baseLevel": 15
+  },
+  {
+    "assetName": "FruitBasket",
+    "objectID": 9621,
+    "baseLevel": 11
+  },
+  {
+    "assetName": "OrangeCaveGuppy",
+    "objectID": 9700,
+    "baseLevel": 2
+  },
+  {
+    "assetName": "BlueCaveGuppy",
+    "objectID": 9701,
+    "baseLevel": 2
+  },
+  {
+    "assetName": "RockJaw",
+    "objectID": 9702,
+    "baseLevel": 3
+  },
+  {
+    "assetName": "GemCrab",
+    "objectID": 9703,
+    "baseLevel": 4
+  },
+  {
+    "assetName": "DaggerFin",
+    "objectID": 9704,
+    "baseLevel": 6
+  },
+  {
+    "assetName": "PinkPalaceFish",
+    "objectID": 9705,
+    "baseLevel": 7
+  },
+  {
+    "assetName": "TealPalaceFish",
+    "objectID": 9706,
+    "baseLevel": 7
+  },
+  {
+    "assetName": "CrownSquid",
+    "objectID": 9707,
+    "baseLevel": 9
+  },
+  {
+    "assetName": "YellowBlisterHead",
+    "objectID": 9708,
+    "baseLevel": 4
+  },
+  {
+    "assetName": "GreenBlisterHead",
+    "objectID": 9709,
+    "baseLevel": 4
+  },
+  {
+    "assetName": "DevilWorm",
+    "objectID": 9710,
+    "baseLevel": 5
+  },
+  {
+    "assetName": "VampireEel",
+    "objectID": 9711,
+    "baseLevel": 6
+  },
+  {
+    "assetName": "MoldShark",
+    "objectID": 9712,
+    "baseLevel": 9
+  },
+  {
+    "assetName": "RotFish",
+    "objectID": 9713,
+    "baseLevel": 10
+  },
+  {
+    "assetName": "BlackSteelUrchin",
+    "objectID": 9714,
+    "baseLevel": 11
+  },
+  {
+    "assetName": "AzureFeatherFish",
+    "objectID": 9715,
+    "baseLevel": 8
+  },
+  {
+    "assetName": "EmeraldFeatherFish",
+    "objectID": 9716,
+    "baseLevel": 8
+  },
+  {
+    "assetName": "SpiritVeil",
+    "objectID": 9717,
+    "baseLevel": 9
+  },
+  {
+    "assetName": "AstralJelly",
+    "objectID": 9718,
+    "baseLevel": 10
+  },
+  {
+    "assetName": "BottomTracer",
+    "objectID": 9719,
+    "baseLevel": 10
+  },
+  {
+    "assetName": "SilverTorrentDart",
+    "objectID": 9720,
+    "baseLevel": 11
+  },
+  {
+    "assetName": "GoldenTorrentDart",
+    "objectID": 9721,
+    "baseLevel": 11
+  },
+  {
+    "assetName": "PinkCoralotl",
+    "objectID": 9722,
+    "baseLevel": 12
+  },
+  {
+    "assetName": "WhiteCoralotl",
+    "objectID": 9723,
+    "baseLevel": 12
+  },
+  {
+    "assetName": "SolidSpikeback",
+    "objectID": 9724,
+    "baseLevel": 12
+  },
+  {
+    "assetName": "SandySpikeback",
+    "objectID": 9725,
+    "baseLevel": 12
+  },
+  {
+    "assetName": "GreyDuneTail",
+    "objectID": 9726,
+    "baseLevel": 14
+  },
+  {
+    "assetName": "BrownDuneTail",
+    "objectID": 9727,
+    "baseLevel": 14
+  },
+  {
+    "assetName": "TornisKingfish",
+    "objectID": 9728,
+    "baseLevel": 15
+  },
+  {
+    "assetName": "DarkLavaEater",
+    "objectID": 9729,
+    "baseLevel": 14
+  },
+  {
+    "assetName": "BrightLavaEater",
+    "objectID": 9730,
+    "baseLevel": 14
+  },
+  {
+    "assetName": "VerdantDragonfish",
+    "objectID": 9731,
+    "baseLevel": 15
+  },
+  {
+    "assetName": "ElderDragonfish",
+    "objectID": 9732,
+    "baseLevel": 15
+  },
+  {
+    "assetName": "StarlightNautilus",
+    "objectID": 9733,
+    "baseLevel": 17
+  },
+  {
+    "assetName": "AngleFish",
+    "objectID": 9734,
+    "baseLevel": 15
+  },
+  {
+    "assetName": "Deepstalker",
+    "objectID": 9735,
+    "baseLevel": 16
+  },
+  {
+    "assetName": "CosmicForm",
+    "objectID": 9736,
+    "baseLevel": 17
+  },
+  {
+    "assetName": "GoldenAngleFish",
+    "objectID": 9737,
+    "baseLevel": 16
+  },
+  {
+    "assetName": "GoldenDeepstalker",
+    "objectID": 9738,
+    "baseLevel": 17
+  },
+  {
+    "assetName": "TerraTrilobite",
+    "objectID": 9739,
+    "baseLevel": 16
+  },
+  {
+    "assetName": "LithoTrilobite",
+    "objectID": 9740,
+    "baseLevel": 16
+  },
+  {
+    "assetName": "PinkhornPico",
+    "objectID": 9741,
+    "baseLevel": 17
+  },
+  {
+    "assetName": "GreenhornPico",
+    "objectID": 9742,
+    "baseLevel": 17
+  },
+  {
+    "assetName": "RiftianLampfish",
+    "objectID": 9743,
+    "baseLevel": 18
+  },
+  {
+    "assetName": "CritterBeetle",
+    "objectID": 9800,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CritterLarva",
+    "objectID": 9801,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CritterCrab",
+    "objectID": 9802,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "ButterflySunset",
+    "objectID": 9803,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "ButterflyDreamy",
+    "objectID": 9804,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "ButterflyCitrus",
+    "objectID": 9805,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "ButterflyIcy",
+    "objectID": 9806,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "ButterflyBase",
+    "objectID": 9807,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CritterScorpion",
+    "objectID": 9808,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CritterGrasshopper",
+    "objectID": 9809,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CritterWorm",
+    "objectID": 9810,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CritterCentipede",
+    "objectID": 9811,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CritterCockroach",
+    "objectID": 9812,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CritterCrab2",
+    "objectID": 9813,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CritterTinySnail",
+    "objectID": 9814,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CritterSnootFly",
+    "objectID": 9815,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CritterNewt",
+    "objectID": 9816,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CritterPassageFly",
+    "objectID": 9817,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "LegendarySwordBlade",
+    "objectID": 9900,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "LegendarySwordGemstone",
+    "objectID": 9901,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "ShamanBossCrystalShard",
+    "objectID": 9902,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CoreProtocol1",
+    "objectID": 9903,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CoreProtocol2",
+    "objectID": 9904,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CoreProtocol3",
+    "objectID": 9905,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "LegendaryBowPart1",
+    "objectID": 9906,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "LegendaryBowPart2",
+    "objectID": 9907,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "LegendaryBowPart3",
+    "objectID": 9908,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CrystalMeteorShard",
+    "objectID": 9909,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "HydraWorkbenchCraftingItem",
+    "objectID": 9910,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "HydraBossNatureCraftingItem",
+    "objectID": 9911,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "HydraBossSeaCraftingItem",
+    "objectID": 9912,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "EasterEggDirt",
+    "objectID": 10000,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "EasterEggClay",
+    "objectID": 10001,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "EasterEggStone",
+    "objectID": 10002,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "EasterEggNature",
+    "objectID": 10003,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "EasterGoldenEgg",
+    "objectID": 10004,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "EasterChickenHat",
+    "objectID": 10005,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "EasterChickenSuit",
+    "objectID": 10006,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "EasterChickenPants",
+    "objectID": 10007,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "EasterEggcellentHat",
+    "objectID": 10008,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "EasterEggcellentSuit",
+    "objectID": 10009,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "EasterEggcellentPants",
+    "objectID": 10010,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "EasterPillar",
+    "objectID": 10011,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "EasterEggFlowerpot",
+    "objectID": 10012,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "EasterDaisyFloorspread",
+    "objectID": 10013,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "EasterGarland",
+    "objectID": 10014,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "EasterMeadowTable",
+    "objectID": 10015,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "EasterEggLamp",
+    "objectID": 10016,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "EasterMeadowStool",
+    "objectID": 10017,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "EasterPedestal",
+    "objectID": 10018,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "EasterWorkbench",
+    "objectID": 10019,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "HalloweenGoodieBag",
+    "objectID": 10100,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "PumpkinCoin",
+    "objectID": 10101,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "WallEerieBlock",
+    "objectID": 10102,
+    "baseLevel": 2
+  },
+  {
+    "assetName": "EerieFloor",
+    "objectID": 10103,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "EerieTable",
+    "objectID": 10104,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "EerieStool",
+    "objectID": 10105,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "EerieDresser",
+    "objectID": 10106,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "EerieChest",
+    "objectID": 10107,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "EerieTreeLight",
+    "objectID": 10108,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "EerieRug",
+    "objectID": 10109,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "CandleStack",
+    "objectID": 10110,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "ChristmasPresent",
+    "objectID": 10200,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "ChristmasWallDecorationA",
+    "objectID": 10201,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "ChristmasWallDecorationB",
+    "objectID": 10202,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "ChristmasWallDecorationC",
+    "objectID": 10203,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "ChristmasWallDecorationD",
+    "objectID": 10204,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "ChristmasWallDecorationE",
+    "objectID": 10205,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "ChristmasLuxuryPresent",
+    "objectID": 10206,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "ChristmasTree",
+    "objectID": 10207,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "ChristmasTable",
+    "objectID": 10208,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "ChristmasStool",
+    "objectID": 10209,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "ChristmasFireplace",
+    "objectID": 10210,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "ChristmasSnowman",
+    "objectID": 10211,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "SnowballPyramid",
+    "objectID": 10212,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "Candle",
+    "objectID": 10213,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "ChristmasLightDecorationMix",
+    "objectID": 10214,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "ChristmasLightDecorationPaintable",
+    "objectID": 10215,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "ValentinePresent",
+    "objectID": 10300,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "ValentineLetter",
+    "objectID": 10301,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "ValentineRug",
+    "objectID": 10302,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "ValentineCandles",
+    "objectID": 10303,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "ValentineWallHearts",
+    "objectID": 10304,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "ValentinePainting",
+    "objectID": 10305,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "ValentinePlushie",
+    "objectID": 10306,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "AnniversaryPartyHatGreen",
+    "objectID": 10400,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "AnniversaryPartyHatRed",
+    "objectID": 10401,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "AnniversaryPartyHatBlue",
+    "objectID": 10402,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "AnniversaryPartyHatPurple",
+    "objectID": 10404,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "AnniversaryCake",
+    "objectID": 10405,
+    "baseLevel": 3
+  },
+  {
+    "assetName": "WhiteCherryFlower",
+    "objectID": 10500,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "PinkCherryFlower",
+    "objectID": 10501,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "WhiteCherryTree",
+    "objectID": 10502,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "PinkCherryTree",
+    "objectID": 10503,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "ChineseLantern",
+    "objectID": 10600,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "RedEnvelope",
+    "objectID": 10601,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "ChineseGuardianLion",
+    "objectID": 10602,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "ChineseKnot",
+    "objectID": 10603,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "ChineseWallLantern",
+    "objectID": 10604,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "DragonMaskHelm",
+    "objectID": 10605,
+    "baseLevel": 2
+  },
+  {
+    "assetName": "ChineseCoin",
+    "objectID": 10606,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "ChineseFoldingScreen",
+    "objectID": 10607,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "LuckyCat",
+    "objectID": 10608,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "MeadowTree",
+    "objectID": 15500,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "MeadowBush",
+    "objectID": 15501,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "MeadowTallGrass",
+    "objectID": 15502,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "PottedEnvelopeTree",
+    "objectID": 16009,
+    "baseLevel": 0
+  },
+  {
+    "assetName": "AtlantianWormRing",
+    "objectID": 18850,
+    "baseLevel": 17
+  },
+  {
+    "assetName": "CrystalRing",
+    "objectID": 18851,
+    "baseLevel": 16
+  },
+  {
+    "assetName": "HydraJewelryNatureRing",
+    "objectID": 18852,
+    "baseLevel": 16
+  },
+  {
+    "assetName": "HydraJewelrySeaRing",
+    "objectID": 18853,
+    "baseLevel": 16
+  },
+  {
+    "assetName": "CrescentRing",
+    "objectID": 18854,
+    "baseLevel": 5
+  },
+  {
+    "assetName": "HourglassRing",
+    "objectID": 18890,
+    "baseLevel": 7
+  },
+  {
+    "assetName": "ViciousRing",
+    "objectID": 18891,
+    "baseLevel": 11
+  },
+  {
+    "assetName": "BoundaryRing",
+    "objectID": 18892,
+    "baseLevel": 7
+  },
+  {
+    "assetName": "PuppetRing",
+    "objectID": 18893,
+    "baseLevel": 10
+  }
+]

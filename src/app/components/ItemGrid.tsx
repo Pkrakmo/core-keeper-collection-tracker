@@ -11,7 +11,12 @@ export default function ItemGrid({
   toggleOwned: (id: number) => void;
 }) {
   return (
-    <div className='grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-4'>
+    <div
+      className='grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-4'
+      style={{
+        color: 'var(--text)',
+      }}
+    >
       {items.map((item, index) => (
         <ItemCard
           key={`${item.ObjectID}-${index}`}

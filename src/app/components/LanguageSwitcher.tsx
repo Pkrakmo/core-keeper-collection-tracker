@@ -9,7 +9,9 @@ interface LanguageSwitcherProps {
 export default function LanguageSwitcher({ className }: LanguageSwitcherProps) {
   const { i18n } = useTranslation();
 
-  const handleLanguageChange = (event: React.ChangeEvent<HTMLSelectElement>) => {
+  const handleLanguageChange = (
+    event: React.ChangeEvent<HTMLSelectElement>
+  ) => {
     i18n.changeLanguage(event.target.value);
   };
 
@@ -18,11 +20,15 @@ export default function LanguageSwitcher({ className }: LanguageSwitcherProps) {
       <select
         onChange={handleLanguageChange}
         value={i18n.language}
-        className="p-2 bg-gray-800 text-white rounded"
+        className='p-2 rounded focus:outline-none'
+        style={{
+          backgroundColor: 'var(--background)',
+          color: 'var(--text)',
+        }}
       >
-        <option value="en">English</option>
-        <option value="de">Deutsch</option>
-        <option value="no">Norsk</option>
+        <option value='en'>English</option>
+        <option value='de'>Deutsch</option>
+        <option value='no'>Norsk</option>
       </select>
     </div>
   );

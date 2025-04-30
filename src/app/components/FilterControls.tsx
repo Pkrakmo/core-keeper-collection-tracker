@@ -36,7 +36,11 @@ export default function FilterControls({
           setAllMainCategoriesVisibility(false);
           setAllSubCategoriesVisibility(false);
         }}
-        className='px-2 py-1 bg-red-600 text-white text-sm rounded hover:bg-red-700'
+        className='px-2 py-1 text-sm rounded focus:outline-none'
+        style={{
+          backgroundColor: 'var(--primary)',
+          color: 'var(--text)',
+        }}
       >
         {t('minimizeAll')}
       </button>
@@ -45,7 +49,11 @@ export default function FilterControls({
           setAllMainCategoriesVisibility(true);
           setAllSubCategoriesVisibility(true);
         }}
-        className='px-2 py-1 bg-green-600 text-white text-sm rounded hover:bg-green-700'
+        className='px-2 py-1 text-sm rounded focus:outline-none'
+        style={{
+          backgroundColor: 'var(--secondary)',
+          color: 'var(--text)',
+        }}
       >
         {t('maximizeAll')}
       </button>
@@ -61,7 +69,11 @@ export default function FilterControls({
               | 'Highest-Lowest'
           )
         }
-        className='px-2 py-1 bg-gray-200 text-gray-800 text-sm rounded hover:bg-gray-300 focus:outline-none'
+        className='px-2 py-1 text-sm rounded focus:outline-none'
+        style={{
+          backgroundColor: 'var(--background)',
+          color: 'var(--text)',
+        }}
       >
         <option value='A-Z'>{t('sortAZ')}</option>
         <option value='Z-A'>{t('sortZA')}</option>
@@ -74,7 +86,11 @@ export default function FilterControls({
         onChange={
           (e) => setSelectedFlag(e.target.value || null) // Set null if no filter is selected
         }
-        className='px-2 py-1 bg-gray-200 text-gray-800 text-sm rounded hover:bg-gray-300 focus:outline-none'
+        className='px-2 py-1 text-sm rounded focus:outline-none'
+        style={{
+          backgroundColor: 'var(--background)',
+          color: 'var(--text)',
+        }}
       >
         <option value=''>{t('allItems')}</option>
         {/* Dynamically populate flags and sort them alphabetically */}
@@ -92,7 +108,11 @@ export default function FilterControls({
         value={searchText}
         onChange={(e) => setSearchText(e.target.value)}
         placeholder={t('searchByName')}
-        className='px-2 py-1 bg-gray-200 text-gray-800 text-sm rounded hover:bg-gray-300 focus:outline-none'
+        className='px-2 py-1 text-sm rounded focus:outline-none'
+        style={{
+          backgroundColor: 'var(--background)',
+          color: 'var(--text)',
+        }}
       />
     </div>
   );

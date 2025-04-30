@@ -31,3 +31,17 @@ export default function HideOwnedButton({
     </button>
   );
 }
+
+export function SwitchThemeButton() {
+  return (
+    <button
+      className='px-4 py-2 rounded'
+      style={{
+        backgroundColor: 'var(--primary)',
+        color: 'var(--text)',
+      }}
+    >
+      Switch Theme
+    </button>
+  );
+}

@@ -6,7 +6,6 @@ import item_lists
 from digspot_data import digspot_data
 from fishspot_data import fishspot_data
 from fishspotitems_data import itemfishspot_data
-from item_base_level_data import item_baselevel as raw_item_baselevel
 
 # Step 1: Build reverse lookup map of item name → (MainCategory, SubCategory)
 item_to_category = {}
@@ -30,6 +29,18 @@ script_dir = os.path.dirname(os.path.abspath(__file__))
 input_path = os.path.join(script_dir, 'gamedata_filtered.json')
 with open(input_path, 'r', encoding='utf-8') as f:
     items = json.load(f)
+
+# Step 2.5: Load itemLevels.json for BaseLevel lookup
+item_levels_path = os.path.join(script_dir, 'itemLevels.json')
+with open(item_levels_path, 'r', encoding='utf-8') as f:
+    item_levels_data = json.load(f)
+
+# Create a lookup dictionary for ObjectID → BaseLevel
+object_id_to_baselevel = {
+    str(entry.get('objectID', entry.get('ObjectID'))): entry.get('baseLevel', 0)
+    for entry in item_levels_data
+    if 'objectID' in entry or 'ObjectID' in entry
+}
 
 # Step 3: Collect icon files
 icons_dir = os.path.join(script_dir, '../public/icons/')
@@ -57,16 +68,10 @@ for category, item_list in itemfishspot_data.items():
     for item in item_list:
         fishspotitems_flags.setdefault(item, []).append(category)
 
-# Step 3.5: Transform item_baselevel structure to item_name → level
-item_baselevel = {}
-for level, names in raw_item_baselevel.items():
-    for name in names:
-        item_baselevel[name] = level
-
 # Step 4: Match items with icons and assign category
 output = []
 for item in items:
-    object_id = item['ObjectID']
+    object_id = str(item['ObjectID'])  # Ensure ObjectID is a string for lookup
     matched_icon = next(
         (filename for filename in icon_files if re.search(rf",{object_id},", filename)),
         None
@@ -87,12 +92,12 @@ for item in items:
         if ingame_name in fishspotitems_flags:
             flags.extend(fishspotitems_flags[ingame_name])
 
-        # BaseLevel assignment
-        base_level = item_baselevel.get(ingame_name, 0)
+        # BaseLevel assignment using ObjectID
+        base_level = object_id_to_baselevel.get(object_id, 0)
 
         result = {
             "InGameName": ingame_name,
-            "ObjectID": object_id,
+            "ObjectID": int(object_id),  # Convert ObjectID back to an integer
             "Icon": "/icons/" + matched_icon.replace("\\", "/"),
             "MainCategory": main_cat,
             "SubCategory": sub_cat,

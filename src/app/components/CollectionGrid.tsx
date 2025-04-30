@@ -202,6 +202,15 @@ export default function CollectionGrid({ hideOwned }: { hideOwned: boolean }) {
         />
       </div>
 
+      <div
+        className='p-4'
+        style={{
+          color: 'var(--text)',
+        }}
+      >
+        {/* Component content */}
+      </div>
+
       {categories.map((category, index) => (
         <CategorySection
           key={`${category.mainCategory}-${index}`}

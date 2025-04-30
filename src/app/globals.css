@@ -1,82 +1,18 @@
 @import 'tailwindcss';
 
-:root {
-  --background: #001f3f; /* Dark blue */
-  --foreground: #ffffff; /* White text */
+:root[data-theme='light'] {
+  --text: #0c0e0e;
+  --background: #f5f9f9;
+  --primary: #296a64;
+  --secondary: #73ded0;
+  --accent: #14bda7;
+  --text-on-primary: #ffffff; /* White text for contrast */
 }
-
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #001f3f;
-    --foreground: #ededed;
-  }
-}
-
-body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
-  animation: pulse-bg 20s infinite; /* Add the animation */
-}
-
-/* Pulsating background animation */
-@keyframes pulse-bg {
-  0% {
-    background-color: #001f3f; /* Dark blue */
-  }
-  50% {
-    background-color: #003366; /* Slightly lighter blue */
-  }
-  100% {
-    background-color: #001f3f; /* Back to dark blue */
-  }
-}
-
-@keyframes flash-green {
-  0% {
-    color: #4caf50; /* Light green */
-  }
-  50% {
-    color: #2e7d32; /* Darker green */
-  }
-  100% {
-    color: #4caf50; /* Light green */
-  }
-}
-
-.animate-flash-green {
-  animation: flash-green 2s infinite;
-}
-
-@keyframes nudge-up {
-  0%,
-  100% {
-    transform: translateY(0);
-  }
-  50% {
-    transform: translateY(-2px);
-  }
-}
-
-.animate-nudge-up {
-  animation: nudge-up 1.5s infinite;
-}
-
-@media (max-width: 640px) {
-  .language-switcher {
-    position: absolute;
-    top: 1rem;
-    right: 1rem;
-  }
-
-  .page-title {
-    margin-top: 3rem;
-  }
+:root[data-theme='dark'] {
+  --text: #f1f3f3;
+  --background: #060a0a;
+  --primary: #95d6cf;
+  --secondary: #218c7e;
+  --accent: #42ebd5;
+  --text-on-primary: #000000; /* Black text for contrast */
 }

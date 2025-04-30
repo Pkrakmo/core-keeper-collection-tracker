@@ -42,10 +42,12 @@ export default function ItemCard({ item, toggleOwned }: Props) {
 
   return (
     <div
+      className={`relative cursor-pointer border rounded-lg p-2 flex flex-col items-center shadow-sm transition`}
+      style={{
+        backgroundColor: item.Owned ? 'var(--primary)' : 'var(--background)',
+        color: 'var(--text)',
+      }}
       onClick={() => toggleOwned(item.ObjectID)}
-      className={`relative cursor-pointer border rounded-lg p-2 flex flex-col items-center shadow-sm transition 
-        ${item.Owned ? 'bg-blue-100 border-green-400' : 'bg-black'}
-        sm:p-3 sm:rounded-xl`}
     >
       {/* Icons in the top-left corner */}
       <div className='absolute top-2 left-2 flex gap-1'>
@@ -72,7 +74,10 @@ export default function ItemCard({ item, toggleOwned }: Props) {
       {/* Button in the top-right corner */}
       <button
         onClick={openItemLink}
-        className='absolute top-2 right-2 text-blue-500'
+        className='absolute top-2 right-2'
+        style={{
+          color: 'var(--accent)',
+        }}
         title='View item details on wiki'
       >
         ❔
@@ -88,19 +93,24 @@ export default function ItemCard({ item, toggleOwned }: Props) {
           className='w-12 h-12 mb-1'
         />
       ) : (
-        <div className='w-12 h-12 mb-1 bg-gray-200 flex items-center justify-center'>
-          <span className='text-gray-500 text-sm'>No Image</span>
+        <div
+          className='w-12 h-12 mb-1 flex items-center justify-center'
+          style={{
+            backgroundColor: 'var(--secondary)',
+            color: 'var(--text)',
+          }}
+        >
+          <span className='text-sm'>No Image</span>
         </div>
       )}
 
       {/* Item Name */}
       <div className='flex items-center gap-1 mb-4'>
-        {' '}
-        {/* Added mb-4 for spacing */}
         <p
-          className={`text-center font-medium text-sm transition ${
-            item.Owned ? 'text-green-800' : 'text-white'
-          }`}
+          className='text-center font-medium text-sm transition'
+          style={{
+            color: item.Owned ? 'var(--text-on-primary)' : 'var(--text)',
+          }}
         >
           {item.InGameName || 'Unnamed Item'}
         </p>
@@ -109,8 +119,11 @@ export default function ItemCard({ item, toggleOwned }: Props) {
       {/* BaseLevel in the bottom-left corner */}
       {item.BaseLevel !== undefined && item.BaseLevel > 0 && (
         <div
-          className='absolute bottom-2 left-2 text-white text-xs font-bold bg-black bg-opacity-50 px-1 rounded'
-          title='Item Base Level' // Tooltip added here
+          className='absolute bottom-2 left-2 text-xs font-bold bg-opacity-50 px-1 rounded'
+          style={{
+            color: 'var(--text)',
+          }}
+          title='Item Base Level'
         >
           {item.BaseLevel}
         </div>
