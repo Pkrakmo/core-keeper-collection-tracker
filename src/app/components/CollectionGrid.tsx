@@ -187,7 +187,14 @@ export default function CollectionGrid({ hideOwned }: { hideOwned: boolean }) {
   if (!isHydrated) return <div>Loading...</div>;
 
   return (
-    <div className='flex flex-col gap-8 mt-6'>
+    <div
+      className='flex flex-col gap-8 mt-6'
+      style={{
+        width: '80%',
+        maxWidth: '1200px',
+        margin: '0 auto',
+      }}
+    >
       <div className='mb-2 flex flex-wrap gap-2 justify-between items-center'>
         <FilterControls
           sortOrder={sortOrder}
@@ -203,7 +210,7 @@ export default function CollectionGrid({ hideOwned }: { hideOwned: boolean }) {
       </div>
 
       <div
-        className='p-4'
+        className='p-0'
         style={{
           color: 'var(--text)',
         }}

@@ -6,6 +6,7 @@
   --primary: #296a64;
   --secondary: #73ded0;
   --accent: #14bda7;
+  --sky: #000000;
   --text-on-primary: #ffffff; /* White text for contrast */
 }
 :root[data-theme='dark'] {
@@ -14,5 +15,11 @@
   --primary: #95d6cf;
   --secondary: #218c7e;
   --accent: #42ebd5;
+  --sky: #3ca9e9;
   --text-on-primary: #000000; /* Black text for contrast */
+}
+
+.expandable {
+  overflow: hidden;
+  transition: max-height 0.3s ease-in-out;
 }

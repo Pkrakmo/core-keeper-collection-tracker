@@ -1,6 +1,13 @@
-import { forwardRef, useImperativeHandle } from 'react';
+import {
+  forwardRef,
+  useImperativeHandle,
+  useRef,
+  useEffect,
+  useState,
+} from 'react';
 import { GameItem } from '@/app/types/item';
 import ItemGrid from './ItemGrid';
+import { ChevronRight, ChevronDown } from '@deemlol/next-icons';
 
 interface CategorySectionProps {
   category: {
@@ -38,59 +45,107 @@ export default forwardRef(function CategorySection(
     },
   }));
 
+  const contentRefs = useRef<Record<string, HTMLDivElement | null>>({});
+  const [heights, setHeights] = useState<Record<string, number>>({});
+  const [themeColor, setThemeColor] = useState<string>('');
+
+  useEffect(() => {
+    const root = document.documentElement;
+    const computedStyle = getComputedStyle(root);
+    setThemeColor(computedStyle.getPropertyValue('--text-on-primary').trim());
+  }, []);
+
+  useEffect(() => {
+    const newHeights: Record<string, number> = {};
+    subCategories.forEach(({ subCategory }) => {
+      const el = contentRefs.current[subCategory];
+      if (el) {
+        newHeights[subCategory] = el.scrollHeight;
+      }
+    });
+    setHeights(newHeights);
+  }, [subCategories, hideOwned]);
+
   return (
     <div
+      className='p-2 transition-all duration-300' // Reduced padding from p-4 to p-2
       style={{
-        color: 'var(--text)',
+        marginBottom: isVisible ? '12px' : '4px', // Reduced margin
+        overflow: 'hidden',
       }}
     >
       <div
-        className='cursor-pointer text-lg font-bold mb-2'
+        className='cursor-pointer inline-flex items-center px-2 py-1 rounded-full text-lg font-medium shadow-md mb-1' // Reduced padding and margin
         onClick={toggleVisibility}
         style={{
-          color: 'var(--primary)',
+          backgroundColor: 'var(--primary)',
+          color: 'var(--text-on-primary)',
+          marginBottom: isVisible ? '12px' : '6px', // Reduced margin when closed
+          padding: '6px 10px', // Adjusted padding for less space
         }}
       >
-        {mainCategory} {isVisible ? '▼' : '▶'}
+        {mainCategory}{' '}
+        {isVisible ? (
+          <ChevronDown size={24} color={themeColor} />
+        ) : (
+          <ChevronRight size={24} color={themeColor} />
+        )}
       </div>
 
       {isVisible &&
-        subCategories.map((subCategory, index) => (
-          <div
-            key={`${subCategory.subCategory}-${index}`}
-            className='ml-4'
-            style={{
-              color: 'var(--text)',
-            }}
-          >
-            <div
-              className='cursor-pointer text-md font-semibold mb-2'
-              onClick={() =>
-                toggleSubCategoryVisibility(
-                  mainCategory,
-                  subCategory.subCategory
-                )
-              }
-              style={{
-                color: 'var(--primary)',
-              }}
-            >
-              {subCategory.subCategory}{' '}
-              {subCategoryVisibility[subCategory.subCategory] ? '▼' : '▶'}
-            </div>
-
-            {subCategoryVisibility[subCategory.subCategory] && (
-              <ItemGrid
-                items={
-                  hideOwned
-                    ? subCategory.items.filter((item) => !item.Owned)
-                    : subCategory.items
+        subCategories.map((subCategory, index) => {
+          const subCat = subCategory.subCategory;
+          const isSubVisible = subCategoryVisibility[subCat];
+          return (
+            <div key={`${subCat}-${index}`} className='ml-3'>
+              {' '}
+              {/* Reduced margin-left */}
+              <div
+                className='cursor-pointer inline-flex items-center px-2 py-1 rounded-full text-base font-medium shadow-sm mb-1' // Reduced padding and margin
+                onClick={() =>
+                  toggleSubCategoryVisibility(mainCategory, subCat)
                 }
-                toggleOwned={toggleOwned}
-              />
-            )}
-          </div>
-        ))}
+                style={{
+                  backgroundColor: 'var(--secondary)',
+                  color: 'var(--text-on-primary)',
+                }}
+              >
+                {subCat}{' '}
+                {isSubVisible ? (
+                  <ChevronDown size={24} color={themeColor} />
+                ) : (
+                  <ChevronRight size={24} color={themeColor} />
+                )}
+              </div>
+              <div
+                className='transition-all duration-500 overflow-hidden'
+                style={{
+                  maxHeight: isSubVisible ? `${heights[subCat] ?? 0}px` : '0px',
+                  opacity: isSubVisible ? 1 : 0,
+                }}
+              >
+                <div
+                  ref={(el) => {
+                    contentRefs.current[subCat] = el;
+                  }}
+                  style={{
+                    marginBottom: '12px', // Adjusted spacing
+                    paddingBottom: '12px', // Adjusted spacing
+                  }}
+                >
+                  <ItemGrid
+                    items={
+                      hideOwned
+                        ? subCategory.items.filter((item) => !item.Owned)
+                        : subCategory.items
+                    }
+                    toggleOwned={toggleOwned}
+                  />
+                </div>
+              </div>
+            </div>
+          );
+        })}
     </div>
   );
 });

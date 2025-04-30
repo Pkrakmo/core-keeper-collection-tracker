@@ -60,6 +60,8 @@ export default function Home() {
         </div>
       </div>
 
+      <div className='h-20'></div>
+
       <CollectionGrid hideOwned={hideOwned} />
 
       <div className='h-20'></div>
@@ -83,11 +85,12 @@ export default function Home() {
           {/* Theme Toggle Button */}
           <button
             onClick={toggleTheme}
-            className='px-4 py-2 rounded'
+            className='w-10 h-10 rounded-full shadow-lg focus:outline-none flex items-center justify-center'
             style={{
-              backgroundColor: 'var(--primary)',
+              backgroundColor: 'var(--sky)',
               color: 'var(--text)',
             }}
+            title={theme === 'light' ? 'Toggle Dark Mode' : 'Toggle Light Mode'}
           >
             {theme === 'light' ? '🌚' : '☀'}
           </button>
